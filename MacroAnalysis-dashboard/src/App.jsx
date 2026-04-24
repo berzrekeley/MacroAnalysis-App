@@ -16,19 +16,29 @@ import {
   Radio
 } from 'lucide-react';
 
+import macroData from './data/macroData.json';
+
 // Data Models
-const metricsData = [
-  { title: "Buffett Indicator", value: "232%", status: "Extreme Risk - historic extreme", type: "extreme", icon: <TrendingUp size={20} /> },
-  { title: "Fed Funds Rate", value: "3.50% - 3.75%", status: "Neutral - 99% chance of no change", type: "neutral", icon: <Building size={20} /> },
-  { title: "10Y - 2Y Spread", value: "+0.51%", status: "Steepening - slower growth", type: "warning", icon: <Activity size={20} /> },
-  { title: "10Y Treasury Rate", value: "4.30%", status: "High - energy-driven inflation", type: "warning", icon: <DollarSign size={20} /> },
-  { title: "2Y Treasury Rate", value: "3.79%", status: "Elevated - higher-for-longer stance", type: "warning", icon: <DollarSign size={20} /> },
-  { title: "Consumer Sentiment", value: "49.8", status: "Critical - record low", type: "extreme", icon: <AlertTriangle size={20} /> },
-  { title: "Retail Sales (MoM)", value: "+1.7%", status: "Distorted - high gas prices", type: "warning", icon: <ShoppingCart size={20} /> },
-  { title: "Leading Index (LEI)", value: "-0.1%", status: "Weakening - persistent headwinds", type: "warning", icon: <TrendingDown size={20} /> },
-  { title: "Building Permits", value: "1.386M", status: "Soft - cooling residential activity", type: "warning", icon: <Building size={20} /> },
-  { title: "Initial Jobless Claims", value: "214,000", status: "Stable - primary pillar of support", type: "neutral", icon: <Activity size={20} /> },
-];
+const getIcon = (title) => {
+  switch (title) {
+    case "Buffett Indicator": return <TrendingUp size={20} />;
+    case "Fed Funds Rate": return <Building size={20} />;
+    case "10Y - 2Y Spread": return <Activity size={20} />;
+    case "10Y Treasury Rate": return <DollarSign size={20} />;
+    case "2Y Treasury Rate": return <DollarSign size={20} />;
+    case "Consumer Sentiment": return <AlertTriangle size={20} />;
+    case "Retail Sales (MoM)": return <ShoppingCart size={20} />;
+    case "Leading Index (LEI)": return <TrendingDown size={20} />;
+    case "Building Permits": return <Building size={20} />;
+    case "Initial Jobless Claims": return <Activity size={20} />;
+    default: return <Activity size={20} />;
+  }
+};
+
+const metricsData = macroData.metrics.map(m => ({
+  ...m,
+  icon: getIcon(m.title)
+}));
 
 const sectorData = [
   { id: 'tech', name: "Technology", icon: <Cpu size={24} />, risk: "High", outlook: "Underweight", headwind: "Multiple contraction & AI CAPEX scrutiny", details: "The technology sector is undergoing a necessary but painful regime change, characterized primarily by valuation compression in B2B software, which is currently down 22.2% year-to-date. The previous narrative of unconditional growth has been replaced by an AI boom reality check. Enterprises are aggressively scrutinizing capital expenditures, shifting from speculative AI exploration to demanding tangible return on investment." },
@@ -137,7 +147,7 @@ export default function App() {
           <div className="flex flex-col items-end">
             <div className="flex items-center gap-2 text-xl font-bold text-white">
               <Clock size={20} className="text-slate-400" />
-              April 24, 2026
+              {macroData.lastUpdated}
             </div>
             <div className="text-xs text-slate-400 font-mono mt-1">CONFIDENTIAL REPORT</div>
           </div>
