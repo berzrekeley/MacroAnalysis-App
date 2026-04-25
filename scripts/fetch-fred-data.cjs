@@ -64,6 +64,10 @@ async function main() {
     };
 
     const dataPath = path.join(__dirname, '../src/data/macroData.json');
+    const dataDir = path.dirname(dataPath);
+    if (!fs.existsSync(dataDir)) {
+        fs.mkdirSync(dataDir, { recursive: true });
+    }
     fs.writeFileSync(dataPath, JSON.stringify(output, null, 2));
     console.log(`Data saved to ${dataPath}`);
 }
