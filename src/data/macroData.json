@@ -1,23 +1,23 @@
 {
-  "lastUpdated": "April 25, 2026",
+  "lastUpdated": "April 26, 2026",
   "executiveSummary": [
     "The current macroeconomic environment is characterized by an extreme valuation paradigm that leaves equity markets highly vulnerable to exogenous shocks and shifting monetary policy. Despite clear signals of economic deceleration, risk assets have continued to price in an improbable scenario of flawless execution, ignoring mounting structural headwinds. We are operating in a climate where historical safety margins have evaporated, demanding a rigorous defensive posture and active risk mitigation across all asset classes.",
     "Compounding this precarious domestic setup is the escalating geopolitical instability, most notably the Strait of Hormuz standoff. The disruption of global energy supply lines has injected an immediate inflationary impulse into the system, complicating the Federal Reserve's path forward and acting as a direct tax on the consumer. The convergence of these energy shocks with already stretched equity multiples creates a brittle market structure where any catalyst could trigger a rapid and severe repricing of risk."
   ],
   "dailyHeadlines": [
     {
-      "title": "South Korea police arrest man for posting AI photo of runaway wolf",
-      "desc": "Source: Hacker News. Points: 234. Comments: 154.",
+      "title": "The AI industry is discovering that the public hates it",
+      "desc": "Source: Hacker News. Points: 239. Comments: 326.",
       "type": "extreme"
     },
     {
-      "title": "The AI industry is discovering that the public hates it",
-      "desc": "Source: Hacker News. Points: 194. Comments: 274.",
+      "title": "Open source memory layer so any AI agent can do what Claude.ai and ChatGPT do",
+      "desc": "Source: Hacker News. Points: 171. Comments: 73.",
       "type": "warning"
     },
     {
-      "title": "Open source memory layer so any AI agent can do what Claude.ai and ChatGPT do",
-      "desc": "Source: Hacker News. Points: 159. Comments: 70.",
+      "title": "SFO Quiet Airport (2025)",
+      "desc": "Source: Hacker News. Points: 150. Comments: 95.",
       "type": "info"
     }
   ],
@@ -270,16 +270,12 @@
       "category": "Major Company Moves & Partnerships",
       "items": [
         {
-          "title": "South Korea police arrest man for posting AI photo of runaway wolf",
-          "desc": "Source: Hacker News. Points: 234. Comments: 154."
-        },
-        {
           "title": "The AI industry is discovering that the public hates it",
-          "desc": "Source: Hacker News. Points: 194. Comments: 274."
+          "desc": "Source: Hacker News. Points: 239. Comments: 326."
         },
         {
           "title": "Open source memory layer so any AI agent can do what Claude.ai and ChatGPT do",
-          "desc": "Source: Hacker News. Points: 159. Comments: 70."
+          "desc": "Source: Hacker News. Points: 171. Comments: 73."
         },
         {
           "title": "SFO Quiet Airport (2025)",
@@ -287,7 +283,11 @@
         },
         {
           "title": "Lambda Calculus Benchmark for AI",
-          "desc": "Source: Hacker News. Points: 133. Comments: 39."
+          "desc": "Source: Hacker News. Points: 136. Comments: 41."
+        },
+        {
+          "title": "Tesla discloses $2B AI hardware company acquisition in filing",
+          "desc": "Source: Hacker News. Points: 76. Comments: 47."
         }
       ]
     },
@@ -295,16 +295,16 @@
       "category": "Market & Infrastructure Headlines",
       "items": [
         {
-          "title": "Tesla discloses $2B AI hardware company acquisition in filing",
-          "desc": "Source: Hacker News. Points: 76. Comments: 47."
-        },
-        {
           "title": "Show HN: Atomic – Local-first, AI-augmented personal knowledge base",
           "desc": "Source: Hacker News. Points: 61. Comments: 41."
         },
         {
-          "title": "Ask HN: Am I getting old, or is working with AI juniors becoming a nightmare?",
-          "desc": "Source: Hacker News. Points: 45. Comments: 46."
+          "title": "AI as a Fascist Artifact",
+          "desc": "Source: Hacker News. Points: 31. Comments: 8."
+        },
+        {
+          "title": "AI agents that argue with each other to improve decisions",
+          "desc": "Source: Hacker News. Points: 28. Comments: 17."
         }
       ]
     },
