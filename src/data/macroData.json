@@ -1,23 +1,23 @@
 {
-  "lastUpdated": "April 26, 2026",
+  "lastUpdated": "April 25, 2026",
   "executiveSummary": [
     "The current macroeconomic environment is characterized by an extreme valuation paradigm that leaves equity markets highly vulnerable to exogenous shocks and shifting monetary policy. Despite clear signals of economic deceleration, risk assets have continued to price in an improbable scenario of flawless execution, ignoring mounting structural headwinds. We are operating in a climate where historical safety margins have evaporated, demanding a rigorous defensive posture and active risk mitigation across all asset classes.",
     "Compounding this precarious domestic setup is the escalating geopolitical instability, most notably the Strait of Hormuz standoff. The disruption of global energy supply lines has injected an immediate inflationary impulse into the system, complicating the Federal Reserve's path forward and acting as a direct tax on the consumer. The convergence of these energy shocks with already stretched equity multiples creates a brittle market structure where any catalyst could trigger a rapid and severe repricing of risk."
   ],
   "dailyHeadlines": [
     {
-      "title": "Iran Ceasefire Gamble",
-      "desc": "Markets brace for impact as diplomatic back-channels attempt to broker a fragile truce, with crude oil volatility spiking on conflicting regional reports.",
+      "title": "South Korea police arrest man for posting AI photo of runaway wolf",
+      "desc": "Source: Hacker News. Points: 234. Comments: 154.",
       "type": "extreme"
     },
     {
-      "title": "Strait of Hormuz Status",
-      "desc": "Naval standoff persists, severely restricting global shipping lanes and cementing a structural risk premium into global supply chains.",
+      "title": "The AI industry is discovering that the public hates it",
+      "desc": "Source: Hacker News. Points: 194. Comments: 274.",
       "type": "warning"
     },
     {
-      "title": "Tech Multiples Compress",
-      "desc": "Nasdaq futures slide as the broader technology sector's P/E multiple falls to 23x, signaling an end to the unconditional AI premium.",
+      "title": "Open source memory layer so any AI agent can do what Claude.ai and ChatGPT do",
+      "desc": "Source: Hacker News. Points: 159. Comments: 70.",
       "type": "info"
     }
   ],
@@ -270,24 +270,24 @@
       "category": "Major Company Moves & Partnerships",
       "items": [
         {
-          "title": "Google & Anthropic",
-          "desc": "Google plans to invest up to $40 billion in Anthropic, a deal that includes a massive five-gigawatt compute agreement for AI training."
+          "title": "South Korea police arrest man for posting AI photo of runaway wolf",
+          "desc": "Source: Hacker News. Points: 234. Comments: 154."
         },
         {
-          "title": "OpenAI's 'Super App' Path",
-          "desc": "OpenAI has released GPT-5.5, signaling a move toward creating an all-encompassing AI 'super app'."
+          "title": "The AI industry is discovering that the public hates it",
+          "desc": "Source: Hacker News. Points: 194. Comments: 274."
         },
         {
-          "title": "Snowflake & OpenAI",
-          "desc": "The two companies signed a $200 million deal to bring 'agentic AI'—autonomous bots that analyze corporate data and execute workflows—to enterprise customers."
+          "title": "Open source memory layer so any AI agent can do what Claude.ai and ChatGPT do",
+          "desc": "Source: Hacker News. Points: 159. Comments: 70."
         },
         {
-          "title": "Meta & Amazon",
-          "desc": "Meta has partnered with Amazon to use Graviton CPUs for its agentic workloads, diversifying its hardware away from purely GPU-based systems."
+          "title": "SFO Quiet Airport (2025)",
+          "desc": "Source: Hacker News. Points: 150. Comments: 95."
         },
         {
-          "title": "SpaceX & xAI",
-          "desc": "Elon Musk's xAI was reportedly merged into SpaceX, creating a combined entity valued at approximately $1.25 trillion. (Reuters)"
+          "title": "Lambda Calculus Benchmark for AI",
+          "desc": "Source: Hacker News. Points: 133. Comments: 39."
         }
       ]
     },
@@ -295,16 +295,16 @@
       "category": "Market & Infrastructure Headlines",
       "items": [
         {
-          "title": "Nvidia’s Milestone",
-          "desc": "Optimization about enterprise AI adoption pushed Nvidia's market capitalization past $5 trillion."
+          "title": "Tesla discloses $2B AI hardware company acquisition in filing",
+          "desc": "Source: Hacker News. Points: 76. Comments: 47."
         },
         {
-          "title": "Chip Sector Growth",
-          "desc": "Intel shares surged 24% following an earnings report that projected significant revenue growth driven by AI demand."
+          "title": "Show HN: Atomic – Local-first, AI-augmented personal knowledge base",
+          "desc": "Source: Hacker News. Points: 61. Comments: 41."
         },
         {
-          "title": "Data Center Regulation",
-          "desc": "Maine's governor recently vetoed a first-of-its-kind state freeze on new data centers, reflecting the tension between local resource management and AI expansion. (Reuters)"
+          "title": "Ask HN: Am I getting old, or is working with AI juniors becoming a nightmare?",
+          "desc": "Source: Hacker News. Points: 45. Comments: 46."
         }
       ]
     },
