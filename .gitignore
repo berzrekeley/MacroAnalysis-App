@@ -13,7 +13,7 @@ lerna-debug.log*
 .env.*
 
 # Generated data
-src/data/macroData.json
+# src/data/macroData.json (Removed from ignore to allow tracking)
 
 node_modules
 dist
