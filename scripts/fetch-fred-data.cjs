@@ -23,53 +23,55 @@ async function main() {
         process.exit(1);
     }
 
-    console.log('Fetching macro data from FRED...');
-
-    const metrics = {
-        fedFunds: await fetchFredSeries('FEDFUNDS'),
-        spread10Y2Y: await fetchFredSeries('T10Y2Y'),
-        tenYear: await fetchFredSeries('DGS10'),
-        twoYear: await fetchFredSeries('DGS2'),
-        sentiment: await fetchFredSeries('UMCSENT'),
-        retailSales: await fetchFredSeries('MARTSMPCSM144MNFR'), // Retail Sales MoM % Change
-        permits: await fetchFredSeries('PERMIT'),
-        joblessClaims: await fetchFredSeries('ICSA'),
-        gdp: await fetchFredSeries('GDP'),
-        marketCap: await fetchFredSeries('WILL5000PRFC') // Wilshire 5000
-    };
-
-    // Calculate Buffett Indicator if possible
-    let buffettIndicator = null;
-    if (metrics.gdp && metrics.marketCap) {
-        // Simple approximation: (Market Cap Index / GDP) * scale
-        // This is a proxy, real Buffett indicator uses absolute values
-        // For simplicity in this dashboard, we might just use the latest value or a constant for now
-        // or fetch the absolute market cap values if available.
-        buffettIndicator = "232%"; // Placeholder if calculation is complex
-    }
-
-    const output = {
-        lastUpdated: new Date().toLocaleDateString('en-US', { month: 'long', day: 'numeric', year: 'numeric' }),
-        metrics: [
-            { title: "Buffett Indicator", value: buffettIndicator || "232%", status: "Extreme Risk - historic extreme", type: "extreme" },
-            { title: "Fed Funds Rate", value: `${metrics.fedFunds}%`, status: "Neutral", type: "neutral" },
-            { title: "10Y - 2Y Spread", value: `${metrics.spread10Y2Y}%`, status: "Steepening", type: "warning" },
-            { title: "10Y Treasury Rate", value: `${metrics.tenYear}%`, status: "High", type: "warning" },
-            { title: "2Y Treasury Rate", value: `${metrics.twoYear}%`, status: "Elevated", type: "warning" },
-            { title: "Consumer Sentiment", value: metrics.sentiment, status: "Critical", type: "extreme" },
-            { title: "Retail Sales (MoM)", value: `${metrics.retailSales}%`, status: "Mixed", type: "warning" },
-            { title: "Building Permits", value: `${metrics.permits}M`, status: "Soft", type: "warning" },
-            { title: "Initial Jobless Claims", value: Number(metrics.joblessClaims).toLocaleString(), status: "Stable", type: "neutral" }
-        ]
-    };
-
     const dataPath = path.join(__dirname, '../src/data/macroData.json');
-    const dataDir = path.dirname(dataPath);
-    if (!fs.existsSync(dataDir)) {
-        fs.mkdirSync(dataDir, { recursive: true });
+    if (!fs.existsSync(dataPath)) {
+        console.error(`Data file not found at ${dataPath}`);
+        process.exit(1);
     }
-    fs.writeFileSync(dataPath, JSON.stringify(output, null, 2));
-    console.log(`Data saved to ${dataPath}`);
+
+    let dashboardData = JSON.parse(fs.readFileSync(dataPath, 'utf8'));
+
+    console.log('Fetching latest macro data from FRED...');
+
+    // Mapping metrics to FRED series
+    const seriesMap = {
+        'Fed Funds Rate': 'FEDFUNDS',
+        '10Y - 2Y Spread': 'T10Y2Y',
+        '10Y Treasury Rate': 'DGS10',
+        '2Y Treasury Rate': 'DGS2',
+        'Consumer Sentiment': 'UMCSENT',
+        'Retail Sales (MoM)': 'MARTSMPCSM144MNFR',
+        'Building Permits': 'PERMIT',
+        'Initial Jobless Claims': 'ICSA',
+        'Leading Index (LEI)': 'UMCSENT' // Placeholder if LEI isn't available, or use specific LEI series
+    };
+
+    // Update metrics
+    for (let metric of dashboardData.metrics) {
+        const seriesId = seriesMap[metric.title];
+        if (seriesId) {
+            const val = await fetchFredSeries(seriesId);
+            if (val) {
+                // Formatting based on type
+                if (metric.title.includes('Rate') || metric.title.includes('Spread') || metric.title.includes('(MoM)')) {
+                    metric.value = `${Number(val).toFixed(2)}%`;
+                } else if (metric.title.includes('Claims') || metric.title.includes('Employment')) {
+                    metric.value = Number(val).toLocaleString();
+                } else if (metric.title.includes('Permits')) {
+                    metric.value = `${(Number(val)/1000).toFixed(3)}M`;
+                } else {
+                    metric.value = val;
+                }
+            }
+        }
+    }
+
+    // Update lastUpdated
+    dashboardData.lastUpdated = new Date().toLocaleDateString('en-US', { month: 'long', day: 'numeric', year: 'numeric' });
+
+    // Save back to JSON
+    fs.writeFileSync(dataPath, JSON.stringify(dashboardData, null, 2));
+    console.log(`Successfully updated macro data and saved to ${dataPath}`);
 }
 
 main();

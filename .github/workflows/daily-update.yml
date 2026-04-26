@@ -15,6 +15,8 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v6
+        with:
+          fetch-depth: 0
 
       - name: Set up Node.js
         uses: actions/setup-node@v6
@@ -28,6 +30,13 @@ jobs:
         run: npm run fetch-data
         env:
           VITE_FRED_API_KEY: ${{ secrets.VITE_FRED_API_KEY }}
+
+      - name: Commit Updated Data
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          git add src/data/macroData.json
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Automated daily data update: $(date +'%Y-%m-%d')" && git push)
 
       - name: Build
         run: npm run build

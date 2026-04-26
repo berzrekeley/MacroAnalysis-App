@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import { useState } from 'react';
 import './App.css';
 import { 
   TrendingUp, 
@@ -29,166 +29,66 @@ import {
   Video
 } from 'lucide-react';
 
-// Data Models
-const metricsData = [
-  { title: "Buffett Indicator", value: "232%", status: "Extreme Risk - historic extreme", type: "extreme", icon: <TrendingUp size={20} /> },
-  { title: "Fed Funds Rate", value: "3.50% - 3.75%", status: "Neutral - 99% chance of no change", type: "neutral", icon: <Building size={20} /> },
-  { title: "10Y - 2Y Spread", value: "+0.51%", status: "Steepening - slower growth", type: "warning", icon: <Activity size={20} /> },
-  { title: "10Y Treasury Rate", value: "4.30%", status: "High - energy-driven inflation", type: "warning", icon: <DollarSign size={20} /> },
-  { title: "2Y Treasury Rate", value: "3.79%", status: "Elevated - higher-for-longer stance", type: "warning", icon: <DollarSign size={20} /> },
-  { title: "Consumer Sentiment", value: "49.8", status: "Critical - record low", type: "extreme", icon: <AlertTriangle size={20} /> },
-  { title: "Retail Sales (MoM)", value: "+1.7%", status: "Distorted - high gas prices", type: "warning", icon: <ShoppingCart size={20} /> },
-  { title: "Leading Index (LEI)", value: "-0.1%", status: "Weakening - persistent headwinds", type: "warning", icon: <TrendingDown size={20} /> },
-  { title: "Building Permits", value: "1.386M", status: "Soft - cooling residential activity", type: "warning", icon: <Building size={20} /> },
-  { title: "Initial Jobless Claims", value: "214,000", status: "Stable - primary pillar of support", type: "neutral", icon: <Activity size={20} /> },
-  { title: "Monthly ADP Employment", value: "+184,000", status: "Stable - private sector resilience", type: "neutral", icon: <Users size={20} /> },
-];
+import macroData from './data/macroData.json';
 
-const adpWeeklyData = [
-  { week: "Apr 18", fullDate: "Apr 18, 2026", number: 45200, delta: 1200, deltaPct: 2.72 },
-  { week: "Apr 11", fullDate: "Apr 11, 2026", number: 44000, delta: -2500, deltaPct: -5.37 },
-  { week: "Apr 04", fullDate: "Apr 04, 2026", number: 46500, delta: 3500, deltaPct: 8.14 },
-  { week: "Mar 28", fullDate: "Mar 28, 2026", number: 43000, delta: -1500, deltaPct: -3.37 },
-  { week: "Mar 21", fullDate: "Mar 21, 2026", number: 44500, delta: -800, deltaPct: -1.76 },
-  { week: "Mar 14", fullDate: "Mar 14, 2026", number: 45300, delta: 2300, deltaPct: 5.35 },
-  { week: "Mar 07", fullDate: "Mar 07, 2026", number: 43000, delta: -4000, deltaPct: -8.51 },
-  { week: "Feb 28", fullDate: "Feb 28, 2026", number: 47000, delta: 1500, deltaPct: 3.30 },
-  { week: "Feb 21", fullDate: "Feb 21, 2026", number: 45500, delta: -2500, deltaPct: -5.21 },
-  { week: "Feb 14", fullDate: "Feb 14, 2026", number: 48000, delta: 3000, deltaPct: 6.66 },
-  { week: "Feb 07", fullDate: "Feb 07, 2026", number: 45000, delta: 1000, deltaPct: 2.27 },
-  { week: "Jan 31", fullDate: "Jan 31, 2026", number: 44000, delta: -2200, deltaPct: -4.76 },
-  { week: "Jan 24", fullDate: "Jan 24, 2026", number: 46200, delta: 1200, deltaPct: 2.66 },
-  { week: "Jan 17", fullDate: "Jan 17, 2026", number: 45000, delta: -3500, deltaPct: -7.21 },
-  { week: "Jan 10", fullDate: "Jan 10, 2026", number: 48500, delta: 2500, deltaPct: 5.43 },
-  { week: "Jan 03", fullDate: "Jan 03, 2026", number: 46000, delta: 0, deltaPct: 0.00 },
-];
-
-const sectorData = [
-  { id: 'tech', name: "Technology", icon: <Cpu size={24} />, risk: "High", outlook: "Underweight", headwind: "Multiple contraction & AI CAPEX scrutiny", details: "The technology sector is undergoing a necessary but painful regime change, characterized primarily by valuation compression in B2B software, which is currently down 22.2% year-to-date. The previous narrative of unconditional growth has been replaced by an AI boom reality check. Enterprises are aggressively scrutinizing capital expenditures, shifting from speculative AI exploration to demanding tangible return on investment." },
-  { id: 'energy', name: "Energy & Trans.", icon: <Globe size={24} />, risk: "Medium", outlook: "Neutral / Defensive", headwind: "Margin destruction from fuel costs", details: "This sector remains the epicenter of current macroeconomic stress. The prevailing $5.45/gallon diesel price has systematically dismantled operating margins across the logistics and transportation matrix. We are tracking a devastating 50% increase in freight fuel expenditures, which is cascading through the supply chain." },
-  { id: 'banking', name: "Banking & Fin.", icon: <Building size={24} />, risk: "High", outlook: "Underweight", headwind: "Unrealized losses & duration mismatch", details: "Systemic vulnerabilities within regional and mid-tier banks remain an acute concern. As outlined in the FDIC 2026 Risk Review, the overhang of unrealized securities losses continues to impair balance sheet flexibility. The duration mismatch in a 'higher-for-longer' rate environment constrains lending capacity." },
-  { id: 'realestate', name: "Real Estate", icon: <Building size={24} />, risk: "High", outlook: "Bearish", headwind: "Elevated rates & federal debt crowding out", details: "The commercial and residential real estate markets are being suffocated by the macro-level crowding-out effect of the $38 trillion federal debt. This dynamic exerts a $76,000 negative impact on the lifetime purchasing power of median borrowers, freezing transaction volumes and forcing a slow-motion capitulation in property valuations." },
-  { id: 'consumer', name: "Consumer Disc.", icon: <ShoppingCart size={24} />, risk: "High", outlook: "Bearish", headwind: "Stagflationary pressure / Regressive tax", details: "The consumer discretionary sector is facing immediate stagflationary pressure. The surge in essential costs—primarily driven by fuel and energy—operates as a highly regressive tax on the lower and middle-income cohorts. Spending on durables, leisure, and discretionary retail is being systematically hollowed out." }
-];
-
-const probabilities = [
-  { title: "Market Crash / Bear Market", prob: 45, color: "bg-red-500", desc: "Convergence of the extreme Buffett Indicator (232%), policy error forced by energy inflation, and labor market cracks." },
-  { title: "Market Correction (10-20%)", prob: 35, color: "bg-amber-500", desc: "Path of least resistance if multiples revert to historical means, assuming labor holds but rates stay higher-for-longer." },
-  { title: "Continuation of Bull Run", prob: 20, color: "bg-emerald-500", desc: "Requires immediate resolution to Middle East conflict, dropping energy prices, and flawless AI monetization execution." }
-];
-
-const aiHeadlines = [
-  {
-    category: "Major Company Moves & Partnerships",
-    icon: <Network size={20} className="text-purple-400" />,
-    items: [
-      { title: "Google & Anthropic", desc: "Google plans to invest up to $40 billion in Anthropic, a deal that includes a massive five-gigawatt compute agreement for AI training." },
-      { title: "OpenAI's 'Super App' Path", desc: "OpenAI has released GPT-5.5, signaling a move toward creating an all-encompassing AI 'super app'." },
-      { title: "Snowflake & OpenAI", desc: "The two companies signed a $200 million deal to bring 'agentic AI'—autonomous bots that analyze corporate data and execute workflows—to enterprise customers." },
-      { title: "Meta & Amazon", desc: "Meta has partnered with Amazon to use Graviton CPUs for its agentic workloads, diversifying its hardware away from purely GPU-based systems." },
-      { title: "SpaceX & xAI", desc: "Elon Musk's xAI was reportedly merged into SpaceX, creating a combined entity valued at approximately $1.25 trillion. (Reuters)" }
-    ]
-  },
-  {
-    category: "Market & Infrastructure Headlines",
-    icon: <Building size={20} className="text-blue-400" />,
-    items: [
-      { title: "Nvidia’s Milestone", desc: "Optimization about enterprise AI adoption pushed Nvidia's market capitalization past $5 trillion." },
-      { title: "Chip Sector Growth", desc: "Intel shares surged 24% following an earnings report that projected significant revenue growth driven by AI demand." },
-      { title: "Data Center Regulation", desc: "Maine's governor recently vetoed a first-of-its-kind state freeze on new data centers, reflecting the tension between local resource management and AI expansion. (Reuters)" }
-    ]
-  },
-  {
-    category: "Workforce & Social Impact",
-    icon: <Users size={20} className="text-amber-400" />,
-    items: [
-      { title: "Structural Layoffs", desc: "Despite record spending on AI, major players like Meta are cutting 10% of their workforce, while Microsoft is offering employee buyouts to shift resources toward AI infrastructure." },
-      { title: "The 'Talent War'", desc: "OpenAI is aggressively poaching top engineers and executives from traditional software firms like Salesforce and Palantir to help enterprise clients implement AI." },
-      { title: "Public Sentiment", desc: "Recent reports suggest a growing 'public backlash' against AI, with Gen Z excitement for the technology dropping as concerns over job automation and 'propaganda' increase. (The Guardian)" }
-    ]
-  },
-  {
-    category: "Security & Emerging Risks",
-    icon: <ShieldAlert size={20} className="text-red-400" />,
-    items: [
-      { title: "'Mythos' Leak", desc: "A high-level cybersecurity-focused model from Anthropic, called Mythos, was reportedly accessed by an unauthorized group. The model is capable of finding hundreds of bugs in browsers like Firefox." },
-      { title: "China-US Tensions", desc: "The US State Department issued warnings regarding alleged AI thefts by Chinese firms, while Beijing has moved to restrict US investments in Chinese tech companies. (Reuters)" }
-    ]
+// Helper to map icons to data which can't be stored in JSON
+const getMetricIcon = (title) => {
+  switch (title) {
+    case "Buffett Indicator": return <TrendingUp size={20} />;
+    case "Fed Funds Rate": return <Building size={20} />;
+    case "10Y - 2Y Spread": return <Activity size={20} />;
+    case "10Y Treasury Rate": return <DollarSign size={20} />;
+    case "2Y Treasury Rate": return <DollarSign size={20} />;
+    case "Consumer Sentiment": return <AlertTriangle size={20} />;
+    case "Retail Sales (MoM)": return <ShoppingCart size={20} />;
+    case "Leading Index (LEI)": return <TrendingDown size={20} />;
+    case "Building Permits": return <Building size={20} />;
+    case "Initial Jobless Claims": return <Activity size={20} />;
+    case "Monthly ADP Employment": return <Users size={20} />;
+    default: return <Activity size={20} />;
   }
-];
+};
 
-const aiModels = [
-  { model: "GPT-5.5", developer: "OpenAI", trait: "Foundation for upcoming 'super app'" },
-  { model: "Gemini 3.1 Pro", developer: "Google", trait: "Current top pick in several performance leaderboards" },
-  { model: "Claude Opus 4.6", developer: "Anthropic", trait: "High-performance enterprise-ready model" },
-  { model: "DeepSeek V4", developer: "DeepSeek", trait: "New-generation model 'closing the gap' with frontier systems" }
-];
+const getSectorIcon = (id) => {
+  switch (id) {
+    case 'tech': return <Cpu size={24} />;
+    case 'energy': return <Globe size={24} />;
+    case 'banking': return <Building size={24} />;
+    case 'realestate': return <Building size={24} />;
+    case 'consumer': return <ShoppingCart size={24} />;
+    default: return <Building size={24} />;
+  }
+};
 
-const reasoningBenchmarks = [
-  { model: "Gemini 3.1 Pro", gpqa: "94.3%", hle: "45.8%", mensa: "143" },
-  { model: "Claude Opus 4.7", gpqa: "94.2%", hle: "41.2% (est.)", mensa: "144" },
-  { model: "GPT-5.5", gpqa: "93.6%", hle: "41.4%", mensa: "145" },
-  { model: "Grok-4.20", gpqa: "91.5% (est.)", hle: "—", mensa: "145" }
-];
-
-const codingPerformance = [
-  { metric: "SWE-Bench (Agentic Coding)", desc: "Claude Opus 4.7 leads with 87.6%, followed by Claude Sonnet 4.5 at 82% and GPT 5.2 at 80%." },
-  { metric: "AIME 2025 (High School Math)", desc: "Both Gemini 3 Pro and GPT 5.2 have reached 100% saturation, making this benchmark less useful for distinguishing top-tier performance." }
-];
-
-const chatbotArena = [
-  { model: "Gemini 3.1 Pro", elo: "1505 Elo" },
-  { model: "Claude Opus 4.7", elo: "1504 Elo" },
-  { model: "Claude Opus 4.6 (Thinking)", elo: "1503 Elo" },
-  { model: "Grok-4.20", elo: "1496 Elo" }
-];
-
-const hardwareInference = [
-  { title: "Throughput Record (AMD)", desc: "Crossed the 1-million-tokens-per-second threshold at multinode scale using its latest hardware and software optimizations." },
-  { title: "Memory Efficiency (Google)", desc: "TurboQuant technology demonstrated a 6x reduction in KV cache memory and up to an 8x speedup on NVIDIA H100 GPUs without accuracy loss." }
-];
-
-const aiScorecardData = [
-  { rank: 1, model: "Claude Mythos (Preview)", developer: "Anthropic", coding: 99, writing: 88, uiux: 85, arch: 98, sec: 100 },
-  { rank: 2, model: "Claude Opus 4.7", developer: "Anthropic", coding: 94, writing: 98, uiux: 88, arch: 96, sec: 92 },
-  { rank: 3, model: "Gemini 3.1 Pro", developer: "Google", coding: 89, writing: 90, uiux: 99, arch: 90, sec: 88 },
-  { rank: 4, model: "GPT-5.5", developer: "OpenAI", coding: 93, writing: 91, uiux: 90, arch: 95, sec: 90 },
-  { rank: 5, model: "GPT-5.4 Pro", developer: "OpenAI", coding: 90, writing: 92, uiux: 88, arch: 89, sec: 87 },
-  { rank: 6, model: "Claude Opus 4.6", developer: "Anthropic", coding: 88, writing: 96, uiux: 82, arch: 91, sec: 85 },
-  { rank: 7, model: "Grok 4.20 (Expert)", developer: "xAI", coding: 87, writing: 85, uiux: 84, arch: 86, sec: 82 },
-  { rank: 8, model: "DeepSeek V3.2", developer: "DeepSeek", coding: 85, writing: 82, uiux: 75, arch: 84, sec: 80 },
-  { rank: 9, model: "GLM-5.1", developer: "Zhipu AI", coding: 84, writing: 80, uiux: 78, arch: 82, sec: 78 },
-  { rank: 10, model: "Kimi K2 Thinking", developer: "Moonshot", coding: 83, writing: 86, uiux: 76, arch: 80, sec: 75 },
-];
-
-const videoModelsData = [
-  { rank: 1, model: "Grok Imagine Video", developer: "xAI", genScore: 98, motion: 97, prompt: 94, bestFor: "Short, cinematic clips & social media viral content" },
-  { rank: 2, model: "Veo 3.1", developer: "Google", genScore: 96, motion: 95, prompt: 98, bestFor: "High-fidelity 4K production & spatial audio sync" },
-  { rank: 3, model: "Runway Gen-4.5", developer: "Runway", genScore: 94, motion: 92, prompt: 96, bestFor: "Professional VFX & granular creative control" },
-  { rank: 4, model: "Sora 2 Pro", developer: "OpenAI", genScore: 92, motion: 93, prompt: 91, bestFor: "Long-form clips (up to 25s) & narrative consistency" },
-  { rank: 5, model: "Wan 2.6", developer: "Alibaba", genScore: 89, motion: 88, prompt: 85, bestFor: "Open-source development & fast iteration" },
-  { rank: 6, model: "Kling 3.0", developer: "Kuaishou", genScore: 88, motion: 85, prompt: 87, bestFor: "High frame rate (60fps) & action sequences" },
-];
+const getAiCategoryIcon = (category) => {
+  if (category.includes('Moves')) return <Network size={20} className="text-purple-400" />;
+  if (category.includes('Market')) return <Building size={20} className="text-blue-400" />;
+  if (category.includes('Workforce')) return <Users size={20} className="text-amber-400" />;
+  if (category.includes('Security')) return <ShieldAlert size={20} className="text-red-400" />;
+  return <Bot size={20} className="text-purple-400" />;
+};
 
 // Components
 const MetricCard = ({ metric }) => {
   const borderColors = {
     extreme: "border-l-red-500",
     warning: "border-l-amber-500",
-    neutral: "border-l-slate-500"
+    neutral: "border-l-slate-500",
+    info: "border-l-blue-500"
   };
   const iconColors = {
     extreme: "text-red-400",
     warning: "text-amber-400",
-    neutral: "text-slate-400"
+    neutral: "text-slate-400",
+    info: "text-blue-400"
   };
 
   return (
-    <div className={`bg-slate-800 p-4 rounded-lg border-l-4 ${borderColors[metric.type]} shadow-lg hover:shadow-xl transition-all duration-300 hover:-translate-y-1 cursor-default group`}>
+    <div className={`bg-slate-800 p-4 rounded-lg border-l-4 ${borderColors[metric.type] || 'border-l-slate-500'} shadow-lg hover:shadow-xl transition-all duration-300 hover:-translate-y-1 cursor-default group`}>
       <div className="flex justify-between items-start mb-2">
         <h3 className="text-xs font-semibold text-slate-400 uppercase tracking-wider">{metric.title}</h3>
-        <span className={`${iconColors[metric.type]} group-hover:scale-110 transition-transform duration-300`}>
-          {metric.icon}
+        <span className={`${iconColors[metric.type] || 'text-slate-400'} group-hover:scale-110 transition-transform duration-300`}>
+          {getMetricIcon(metric.title)}
         </span>
       </div>
       <div className="text-2xl font-bold text-white mb-1">{metric.value}</div>
@@ -214,7 +114,7 @@ const SectorAccordion = ({ sector }) => {
       >
         <div className="flex items-center gap-4">
           <div className="p-2 bg-slate-700 rounded-lg text-cyan-400">
-            {sector.icon}
+            {getSectorIcon(sector.id)}
           </div>
           <div className="text-left">
             <h3 className="font-bold text-lg text-white">{sector.name}</h3>
@@ -229,7 +129,7 @@ const SectorAccordion = ({ sector }) => {
         </div>
       </button>
       
-      <div className={`transition-all duration-500 ease-in-out ${isOpen ? 'max-h-48 opacity-100' : 'max-h-0 opacity-0'} overflow-hidden`}>
+      <div className={`transition-all duration-500 ease-in-out ${isOpen ? 'max-h-96 opacity-100' : 'max-h-0 opacity-0'} overflow-hidden`}>
         <div className="p-4 pt-0 border-t border-slate-700/50 text-slate-300 text-sm leading-relaxed bg-slate-800/30">
           <p className="mb-2 md:hidden block font-semibold text-slate-400">Headwind: {sector.headwind}</p>
           {sector.details}
@@ -245,6 +145,12 @@ const SectorAccordion = ({ sector }) => {
 export default function App() {
   const [activeTab, setActiveTab] = useState('overview');
   const [adpTimeFrame, setAdpTimeFrame] = useState('YTD');
+
+  const headlineColors = {
+    extreme: "bg-red-500",
+    warning: "bg-amber-500",
+    info: "bg-blue-500"
+  };
 
   return (
     <div className="min-h-screen bg-slate-900 text-slate-100 p-4 md:p-8 font-sans selection:bg-cyan-900 selection:text-cyan-100">
@@ -264,7 +170,7 @@ export default function App() {
           <div className="flex flex-col items-end">
             <div className="flex items-center gap-2 text-xl font-bold text-white">
               <Clock size={20} className="text-slate-400" />
-              April 24, 2026
+              {macroData.lastUpdated}
             </div>
             <div className="text-xs text-slate-400 font-mono mt-1">CONFIDENTIAL REPORT</div>
           </div>
@@ -299,8 +205,9 @@ export default function App() {
                     <Activity size={20} className="text-cyan-400"/> Executive Summary
                   </h2>
                   <div className="space-y-4 text-slate-300 leading-relaxed text-sm md:text-base">
-                    <p>The current macroeconomic environment is characterized by an extreme valuation paradigm that leaves equity markets highly vulnerable to exogenous shocks and shifting monetary policy. Despite clear signals of economic deceleration, risk assets have continued to price in an improbable scenario of flawless execution, ignoring mounting structural headwinds. We are operating in a climate where historical safety margins have evaporated, demanding a rigorous defensive posture and active risk mitigation across all asset classes.</p>
-                    <p>Compounding this precarious domestic setup is the escalating geopolitical instability, most notably the Strait of Hormuz standoff. The disruption of global energy supply lines has injected an immediate inflationary impulse into the system, complicating the Federal Reserve's path forward and acting as a direct tax on the consumer. The convergence of these energy shocks with already stretched equity multiples creates a brittle market structure where any catalyst could trigger a rapid and severe repricing of risk.</p>
+                    {macroData.executiveSummary.map((para, i) => (
+                      <p key={i}>{para}</p>
+                    ))}
                   </div>
                 </section>
 
@@ -309,7 +216,7 @@ export default function App() {
                     <Activity size={20} className="text-cyan-400"/> Economic & Market Dashboard
                   </h2>
                   <div className="grid grid-cols-1 sm:grid-cols-2 xl:grid-cols-3 gap-4">
-                    {metricsData.map((metric, idx) => (
+                    {macroData.metrics.map((metric, idx) => (
                       <MetricCard key={idx} metric={metric} />
                     ))}
                   </div>
@@ -337,9 +244,9 @@ export default function App() {
                       <div className="h-64 relative pt-4 pb-8 pl-8 sm:pl-12">
                         {(() => {
                           // Filter data based on selected timeframe
-                          let filtered = adpWeeklyData;
-                          if (adpTimeFrame === '1M') filtered = adpWeeklyData.slice(0, 4);
-                          if (adpTimeFrame === '3M') filtered = adpWeeklyData.slice(0, 12);
+                          let filtered = macroData.adpWeeklyData;
+                          if (adpTimeFrame === '1M') filtered = macroData.adpWeeklyData.slice(0, 4);
+                          if (adpTimeFrame === '3M') filtered = macroData.adpWeeklyData.slice(0, 12);
                           
                           // Reverse so it reads chronologically from left to right
                           const chartData = [...filtered].reverse();
@@ -453,18 +360,12 @@ export default function App() {
                     <AlertCircle size={20} className="text-cyan-400"/> Daily Headlines
                   </h2>
                   <ul className="space-y-4">
-                    <li className="flex gap-3 items-start">
-                      <span className="w-2 h-2 rounded-full bg-red-500 mt-2 shrink-0 animate-pulse"></span>
-                      <p className="text-sm text-slate-300"><strong className="text-white block mb-1">Iran Ceasefire Gamble:</strong> Markets brace for impact as diplomatic back-channels attempt to broker a fragile truce, with crude oil volatility spiking on conflicting regional reports.</p>
-                    </li>
-                    <li className="flex gap-3 items-start">
-                      <span className="w-2 h-2 rounded-full bg-amber-500 mt-2 shrink-0"></span>
-                      <p className="text-sm text-slate-300"><strong className="text-white block mb-1">Strait of Hormuz Status:</strong> Naval standoff persists, severely restricting global shipping lanes and cementing a structural risk premium into global supply chains.</p>
-                    </li>
-                    <li className="flex gap-3 items-start">
-                      <span className="w-2 h-2 rounded-full bg-blue-500 mt-2 shrink-0"></span>
-                      <p className="text-sm text-slate-300"><strong className="text-white block mb-1">Tech Multiples Compress:</strong> Nasdaq futures slide as the broader technology sector's P/E multiple falls to 23x, signaling an end to the unconditional AI premium.</p>
-                    </li>
+                    {macroData.dailyHeadlines.map((headline, i) => (
+                      <li key={i} className="flex gap-3 items-start">
+                        <span className={`w-2 h-2 rounded-full ${headlineColors[headline.type] || 'bg-blue-500'} mt-2 shrink-0 ${headline.type === 'extreme' ? 'animate-pulse' : ''}`}></span>
+                        <p className="text-sm text-slate-300"><strong className="text-white block mb-1">{headline.title}:</strong> {headline.desc}</p>
+                      </li>
+                    ))}
                   </ul>
                 </div>
               </div>
@@ -479,7 +380,7 @@ export default function App() {
                   <Building size={24} className="text-cyan-400"/> Major Sector Risk Analysis
                 </h2>
                 <div className="flex flex-col gap-4">
-                  {sectorData.map((sector) => (
+                  {macroData.sectorData.map((sector) => (
                     <SectorAccordion key={sector.id} sector={sector} />
                   ))}
                 </div>
@@ -498,10 +399,10 @@ export default function App() {
                     </tr>
                   </thead>
                   <tbody className="text-sm">
-                    {sectorData.map((sector) => (
+                    {macroData.sectorData.map((sector) => (
                       <tr key={sector.id} className="border-b border-slate-700/50 hover:bg-slate-700/20 transition-colors">
                         <td className="p-4 pl-0 font-medium text-white flex items-center gap-2">
-                          <span className="text-cyan-400 hidden sm:block">{sector.icon}</span>
+                          <span className="text-cyan-400 hidden sm:block">{getSectorIcon(sector.id)}</span>
                           {sector.name}
                         </td>
                         <td className="p-4">
@@ -532,7 +433,7 @@ export default function App() {
                 </h2>
                 
                 <div className="space-y-8">
-                  {probabilities.map((prob, idx) => (
+                  {macroData.probabilities.map((prob, idx) => (
                     <div key={idx} className="group">
                       <div className="flex justify-between items-end mb-2">
                         <h3 className="text-lg font-bold text-white group-hover:text-cyan-400 transition-colors">{prob.title}</h3>
@@ -570,10 +471,10 @@ export default function App() {
 
                 {/* Headlines Grid */}
                 <div className="grid grid-cols-1 lg:grid-cols-2 gap-6 mb-8">
-                  {aiHeadlines.map((section, idx) => (
+                  {macroData.aiHeadlines.map((section, idx) => (
                     <div key={idx} className="bg-slate-900/50 rounded-xl p-5 md:p-6 border border-slate-700/50 shadow-inner">
                       <h3 className="text-lg font-bold text-white mb-5 flex items-center gap-3 border-b border-slate-700/50 pb-2">
-                        {section.icon} {section.category}
+                        {getAiCategoryIcon(section.category)} {section.category}
                       </h3>
                       <ul className="space-y-4">
                         {section.items.map((item, itemIdx) => (
@@ -602,7 +503,7 @@ export default function App() {
                         </tr>
                       </thead>
                       <tbody className="text-sm">
-                        {aiModels.map((model, idx) => (
+                        {macroData.aiModels.map((model, idx) => (
                           <tr key={idx} className="border-b border-slate-700/50 hover:bg-slate-800/80 transition-colors">
                             <td className="p-4 font-bold text-purple-400">{model.model}</td>
                             <td className="p-4 text-white font-medium">{model.developer}</td>
@@ -634,7 +535,7 @@ export default function App() {
                           </tr>
                         </thead>
                         <tbody className="text-xs">
-                          {reasoningBenchmarks.map((row, idx) => (
+                          {macroData.reasoningBenchmarks.map((row, idx) => (
                             <tr key={idx} className="border-b border-slate-700/50 hover:bg-slate-800/80 transition-colors">
                               <td className="p-3 pl-2 font-bold text-white">{row.model}</td>
                               <td className="p-3 text-emerald-400">{row.gpqa}</td>
@@ -654,7 +555,7 @@ export default function App() {
                     </h4>
                     <p className="text-xs text-slate-400 mb-4">The LMSYS Chatbot Arena remains the definitive source for how users perceive model quality in real-world chat.</p>
                     <div className="space-y-3">
-                      {chatbotArena.map((item, idx) => (
+                      {macroData.chatbotArena.map((item, idx) => (
                         <div key={idx} className="flex justify-between items-center bg-slate-800/50 p-3 rounded border border-slate-700/50">
                           <div className="flex items-center gap-3">
                             <span className="text-slate-500 font-bold w-4">{idx + 1}.</span>
@@ -673,7 +574,7 @@ export default function App() {
                     </h4>
                     <p className="text-xs text-slate-400 mb-4">For software engineering and autonomous task execution, Claude Opus 4.7 currently holds a slight edge over its competitors.</p>
                     <ul className="space-y-4">
-                      {codingPerformance.map((item, idx) => (
+                      {macroData.codingPerformance.map((item, idx) => (
                         <li key={idx} className="text-sm">
                           <strong className="text-slate-200 block mb-1">{item.metric}</strong>
                           <span className="text-slate-400 leading-relaxed block">{item.desc}</span>
@@ -689,7 +590,7 @@ export default function App() {
                     </h4>
                     <p className="text-xs text-slate-400 mb-4">The latest MLPerf Inference v6.0 results released in April 2026 highlight a massive jump in efficiency.</p>
                     <ul className="space-y-4">
-                      {hardwareInference.map((item, idx) => (
+                      {macroData.hardwareInference.map((item, idx) => (
                         <li key={idx} className="text-sm">
                           <strong className="text-slate-200 block mb-1">{item.title}</strong>
                           <span className="text-slate-400 leading-relaxed block">{item.desc}</span>
@@ -735,7 +636,7 @@ export default function App() {
                       </tr>
                     </thead>
                     <tbody className="text-sm">
-                      {aiScorecardData.map((row) => {
+                      {macroData.aiScorecardData.map((row) => {
                         const getScoreColor = (score) => {
                           if (score >= 95) return "text-emerald-400 font-bold bg-emerald-400/10 border-emerald-400/20";
                           if (score >= 90) return "text-cyan-400 font-bold bg-cyan-400/10 border-cyan-400/20";
@@ -797,7 +698,7 @@ export default function App() {
                         </tr>
                       </thead>
                       <tbody className="text-sm">
-                        {videoModelsData.map((row) => {
+                        {macroData.videoModelsData.map((row) => {
                           const getScoreColor = (score) => {
                             if (score >= 95) return "text-emerald-400 font-bold bg-emerald-400/10 border-emerald-400/20";
                             if (score >= 90) return "text-cyan-400 font-bold bg-cyan-400/10 border-cyan-400/20";
