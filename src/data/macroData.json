@@ -1,23 +1,23 @@
 {
-  "lastUpdated": "April 26, 2026",
+  "lastUpdated": "April 27, 2026",
   "executiveSummary": [
     "The current macroeconomic environment is characterized by an extreme valuation paradigm that leaves equity markets highly vulnerable to exogenous shocks and shifting monetary policy. Despite clear signals of economic deceleration, risk assets have continued to price in an improbable scenario of flawless execution, ignoring mounting structural headwinds. We are operating in a climate where historical safety margins have evaporated, demanding a rigorous defensive posture and active risk mitigation across all asset classes.",
     "Compounding this precarious domestic setup is the escalating geopolitical instability, most notably the Strait of Hormuz standoff. The disruption of global energy supply lines has injected an immediate inflationary impulse into the system, complicating the Federal Reserve's path forward and acting as a direct tax on the consumer. The convergence of these energy shocks with already stretched equity multiples creates a brittle market structure where any catalyst could trigger a rapid and severe repricing of risk."
   ],
   "dailyHeadlines": [
     {
-      "title": "The AI industry is discovering that the public hates it",
-      "desc": "Source: Hacker News. Points: 239. Comments: 326.",
+      "title": "An AI agent deleted our production database. The agent's confession is below",
+      "desc": "Source: Hacker News. Points: 729. Comments: 868.",
       "type": "extreme"
     },
     {
-      "title": "Open source memory layer so any AI agent can do what Claude.ai and ChatGPT do",
-      "desc": "Source: Hacker News. Points: 171. Comments: 73.",
+      "title": "AI should elevate your thinking, not replace it",
+      "desc": "Source: Hacker News. Points: 548. Comments: 404.",
       "type": "warning"
     },
     {
-      "title": "SFO Quiet Airport (2025)",
-      "desc": "Source: Hacker News. Points: 150. Comments: 95.",
+      "title": "The AI industry is discovering that the public hates it",
+      "desc": "Source: Hacker News. Points: 270. Comments: 359.",
       "type": "info"
     }
   ],
@@ -270,24 +270,24 @@
       "category": "Major Company Moves & Partnerships",
       "items": [
         {
+          "title": "An AI agent deleted our production database. The agent's confession is below",
+          "desc": "Source: Hacker News. Points: 729. Comments: 868."
+        },
+        {
+          "title": "AI should elevate your thinking, not replace it",
+          "desc": "Source: Hacker News. Points: 548. Comments: 404."
+        },
+        {
           "title": "The AI industry is discovering that the public hates it",
-          "desc": "Source: Hacker News. Points: 239. Comments: 326."
+          "desc": "Source: Hacker News. Points: 270. Comments: 359."
         },
         {
-          "title": "Open source memory layer so any AI agent can do what Claude.ai and ChatGPT do",
-          "desc": "Source: Hacker News. Points: 171. Comments: 73."
+          "title": "Eden AI – European Alternative to OpenRouter",
+          "desc": "Source: Hacker News. Points: 129. Comments: 67."
         },
         {
-          "title": "SFO Quiet Airport (2025)",
-          "desc": "Source: Hacker News. Points: 150. Comments: 95."
-        },
-        {
-          "title": "Lambda Calculus Benchmark for AI",
-          "desc": "Source: Hacker News. Points: 136. Comments: 41."
-        },
-        {
-          "title": "Tesla discloses $2B AI hardware company acquisition in filing",
-          "desc": "Source: Hacker News. Points: 76. Comments: 47."
+          "title": "Google banks on AI edge to catch up to cloud rivals Amazon and Microsoft",
+          "desc": "Source: Hacker News. Points: 103. Comments: 89."
         }
       ]
     },
@@ -295,16 +295,16 @@
       "category": "Market & Infrastructure Headlines",
       "items": [
         {
-          "title": "Show HN: Atomic – Local-first, AI-augmented personal knowledge base",
-          "desc": "Source: Hacker News. Points: 61. Comments: 41."
+          "title": "Have you tried Clean Architecture as foundation for your AI project?",
+          "desc": "Source: Hacker News. Points: 94. Comments: 1."
         },
         {
-          "title": "AI as a Fascist Artifact",
-          "desc": "Source: Hacker News. Points: 31. Comments: 8."
+          "title": "Show HN: AI memory with biological decay (52% recall)",
+          "desc": "Source: Hacker News. Points: 89. Comments: 38."
         },
         {
-          "title": "AI agents that argue with each other to improve decisions",
-          "desc": "Source: Hacker News. Points: 28. Comments: 17."
+          "title": "AI can cost more than human workers now",
+          "desc": "Source: Hacker News. Points: 75. Comments: 48."
         }
       ]
     },
