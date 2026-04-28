@@ -6,18 +6,21 @@
   ],
   "dailyHeadlines": [
     {
-      "title": "OpenAI Launches GPT-5.5 'Spud' to Reclaim Benchmark Lead",
-      "desc": "OpenAI has officially released GPT-5.5, reclaiming the top spot in AI reasoning and coding benchmarks from Anthropic's Claude Opus 4.7. The new model features advanced autonomous computer navigation capabilities and significant efficiency improvements. This release marks a pivotal moment in the ongoing frontier model race as providers push toward AGI.",
+      "title": "An AI agent deleted our production database. The agent's confession is below",
+      "summary": "Latest AI discussion on Hacker News: An AI agent deleted our production database. The agent's confession is below. This story has gained 822 points and 980 comments. (Source: Hacker News)",
+      "url": "https://twitter.com/lifeof_jer/status/2048103471019434248",
       "type": "extreme"
     },
     {
-      "title": "Sony's 'Ace' Robot Achieves 'AlphaGo Moment' in Robotics",
-      "summary": "Sony's new 'Ace' robot has successfully defeated professional human table tennis players, signaling a breakthrough in physical AI performance. This achievement demonstrates a leap in combining real-time computer vision with precise mechanical control. The technology is expected to have broad implications for industrial automation and collaborative robotics.",
+      "title": "AI should elevate your thinking, not replace it",
+      "summary": "Latest AI discussion on Hacker News: AI should elevate your thinking, not replace it. This story has gained 816 points and 574 comments. (Source: Hacker News)",
+      "url": "https://www.koshyjohn.com/blog/ai-should-elevate-your-thinking-not-replace-it/",
       "type": "warning"
     },
     {
-      "title": "Microsoft Enables Proactive 'Agent Mode' for Global Office Users",
-      "desc": "Microsoft Copilot now features 'Agent Mode' as the default setting, allowing for multi-step autonomous task execution across Word and Excel. This update transforms the AI from a reactive assistant into a proactive workspace agent capable of managing complex workflows. Early corporate feedback suggests a significant reduction in manual data processing time.",
+      "title": "4TB of voice samples just stolen from 40k AI contractors at Mercor",
+      "summary": "Latest AI discussion on Hacker News: 4TB of voice samples just stolen from 40k AI contractors at Mercor. This story has gained 451 points and 167 comments. (Source: Hacker News)",
+      "url": "https://app.oravys.com/blog/mercor-breach-2026",
       "type": "info"
     }
   ],
@@ -270,19 +273,29 @@
       "category": "Frontier Model Race & Breakthroughs",
       "items": [
         {
-          "title": "OpenAI Reclaims the Frontier with GPT-5.5 'Spud'",
-          "summary": "Just days after Anthropic released Claude Opus 4.7, OpenAI launched GPT-5.5, codenamed 'Spud'. It has reclaimed the #1 spot on major benchmarks, showing significant gains in reasoning, coding, and autonomous computer navigation. This release signals a rapid 'lead change' in the AI landscape as providers push closer to AGI-level capabilities.",
-          "url": "https://www.therundown.ai/p/openai-reclaims-the-frontier"
+          "title": "An AI agent deleted our production database. The agent's confession is below",
+          "summary": "Latest AI discussion on Hacker News: An AI agent deleted our production database. The agent's confession is below. This story has gained 822 points and 980 comments. (Source: Hacker News)",
+          "url": "https://twitter.com/lifeof_jer/status/2048103471019434248"
         },
         {
-          "title": "Sony's 'Ace' Robot Beats Pro Table Tennis Players",
-          "summary": "In a landmark for physical AI, Sony announced 'Ace', a robot that defeated professional human table tennis players. This is being hailed as the 'AlphaGo moment' for robotics, moving superhuman AI performance from digital games into the physical world. The breakthrough combines advanced computer vision with sub-millisecond tactile response times.",
-          "url": "https://ai.sony/ace-robotics"
+          "title": "AI should elevate your thinking, not replace it",
+          "summary": "Latest AI discussion on Hacker News: AI should elevate your thinking, not replace it. This story has gained 816 points and 574 comments. (Source: Hacker News)",
+          "url": "https://www.koshyjohn.com/blog/ai-should-elevate-your-thinking-not-replace-it/"
         },
         {
-          "title": "Anthropic's 'Mythos' Leak Raises Safety Concerns",
-          "summary": "Anthropic’s most powerful and restricted model, Claude Mythos, reportedly leaked to a private Discord group. Originally deemed too dangerous for public release due to its advanced cybersecurity capabilities, the model was intended only for elite partners. The leak has sparked a peak in 'Bugmageddon' fears among security researchers on Hacker News.",
-          "url": "https://www.therundown.ai/p/anthropic-mythos-leak"
+          "title": "4TB of voice samples just stolen from 40k AI contractors at Mercor",
+          "summary": "Latest AI discussion on Hacker News: 4TB of voice samples just stolen from 40k AI contractors at Mercor. This story has gained 451 points and 167 comments. (Source: Hacker News)",
+          "url": "https://app.oravys.com/blog/mercor-breach-2026"
+        },
+        {
+          "title": "China blocks Meta's acquisition of AI startup Manus",
+          "summary": "Latest AI discussion on Hacker News: China blocks Meta's acquisition of AI startup Manus. This story has gained 310 points and 208 comments. (Source: Hacker News)",
+          "url": "https://www.cnbc.com/2026/04/27/meta-manus-china-blocks-acquisition-ai-startup.html"
+        },
+        {
+          "title": "Mistral built a $14B AI empire by not being American",
+          "summary": "Latest AI discussion on Hacker News: Mistral built a $14B AI empire by not being American. This story has gained 204 points and 160 comments. (Source: Hacker News)",
+          "url": "https://www.forbes.com/sites/iainmartin/2026/04/16/how-frances-mistral-built-a-14-billion-ai-empire-by-not-being-american/"
         }
       ]
     },
