@@ -19,23 +19,40 @@ async function fetchFredSeries(seriesId) {
 }
 
 async function fetchAiNews() {
-    // Fetch top AI stories from Hacker News via Algolia API (last 48 hours)
-    const fortyEightHoursAgo = Math.floor(Date.now() / 1000) - (48 * 3600);
-    const url = `https://hn.algolia.com/api/v1/search?query=AI&tags=story&numericFilters=created_at_i>${fortyEightHoursAgo}&hitsPerPage=10`;
+    const newsSources = [];
     
+    // 1. Fetch from Hacker News via Algolia
     try {
-        const response = await fetch(url);
-        if (!response.ok) throw new Error(`HTTP error! status: ${response.status}`);
-        const data = await response.json();
-        return data.hits.map(hit => ({
-            title: hit.title,
-            desc: `Source: Hacker News. Points: ${hit.points}. Comments: ${hit.num_comments}.`,
-            url: hit.url || `https://news.ycombinator.com/item?id=${hit.objectID}`
-        }));
+        const fortyEightHoursAgo = Math.floor(Date.now() / 1000) - (48 * 3600);
+        const hnUrl = `https://hn.algolia.com/api/v1/search?query=AI&tags=story&numericFilters=created_at_i>${fortyEightHoursAgo}&hitsPerPage=5`;
+        const response = await fetch(hnUrl);
+        if (response.ok) {
+            const data = await response.json();
+            data.hits.forEach(hit => {
+                newsSources.push({
+                    title: hit.title,
+                    summary: `Latest AI discussion on Hacker News: ${hit.title}. This story has gained ${hit.points} points and ${hit.num_comments} comments. (Source: Hacker News)`,
+                    url: hit.url || `https://news.ycombinator.com/item?id=${hit.objectID}`,
+                    source: 'Hacker News'
+                });
+            });
+        }
     } catch (error) {
-        console.error('Error fetching AI news:', error);
-        return [];
+        console.error('Error fetching Hacker News:', error);
     }
+
+    // 2. Placeholder for Superhuman AI (RSS Feed)
+    // Note: In a production environment, use an XML parser like fast-xml-parser
+    try {
+        const shUrl = 'https://rss.beehiiv.com/feeds/superhuman.xml';
+        // We just add a note here - real fetching would require XML parsing
+        // newsSources.push({ ... });
+    } catch (error) {}
+
+    // 3. Placeholder for The Rundown AI
+    // newsSources.push({ ... });
+
+    return newsSources;
 }
 
 async function fetchArenaData() {
@@ -108,9 +125,17 @@ async function main() {
         // with the latest news if we have it, or spread it out.
         if (dashboardData.aiHeadlines && dashboardData.aiHeadlines.length > 0) {
             // Update the items for the first two categories
-            dashboardData.aiHeadlines[0].items = news.slice(0, 5).map(n => ({ title: n.title, desc: n.desc }));
+            dashboardData.aiHeadlines[0].items = news.slice(0, 5).map(n => ({ 
+                title: n.title, 
+                summary: n.summary,
+                url: n.url 
+            }));
             if (dashboardData.aiHeadlines[1] && news.length > 5) {
-                dashboardData.aiHeadlines[1].items = news.slice(5, 8).map(n => ({ title: n.title, desc: n.desc }));
+                dashboardData.aiHeadlines[1].items = news.slice(5, 8).map(n => ({ 
+                    title: n.title, 
+                    summary: n.summary,
+                    url: n.url 
+                }));
             }
         }
         
@@ -118,7 +143,8 @@ async function main() {
         if (dashboardData.dailyHeadlines) {
             dashboardData.dailyHeadlines = news.slice(0, 3).map((n, i) => ({
                 title: n.title,
-                desc: n.desc,
+                summary: n.summary,
+                url: n.url,
                 type: i === 0 ? 'extreme' : i === 1 ? 'warning' : 'info'
             }));
         }

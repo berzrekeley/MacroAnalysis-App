@@ -363,7 +363,7 @@ export default function App() {
                     {macroData.dailyHeadlines.map((headline, i) => (
                       <li key={i} className="flex gap-3 items-start">
                         <span className={`w-2 h-2 rounded-full ${headlineColors[headline.type] || 'bg-blue-500'} mt-2 shrink-0 ${headline.type === 'extreme' ? 'animate-pulse' : ''}`}></span>
-                        <p className="text-sm text-slate-300"><strong className="text-white block mb-1">{headline.title}:</strong> {headline.desc}</p>
+                        <p className="text-sm text-slate-300"><strong className="text-white block mb-1">{headline.title}:</strong> {headline.summary || headline.desc}</p>
                       </li>
                     ))}
                   </ul>
@@ -479,8 +479,22 @@ export default function App() {
                       <ul className="space-y-4">
                         {section.items.map((item, itemIdx) => (
                           <li key={itemIdx} className="text-sm">
-                            <strong className="text-slate-200 block mb-1 text-base">{item.title}</strong>
-                            <span className="text-slate-400 leading-relaxed">{item.desc}</span>
+                            <div className="flex justify-between items-start mb-1">
+                              <strong className="text-slate-200 text-base">{item.title}</strong>
+                              {item.url && (
+                                <a 
+                                  href={item.url} 
+                                  target="_blank" 
+                                  rel="noopener noreferrer" 
+                                  className="text-cyan-400 hover:text-cyan-300 text-xs flex items-center gap-1 transition-colors shrink-0 ml-2"
+                                >
+                                  Read <ArrowUpRight size={14} />
+                                </a>
+                              )}
+                            </div>
+                            <p className="text-slate-400 leading-relaxed">
+                              {item.summary || item.desc}
+                            </p>
                           </li>
                         ))}
                       </ul>

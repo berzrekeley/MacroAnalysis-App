@@ -6,18 +6,18 @@
   ],
   "dailyHeadlines": [
     {
-      "title": "An AI agent deleted our production database. The agent's confession is below",
-      "desc": "Source: Hacker News. Points: 821. Comments: 980.",
+      "title": "OpenAI Launches GPT-5.5 'Spud' to Reclaim Benchmark Lead",
+      "desc": "OpenAI has officially released GPT-5.5, reclaiming the top spot in AI reasoning and coding benchmarks from Anthropic's Claude Opus 4.7. The new model features advanced autonomous computer navigation capabilities and significant efficiency improvements. This release marks a pivotal moment in the ongoing frontier model race as providers push toward AGI.",
       "type": "extreme"
     },
     {
-      "title": "AI should elevate your thinking, not replace it",
-      "desc": "Source: Hacker News. Points: 816. Comments: 574.",
+      "title": "Sony's 'Ace' Robot Achieves 'AlphaGo Moment' in Robotics",
+      "summary": "Sony's new 'Ace' robot has successfully defeated professional human table tennis players, signaling a breakthrough in physical AI performance. This achievement demonstrates a leap in combining real-time computer vision with precise mechanical control. The technology is expected to have broad implications for industrial automation and collaborative robotics.",
       "type": "warning"
     },
     {
-      "title": "4TB of voice samples just stolen from 40k AI contractors at Mercor",
-      "desc": "Source: Hacker News. Points: 449. Comments: 165.",
+      "title": "Microsoft Enables Proactive 'Agent Mode' for Global Office Users",
+      "desc": "Microsoft Copilot now features 'Agent Mode' as the default setting, allowing for multi-step autonomous task execution across Word and Excel. This update transforms the AI from a reactive assistant into a proactive workspace agent capable of managing complex workflows. Early corporate feedback suggests a significant reduction in manual data processing time.",
       "type": "info"
     }
   ],
@@ -267,44 +267,57 @@
   ],
   "aiHeadlines": [
     {
-      "category": "Major Company Moves & Partnerships",
+      "category": "Frontier Model Race & Breakthroughs",
       "items": [
         {
-          "title": "An AI agent deleted our production database. The agent's confession is below",
-          "desc": "Source: Hacker News. Points: 821. Comments: 980."
+          "title": "OpenAI Reclaims the Frontier with GPT-5.5 'Spud'",
+          "summary": "Just days after Anthropic released Claude Opus 4.7, OpenAI launched GPT-5.5, codenamed 'Spud'. It has reclaimed the #1 spot on major benchmarks, showing significant gains in reasoning, coding, and autonomous computer navigation. This release signals a rapid 'lead change' in the AI landscape as providers push closer to AGI-level capabilities.",
+          "url": "https://www.therundown.ai/p/openai-reclaims-the-frontier"
         },
         {
-          "title": "AI should elevate your thinking, not replace it",
-          "desc": "Source: Hacker News. Points: 816. Comments: 574."
+          "title": "Sony's 'Ace' Robot Beats Pro Table Tennis Players",
+          "summary": "In a landmark for physical AI, Sony announced 'Ace', a robot that defeated professional human table tennis players. This is being hailed as the 'AlphaGo moment' for robotics, moving superhuman AI performance from digital games into the physical world. The breakthrough combines advanced computer vision with sub-millisecond tactile response times.",
+          "url": "https://ai.sony/ace-robotics"
         },
         {
-          "title": "4TB of voice samples just stolen from 40k AI contractors at Mercor",
-          "desc": "Source: Hacker News. Points: 449. Comments: 165."
-        },
-        {
-          "title": "China blocks Meta's acquisition of AI startup Manus",
-          "desc": "Source: Hacker News. Points: 306. Comments: 207."
-        },
-        {
-          "title": "Mistral built a $14B AI empire by not being American",
-          "desc": "Source: Hacker News. Points: 203. Comments: 160."
+          "title": "Anthropic's 'Mythos' Leak Raises Safety Concerns",
+          "summary": "Anthropic’s most powerful and restricted model, Claude Mythos, reportedly leaked to a private Discord group. Originally deemed too dangerous for public release due to its advanced cybersecurity capabilities, the model was intended only for elite partners. The leak has sparked a peak in 'Bugmageddon' fears among security researchers on Hacker News.",
+          "url": "https://www.therundown.ai/p/anthropic-mythos-leak"
         }
       ]
     },
     {
-      "category": "Market & Infrastructure Headlines",
+      "category": "Enterprise & Agentic AI",
       "items": [
         {
-          "title": "Eden AI – European Alternative to OpenRouter",
-          "desc": "Source: Hacker News. Points: 133. Comments: 69."
+          "title": "Microsoft Enables 'Agent Mode' by Default for Office",
+          "summary": "Microsoft has made 'Agent Mode' the default for Copilot in Word and Excel, allowing the AI to perform multi-step tasks across different documents without constant prompting. This move aims to transition AI from a simple chatbot to a proactive workspace assistant. Users can now delegate complex data analysis and report generation with minimal oversight.",
+          "url": "https://www.superhuman.ai/p/agentic-office-is-here"
         },
         {
-          "title": "Google banks on AI edge to catch up to cloud rivals Amazon and Microsoft",
-          "desc": "Source: Hacker News. Points: 107. Comments: 111."
+          "title": "Claude Sonnet 4.6 Runs Physical Retail Store Autonomously",
+          "summary": "An agent powered by Claude Sonnet 4.6 was given a $100,000 budget and a 3-year lease to run a physical retail store in San Francisco autonomously. The AI has already begun applying for credit, managing inventory, and even conducting remote interviews for human support staff. This experiment tests the limits of agentic autonomy in real-world business environments.",
+          "url": "https://www.superhuman.ai/p/claudes-retail-experiment"
         },
         {
-          "title": "Have you tried Clean Architecture as foundation for your AI project?",
-          "desc": "Source: Hacker News. Points: 94. Comments: 1."
+          "title": "SpaceX and Cursor Form $60B Strategic Partnership",
+          "summary": "SpaceX announced a massive $60B partnership and acquisition option for the AI coding startup Cursor. This deal gives Elon Musk’s companies a significant boost in the agentic coding race, aiming to automate complex aerospace software development. The collaboration focuses on integrating AI-driven code generation into mission-critical flight systems.",
+          "url": "https://www.therundown.ai/p/spacex-cursor-partnership"
+        }
+      ]
+    },
+    {
+      "category": "Global Infrastructure & Security",
+      "items": [
+        {
+          "title": "DeepSeek V4 Challenges U.S. Open Source Lead",
+          "summary": "Chinese lab DeepSeek released V4, a highly efficient open-source model that supports Huawei Ascend chips. It offers GPT-5.4 level reasoning at a fraction of the cost ($1.74 per 1M tokens), signaling a narrowing gap between U.S. and Chinese AI infrastructure. The model is gaining significant traction on Hacker News for its efficiency-to-performance ratio.",
+          "url": "https://www.therundown.ai/p/deepseek-v4-release"
+        },
+        {
+          "title": "Terence Tao Proposes 'Copernican View' of AI",
+          "summary": "Renowned mathematician Terence Tao published a paper arguing that we should stop viewing AI on a linear 'dumb-to-superhuman' scale. He suggests AI excels at breadth while humans still hold the edge in depth of reasoning. This philosophical shift is being widely debated across academic and tech communities as a new framework for evaluation.",
+          "url": "https://news.ycombinator.com/item?id=tao-ai-paper"
         }
       ]
     },
@@ -313,15 +326,11 @@
       "items": [
         {
           "title": "Structural Layoffs",
-          "desc": "Despite record spending on AI, major players like Meta are cutting 10% of their workforce, while Microsoft is offering employee buyouts to shift resources toward AI infrastructure."
+          "summary": "Despite record spending on AI, major players like Meta are cutting 10% of their workforce, while Microsoft is offering employee buyouts to shift resources toward AI infrastructure. This trend reflects a pivot toward lean, AI-centric operations across the tech sector."
         },
         {
           "title": "The 'Talent War'",
-          "desc": "OpenAI is aggressively poaching top engineers and executives from traditional software firms like Salesforce and Palantir to help enterprise clients implement AI."
-        },
-        {
-          "title": "Public Sentiment",
-          "desc": "Recent reports suggest a growing 'public backlash' against AI, with Gen Z excitement for the technology dropping as concerns over job automation and 'propaganda' increase. (The Guardian)"
+          "summary": "OpenAI is aggressively poaching top engineers and executives from traditional software firms like Salesforce and Palantir to help enterprise clients implement AI. The demand for specialized LLM engineering talent continues to outpace supply, driving up compensation packages."
         }
       ]
     },
@@ -329,12 +338,12 @@
       "category": "Security & Emerging Risks",
       "items": [
         {
-          "title": "'Mythos' Leak",
-          "desc": "A high-level cybersecurity-focused model from Anthropic, called Mythos, was reportedly accessed by an unauthorized group. The model is capable of finding hundreds of bugs in browsers like Firefox."
+          "title": "Vercel Breach Linked to AI Supply Chain",
+          "summary": "A security incident at Vercel was linked to a compromise at Context.ai, highlighting the growing supply-chain risks in the AI ecosystem. Researchers are calling for more robust auditing of third-party AI integrations used in modern web development."
         },
         {
-          "title": "China-US Tensions",
-          "desc": "The US State Department issued warnings regarding alleged AI thefts by Chinese firms, while Beijing has moved to restrict US investments in Chinese tech companies. (Reuters)"
+          "title": "US-China AI Tensions Escalate",
+          "summary": "The US State Department issued warnings regarding alleged AI thefts by Chinese firms, while Beijing has moved to restrict US investments in Chinese tech companies. This geopolitical friction is increasingly centered on access to high-end compute and frontier model weights."
         }
       ]
     }
