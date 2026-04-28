@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "April 27, 2026",
+  "lastUpdated": "April 28, 2026",
   "executiveSummary": [
     "The current macroeconomic environment is characterized by an extreme valuation paradigm that leaves equity markets highly vulnerable to exogenous shocks and shifting monetary policy. Despite clear signals of economic deceleration, risk assets have continued to price in an improbable scenario of flawless execution, ignoring mounting structural headwinds. We are operating in a climate where historical safety margins have evaporated, demanding a rigorous defensive posture and active risk mitigation across all asset classes.",
     "Compounding this precarious domestic setup is the escalating geopolitical instability, most notably the Strait of Hormuz standoff. The disruption of global energy supply lines has injected an immediate inflationary impulse into the system, complicating the Federal Reserve's path forward and acting as a direct tax on the consumer. The convergence of these energy shocks with already stretched equity multiples creates a brittle market structure where any catalyst could trigger a rapid and severe repricing of risk."
@@ -7,17 +7,17 @@
   "dailyHeadlines": [
     {
       "title": "An AI agent deleted our production database. The agent's confession is below",
-      "desc": "Source: Hacker News. Points: 729. Comments: 868.",
+      "desc": "Source: Hacker News. Points: 821. Comments: 980.",
       "type": "extreme"
     },
     {
       "title": "AI should elevate your thinking, not replace it",
-      "desc": "Source: Hacker News. Points: 548. Comments: 404.",
+      "desc": "Source: Hacker News. Points: 816. Comments: 574.",
       "type": "warning"
     },
     {
-      "title": "The AI industry is discovering that the public hates it",
-      "desc": "Source: Hacker News. Points: 270. Comments: 359.",
+      "title": "4TB of voice samples just stolen from 40k AI contractors at Mercor",
+      "desc": "Source: Hacker News. Points: 449. Comments: 165.",
       "type": "info"
     }
   ],
@@ -36,19 +36,19 @@
     },
     {
       "title": "10Y - 2Y Spread",
-      "value": "0.53%",
+      "value": "0.57%",
       "status": "Steepening - slower growth",
       "type": "warning"
     },
     {
       "title": "10Y Treasury Rate",
-      "value": "4.34%",
+      "value": "4.31%",
       "status": "High - energy-driven inflation",
       "type": "warning"
     },
     {
       "title": "2Y Treasury Rate",
-      "value": "3.83%",
+      "value": "3.78%",
       "status": "Elevated - higher-for-longer stance",
       "type": "warning"
     },
@@ -271,23 +271,23 @@
       "items": [
         {
           "title": "An AI agent deleted our production database. The agent's confession is below",
-          "desc": "Source: Hacker News. Points: 729. Comments: 868."
+          "desc": "Source: Hacker News. Points: 821. Comments: 980."
         },
         {
           "title": "AI should elevate your thinking, not replace it",
-          "desc": "Source: Hacker News. Points: 548. Comments: 404."
+          "desc": "Source: Hacker News. Points: 816. Comments: 574."
         },
         {
-          "title": "The AI industry is discovering that the public hates it",
-          "desc": "Source: Hacker News. Points: 270. Comments: 359."
+          "title": "4TB of voice samples just stolen from 40k AI contractors at Mercor",
+          "desc": "Source: Hacker News. Points: 449. Comments: 165."
         },
         {
-          "title": "Eden AI – European Alternative to OpenRouter",
-          "desc": "Source: Hacker News. Points: 129. Comments: 67."
+          "title": "China blocks Meta's acquisition of AI startup Manus",
+          "desc": "Source: Hacker News. Points: 306. Comments: 207."
         },
         {
-          "title": "Google banks on AI edge to catch up to cloud rivals Amazon and Microsoft",
-          "desc": "Source: Hacker News. Points: 103. Comments: 89."
+          "title": "Mistral built a $14B AI empire by not being American",
+          "desc": "Source: Hacker News. Points: 203. Comments: 160."
         }
       ]
     },
@@ -295,16 +295,16 @@
       "category": "Market & Infrastructure Headlines",
       "items": [
         {
+          "title": "Eden AI – European Alternative to OpenRouter",
+          "desc": "Source: Hacker News. Points: 133. Comments: 69."
+        },
+        {
+          "title": "Google banks on AI edge to catch up to cloud rivals Amazon and Microsoft",
+          "desc": "Source: Hacker News. Points: 107. Comments: 111."
+        },
+        {
           "title": "Have you tried Clean Architecture as foundation for your AI project?",
           "desc": "Source: Hacker News. Points: 94. Comments: 1."
-        },
-        {
-          "title": "Show HN: AI memory with biological decay (52% recall)",
-          "desc": "Source: Hacker News. Points: 89. Comments: 38."
-        },
-        {
-          "title": "AI can cost more than human workers now",
-          "desc": "Source: Hacker News. Points: 75. Comments: 48."
         }
       ]
     },
