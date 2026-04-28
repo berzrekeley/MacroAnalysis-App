@@ -174,7 +174,27 @@ async function main() {
         }
     }
 
-    // 4. FINALIZE
+    // 4. UPDATE SECTOR OUTLOOK (Simulated update based on macro trends)
+    console.log('Updating sector outlooks...');
+    if (dashboardData.sectorData) {
+        // Find Fed Funds Rate to determine outlook for Tech/Real Estate
+        const fedRate = dashboardData.metrics.find(m => m.title === 'Fed Funds Rate')?.value;
+        const rateNum = fedRate ? parseFloat(fedRate) : 5.0;
+        
+        dashboardData.sectorData.forEach(sector => {
+            if (sector.id === 'tech') {
+                sector.outlook = rateNum > 4 ? 'Underweight' : 'Neutral';
+            } else if (sector.id === 'energy') {
+                sector.risk = 'Medium-High'; // Energy remains volatile
+            }
+            // Add a timestamp or refresh note to the details
+            if (!sector.details.includes('Refreshed on')) {
+                sector.details += ` (Outlook refreshed: ${dashboardData.lastUpdated})`;
+            }
+        });
+    }
+
+    // 5. FINALIZE
     dashboardData.lastUpdated = new Date().toLocaleDateString('en-US', { month: 'long', day: 'numeric', year: 'numeric' });
 
     fs.writeFileSync(dataPath, JSON.stringify(dashboardData, null, 2));
