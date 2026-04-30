@@ -45,6 +45,7 @@ const getMetricIcon = (title) => {
     case "Building Permits": return <Building size={20} />;
     case "Initial Jobless Claims": return <Activity size={20} />;
     case "Monthly ADP Employment": return <Users size={20} />;
+    case "CPI (YoY)": return <TrendingUp size={20} />;
     default: return <Activity size={20} />;
   }
 };
