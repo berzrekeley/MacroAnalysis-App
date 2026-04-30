@@ -1,11 +1,16 @@
 {
+<<<<<<< HEAD
   "lastUpdated": "April 30, 2026",
+=======
+  "lastUpdated": "April 29, 2026",
+>>>>>>> 85782a5f9e613b111060cb69bb0ece7be30a8e37
   "executiveSummary": [
     "As of April 30, 2026, the U.S. macroeconomic environment is navigating a complex period of high interest rates and shifting labor market dynamics. With the Fed Funds Rate holding at 3.64% and CPI inflation tracking at 3.29%, the central bank continues its \"higher-for-longer\" stance to anchor inflation expectations. Recent headlines such as \"Walmart makes surprising move beyond retail\" suggest that market participants remain hypersensitive to every data print, particularly around corporate earnings and consumer spending resilience.",
     "The labor market, a key pillar of support, shows 214,000 initial jobless claims, reflecting a relatively stable but cooling employment landscape. Geopolitically, events like \"141-year-old candy store chain closes all retail locations\" introduce exogenous risks that could disrupt global energy supplies and re-ignite inflationary impulses, keeping the Federal Reserve in a defensive posture as they balance growth against price stability. Analysts are closely watching for any signs of a \"hard landing\" as the effects of previous tightening cycles continue to filter through the real economy."
   ],
   "dailyHeadlines": [
     {
+<<<<<<< HEAD
       "title": "Walmart makes surprising move beyond retail",
       "summary": "",
       "url": "https://finance.yahoo.com/markets/stocks/articles/walmart-makes-surprising-move-beyond-230300121.html",
@@ -21,6 +26,23 @@
       "title": "U.S. Drill More: How Washington is pulling every energy lever at once",
       "summary": "",
       "url": "https://finance.yahoo.com/sectors/energy/articles/u-drill-more-washington-pulling-193054522.html",
+=======
+      "title": "Localsend: An open-source cross-platform alternative to AirDrop",
+      "summary": "Latest AI discussion on Hacker News: Localsend: An open-source cross-platform alternative to AirDrop. This story has gained 861 points and 258 comments. (Source: Hacker News)",
+      "url": "https://github.com/localsend/localsend",
+      "type": "extreme"
+    },
+    {
+      "title": "China blocks Meta's acquisition of AI startup Manus",
+      "summary": "Latest AI discussion on Hacker News: China blocks Meta's acquisition of AI startup Manus. This story has gained 394 points and 322 comments. (Source: Hacker News)",
+      "url": "https://www.cnbc.com/2026/04/27/meta-manus-china-blocks-acquisition-ai-startup.html",
+      "type": "warning"
+    },
+    {
+      "title": "VibeVoice: Open-source frontier voice AI",
+      "summary": "Latest AI discussion on Hacker News: VibeVoice: Open-source frontier voice AI. This story has gained 373 points and 169 comments. (Source: Hacker News)",
+      "url": "https://github.com/microsoft/VibeVoice",
+>>>>>>> 85782a5f9e613b111060cb69bb0ece7be30a8e37
       "type": "info"
     }
   ],
@@ -39,13 +61,21 @@
     },
     {
       "title": "10Y - 2Y Spread",
+<<<<<<< HEAD
       "value": "0.50%",
+=======
+      "value": "0.52%",
+>>>>>>> 85782a5f9e613b111060cb69bb0ece7be30a8e37
       "status": "Steepening - slower growth",
       "type": "warning"
     },
     {
       "title": "10Y Treasury Rate",
+<<<<<<< HEAD
       "value": "4.36%",
+=======
+      "value": "4.35%",
+>>>>>>> 85782a5f9e613b111060cb69bb0ece7be30a8e37
       "status": "High - energy-driven inflation",
       "type": "warning"
     },
@@ -217,17 +247,17 @@
       "id": "tech",
       "name": "Technology",
       "risk": "High",
-      "outlook": "Underweight",
+      "outlook": "Neutral",
       "headwind": "Multiple contraction & AI CAPEX scrutiny",
-      "details": "The technology sector is undergoing a necessary but painful regime change, characterized primarily by valuation compression in B2B software, which is currently down 22.2% year-to-date. The previous narrative of unconditional growth has been replaced by an AI boom reality check. Enterprises are aggressively scrutinizing capital expenditures, shifting from speculative AI exploration to demanding tangible return on investment."
+      "details": "The technology sector is undergoing a necessary but painful regime change, characterized primarily by valuation compression in B2B software, which is currently down 22.2% year-to-date. The previous narrative of unconditional growth has been replaced by an AI boom reality check. Enterprises are aggressively scrutinizing capital expenditures, shifting from speculative AI exploration to demanding tangible return on investment. (Outlook refreshed: April 28, 2026) (Outlook refreshed: April 28, 2026)"
     },
     {
       "id": "energy",
       "name": "Energy & Trans.",
-      "risk": "Medium",
+      "risk": "Medium-High",
       "outlook": "Neutral / Defensive",
       "headwind": "Margin destruction from fuel costs",
-      "details": "This sector remains the epicenter of current macroeconomic stress. The prevailing $5.45/gallon diesel price has systematically dismantled operating margins across the logistics and transportation matrix. We are tracking a devastating 50% increase in freight fuel expenditures, which is cascading through the supply chain."
+      "details": "This sector remains the epicenter of current macroeconomic stress. The prevailing $5.45/gallon diesel price has systematically dismantled operating margins across the logistics and transportation matrix. We are tracking a devastating 50% increase in freight fuel expenditures, which is cascading through the supply chain. (Outlook refreshed: April 28, 2026) (Outlook refreshed: April 28, 2026)"
     },
     {
       "id": "banking",
@@ -235,7 +265,7 @@
       "risk": "High",
       "outlook": "Underweight",
       "headwind": "Unrealized losses & duration mismatch",
-      "details": "Systemic vulnerabilities within regional and mid-tier banks remain an acute concern. As outlined in the FDIC 2026 Risk Review, the overhang of unrealized securities losses continues to impair balance sheet flexibility. The duration mismatch in a 'higher-for-longer' rate environment constrains lending capacity."
+      "details": "Systemic vulnerabilities within regional and mid-tier banks remain an acute concern. As outlined in the FDIC 2026 Risk Review, the overhang of unrealized securities losses continues to impair balance sheet flexibility. The duration mismatch in a 'higher-for-longer' rate environment constrains lending capacity. (Outlook refreshed: April 28, 2026) (Outlook refreshed: April 28, 2026)"
     },
     {
       "id": "realestate",
@@ -243,7 +273,7 @@
       "risk": "High",
       "outlook": "Bearish",
       "headwind": "Elevated rates & federal debt crowding out",
-      "details": "The commercial and residential real estate markets are being suffocated by the macro-level crowding-out effect of the $38 trillion federal debt. This dynamic exerts a $76,000 negative impact on the lifetime purchasing power of median borrowers, freezing transaction volumes and forcing a slow-motion capitulation in property valuations."
+      "details": "The commercial and residential real estate markets are being suffocated by the macro-level crowding-out effect of the $38 trillion federal debt. This dynamic exerts a $76,000 negative impact on the lifetime purchasing power of median borrowers, freezing transaction volumes and forcing a slow-motion capitulation in property valuations. (Outlook refreshed: April 28, 2026) (Outlook refreshed: April 28, 2026)"
     },
     {
       "id": "consumer",
@@ -251,7 +281,7 @@
       "risk": "High",
       "outlook": "Bearish",
       "headwind": "Stagflationary pressure / Regressive tax",
-      "details": "The consumer discretionary sector is facing immediate stagflationary pressure. The surge in essential costs—primarily driven by fuel and energy—operates as a highly regressive tax on the lower and middle-income cohorts. Spending on durables, leisure, and discretionary retail is being systematically hollowed out."
+      "details": "The consumer discretionary sector is facing immediate stagflationary pressure. The surge in essential costs—primarily driven by fuel and energy—operates as a highly regressive tax on the lower and middle-income cohorts. Spending on durables, leisure, and discretionary retail is being systematically hollowed out. (Outlook refreshed: April 28, 2026) (Outlook refreshed: April 28, 2026)"
     }
   ],
   "probabilities": [
@@ -299,6 +329,7 @@
       "category": "Frontier Model Race & Breakthroughs",
       "items": [
         {
+<<<<<<< HEAD
           "title": "The Zig project's rationale for their firm anti-AI contribution policy",
           "summary": "Latest AI discussion on Hacker News: The Zig project's rationale for their firm anti-AI contribution policy. Points: 169. (Source: Hacker News)",
           "url": "https://simonwillison.net/2026/Apr/30/zig-anti-ai/"
@@ -321,6 +352,30 @@
         {
           "title": "Claude.ai unavailable and elevated errors on the API",
           "summary": "Latest AI discussion on Hacker News: Claude.ai unavailable and elevated errors on the API. Points: 295. (Source: Hacker News)",
+=======
+          "title": "Localsend: An open-source cross-platform alternative to AirDrop",
+          "summary": "Latest AI discussion on Hacker News: Localsend: An open-source cross-platform alternative to AirDrop. This story has gained 861 points and 258 comments. (Source: Hacker News)",
+          "url": "https://github.com/localsend/localsend"
+        },
+        {
+          "title": "China blocks Meta's acquisition of AI startup Manus",
+          "summary": "Latest AI discussion on Hacker News: China blocks Meta's acquisition of AI startup Manus. This story has gained 394 points and 322 comments. (Source: Hacker News)",
+          "url": "https://www.cnbc.com/2026/04/27/meta-manus-china-blocks-acquisition-ai-startup.html"
+        },
+        {
+          "title": "VibeVoice: Open-source frontier voice AI",
+          "summary": "Latest AI discussion on Hacker News: VibeVoice: Open-source frontier voice AI. This story has gained 373 points and 169 comments. (Source: Hacker News)",
+          "url": "https://github.com/microsoft/VibeVoice"
+        },
+        {
+          "title": "Google and Pentagon reportedly agree on deal for 'any lawful' use of AI",
+          "summary": "Latest AI discussion on Hacker News: Google and Pentagon reportedly agree on deal for 'any lawful' use of AI. This story has gained 295 points and 270 comments. (Source: Hacker News)",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/919494/google-pentagon-classified-ai-deal"
+        },
+        {
+          "title": "Claude.ai unavailable and elevated errors on the API",
+          "summary": "Latest AI discussion on Hacker News: Claude.ai unavailable and elevated errors on the API. This story has gained 285 points and 246 comments. (Source: Hacker News)",
+>>>>>>> 85782a5f9e613b111060cb69bb0ece7be30a8e37
           "url": "https://status.claude.com/incidents/9l93x2ht4s5w"
         }
       ]
