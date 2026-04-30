@@ -1,26 +1,26 @@
 {
   "lastUpdated": "April 30, 2026",
   "executiveSummary": [
-    "As of April 30, 2026, the U.S. macroeconomic environment is navigating a complex period of high interest rates and shifting labor market dynamics. With the Fed Funds Rate holding at 3.64% and CPI inflation tracking at 3.29%, the central bank continues its \"higher-for-longer\" stance to anchor inflation expectations. Recent headlines such as \"Walmart makes surprising move beyond retail\" suggest that market participants remain hypersensitive to every data print, particularly around corporate earnings and consumer spending resilience.",
-    "The labor market, a key pillar of support, shows 214,000 initial jobless claims, reflecting a relatively stable but cooling employment landscape. Geopolitically, events like \"141-year-old candy store chain closes all retail locations\" introduce exogenous risks that could disrupt global energy supplies and re-ignite inflationary impulses, keeping the Federal Reserve in a defensive posture as they balance growth against price stability. Analysts are closely watching for any signs of a \"hard landing\" as the effects of previous tightening cycles continue to filter through the real economy."
+    "As of April 30, 2026, the U.S. macroeconomic environment is navigating a complex period of high interest rates and shifting labor market dynamics. With the Fed Funds Rate holding at 3.64% and CPI inflation tracking at 3.29%, the central bank continues its \"higher-for-longer\" stance to anchor inflation expectations. Recent headlines such as \"Northland Securities Flags Rising Competition for Advanced Micro Devices (AMD)\" suggest that market participants remain hypersensitive to every data print, particularly around corporate earnings and consumer spending resilience.",
+    "The labor market, a key pillar of support, shows 214,000 initial jobless claims, reflecting a relatively stable but cooling employment landscape. Geopolitically, events like \"Bank of America Sees Caterpillar (CAT) Benefiting From Broadening Equipment Demand Recovery\" introduce exogenous risks that could disrupt global energy supplies and re-ignite inflationary impulses, keeping the Federal Reserve in a defensive posture as they balance growth against price stability. Analysts are closely watching for any signs of a \"hard landing\" as the effects of previous tightening cycles continue to filter through the real economy."
   ],
   "dailyHeadlines": [
     {
-      "title": "Walmart makes surprising move beyond retail",
+      "title": "Northland Securities Flags Rising Competition for Advanced Micro Devices (AMD)",
       "summary": "",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/walmart-makes-surprising-move-beyond-230300121.html",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/northland-securities-flags-rising-competition-003625782.html",
       "type": "extreme"
     },
     {
-      "title": "141-year-old candy store chain closes all retail locations",
+      "title": "Bank of America Sees Caterpillar (CAT) Benefiting From Broadening Equipment Demand Recovery",
       "summary": "",
-      "url": "https://finance.yahoo.com/economy/articles/141-old-candy-store-chain-224800796.html",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/bank-america-sees-caterpillar-cat-003334555.html",
       "type": "warning"
     },
     {
-      "title": "Sandisk Q3 Earnings Preview: Is More Upside Ahead for SNDK Stock?",
+      "title": "Warren Buffett’s Berkshire Hathaway Is Losing Money in This Dividend Stock: Can It Work for You?",
       "summary": "",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/sandisk-q3-earnings-preview-more-200222339.html",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/warren-buffett-berkshire-hathaway-losing-233002021.html",
       "type": "info"
     }
   ],
@@ -299,23 +299,23 @@
       "category": "Frontier Model Race & Breakthroughs",
       "items": [
         {
-          "title": "The Zig project's rationale for their firm anti-AI contribution policy",
-          "summary": "Latest AI discussion on Hacker News: The Zig project's rationale for their firm anti-AI contribution policy. Points: 200. (Source: Hacker News)",
+          "title": "The Zig project's rationale for their anti-AI contribution policy",
+          "summary": "Latest AI discussion on Hacker News: The Zig project's rationale for their anti-AI contribution policy. Points: 337. (Source: Hacker News)",
           "url": "https://simonwillison.net/2026/Apr/30/zig-anti-ai/"
         },
         {
           "title": "\"People who don't use AI will be left behind\"",
-          "summary": "Latest AI discussion on Hacker News: \"People who don't use AI will be left behind\". Points: 157. (Source: Hacker News)",
+          "summary": "Latest AI discussion on Hacker News: \"People who don't use AI will be left behind\". Points: 162. (Source: Hacker News)",
           "url": "https://migrainebrain.bearblog.dev/people-who-dont-use-ai-will-be-left-behind/"
         },
         {
           "title": "Why AI companies want you to be afraid of them",
-          "summary": "Latest AI discussion on Hacker News: Why AI companies want you to be afraid of them. Points: 276. (Source: Hacker News)",
+          "summary": "Latest AI discussion on Hacker News: Why AI companies want you to be afraid of them. Points: 277. (Source: Hacker News)",
           "url": "https://www.bbc.com/future/article/20260428-ai-companies-want-you-to-be-afraid-of-them"
         },
         {
           "title": "He asked AI to count carbs 27000 times. It couldn't give the same answer twice",
-          "summary": "Latest AI discussion on Hacker News: He asked AI to count carbs 27000 times. It couldn't give the same answer twice. Points: 237. (Source: Hacker News)",
+          "summary": "Latest AI discussion on Hacker News: He asked AI to count carbs 27000 times. It couldn't give the same answer twice. Points: 238. (Source: Hacker News)",
           "url": "https://www.diabettech.com/i-asked-ai-to-count-my-carbs-27000-times-it-couldnt-give-me-the-same-answer-twice/"
         },
         {
@@ -330,7 +330,7 @@
       "items": [
         {
           "title": "AI's economics don't make sense",
-          "summary": "Latest AI discussion on Hacker News: AI's economics don't make sense. Points: 230. (Source: Hacker News)",
+          "summary": "Latest AI discussion on Hacker News: AI's economics don't make sense. Points: 232. (Source: Hacker News)",
           "url": "https://www.wheresyoured.at/ais-economics-dont-make-sense/"
         },
         {
@@ -350,7 +350,7 @@
         },
         {
           "title": "Localsend: An open-source cross-platform alternative to AirDrop",
-          "summary": "Latest AI discussion on Hacker News: Localsend: An open-source cross-platform alternative to AirDrop. Points: 900. (Source: Hacker News)",
+          "summary": "Latest AI discussion on Hacker News: Localsend: An open-source cross-platform alternative to AirDrop. Points: 904. (Source: Hacker News)",
           "url": "https://github.com/localsend/localsend"
         }
       ]
