@@ -287,6 +287,17 @@ async function main() {
     // 6. UPDATE ARENA & MODEL COMPARISONS
     console.log('Fetching latest AI model rankings...');
     const arena = await fetchArenaData();
+    
+    // Explicitly update static model info to latest versions
+    if (dashboardData.aiModels) {
+        dashboardData.aiModels.forEach(m => {
+            if (m.model.includes('Claude Opus')) {
+                m.model = 'Claude Opus 4.7';
+                m.trait = 'State-of-the-art reasoning and agentic coding (April 2026)';
+            }
+        });
+    }
+
     if (arena.length > 0) {
         // Update Chatbot Arena top 4
         dashboardData.chatbotArena = arena.slice(0, 4).map(m => ({

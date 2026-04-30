@@ -362,9 +362,24 @@ export default function App() {
                   </h2>
                   <ul className="space-y-4">
                     {macroData.dailyHeadlines.map((headline, i) => (
-                      <li key={i} className="flex gap-3 items-start">
+                      <li key={i} className="flex gap-3 items-start group">
                         <span className={`w-2 h-2 rounded-full ${headlineColors[headline.type] || 'bg-blue-500'} mt-2 shrink-0 ${headline.type === 'extreme' ? 'animate-pulse' : ''}`}></span>
-                        <p className="text-sm text-slate-300"><strong className="text-white block mb-1">{headline.title}:</strong> {headline.summary || headline.desc}</p>
+                        <div className="text-sm">
+                          <strong className="text-white block mb-1">{headline.title}</strong>
+                          <p className="text-slate-300 leading-relaxed">
+                            {headline.summary || headline.desc}
+                          </p>
+                          {headline.url && (
+                            <a 
+                              href={headline.url} 
+                              target="_blank" 
+                              rel="noopener noreferrer" 
+                              className="text-cyan-400 hover:text-cyan-300 text-xs flex items-center gap-1 mt-2 transition-colors font-semibold"
+                            >
+                              Read Full Article <ArrowUpRight size={12} />
+                            </a>
+                          )}
+                        </div>
                       </li>
                     ))}
                   </ul>
