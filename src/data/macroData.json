@@ -1,26 +1,26 @@
 {
-  "lastUpdated": "April 30, 2026",
+  "lastUpdated": "May 1, 2026",
   "executiveSummary": [
-    "As of April 30, 2026, the U.S. macroeconomic environment is navigating a complex period of high interest rates and shifting labor market dynamics. With the Fed Funds Rate holding at 3.64% and CPI inflation tracking at 3.29%, the central bank continues its \"higher-for-longer\" stance to anchor inflation expectations. Recent headlines such as \"Northland Securities Flags Rising Competition for Advanced Micro Devices (AMD)\" suggest that market participants remain hypersensitive to every data print, particularly around corporate earnings and consumer spending resilience.",
-    "The labor market, a key pillar of support, shows 214,000 initial jobless claims, reflecting a relatively stable but cooling employment landscape. Geopolitically, events like \"Bank of America Sees Caterpillar (CAT) Benefiting From Broadening Equipment Demand Recovery\" introduce exogenous risks that could disrupt global energy supplies and re-ignite inflationary impulses, keeping the Federal Reserve in a defensive posture as they balance growth against price stability. Analysts are closely watching for any signs of a \"hard landing\" as the effects of previous tightening cycles continue to filter through the real economy."
+    "As of May 1, 2026, the U.S. macroeconomic environment is navigating a complex period of high interest rates and shifting labor market dynamics. With the Fed Funds Rate holding at 3.64% and CPI inflation tracking at 3.29%, the central bank continues its \"higher-for-longer\" stance to anchor inflation expectations. Recent headlines such as \"Cathie Wood buys $18 million of beaten-down AI stock\" suggest that market participants remain hypersensitive to every data print, particularly around corporate earnings and consumer spending resilience.",
+    "The labor market, a key pillar of support, shows 189,000 initial jobless claims, reflecting a relatively stable but cooling employment landscape. Geopolitically, events like \"Is Union Pacific (UNP) the Best Harvard University Stock Pick?\" introduce exogenous risks that could disrupt global energy supplies and re-ignite inflationary impulses, keeping the Federal Reserve in a defensive posture as they balance growth against price stability. Analysts are closely watching for any signs of a \"hard landing\" as the effects of previous tightening cycles continue to filter through the real economy."
   ],
   "dailyHeadlines": [
     {
-      "title": "Northland Securities Flags Rising Competition for Advanced Micro Devices (AMD)",
+      "title": "Cathie Wood buys $18 million of beaten-down AI stock",
       "summary": "",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/northland-securities-flags-rising-competition-003625782.html",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/cathie-wood-buys-18-million-150700302.html",
       "type": "extreme"
     },
     {
-      "title": "Bank of America Sees Caterpillar (CAT) Benefiting From Broadening Equipment Demand Recovery",
+      "title": "Is Union Pacific (UNP) the Best Harvard University Stock Pick?",
       "summary": "",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/bank-america-sees-caterpillar-cat-003334555.html",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/union-pacific-unp-best-harvard-224822044.html",
       "type": "warning"
     },
     {
-      "title": "Warren Buffett’s Berkshire Hathaway Is Losing Money in This Dividend Stock: Can It Work for You?",
+      "title": "Does homeowners insurance cover water damage?",
       "summary": "",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/warren-buffett-berkshire-hathaway-losing-233002021.html",
+      "url": "https://finance.yahoo.com/personal-finance/insurance/article/does-homeowners-insurance-cover-water-damage-193142729.html",
       "type": "info"
     }
   ],
@@ -39,19 +39,19 @@
     },
     {
       "title": "10Y - 2Y Spread",
-      "value": "0.50%",
+      "value": "0.52%",
       "status": "Steepening - slower growth",
       "type": "warning"
     },
     {
       "title": "10Y Treasury Rate",
-      "value": "4.36%",
+      "value": "4.42%",
       "status": "High - energy-driven inflation",
       "type": "warning"
     },
     {
       "title": "2Y Treasury Rate",
-      "value": "3.84%",
+      "value": "3.92%",
       "status": "Elevated - higher-for-longer stance",
       "type": "warning"
     },
@@ -81,7 +81,7 @@
     },
     {
       "title": "Initial Jobless Claims",
-      "value": "214,000",
+      "value": "189,000",
       "status": "Stable - primary pillar of support",
       "type": "neutral"
     },
@@ -100,11 +100,18 @@
   ],
   "adpWeeklyData": [
     {
+      "week": "Apr 25",
+      "fullDate": "Apr 25, 2026",
+      "number": 189000,
+      "delta": -26000,
+      "deltaPct": -12.09
+    },
+    {
       "week": "Apr 18",
       "fullDate": "Apr 18, 2026",
-      "number": 214000,
-      "delta": 6000,
-      "deltaPct": 2.88
+      "number": 215000,
+      "delta": 7000,
+      "deltaPct": 3.37
     },
     {
       "week": "Apr 11",
@@ -201,13 +208,6 @@
       "week": "Jan 10",
       "fullDate": "Jan 10, 2026",
       "number": 201000,
-      "delta": -6000,
-      "deltaPct": -2.9
-    },
-    {
-      "week": "Jan 3",
-      "fullDate": "Jan 3, 2026",
-      "number": 207000,
       "delta": 0,
       "deltaPct": 0
     }
@@ -299,29 +299,29 @@
       "category": "Frontier Model Race & Breakthroughs",
       "items": [
         {
+          "title": "Shai-Hulud Themed Malware Found in the PyTorch Lightning AI Training Library",
+          "summary": "Latest AI discussion on Hacker News: Shai-Hulud Themed Malware Found in the PyTorch Lightning AI Training Library. Points: 399. (Source: Hacker News)",
+          "url": "https://semgrep.dev/blog/2026/malicious-dependency-in-pytorch-lightning-used-for-ai-training/"
+        },
+        {
+          "title": "The More Young People Use AI, the More They Hate It",
+          "summary": "Latest AI discussion on Hacker News: The More Young People Use AI, the More They Hate It. Points: 122. (Source: Hacker News)",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/920401/gen-z-ai"
+        },
+        {
+          "title": "DataCenter.FM – background noise app featuring the sound of the AI bubble",
+          "summary": "Latest AI discussion on Hacker News: DataCenter.FM – background noise app featuring the sound of the AI bubble. Points: 139. (Source: Hacker News)",
+          "url": "https://datacenter.fm/"
+        },
+        {
           "title": "The Zig project's rationale for their anti-AI contribution policy",
-          "summary": "Latest AI discussion on Hacker News: The Zig project's rationale for their anti-AI contribution policy. Points: 337. (Source: Hacker News)",
+          "summary": "Latest AI discussion on Hacker News: The Zig project's rationale for their anti-AI contribution policy. Points: 656. (Source: Hacker News)",
           "url": "https://simonwillison.net/2026/Apr/30/zig-anti-ai/"
         },
         {
-          "title": "\"People who don't use AI will be left behind\"",
-          "summary": "Latest AI discussion on Hacker News: \"People who don't use AI will be left behind\". Points: 162. (Source: Hacker News)",
-          "url": "https://migrainebrain.bearblog.dev/people-who-dont-use-ai-will-be-left-behind/"
-        },
-        {
-          "title": "Why AI companies want you to be afraid of them",
-          "summary": "Latest AI discussion on Hacker News: Why AI companies want you to be afraid of them. Points: 277. (Source: Hacker News)",
-          "url": "https://www.bbc.com/future/article/20260428-ai-companies-want-you-to-be-afraid-of-them"
-        },
-        {
-          "title": "He asked AI to count carbs 27000 times. It couldn't give the same answer twice",
-          "summary": "Latest AI discussion on Hacker News: He asked AI to count carbs 27000 times. It couldn't give the same answer twice. Points: 238. (Source: Hacker News)",
-          "url": "https://www.diabettech.com/i-asked-ai-to-count-my-carbs-27000-times-it-couldnt-give-me-the-same-answer-twice/"
-        },
-        {
-          "title": "Claude.ai unavailable and elevated errors on the API",
-          "summary": "Latest AI discussion on Hacker News: Claude.ai unavailable and elevated errors on the API. Points: 295. (Source: Hacker News)",
-          "url": "https://status.claude.com/incidents/9l93x2ht4s5w"
+          "title": "Mike: open-source legal AI",
+          "summary": "Latest AI discussion on Hacker News: Mike: open-source legal AI. Points: 200. (Source: Hacker News)",
+          "url": "https://mikeoss.com/"
         }
       ]
     },
@@ -329,29 +329,29 @@
       "category": "Enterprise & Agentic AI",
       "items": [
         {
-          "title": "AI's economics don't make sense",
-          "summary": "Latest AI discussion on Hacker News: AI's economics don't make sense. Points: 232. (Source: Hacker News)",
-          "url": "https://www.wheresyoured.at/ais-economics-dont-make-sense/"
+          "title": "\"People who don't use AI will be left behind\"",
+          "summary": "Latest AI discussion on Hacker News: \"People who don't use AI will be left behind\". Points: 167. (Source: Hacker News)",
+          "url": "https://migrainebrain.bearblog.dev/people-who-dont-use-ai-will-be-left-behind/"
         },
         {
-          "title": "AISLE Discovers 38 CVEs in OpenEMR Healthcare Software",
-          "summary": "Latest AI discussion on Hacker News: AISLE Discovers 38 CVEs in OpenEMR Healthcare Software. Points: 176. (Source: Hacker News)",
-          "url": "https://aisle.com/blog/aisle-discovers-38-critical-security-vulnerabilities-in-healthcare-software-used-by-100000-providers"
+          "title": "Ramp's Sheets AI Exfiltrates Financials",
+          "summary": "Latest AI discussion on Hacker News: Ramp's Sheets AI Exfiltrates Financials. Points: 140. (Source: Hacker News)",
+          "url": "https://www.promptarmor.com/resources/ramps-sheets-ai-exfiltrates-financials"
         },
         {
-          "title": "Google and Pentagon reportedly agree on deal for 'any lawful' use of AI",
-          "summary": "Latest AI discussion on Hacker News: Google and Pentagon reportedly agree on deal for 'any lawful' use of AI. Points: 310. (Source: Hacker News)",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/919494/google-pentagon-classified-ai-deal"
+          "title": "Why AI companies want you to be afraid of them",
+          "summary": "Latest AI discussion on Hacker News: Why AI companies want you to be afraid of them. Points: 283. (Source: Hacker News)",
+          "url": "https://www.bbc.com/future/article/20260428-ai-companies-want-you-to-be-afraid-of-them"
         },
         {
-          "title": "VibeVoice: Open-source frontier voice AI",
-          "summary": "Latest AI discussion on Hacker News: VibeVoice: Open-source frontier voice AI. Points: 385. (Source: Hacker News)",
-          "url": "https://github.com/microsoft/VibeVoice"
+          "title": "Letting AI play my game – building an agentic test harness to help play-testing",
+          "summary": "Latest AI discussion on Hacker News: Letting AI play my game – building an agentic test harness to help play-testing. Points: 132. (Source: Hacker News)",
+          "url": "https://blog.jeffschomay.com/letting-ai-play-my-game"
         },
         {
-          "title": "Localsend: An open-source cross-platform alternative to AirDrop",
-          "summary": "Latest AI discussion on Hacker News: Localsend: An open-source cross-platform alternative to AirDrop. Points: 904. (Source: Hacker News)",
-          "url": "https://github.com/localsend/localsend"
+          "title": "He asked AI to count carbs 27000 times. It couldn't give the same answer twice",
+          "summary": "Latest AI discussion on Hacker News: He asked AI to count carbs 27000 times. It couldn't give the same answer twice. Points: 240. (Source: Hacker News)",
+          "url": "https://www.diabettech.com/i-asked-ai-to-count-my-carbs-27000-times-it-couldnt-give-me-the-same-answer-twice/"
         }
       ]
     },
