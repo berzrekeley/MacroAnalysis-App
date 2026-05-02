@@ -1,26 +1,26 @@
 {
-  "lastUpdated": "May 1, 2026",
+  "lastUpdated": "May 2, 2026",
   "executiveSummary": [
-    "As of May 1, 2026, the U.S. macroeconomic environment is navigating a complex period of high interest rates and shifting labor market dynamics. With the Fed Funds Rate holding at 3.64% and CPI inflation tracking at 3.29%, the central bank continues its \"higher-for-longer\" stance to anchor inflation expectations. Recent headlines such as \"Cathie Wood buys $18 million of beaten-down AI stock\" suggest that market participants remain hypersensitive to every data print, particularly around corporate earnings and consumer spending resilience.",
-    "The labor market, a key pillar of support, shows 189,000 initial jobless claims, reflecting a relatively stable but cooling employment landscape. Geopolitically, events like \"Is Union Pacific (UNP) the Best Harvard University Stock Pick?\" introduce exogenous risks that could disrupt global energy supplies and re-ignite inflationary impulses, keeping the Federal Reserve in a defensive posture as they balance growth against price stability. Analysts are closely watching for any signs of a \"hard landing\" as the effects of previous tightening cycles continue to filter through the real economy."
+    "As of May 2, 2026, the U.S. macroeconomic environment is navigating a complex period of high interest rates and shifting labor market dynamics. With the Fed Funds Rate holding at 3.64% and CPI inflation tracking at 3.29%, the central bank continues its \"higher-for-longer\" stance to anchor inflation expectations. Recent headlines such as \"Why Rezolve AI (RZLV) Is Expanding Its Commerce AI Platform Through Microsoft Foundry\" suggest that market participants remain hypersensitive to every data print, particularly around corporate earnings and consumer spending resilience.",
+    "The labor market, a key pillar of support, shows 189,000 initial jobless claims, reflecting a relatively stable but cooling employment landscape. Geopolitically, events like \"Why Brand Engagement Network (BNAI) Is Moving Its Enterprise AI Into Fleet Operations\" introduce exogenous risks that could disrupt global energy supplies and re-ignite inflationary impulses, keeping the Federal Reserve in a defensive posture as they balance growth against price stability. Analysts are closely watching for any signs of a \"hard landing\" as the effects of previous tightening cycles continue to filter through the real economy."
   ],
   "dailyHeadlines": [
     {
-      "title": "Cathie Wood buys $18 million of beaten-down AI stock",
+      "title": "Why Rezolve AI (RZLV) Is Expanding Its Commerce AI Platform Through Microsoft Foundry",
       "summary": "",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/cathie-wood-buys-18-million-150700302.html",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/why-rezolve-ai-rzlv-expanding-090559748.html",
       "type": "extreme"
     },
     {
-      "title": "Is Union Pacific (UNP) the Best Harvard University Stock Pick?",
+      "title": "Why Brand Engagement Network (BNAI) Is Moving Its Enterprise AI Into Fleet Operations",
       "summary": "",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/union-pacific-unp-best-harvard-224822044.html",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/why-brand-engagement-network-bnai-090544242.html",
       "type": "warning"
     },
     {
-      "title": "Does homeowners insurance cover water damage?",
+      "title": "Why Applied Digital (APLD) Is Scaling Its AI Factory Backlog With a New Hyperscaler Lease",
       "summary": "",
-      "url": "https://finance.yahoo.com/personal-finance/insurance/article/does-homeowners-insurance-cover-water-damage-193142729.html",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/why-applied-digital-apld-scaling-090518225.html",
       "type": "info"
     }
   ],
@@ -39,19 +39,19 @@
     },
     {
       "title": "10Y - 2Y Spread",
-      "value": "0.52%",
+      "value": "0.51%",
       "status": "Steepening - slower growth",
       "type": "warning"
     },
     {
       "title": "10Y Treasury Rate",
-      "value": "4.42%",
+      "value": "4.40%",
       "status": "High - energy-driven inflation",
       "type": "warning"
     },
     {
       "title": "2Y Treasury Rate",
-      "value": "3.92%",
+      "value": "3.88%",
       "status": "Elevated - higher-for-longer stance",
       "type": "warning"
     },
@@ -299,29 +299,29 @@
       "category": "Frontier Model Race & Breakthroughs",
       "items": [
         {
-          "title": "Shai-Hulud Themed Malware Found in the PyTorch Lightning AI Training Library",
-          "summary": "Latest AI discussion on Hacker News: Shai-Hulud Themed Malware Found in the PyTorch Lightning AI Training Library. Points: 399. (Source: Hacker News)",
-          "url": "https://semgrep.dev/blog/2026/malicious-dependency-in-pytorch-lightning-used-for-ai-training/"
+          "title": "Spirit Airlines Is Winding Down All Operations",
+          "summary": "Latest AI discussion on Hacker News: Spirit Airlines Is Winding Down All Operations. Points: 46. (Source: Hacker News)",
+          "url": "https://www.spiritrestructuring.com/"
         },
         {
-          "title": "The More Young People Use AI, the More They Hate It",
-          "summary": "Latest AI discussion on Hacker News: The More Young People Use AI, the More They Hate It. Points: 122. (Source: Hacker News)",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/920401/gen-z-ai"
+          "title": "Show HN: Agent-desktop – Native desktop automation CLI for AI agents",
+          "summary": "Latest AI discussion on Hacker News: Show HN: Agent-desktop – Native desktop automation CLI for AI agents. Points: 82. (Source: Hacker News)",
+          "url": "https://github.com/lahfir/agent-desktop"
         },
         {
-          "title": "DataCenter.FM – background noise app featuring the sound of the AI bubble",
-          "summary": "Latest AI discussion on Hacker News: DataCenter.FM – background noise app featuring the sound of the AI bubble. Points: 139. (Source: Hacker News)",
-          "url": "https://datacenter.fm/"
+          "title": "Show HN: AI CAD Harness",
+          "summary": "Latest AI discussion on Hacker News: Show HN: AI CAD Harness. Points: 85. (Source: Hacker News)",
+          "url": "https://fusion.adam.new/install"
         },
         {
-          "title": "The Zig project's rationale for their anti-AI contribution policy",
-          "summary": "Latest AI discussion on Hacker News: The Zig project's rationale for their anti-AI contribution policy. Points: 656. (Source: Hacker News)",
-          "url": "https://simonwillison.net/2026/Apr/30/zig-anti-ai/"
+          "title": "AI uses less water than the public thinks",
+          "summary": "Latest AI discussion on Hacker News: AI uses less water than the public thinks. Points: 376. (Source: Hacker News)",
+          "url": "https://californiawaterblog.com/2026/04/26/ai-water-use-distractions-and-lessons-for-california/"
         },
         {
-          "title": "Mike: open-source legal AI",
-          "summary": "Latest AI discussion on Hacker News: Mike: open-source legal AI. Points: 200. (Source: Hacker News)",
-          "url": "https://mikeoss.com/"
+          "title": "Spotify adds 'Verified' badges to distinguish human artists from AI",
+          "summary": "Latest AI discussion on Hacker News: Spotify adds 'Verified' badges to distinguish human artists from AI. Points: 243. (Source: Hacker News)",
+          "url": "https://www.bbc.com/news/articles/c5yerr4m1yno"
         }
       ]
     },
@@ -329,29 +329,29 @@
       "category": "Enterprise & Agentic AI",
       "items": [
         {
-          "title": "\"People who don't use AI will be left behind\"",
-          "summary": "Latest AI discussion on Hacker News: \"People who don't use AI will be left behind\". Points: 167. (Source: Hacker News)",
-          "url": "https://migrainebrain.bearblog.dev/people-who-dont-use-ai-will-be-left-behind/"
+          "title": "Uber torches 2026 AI budget on Claude Code in four months",
+          "summary": "Latest AI discussion on Hacker News: Uber torches 2026 AI budget on Claude Code in four months. Points: 383. (Source: Hacker News)",
+          "url": "https://www.briefs.co/news/uber-torches-entire-2026-ai-budget-on-claude-code-in-four-months/"
         },
         {
-          "title": "Ramp's Sheets AI Exfiltrates Financials",
-          "summary": "Latest AI discussion on Hacker News: Ramp's Sheets AI Exfiltrates Financials. Points: 140. (Source: Hacker News)",
-          "url": "https://www.promptarmor.com/resources/ramps-sheets-ai-exfiltrates-financials"
+          "title": "Show HN: Loopsy, a way for terminals and AI agents on different machines to talk",
+          "summary": "Latest AI discussion on Hacker News: Show HN: Loopsy, a way for terminals and AI agents on different machines to talk. Points: 52. (Source: Hacker News)",
+          "url": "https://github.com/leox255/loopsy"
         },
         {
-          "title": "Why AI companies want you to be afraid of them",
-          "summary": "Latest AI discussion on Hacker News: Why AI companies want you to be afraid of them. Points: 283. (Source: Hacker News)",
-          "url": "https://www.bbc.com/future/article/20260428-ai-companies-want-you-to-be-afraid-of-them"
+          "title": "Shai-Hulud Themed Malware Found in the PyTorch Lightning AI Training Library",
+          "summary": "Latest AI discussion on Hacker News: Shai-Hulud Themed Malware Found in the PyTorch Lightning AI Training Library. Points: 458. (Source: Hacker News)",
+          "url": "https://semgrep.dev/blog/2026/malicious-dependency-in-pytorch-lightning-used-for-ai-training/"
         },
         {
-          "title": "Letting AI play my game – building an agentic test harness to help play-testing",
-          "summary": "Latest AI discussion on Hacker News: Letting AI play my game – building an agentic test harness to help play-testing. Points: 132. (Source: Hacker News)",
-          "url": "https://blog.jeffschomay.com/letting-ai-play-my-game"
+          "title": "The More Young People Use AI, the More They Hate It",
+          "summary": "Latest AI discussion on Hacker News: The More Young People Use AI, the More They Hate It. Points: 125. (Source: Hacker News)",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/920401/gen-z-ai"
         },
         {
-          "title": "He asked AI to count carbs 27000 times. It couldn't give the same answer twice",
-          "summary": "Latest AI discussion on Hacker News: He asked AI to count carbs 27000 times. It couldn't give the same answer twice. Points: 240. (Source: Hacker News)",
-          "url": "https://www.diabettech.com/i-asked-ai-to-count-my-carbs-27000-times-it-couldnt-give-me-the-same-answer-twice/"
+          "title": "I scraped 1.94M Airbnb photos for opium dens, pet cameos, and messy kitchens",
+          "summary": "Latest AI discussion on Hacker News: I scraped 1.94M Airbnb photos for opium dens, pet cameos, and messy kitchens. Points: 68. (Source: Hacker News)",
+          "url": "https://burla-cloud.github.io/examples/airbnb-burla-demo/"
         }
       ]
     },
