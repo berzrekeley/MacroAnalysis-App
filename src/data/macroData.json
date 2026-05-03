@@ -1,26 +1,26 @@
 {
-  "lastUpdated": "May 2, 2026",
+  "lastUpdated": "May 3, 2026",
   "executiveSummary": [
-    "As of May 2, 2026, the U.S. macroeconomic environment is navigating a complex period of high interest rates and shifting labor market dynamics. With the Fed Funds Rate holding at 3.64% and CPI inflation tracking at 3.29%, the central bank continues its \"higher-for-longer\" stance to anchor inflation expectations. Recent headlines such as \"Why Rezolve AI (RZLV) Is Expanding Its Commerce AI Platform Through Microsoft Foundry\" suggest that market participants remain hypersensitive to every data print, particularly around corporate earnings and consumer spending resilience.",
-    "The labor market, a key pillar of support, shows 189,000 initial jobless claims, reflecting a relatively stable but cooling employment landscape. Geopolitically, events like \"Why Brand Engagement Network (BNAI) Is Moving Its Enterprise AI Into Fleet Operations\" introduce exogenous risks that could disrupt global energy supplies and re-ignite inflationary impulses, keeping the Federal Reserve in a defensive posture as they balance growth against price stability. Analysts are closely watching for any signs of a \"hard landing\" as the effects of previous tightening cycles continue to filter through the real economy."
+    "As of May 3, 2026, the U.S. macroeconomic environment is navigating a complex period of high interest rates and shifting labor market dynamics. With the Fed Funds Rate holding at 3.64% and CPI inflation tracking at 3.29%, the central bank continues its \"higher-for-longer\" stance to anchor inflation expectations. Recent headlines such as \"Mark Zuckerberg sends startling message to Meta employees\" suggest that market participants remain hypersensitive to every data print, particularly around corporate earnings and consumer spending resilience.",
+    "The labor market, a key pillar of support, shows 189,000 initial jobless claims, reflecting a relatively stable but cooling employment landscape. Geopolitically, events like \"Best money market account rates today, May 2, 2026 (best account provides 4.01% APY)\" introduce exogenous risks that could disrupt global energy supplies and re-ignite inflationary impulses, keeping the Federal Reserve in a defensive posture as they balance growth against price stability. Analysts are closely watching for any signs of a \"hard landing\" as the effects of previous tightening cycles continue to filter through the real economy."
   ],
   "dailyHeadlines": [
     {
-      "title": "Why Rezolve AI (RZLV) Is Expanding Its Commerce AI Platform Through Microsoft Foundry",
+      "title": "Mark Zuckerberg sends startling message to Meta employees",
       "summary": "",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/why-rezolve-ai-rzlv-expanding-090559748.html",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/mark-zuckerberg-sends-startling-message-133300156.html",
       "type": "extreme"
     },
     {
-      "title": "Why Brand Engagement Network (BNAI) Is Moving Its Enterprise AI Into Fleet Operations",
+      "title": "Best money market account rates today, May 2, 2026 (best account provides 4.01% APY)",
       "summary": "",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/why-brand-engagement-network-bnai-090544242.html",
+      "url": "https://finance.yahoo.com/personal-finance/banking/article/best-money-market-account-rates-today-saturday-may-2-2026-100000416.html",
       "type": "warning"
     },
     {
-      "title": "Why Applied Digital (APLD) Is Scaling Its AI Factory Backlog With a New Hyperscaler Lease",
+      "title": "HELOC and home equity loan rates Saturday, May 2, 2026: With rates low, find out what makes certain lenders the 'best'",
       "summary": "",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/why-applied-digital-apld-scaling-090518225.html",
+      "url": "https://finance.yahoo.com/personal-finance/mortgages/article/heloc-home-equity-loan-interest-rates-today-saturday-may-2-2026-100000194.html",
       "type": "info"
     }
   ],
@@ -299,29 +299,29 @@
       "category": "Frontier Model Race & Breakthroughs",
       "items": [
         {
-          "title": "Spirit Airlines Is Winding Down All Operations",
-          "summary": "Latest AI discussion on Hacker News: Spirit Airlines Is Winding Down All Operations. Points: 46. (Source: Hacker News)",
-          "url": "https://www.spiritrestructuring.com/"
+          "title": "Specsmaxxing – On overcoming AI psychosis, and why I write specs in YAML",
+          "summary": "Latest AI discussion on Hacker News: Specsmaxxing – On overcoming AI psychosis, and why I write specs in YAML. Points: 129. (Source: Hacker News)",
+          "url": "https://acai.sh/blog/specsmaxxing"
         },
         {
-          "title": "Show HN: Agent-desktop – Native desktop automation CLI for AI agents",
-          "summary": "Latest AI discussion on Hacker News: Show HN: Agent-desktop – Native desktop automation CLI for AI agents. Points: 82. (Source: Hacker News)",
-          "url": "https://github.com/lahfir/agent-desktop"
+          "title": "The Claude Delusion: Richard Dawkins believes his AI chatbot is conscious",
+          "summary": "Latest AI discussion on Hacker News: The Claude Delusion: Richard Dawkins believes his AI chatbot is conscious. Points: 70. (Source: Hacker News)",
+          "url": "https://www.dailygrail.com/2026/05/the-claude-delusion-richard-dawkins-believes-his-female-ai-chatbot-is-conscious/"
         },
         {
-          "title": "Show HN: AI CAD Harness",
-          "summary": "Latest AI discussion on Hacker News: Show HN: AI CAD Harness. Points: 85. (Source: Hacker News)",
-          "url": "https://fusion.adam.new/install"
+          "title": "Voice-AI-for-Beginners – A curated learning path for developers",
+          "summary": "Latest AI discussion on Hacker News: Voice-AI-for-Beginners – A curated learning path for developers. Points: 70. (Source: Hacker News)",
+          "url": "https://github.com/mahimairaja/voiceai"
         },
         {
-          "title": "AI uses less water than the public thinks",
-          "summary": "Latest AI discussion on Hacker News: AI uses less water than the public thinks. Points: 376. (Source: Hacker News)",
-          "url": "https://californiawaterblog.com/2026/04/26/ai-water-use-distractions-and-lessons-for-california/"
+          "title": "AI Self-preferencing in Algorithmic Hiring: Empirical Evidence and Insights",
+          "summary": "Latest AI discussion on Hacker News: AI Self-preferencing in Algorithmic Hiring: Empirical Evidence and Insights. Points: 324. (Source: Hacker News)",
+          "url": "https://arxiv.org/abs/2509.00462"
         },
         {
-          "title": "Spotify adds 'Verified' badges to distinguish human artists from AI",
-          "summary": "Latest AI discussion on Hacker News: Spotify adds 'Verified' badges to distinguish human artists from AI. Points: 243. (Source: Hacker News)",
-          "url": "https://www.bbc.com/news/articles/c5yerr4m1yno"
+          "title": "Spirit Airlines canceled all flights and is going out of business",
+          "summary": "Latest AI discussion on Hacker News: Spirit Airlines canceled all flights and is going out of business. Points: 76. (Source: Hacker News)",
+          "url": "https://www.cnn.com/2026/05/02/business/spirit-to-halt-all-flights"
         }
       ]
     },
@@ -329,29 +329,29 @@
       "category": "Enterprise & Agentic AI",
       "items": [
         {
+          "title": "Show HN: Agent-desktop – Native desktop automation CLI for AI agents",
+          "summary": "Latest AI discussion on Hacker News: Show HN: Agent-desktop – Native desktop automation CLI for AI agents. Points: 93. (Source: Hacker News)",
+          "url": "https://github.com/lahfir/agent-desktop"
+        },
+        {
+          "title": "Show HN: AI CAD Harness",
+          "summary": "Latest AI discussion on Hacker News: Show HN: AI CAD Harness. Points: 93. (Source: Hacker News)",
+          "url": "https://fusion.adam.new/install"
+        },
+        {
+          "title": "AI uses less water than the public thinks",
+          "summary": "Latest AI discussion on Hacker News: AI uses less water than the public thinks. Points: 400. (Source: Hacker News)",
+          "url": "https://californiawaterblog.com/2026/04/26/ai-water-use-distractions-and-lessons-for-california/"
+        },
+        {
+          "title": "Spotify adds 'Verified' badges to distinguish human artists from AI",
+          "summary": "Latest AI discussion on Hacker News: Spotify adds 'Verified' badges to distinguish human artists from AI. Points: 273. (Source: Hacker News)",
+          "url": "https://www.bbc.com/news/articles/c5yerr4m1yno"
+        },
+        {
           "title": "Uber torches 2026 AI budget on Claude Code in four months",
-          "summary": "Latest AI discussion on Hacker News: Uber torches 2026 AI budget on Claude Code in four months. Points: 383. (Source: Hacker News)",
+          "summary": "Latest AI discussion on Hacker News: Uber torches 2026 AI budget on Claude Code in four months. Points: 397. (Source: Hacker News)",
           "url": "https://www.briefs.co/news/uber-torches-entire-2026-ai-budget-on-claude-code-in-four-months/"
-        },
-        {
-          "title": "Show HN: Loopsy, a way for terminals and AI agents on different machines to talk",
-          "summary": "Latest AI discussion on Hacker News: Show HN: Loopsy, a way for terminals and AI agents on different machines to talk. Points: 52. (Source: Hacker News)",
-          "url": "https://github.com/leox255/loopsy"
-        },
-        {
-          "title": "Shai-Hulud Themed Malware Found in the PyTorch Lightning AI Training Library",
-          "summary": "Latest AI discussion on Hacker News: Shai-Hulud Themed Malware Found in the PyTorch Lightning AI Training Library. Points: 458. (Source: Hacker News)",
-          "url": "https://semgrep.dev/blog/2026/malicious-dependency-in-pytorch-lightning-used-for-ai-training/"
-        },
-        {
-          "title": "The More Young People Use AI, the More They Hate It",
-          "summary": "Latest AI discussion on Hacker News: The More Young People Use AI, the More They Hate It. Points: 125. (Source: Hacker News)",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/920401/gen-z-ai"
-        },
-        {
-          "title": "I scraped 1.94M Airbnb photos for opium dens, pet cameos, and messy kitchens",
-          "summary": "Latest AI discussion on Hacker News: I scraped 1.94M Airbnb photos for opium dens, pet cameos, and messy kitchens. Points: 68. (Source: Hacker News)",
-          "url": "https://burla-cloud.github.io/examples/airbnb-burla-demo/"
         }
       ]
     },
