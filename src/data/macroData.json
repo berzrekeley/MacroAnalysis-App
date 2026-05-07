@@ -1,26 +1,26 @@
 {
-  "lastUpdated": "May 6, 2026",
+  "lastUpdated": "May 7, 2026",
   "executiveSummary": [
-    "As of May 6, 2026, the U.S. macroeconomic environment is navigating a complex period of high interest rates and shifting labor market dynamics. With the Fed Funds Rate holding at 3.64% and CPI inflation tracking at 3.29%, the central bank continues its \"higher-for-longer\" stance to anchor inflation expectations. Recent headlines such as \"Gold, silver jump on report that the US and Iran are nearing a peace deal\" suggest that market participants remain hypersensitive to every data print, particularly around corporate earnings and consumer spending resilience.",
-    "The labor market, a key pillar of support, shows 189,000 initial jobless claims, reflecting a relatively stable but cooling employment landscape. Geopolitically, events like \"Bitcoin and ethereum prices today, Wednesday, May 6, 2026: Prices up; bitcoin at highest level since January\" introduce exogenous risks that could disrupt global energy supplies and re-ignite inflationary impulses, keeping the Federal Reserve in a defensive posture as they balance growth against price stability. Analysts are closely watching for any signs of a \"hard landing\" as the effects of previous tightening cycles continue to filter through the real economy."
+    "As of May 7, 2026, the U.S. macroeconomic environment is navigating a complex period of high interest rates and shifting labor market dynamics. With the Fed Funds Rate holding at 3.64% and CPI inflation tracking at 3.29%, the central bank continues its \"higher-for-longer\" stance to anchor inflation expectations. Recent headlines such as \"Coinbase CEO makes critical move before earnings\" suggest that market participants remain hypersensitive to every data print, particularly around corporate earnings and consumer spending resilience.",
+    "The labor market, a key pillar of support, shows 189,000 initial jobless claims, reflecting a relatively stable but cooling employment landscape. Geopolitically, events like \"Oil Futures Markets Still Too Complacent About Supply Shock\" introduce exogenous risks that could disrupt global energy supplies and re-ignite inflationary impulses, keeping the Federal Reserve in a defensive posture as they balance growth against price stability. Analysts are closely watching for any signs of a \"hard landing\" as the effects of previous tightening cycles continue to filter through the real economy."
   ],
   "dailyHeadlines": [
     {
-      "title": "Gold, silver jump on report that the US and Iran are nearing a peace deal",
+      "title": "Coinbase CEO makes critical move before earnings",
       "summary": "",
-      "url": "https://finance.yahoo.com/markets/article/gold-silver-jump-on-report-that-the-us-and-iran-are-nearing-a-peace-deal-112534255.html",
+      "url": "https://finance.yahoo.com/markets/crypto/articles/coinbase-ceo-makes-critical-move-052101559.html",
       "type": "extreme"
     },
     {
-      "title": "Bitcoin and ethereum prices today, Wednesday, May 6, 2026: Prices up; bitcoin at highest level since January",
+      "title": "Oil Futures Markets Still Too Complacent About Supply Shock",
       "summary": "",
-      "url": "https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-wednesday-may-6-2026-prices-up-bitcoin-at-highest-level-since-january-112112979.html",
+      "url": "https://finance.yahoo.com/markets/commodities/articles/oil-futures-markets-still-too-000000458.html",
       "type": "warning"
     },
     {
-      "title": "Michael Burry sells entire stake in surging meme-stock giant",
+      "title": "Best hedges against inflation: 6 ways to protect your purchasing power",
       "summary": "",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/michael-burry-sells-entire-stake-202300350.html",
+      "url": "https://finance.yahoo.com/personal-finance/banking/article/best-hedges-against-inflation-231136070.html",
       "type": "info"
     }
   ],
@@ -39,19 +39,19 @@
     },
     {
       "title": "10Y - 2Y Spread",
-      "value": "0.50%",
+      "value": "0.49%",
       "status": "Steepening - slower growth",
       "type": "warning"
     },
     {
       "title": "10Y Treasury Rate",
-      "value": "4.45%",
+      "value": "4.43%",
       "status": "High - energy-driven inflation",
       "type": "warning"
     },
     {
       "title": "2Y Treasury Rate",
-      "value": "3.95%",
+      "value": "3.93%",
       "status": "Elevated - higher-for-longer stance",
       "type": "warning"
     },
@@ -87,7 +87,7 @@
     },
     {
       "title": "Monthly ADP Employment",
-      "value": "+62,000",
+      "value": "+109,000",
       "status": "Stable - private sector resilience",
       "type": "neutral"
     },
@@ -299,29 +299,29 @@
       "category": "Frontier Model Race & Breakthroughs",
       "items": [
         {
+          "title": "FFmpeg developer calls out OxideAV for AI license laundering of his code",
+          "summary": "Latest AI discussion on Hacker News: FFmpeg developer calls out OxideAV for AI license laundering of his code. Points: 79. (Source: Hacker News)",
+          "url": "https://github.com/OxideAV/oxideav-magicyuv/issues/3"
+        },
+        {
           "title": "Telus Uses AI to Alter Call-Agent Accents",
-          "summary": "Latest AI discussion on Hacker News: Telus Uses AI to Alter Call-Agent Accents. Points: 162. (Source: Hacker News)",
+          "summary": "Latest AI discussion on Hacker News: Telus Uses AI to Alter Call-Agent Accents. Points: 233. (Source: Hacker News)",
           "url": "https://letsdatascience.com/news/telus-uses-ai-to-alter-call-agent-accents-a3868f63"
         },
         {
           "title": "Xbox CEO ends Copilot AI development and overhauls leadership",
-          "summary": "Latest AI discussion on Hacker News: Xbox CEO ends Copilot AI development and overhauls leadership. Points: 101. (Source: Hacker News)",
+          "summary": "Latest AI discussion on Hacker News: Xbox CEO ends Copilot AI development and overhauls leadership. Points: 110. (Source: Hacker News)",
           "url": "https://www.dexerto.com/gaming/xbox-ceo-ends-copilot-ai-development-overhauls-leadership-3361353/"
         },
         {
-          "title": "Three Inverse Laws of AI",
-          "summary": "Latest AI discussion on Hacker News: Three Inverse Laws of AI. Points: 463. (Source: Hacker News)",
-          "url": "https://susam.net/inverse-laws-of-robotics.html"
+          "title": "Our AI started a cafe in Stockholm",
+          "summary": "Latest AI discussion on Hacker News: Our AI started a cafe in Stockholm. Points: 48. (Source: Hacker News)",
+          "url": "https://andonlabs.com/blog/ai-cafe-stockholm"
         },
         {
-          "title": "Show HN: Airbyte Agents – context for agents across multiple data sources",
-          "summary": "Latest AI discussion on Hacker News: Show HN: Airbyte Agents – context for agents across multiple data sources. Points: 123. (Source: Hacker News)",
-          "url": "https://news.ycombinator.com/item?id=48023496"
-        },
-        {
-          "title": "AI didn't delete your database, you did",
-          "summary": "Latest AI discussion on Hacker News: AI didn't delete your database, you did. Points: 524. (Source: Hacker News)",
-          "url": "https://idiallo.com/blog/ai-didnt-delete-your-database-you-did"
+          "title": "Why airlines are always going bankrupt",
+          "summary": "Latest AI discussion on Hacker News: Why airlines are always going bankrupt. Points: 72. (Source: Hacker News)",
+          "url": "https://davidoks.blog/p/why-airlines-are-always-going-bankrupt"
         }
       ]
     },
@@ -329,29 +329,29 @@
       "category": "Enterprise & Agentic AI",
       "items": [
         {
+          "title": "Three Inverse Laws of AI",
+          "summary": "Latest AI discussion on Hacker News: Three Inverse Laws of AI. Points: 532. (Source: Hacker News)",
+          "url": "https://susam.net/inverse-laws-of-robotics.html"
+        },
+        {
+          "title": "Show HN: Airbyte Agents – context for agents across multiple data sources",
+          "summary": "Latest AI discussion on Hacker News: Show HN: Airbyte Agents – context for agents across multiple data sources. Points: 141. (Source: Hacker News)",
+          "url": "https://news.ycombinator.com/item?id=48023496"
+        },
+        {
+          "title": "AI didn't delete your database, you did",
+          "summary": "Latest AI discussion on Hacker News: AI didn't delete your database, you did. Points: 538. (Source: Hacker News)",
+          "url": "https://idiallo.com/blog/ai-didnt-delete-your-database-you-did"
+        },
+        {
+          "title": "Google, Microsoft and xAI agree to share early AI models with U.S.",
+          "summary": "Latest AI discussion on Hacker News: Google, Microsoft and xAI agree to share early AI models with U.S.. Points: 44. (Source: Hacker News)",
+          "url": "https://www.wsj.com/tech/ai/google-microsoft-and-xai-agree-to-share-early-ai-models-with-u-s-f95a88d1"
+        },
+        {
           "title": "AI Product Graveyard",
-          "summary": "Latest AI discussion on Hacker News: AI Product Graveyard. Points: 249. (Source: Hacker News)",
+          "summary": "Latest AI discussion on Hacker News: AI Product Graveyard. Points: 252. (Source: Hacker News)",
           "url": "https://tooldirectory.ai/ai-graveyard"
-        },
-        {
-          "title": "When everyone has AI and the company still learns nothing",
-          "summary": "Latest AI discussion on Hacker News: When everyone has AI and the company still learns nothing. Points: 365. (Source: Hacker News)",
-          "url": "https://www.robert-glaser.de/when-everyone-has-ai-and-the-company-still-learns-nothing/"
-        },
-        {
-          "title": "Google Chrome silently installs a 4 GB AI model on your device without consent",
-          "summary": "Latest AI discussion on Hacker News: Google Chrome silently installs a 4 GB AI model on your device without consent. Points: 1475. (Source: Hacker News)",
-          "url": "https://www.thatprivacyguy.com/blog/chrome-silent-nano-install/"
-        },
-        {
-          "title": "How OpenAI delivers low-latency voice AI at scale",
-          "summary": "Latest AI discussion on Hacker News: How OpenAI delivers low-latency voice AI at scale. Points: 497. (Source: Hacker News)",
-          "url": "https://openai.com/index/delivering-low-latency-voice-ai-at-scale/"
-        },
-        {
-          "title": "OpenAI, Google, and Microsoft Back Bill to Fund 'AI Literacy' in Schools",
-          "summary": "Latest AI discussion on Hacker News: OpenAI, Google, and Microsoft Back Bill to Fund 'AI Literacy' in Schools. Points: 118. (Source: Hacker News)",
-          "url": "https://www.404media.co/literacy-in-future-technologies-artificial-intelligence-act-adam-schiff-mike-rounds/"
         }
       ]
     },
