@@ -1,26 +1,26 @@
 {
-  "lastUpdated": "May 8, 2026",
+  "lastUpdated": "May 9, 2026",
   "executiveSummary": [
-    "As of May 8, 2026, the U.S. macroeconomic environment is navigating a complex period of high interest rates and shifting labor market dynamics. With the Fed Funds Rate holding at 3.64% and CPI inflation tracking at 3.29%, the central bank continues its \"higher-for-longer\" stance to anchor inflation expectations. Recent headlines such as \"Quantum computing firm IonQ raises annual revenue forecast\" suggest that market participants remain hypersensitive to every data print, particularly around corporate earnings and consumer spending resilience.",
-    "The labor market, a key pillar of support, shows 200,000 initial jobless claims, reflecting a relatively stable but cooling employment landscape. Geopolitically, events like \"General Catalyst's $6.3B AMEX deal puts its AI roll-up strategy on display\" introduce exogenous risks that could disrupt global energy supplies and re-ignite inflationary impulses, keeping the Federal Reserve in a defensive posture as they balance growth against price stability. Analysts are closely watching for any signs of a \"hard landing\" as the effects of previous tightening cycles continue to filter through the real economy."
+    "As of May 9, 2026, the U.S. macroeconomic environment is navigating a complex period of high interest rates and shifting labor market dynamics. With the Fed Funds Rate holding at 3.64% and CPI inflation tracking at 3.29%, the central bank continues its \"higher-for-longer\" stance to anchor inflation expectations. Recent headlines such as \"Warren Buffett sends blunt message on mortgages, home financing\" suggest that market participants remain hypersensitive to every data print, particularly around corporate earnings and consumer spending resilience.",
+    "The labor market, a key pillar of support, shows 200,000 initial jobless claims, reflecting a relatively stable but cooling employment landscape. Geopolitically, events like \"Gen Z and millennials are pouring money into prediction markets — but a whopping 69% of accounts end up losing\" introduce exogenous risks that could disrupt global energy supplies and re-ignite inflationary impulses, keeping the Federal Reserve in a defensive posture as they balance growth against price stability. Analysts are closely watching for any signs of a \"hard landing\" as the effects of previous tightening cycles continue to filter through the real economy."
   ],
   "dailyHeadlines": [
     {
-      "title": "Quantum computing firm IonQ raises annual revenue forecast",
+      "title": "Warren Buffett sends blunt message on mortgages, home financing",
       "summary": "",
-      "url": "https://finance.yahoo.com/sectors/technology/articles/quantum-computing-firm-ionq-raises-230854569.html",
+      "url": "https://finance.yahoo.com/markets/options/articles/warren-buffett-sends-blunt-message-140700722.html",
       "type": "extreme"
     },
     {
-      "title": "General Catalyst's $6.3B AMEX deal puts its AI roll-up strategy on display",
+      "title": "Gen Z and millennials are pouring money into prediction markets — but a whopping 69% of accounts end up losing",
       "summary": "",
-      "url": "https://finance.yahoo.com/sectors/technology/articles/general-catalysts-6-3b-amex-230800080.html",
+      "url": "https://finance.yahoo.com/markets/options/articles/gen-z-millennials-pouring-money-092000140.html",
       "type": "warning"
     },
     {
-      "title": "ACV Auctions (ACVA) Q1 2026 Earnings Transcript",
+      "title": "Is $7,000 Per Year Too High for Long-Term Care Insurance?",
       "summary": "",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/acv-auctions-acva-q1-2026-230101266.html",
+      "url": "https://finance.yahoo.com/sectors/healthcare/articles/quoted-7-000-per-long-123000289.html",
       "type": "info"
     }
   ],
@@ -39,19 +39,19 @@
     },
     {
       "title": "10Y - 2Y Spread",
-      "value": "0.49%",
+      "value": "0.48%",
       "status": "Steepening - slower growth",
       "type": "warning"
     },
     {
       "title": "10Y Treasury Rate",
-      "value": "4.36%",
+      "value": "4.41%",
       "status": "High - energy-driven inflation",
       "type": "warning"
     },
     {
       "title": "2Y Treasury Rate",
-      "value": "3.87%",
+      "value": "3.92%",
       "status": "Elevated - higher-for-longer stance",
       "type": "warning"
     },
@@ -299,29 +299,29 @@
       "category": "Frontier Model Race & Breakthroughs",
       "items": [
         {
-          "title": "Two Home Affairs officials suspended after AI 'hallucinations' found",
-          "summary": "Latest AI discussion on Hacker News: Two Home Affairs officials suspended after AI 'hallucinations' found. Points: 103. (Source: Hacker News)",
-          "url": "https://www.citizen.co.za/news/home-affairs-officials-suspended-ai-hallucinations/"
+          "title": "All my clients wanted a carousel, now it's an AI chatbot",
+          "summary": "Latest AI discussion on Hacker News: All my clients wanted a carousel, now it's an AI chatbot. Points: 100. (Source: Hacker News)",
+          "url": "https://adele.pages.casa/md/blog/all-my-clients-wanted-a-carousel-now-it-s-an-ai-chatbot.md"
         },
         {
-          "title": "AI slop is killing online communities",
-          "summary": "Latest AI discussion on Hacker News: AI slop is killing online communities. Points: 681. (Source: Hacker News)",
-          "url": "https://rmoff.net/2026/05/06/ai-slop-is-killing-online-communities/"
+          "title": "I Will Never Use AI to Code",
+          "summary": "Latest AI discussion on Hacker News: I Will Never Use AI to Code. Points: 47. (Source: Hacker News)",
+          "url": "https://antman-does-software.com/i-will-never-use-ai-to-code-or-write"
         },
         {
-          "title": "Show HN: Stage CLI – An easier way of reading your AI generated changes locally",
-          "summary": "Latest AI discussion on Hacker News: Show HN: Stage CLI – An easier way of reading your AI generated changes locally. Points: 39. (Source: Hacker News)",
-          "url": "https://github.com/ReviewStage/stage-cli"
+          "title": "People Hate AI Art",
+          "summary": "Latest AI discussion on Hacker News: People Hate AI Art. Points: 118. (Source: Hacker News)",
+          "url": "https://mccue.dev/pages/5-8-26-ai-art"
         },
         {
-          "title": "Motherboard sales 'collapse' amid unprecedented shortages fueled by AI",
-          "summary": "Latest AI discussion on Hacker News: Motherboard sales 'collapse' amid unprecedented shortages fueled by AI. Points: 276. (Source: Hacker News)",
-          "url": "https://www.tomshardware.com/pc-components/motherboards/motherboard-sales-collapse-by-more-than-25-percent-as-chipmakers-strangle-enthusiast-pc-market-to-build-more-ai-chips-asus-projected-to-sell-5-million-fewer-boards-in-2025-gigabyte-msi-and-asrock-also-expected-to-see-reduced-sales-numbers"
+          "title": "AI is breaking two vulnerability cultures",
+          "summary": "Latest AI discussion on Hacker News: AI is breaking two vulnerability cultures. Points: 341. (Source: Hacker News)",
+          "url": "https://www.jefftk.com/p/ai-is-breaking-two-vulnerability-cultures"
         },
         {
-          "title": "A Dark-Money Campaign Is Paying Influencers to Frame Chinese AI as a Threat",
-          "summary": "Latest AI discussion on Hacker News: A Dark-Money Campaign Is Paying Influencers to Frame Chinese AI as a Threat. Points: 12. (Source: Hacker News)",
-          "url": "https://www.wired.com/story/super-pac-backed-by-openai-and-palantir-is-paying-tiktok-influencers-to-fear-monger-about-china/"
+          "title": "Show HN: Git for AI Agents",
+          "summary": "Latest AI discussion on Hacker News: Show HN: Git for AI Agents. Points: 102. (Source: Hacker News)",
+          "url": "https://github.com/regent-vcs/re_gent"
         }
       ]
     },
@@ -329,29 +329,29 @@
       "category": "Enterprise & Agentic AI",
       "items": [
         {
-          "title": "Richard Dawkins concludes AI is conscious, even if it doesn't know it",
-          "summary": "Latest AI discussion on Hacker News: Richard Dawkins concludes AI is conscious, even if it doesn't know it. Points: 29. (Source: Hacker News)",
-          "url": "https://www.theguardian.com/technology/2026/may/05/richard-dawkins-ai-consciousness-anthropic-claude-openai-chatgpt"
+          "title": "Ask HN: What will happen as AI costs increase?",
+          "summary": "Latest AI discussion on Hacker News: Ask HN: What will happen as AI costs increase?. Points: 13. (Source: Hacker News)",
+          "url": "https://news.ycombinator.com/item?id=48055353"
         },
         {
-          "title": "Time to add option in Hacker News \"AI excluded Show HN\"",
-          "summary": "Latest AI discussion on Hacker News: Time to add option in Hacker News \"AI excluded Show HN\". Points: 19. (Source: Hacker News)",
-          "url": "https://news.ycombinator.com/item?id=48039702"
+          "title": "Two Home Affairs officials suspended after AI 'hallucinations' found",
+          "summary": "Latest AI discussion on Hacker News: Two Home Affairs officials suspended after AI 'hallucinations' found. Points: 138. (Source: Hacker News)",
+          "url": "https://www.citizen.co.za/news/home-affairs-officials-suspended-ai-hallucinations/"
         },
         {
-          "title": "Canadian fiddler sues Google after AI Overview claimed he was a sex offender",
-          "summary": "Latest AI discussion on Hacker News: Canadian fiddler sues Google after AI Overview claimed he was a sex offender. Points: 40. (Source: Hacker News)",
-          "url": "https://www.theguardian.com/music/2026/may/05/canadian-ashley-macisaac-fiddler-musician-singer-songwriter-sues-google-ai-sex-offender-ntwnfb"
+          "title": "AI slop is killing online communities",
+          "summary": "Latest AI discussion on Hacker News: AI slop is killing online communities. Points: 813. (Source: Hacker News)",
+          "url": "https://rmoff.net/2026/05/06/ai-slop-is-killing-online-communities/"
         },
         {
-          "title": "Google Chrome silently installs 4 GB Gemini Nano AI model without consent",
-          "summary": "Latest AI discussion on Hacker News: Google Chrome silently installs 4 GB Gemini Nano AI model without consent. Points: 20. (Source: Hacker News)",
-          "url": "https://alternativeto.net/news/2026/5/google-chrome-silently-installs-4-gb-gemini-nano-ai-model-to-user-device-without-consent/"
+          "title": "Show HN: Stage CLI – An easier way of reading your AI generated changes locally",
+          "summary": "Latest AI discussion on Hacker News: Show HN: Stage CLI – An easier way of reading your AI generated changes locally. Points: 44. (Source: Hacker News)",
+          "url": "https://github.com/ReviewStage/stage-cli"
         },
         {
-          "title": "Show HN: Adam – An embeddable cross-platform AI agent library",
-          "summary": "Latest AI discussion on Hacker News: Show HN: Adam – An embeddable cross-platform AI agent library. Points: 24. (Source: Hacker News)",
-          "url": "https://github.com/sqliteai/adam"
+          "title": "Motherboard sales 'collapse' amid unprecedented shortages fueled by AI",
+          "summary": "Latest AI discussion on Hacker News: Motherboard sales 'collapse' amid unprecedented shortages fueled by AI. Points: 293. (Source: Hacker News)",
+          "url": "https://www.tomshardware.com/pc-components/motherboards/motherboard-sales-collapse-by-more-than-25-percent-as-chipmakers-strangle-enthusiast-pc-market-to-build-more-ai-chips-asus-projected-to-sell-5-million-fewer-boards-in-2025-gigabyte-msi-and-asrock-also-expected-to-see-reduced-sales-numbers"
         }
       ]
     },
