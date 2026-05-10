@@ -1,26 +1,26 @@
 {
-  "lastUpdated": "May 9, 2026",
+  "lastUpdated": "May 10, 2026",
   "executiveSummary": [
-    "As of May 9, 2026, the U.S. macroeconomic environment is navigating a complex period of high interest rates and shifting labor market dynamics. With the Fed Funds Rate holding at 3.64% and CPI inflation tracking at 3.29%, the central bank continues its \"higher-for-longer\" stance to anchor inflation expectations. Recent headlines such as \"Warren Buffett sends blunt message on mortgages, home financing\" suggest that market participants remain hypersensitive to every data print, particularly around corporate earnings and consumer spending resilience.",
-    "The labor market, a key pillar of support, shows 200,000 initial jobless claims, reflecting a relatively stable but cooling employment landscape. Geopolitically, events like \"Gen Z and millennials are pouring money into prediction markets — but a whopping 69% of accounts end up losing\" introduce exogenous risks that could disrupt global energy supplies and re-ignite inflationary impulses, keeping the Federal Reserve in a defensive posture as they balance growth against price stability. Analysts are closely watching for any signs of a \"hard landing\" as the effects of previous tightening cycles continue to filter through the real economy."
+    "As of May 10, 2026, the U.S. macroeconomic environment is navigating a complex period of high interest rates and shifting labor market dynamics. With the Fed Funds Rate holding at 3.64% and CPI inflation tracking at 3.29%, the central bank continues its \"higher-for-longer\" stance to anchor inflation expectations. Recent headlines such as \"Why Rezolve AI (RZLV) Is Standing Out After a Sharp Q1 Revenue Jump\" suggest that market participants remain hypersensitive to every data print, particularly around corporate earnings and consumer spending resilience.",
+    "The labor market, a key pillar of support, shows 200,000 initial jobless claims, reflecting a relatively stable but cooling employment landscape. Geopolitically, events like \"Why Palladyne AI (PDYN) Is Gaining Ground in Defense and Industrial Autonomy\" introduce exogenous risks that could disrupt global energy supplies and re-ignite inflationary impulses, keeping the Federal Reserve in a defensive posture as they balance growth against price stability. Analysts are closely watching for any signs of a \"hard landing\" as the effects of previous tightening cycles continue to filter through the real economy."
   ],
   "dailyHeadlines": [
     {
-      "title": "Warren Buffett sends blunt message on mortgages, home financing",
+      "title": "Why Rezolve AI (RZLV) Is Standing Out After a Sharp Q1 Revenue Jump",
       "summary": "",
-      "url": "https://finance.yahoo.com/markets/options/articles/warren-buffett-sends-blunt-message-140700722.html",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/why-rezolve-ai-rzlv-standing-094117484.html",
       "type": "extreme"
     },
     {
-      "title": "Gen Z and millennials are pouring money into prediction markets — but a whopping 69% of accounts end up losing",
+      "title": "Why Palladyne AI (PDYN) Is Gaining Ground in Defense and Industrial Autonomy",
       "summary": "",
-      "url": "https://finance.yahoo.com/markets/options/articles/gen-z-millennials-pouring-money-092000140.html",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/why-palladyne-ai-pdyn-gaining-094110933.html",
       "type": "warning"
     },
     {
-      "title": "Is $7,000 Per Year Too High for Long-Term Care Insurance?",
+      "title": "HSBC's head of wealth says the old retirement model is dead — and 87% who've tried the new one say it changed their life",
       "summary": "",
-      "url": "https://finance.yahoo.com/sectors/healthcare/articles/quoted-7-000-per-long-123000289.html",
+      "url": "https://finance.yahoo.com/economy/policy/articles/hsbcs-head-wealth-says-old-093000057.html",
       "type": "info"
     }
   ],
@@ -299,29 +299,29 @@
       "category": "Frontier Model Race & Breakthroughs",
       "items": [
         {
-          "title": "All my clients wanted a carousel, now it's an AI chatbot",
-          "summary": "Latest AI discussion on Hacker News: All my clients wanted a carousel, now it's an AI chatbot. Points: 100. (Source: Hacker News)",
-          "url": "https://adele.pages.casa/md/blog/all-my-clients-wanted-a-carousel-now-it-s-an-ai-chatbot.md"
+          "title": "Gen Z Resentment Toward AI Grows as Adoption Stagnates and Workplace Fears Mount",
+          "summary": "Latest AI discussion on Hacker News: Gen Z Resentment Toward AI Grows as Adoption Stagnates and Workplace Fears Mount. Points: 41. (Source: Hacker News)",
+          "url": "https://www.waltonfamilyfoundation.org/about-us/newsroom/gen-z-resentment-toward-ai-grows-as-adoption-stagnates-and-workplace-fears-mount"
         },
         {
-          "title": "I Will Never Use AI to Code",
-          "summary": "Latest AI discussion on Hacker News: I Will Never Use AI to Code. Points: 47. (Source: Hacker News)",
-          "url": "https://antman-does-software.com/i-will-never-use-ai-to-code-or-write"
+          "title": "Task Paralysis and AI",
+          "summary": "Latest AI discussion on Hacker News: Task Paralysis and AI. Points: 18. (Source: Hacker News)",
+          "url": "https://g5t.de/articles/20260510-task-paralysis-and-ai/index.html"
         },
         {
-          "title": "People Hate AI Art",
-          "summary": "Latest AI discussion on Hacker News: People Hate AI Art. Points: 118. (Source: Hacker News)",
-          "url": "https://mccue.dev/pages/5-8-26-ai-art"
+          "title": "Meta's embrace of AI is making its employees miserable",
+          "summary": "Latest AI discussion on Hacker News: Meta's embrace of AI is making its employees miserable. Points: 397. (Source: Hacker News)",
+          "url": "https://www.nytimes.com/2026/05/08/technology/meta-ai-employees-miserable.html"
         },
         {
-          "title": "AI is breaking two vulnerability cultures",
-          "summary": "Latest AI discussion on Hacker News: AI is breaking two vulnerability cultures. Points: 341. (Source: Hacker News)",
-          "url": "https://www.jefftk.com/p/ai-is-breaking-two-vulnerability-cultures"
+          "title": "Go Players Disempower Themselves to AI",
+          "summary": "Latest AI discussion on Hacker News: Go Players Disempower Themselves to AI. Points: 15. (Source: Hacker News)",
+          "url": "https://www.lesswrong.com/posts/nR3DkyivzF4ve97oM/how-go-players-disempower-themselves-to-ai"
         },
         {
-          "title": "Show HN: Git for AI Agents",
-          "summary": "Latest AI discussion on Hacker News: Show HN: Git for AI Agents. Points: 102. (Source: Hacker News)",
-          "url": "https://github.com/regent-vcs/re_gent"
+          "title": "Aids Creeps Back in Parts of Zambia, a Year After U.S. Cuts to HIV Assistance",
+          "summary": "Latest AI discussion on Hacker News: Aids Creeps Back in Parts of Zambia, a Year After U.S. Cuts to HIV Assistance. Points: 52. (Source: Hacker News)",
+          "url": "https://www.nytimes.com/2026/04/25/health/pepfar-hiv-aids-zambia.html"
         }
       ]
     },
@@ -329,29 +329,29 @@
       "category": "Enterprise & Agentic AI",
       "items": [
         {
-          "title": "Ask HN: What will happen as AI costs increase?",
-          "summary": "Latest AI discussion on Hacker News: Ask HN: What will happen as AI costs increase?. Points: 13. (Source: Hacker News)",
-          "url": "https://news.ycombinator.com/item?id=48055353"
+          "title": "All my clients wanted a carousel, now it's an AI chatbot",
+          "summary": "Latest AI discussion on Hacker News: All my clients wanted a carousel, now it's an AI chatbot. Points: 182. (Source: Hacker News)",
+          "url": "https://adele.pages.casa/md/blog/all-my-clients-wanted-a-carousel-now-it-s-an-ai-chatbot.md"
         },
         {
-          "title": "Two Home Affairs officials suspended after AI 'hallucinations' found",
-          "summary": "Latest AI discussion on Hacker News: Two Home Affairs officials suspended after AI 'hallucinations' found. Points: 138. (Source: Hacker News)",
-          "url": "https://www.citizen.co.za/news/home-affairs-officials-suspended-ai-hallucinations/"
+          "title": "I Will Never Use AI to Code",
+          "summary": "Latest AI discussion on Hacker News: I Will Never Use AI to Code. Points: 65. (Source: Hacker News)",
+          "url": "https://antman-does-software.com/i-will-never-use-ai-to-code-or-write"
         },
         {
-          "title": "AI slop is killing online communities",
-          "summary": "Latest AI discussion on Hacker News: AI slop is killing online communities. Points: 813. (Source: Hacker News)",
-          "url": "https://rmoff.net/2026/05/06/ai-slop-is-killing-online-communities/"
+          "title": "People Hate AI Art",
+          "summary": "Latest AI discussion on Hacker News: People Hate AI Art. Points: 142. (Source: Hacker News)",
+          "url": "https://mccue.dev/pages/5-8-26-ai-art"
         },
         {
-          "title": "Show HN: Stage CLI – An easier way of reading your AI generated changes locally",
-          "summary": "Latest AI discussion on Hacker News: Show HN: Stage CLI – An easier way of reading your AI generated changes locally. Points: 44. (Source: Hacker News)",
-          "url": "https://github.com/ReviewStage/stage-cli"
+          "title": "AI is breaking two vulnerability cultures",
+          "summary": "Latest AI discussion on Hacker News: AI is breaking two vulnerability cultures. Points: 417. (Source: Hacker News)",
+          "url": "https://www.jefftk.com/p/ai-is-breaking-two-vulnerability-cultures"
         },
         {
-          "title": "Motherboard sales 'collapse' amid unprecedented shortages fueled by AI",
-          "summary": "Latest AI discussion on Hacker News: Motherboard sales 'collapse' amid unprecedented shortages fueled by AI. Points: 293. (Source: Hacker News)",
-          "url": "https://www.tomshardware.com/pc-components/motherboards/motherboard-sales-collapse-by-more-than-25-percent-as-chipmakers-strangle-enthusiast-pc-market-to-build-more-ai-chips-asus-projected-to-sell-5-million-fewer-boards-in-2025-gigabyte-msi-and-asrock-also-expected-to-see-reduced-sales-numbers"
+          "title": "Show HN: Git for AI Agents",
+          "summary": "Latest AI discussion on Hacker News: Show HN: Git for AI Agents. Points: 115. (Source: Hacker News)",
+          "url": "https://github.com/regent-vcs/re_gent"
         }
       ]
     },
