@@ -1,26 +1,26 @@
 {
-  "lastUpdated": "May 10, 2026",
+  "lastUpdated": "May 11, 2026",
   "executiveSummary": [
-    "As of May 10, 2026, the U.S. macroeconomic environment is navigating a complex period of high interest rates and shifting labor market dynamics. With the Fed Funds Rate holding at 3.64% and CPI inflation tracking at 3.29%, the central bank continues its \"higher-for-longer\" stance to anchor inflation expectations. Recent headlines such as \"Why Rezolve AI (RZLV) Is Standing Out After a Sharp Q1 Revenue Jump\" suggest that market participants remain hypersensitive to every data print, particularly around corporate earnings and consumer spending resilience.",
-    "The labor market, a key pillar of support, shows 200,000 initial jobless claims, reflecting a relatively stable but cooling employment landscape. Geopolitically, events like \"Why Palladyne AI (PDYN) Is Gaining Ground in Defense and Industrial Autonomy\" introduce exogenous risks that could disrupt global energy supplies and re-ignite inflationary impulses, keeping the Federal Reserve in a defensive posture as they balance growth against price stability. Analysts are closely watching for any signs of a \"hard landing\" as the effects of previous tightening cycles continue to filter through the real economy."
+    "As of May 11, 2026, the U.S. macroeconomic environment is navigating a complex period of high interest rates and shifting labor market dynamics. With the Fed Funds Rate holding at 3.64% and CPI inflation tracking at 3.29%, the central bank continues its \"higher-for-longer\" stance to anchor inflation expectations. Recent headlines such as \"Shein accuses Temu of 'industrial scale' copyright breaches in UK legal battle\" suggest that market participants remain hypersensitive to every data print, particularly around corporate earnings and consumer spending resilience.",
+    "The labor market, a key pillar of support, shows 200,000 initial jobless claims, reflecting a relatively stable but cooling employment landscape. Geopolitically, events like \"Peace Will Bring Lower Oil: Warren Buffett’s Top Energy Picks for Berkshire Hathaway Will Still Shine\" introduce exogenous risks that could disrupt global energy supplies and re-ignite inflationary impulses, keeping the Federal Reserve in a defensive posture as they balance growth against price stability. Analysts are closely watching for any signs of a \"hard landing\" as the effects of previous tightening cycles continue to filter through the real economy."
   ],
   "dailyHeadlines": [
     {
-      "title": "Why Rezolve AI (RZLV) Is Standing Out After a Sharp Q1 Revenue Jump",
+      "title": "Shein accuses Temu of 'industrial scale' copyright breaches in UK legal battle",
       "summary": "",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/why-rezolve-ai-rzlv-standing-094117484.html",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/shein-accuses-temu-industrial-scale-121251120.html",
       "type": "extreme"
     },
     {
-      "title": "Why Palladyne AI (PDYN) Is Gaining Ground in Defense and Industrial Autonomy",
+      "title": "Peace Will Bring Lower Oil: Warren Buffett’s Top Energy Picks for Berkshire Hathaway Will Still Shine",
       "summary": "",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/why-palladyne-ai-pdyn-gaining-094110933.html",
+      "url": "https://finance.yahoo.com/sectors/energy/articles/peace-bring-lower-oil-warren-121507155.html",
       "type": "warning"
     },
     {
-      "title": "HSBC's head of wealth says the old retirement model is dead — and 87% who've tried the new one say it changed their life",
+      "title": "Europe's tech sovereignty push gives VCs pause",
       "summary": "",
-      "url": "https://finance.yahoo.com/economy/policy/articles/hsbcs-head-wealth-says-old-093000057.html",
+      "url": "https://finance.yahoo.com/sectors/technology/articles/europes-tech-sovereignty-push-gives-121118388.html",
       "type": "info"
     }
   ],
@@ -299,29 +299,29 @@
       "category": "Frontier Model Race & Breakthroughs",
       "items": [
         {
-          "title": "Gen Z Resentment Toward AI Grows as Adoption Stagnates and Workplace Fears Mount",
-          "summary": "Latest AI discussion on Hacker News: Gen Z Resentment Toward AI Grows as Adoption Stagnates and Workplace Fears Mount. Points: 41. (Source: Hacker News)",
-          "url": "https://www.waltonfamilyfoundation.org/about-us/newsroom/gen-z-resentment-toward-ai-grows-as-adoption-stagnates-and-workplace-fears-mount"
+          "title": "An AI coding agent, used to write code, needs to reduce your maintenance costs",
+          "summary": "Latest AI discussion on Hacker News: An AI coding agent, used to write code, needs to reduce your maintenance costs. Points: 213. (Source: Hacker News)",
+          "url": "https://www.jamesshore.com/v2/blog/2026/you-need-ai-that-reduces-your-maintenance-costs"
         },
         {
-          "title": "Task Paralysis and AI",
-          "summary": "Latest AI discussion on Hacker News: Task Paralysis and AI. Points: 18. (Source: Hacker News)",
-          "url": "https://g5t.de/articles/20260510-task-paralysis-and-ai/index.html"
+          "title": "PS3 Emulator Devs Politely Ask That People Stop Flooding It with AI PRs",
+          "summary": "Latest AI discussion on Hacker News: PS3 Emulator Devs Politely Ask That People Stop Flooding It with AI PRs. Points: 168. (Source: Hacker News)",
+          "url": "https://kotaku.com/playstation-3-emulator-devs-politely-ask-that-people-stop-flooding-it-with-ai-code-pull-requests-2000694656"
         },
         {
-          "title": "Meta's embrace of AI is making its employees miserable",
-          "summary": "Latest AI discussion on Hacker News: Meta's embrace of AI is making its employees miserable. Points: 397. (Source: Hacker News)",
-          "url": "https://www.nytimes.com/2026/05/08/technology/meta-ai-employees-miserable.html"
+          "title": "Maryland citizens hit with $2B power grid upgrade for out-of-state AI",
+          "summary": "Latest AI discussion on Hacker News: Maryland citizens hit with $2B power grid upgrade for out-of-state AI. Points: 271. (Source: Hacker News)",
+          "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/maryland-citizens-slapped-with-usd2-billion-grid-upgrade-bill-for-out-of-state-ai-data-centers-state-complains-to-federal-energy-regulators-says-additional-cost-breaks-ratepayer-protection-pledge-promises"
         },
         {
-          "title": "Go Players Disempower Themselves to AI",
-          "summary": "Latest AI discussion on Hacker News: Go Players Disempower Themselves to AI. Points: 15. (Source: Hacker News)",
-          "url": "https://www.lesswrong.com/posts/nR3DkyivzF4ve97oM/how-go-players-disempower-themselves-to-ai"
+          "title": "Local AI needs to be the norm",
+          "summary": "Latest AI discussion on Hacker News: Local AI needs to be the norm. Points: 1310. (Source: Hacker News)",
+          "url": "https://unix.foo/posts/local-ai-needs-to-be-norm/"
         },
         {
-          "title": "Aids Creeps Back in Parts of Zambia, a Year After U.S. Cuts to HIV Assistance",
-          "summary": "Latest AI discussion on Hacker News: Aids Creeps Back in Parts of Zambia, a Year After U.S. Cuts to HIV Assistance. Points: 52. (Source: Hacker News)",
-          "url": "https://www.nytimes.com/2026/04/25/health/pepfar-hiv-aids-zambia.html"
+          "title": "Wall Street lawyers aided insider trading ring, say US prosecutors",
+          "summary": "Latest AI discussion on Hacker News: Wall Street lawyers aided insider trading ring, say US prosecutors. Points: 39. (Source: Hacker News)",
+          "url": "https://www.ft.com/content/d2fbe2c3-103a-4d09-b510-db58c5f8697d"
         }
       ]
     },
@@ -329,29 +329,29 @@
       "category": "Enterprise & Agentic AI",
       "items": [
         {
-          "title": "All my clients wanted a carousel, now it's an AI chatbot",
-          "summary": "Latest AI discussion on Hacker News: All my clients wanted a carousel, now it's an AI chatbot. Points: 182. (Source: Hacker News)",
-          "url": "https://adele.pages.casa/md/blog/all-my-clients-wanted-a-carousel-now-it-s-an-ai-chatbot.md"
+          "title": "Chrome's AI features may be hogging 4GB of your computer storage",
+          "summary": "Latest AI discussion on Hacker News: Chrome's AI features may be hogging 4GB of your computer storage. Points: 110. (Source: Hacker News)",
+          "url": "https://www.theverge.com/tech/924933/google-chrome-4gb-gemini-nano-ai-features"
         },
         {
-          "title": "I Will Never Use AI to Code",
-          "summary": "Latest AI discussion on Hacker News: I Will Never Use AI to Code. Points: 65. (Source: Hacker News)",
-          "url": "https://antman-does-software.com/i-will-never-use-ai-to-code-or-write"
+          "title": "Israel's AI targeting system: data from a phone become a death sentence",
+          "summary": "Latest AI discussion on Hacker News: Israel's AI targeting system: data from a phone become a death sentence. Points: 44. (Source: Hacker News)",
+          "url": "https://www.latimes.com/world-nation/story/2026-05-04/inside-israels-ai-targeting-system-how-data-from-phone-become-death-sentence"
         },
         {
-          "title": "People Hate AI Art",
-          "summary": "Latest AI discussion on Hacker News: People Hate AI Art. Points: 142. (Source: Hacker News)",
-          "url": "https://mccue.dev/pages/5-8-26-ai-art"
+          "title": "Gen Z Resentment Toward AI Grows as Adoption Stagnates and Workplace Fears Mount",
+          "summary": "Latest AI discussion on Hacker News: Gen Z Resentment Toward AI Grows as Adoption Stagnates and Workplace Fears Mount. Points: 96. (Source: Hacker News)",
+          "url": "https://www.waltonfamilyfoundation.org/about-us/newsroom/gen-z-resentment-toward-ai-grows-as-adoption-stagnates-and-workplace-fears-mount"
         },
         {
-          "title": "AI is breaking two vulnerability cultures",
-          "summary": "Latest AI discussion on Hacker News: AI is breaking two vulnerability cultures. Points: 417. (Source: Hacker News)",
-          "url": "https://www.jefftk.com/p/ai-is-breaking-two-vulnerability-cultures"
+          "title": "Task Paralysis and AI",
+          "summary": "Latest AI discussion on Hacker News: Task Paralysis and AI. Points: 246. (Source: Hacker News)",
+          "url": "https://g5t.de/articles/20260510-task-paralysis-and-ai/index.html"
         },
         {
-          "title": "Show HN: Git for AI Agents",
-          "summary": "Latest AI discussion on Hacker News: Show HN: Git for AI Agents. Points: 115. (Source: Hacker News)",
-          "url": "https://github.com/regent-vcs/re_gent"
+          "title": "Meta's embrace of AI is making its employees miserable",
+          "summary": "Latest AI discussion on Hacker News: Meta's embrace of AI is making its employees miserable. Points: 448. (Source: Hacker News)",
+          "url": "https://www.nytimes.com/2026/05/08/technology/meta-ai-employees-miserable.html"
         }
       ]
     },
