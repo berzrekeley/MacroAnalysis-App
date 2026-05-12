@@ -1,26 +1,26 @@
 {
-  "lastUpdated": "May 11, 2026",
+  "lastUpdated": "May 12, 2026",
   "executiveSummary": [
-    "As of May 11, 2026, the U.S. macroeconomic environment is navigating a complex period of high interest rates and shifting labor market dynamics. With the Fed Funds Rate holding at 3.64% and CPI inflation tracking at 3.29%, the central bank continues its \"higher-for-longer\" stance to anchor inflation expectations. Recent headlines such as \"Shein accuses Temu of 'industrial scale' copyright breaches in UK legal battle\" suggest that market participants remain hypersensitive to every data print, particularly around corporate earnings and consumer spending resilience.",
-    "The labor market, a key pillar of support, shows 200,000 initial jobless claims, reflecting a relatively stable but cooling employment landscape. Geopolitically, events like \"Peace Will Bring Lower Oil: Warren Buffett’s Top Energy Picks for Berkshire Hathaway Will Still Shine\" introduce exogenous risks that could disrupt global energy supplies and re-ignite inflationary impulses, keeping the Federal Reserve in a defensive posture as they balance growth against price stability. Analysts are closely watching for any signs of a \"hard landing\" as the effects of previous tightening cycles continue to filter through the real economy."
+    "As of May 12, 2026, the U.S. macroeconomic environment is navigating a complex period of high interest rates and shifting labor market dynamics. With the Fed Funds Rate holding at 3.64% and CPI inflation tracking at 3.29%, the central bank continues its \"higher-for-longer\" stance to anchor inflation expectations. Recent headlines such as \"Bitcoin and ethereum prices today, Tuesday, May 12, 2026: Bitcoin and ethereum prices backing off\" suggest that market participants remain hypersensitive to every data print, particularly around corporate earnings and consumer spending resilience.",
+    "The labor market, a key pillar of support, shows 200,000 initial jobless claims, reflecting a relatively stable but cooling employment landscape. Geopolitically, events like \"UAE’s MoF holds second briefing on national e‑invoicing rollout\" introduce exogenous risks that could disrupt global energy supplies and re-ignite inflationary impulses, keeping the Federal Reserve in a defensive posture as they balance growth against price stability. Analysts are closely watching for any signs of a \"hard landing\" as the effects of previous tightening cycles continue to filter through the real economy."
   ],
   "dailyHeadlines": [
     {
-      "title": "Shein accuses Temu of 'industrial scale' copyright breaches in UK legal battle",
+      "title": "Bitcoin and ethereum prices today, Tuesday, May 12, 2026: Bitcoin and ethereum prices backing off",
       "summary": "",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/shein-accuses-temu-industrial-scale-121251120.html",
+      "url": "https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-tuesday-may-12-2026-bitcoin-and-ethereum-prices-backing-off-113324298.html",
       "type": "extreme"
     },
     {
-      "title": "Peace Will Bring Lower Oil: Warren Buffett’s Top Energy Picks for Berkshire Hathaway Will Still Shine",
+      "title": "UAE’s MoF holds second briefing on national e‑invoicing rollout",
       "summary": "",
-      "url": "https://finance.yahoo.com/sectors/energy/articles/peace-bring-lower-oil-warren-121507155.html",
+      "url": "https://finance.yahoo.com/economy/policy/articles/uae-mof-holds-second-briefing-113121695.html",
       "type": "warning"
     },
     {
-      "title": "Europe's tech sovereignty push gives VCs pause",
+      "title": "Chip-Gear Standout Camtek Tops Q1 Views, Guides Higher",
       "summary": "",
-      "url": "https://finance.yahoo.com/sectors/technology/articles/europes-tech-sovereignty-push-gives-121118388.html",
+      "url": "https://www.investors.com/news/technology/camtek-stock-camt-q1-2026-earnings/?src=A00220&amp;yptr=yahoo",
       "type": "info"
     }
   ],
@@ -39,19 +39,19 @@
     },
     {
       "title": "10Y - 2Y Spread",
-      "value": "0.48%",
+      "value": "0.47%",
       "status": "Steepening - slower growth",
       "type": "warning"
     },
     {
       "title": "10Y Treasury Rate",
-      "value": "4.41%",
+      "value": "4.38%",
       "status": "High - energy-driven inflation",
       "type": "warning"
     },
     {
       "title": "2Y Treasury Rate",
-      "value": "3.92%",
+      "value": "3.90%",
       "status": "Elevated - higher-for-longer stance",
       "type": "warning"
     },
@@ -299,29 +299,29 @@
       "category": "Frontier Model Race & Breakthroughs",
       "items": [
         {
-          "title": "An AI coding agent, used to write code, needs to reduce your maintenance costs",
-          "summary": "Latest AI discussion on Hacker News: An AI coding agent, used to write code, needs to reduce your maintenance costs. Points: 213. (Source: Hacker News)",
-          "url": "https://www.jamesshore.com/v2/blog/2026/you-need-ai-that-reduces-your-maintenance-costs"
+          "title": "I let AI build a tool to help me figure out what was waking me up at night",
+          "summary": "Latest AI discussion on Hacker News: I let AI build a tool to help me figure out what was waking me up at night. Points: 199. (Source: Hacker News)",
+          "url": "https://martin.sh/i-let-ai-build-a-tool-to-help-me-figure-out-what-was-waking-me-up-at-night/"
         },
         {
-          "title": "PS3 Emulator Devs Politely Ask That People Stop Flooding It with AI PRs",
-          "summary": "Latest AI discussion on Hacker News: PS3 Emulator Devs Politely Ask That People Stop Flooding It with AI PRs. Points: 168. (Source: Hacker News)",
-          "url": "https://kotaku.com/playstation-3-emulator-devs-politely-ask-that-people-stop-flooding-it-with-ai-code-pull-requests-2000694656"
+          "title": "If AI writes your code, why use Python?",
+          "summary": "Latest AI discussion on Hacker News: If AI writes your code, why use Python?. Points: 562. (Source: Hacker News)",
+          "url": "https://medium.com/@NMitchem/if-ai-writes-your-code-why-use-python-bf8c4ba1a055"
         },
         {
-          "title": "Maryland citizens hit with $2B power grid upgrade for out-of-state AI",
-          "summary": "Latest AI discussion on Hacker News: Maryland citizens hit with $2B power grid upgrade for out-of-state AI. Points: 271. (Source: Hacker News)",
-          "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/maryland-citizens-slapped-with-usd2-billion-grid-upgrade-bill-for-out-of-state-ai-data-centers-state-complains-to-federal-energy-regulators-says-additional-cost-breaks-ratepayer-protection-pledge-promises"
+          "title": "Students boo commencement speaker after she calls AI next industrial revolution",
+          "summary": "Latest AI discussion on Hacker News: Students boo commencement speaker after she calls AI next industrial revolution. Points: 165. (Source: Hacker News)",
+          "url": "https://www.404media.co/ucf-ai-commencement-speaker-booed/"
         },
         {
-          "title": "Local AI needs to be the norm",
-          "summary": "Latest AI discussion on Hacker News: Local AI needs to be the norm. Points: 1310. (Source: Hacker News)",
-          "url": "https://unix.foo/posts/local-ai-needs-to-be-norm/"
+          "title": "Google says criminal hackers used AI to find a major software flaw",
+          "summary": "Latest AI discussion on Hacker News: Google says criminal hackers used AI to find a major software flaw. Points: 199. (Source: Hacker News)",
+          "url": "https://www.nytimes.com/2026/05/11/us/politics/google-hackers-attack-ai.html"
         },
         {
-          "title": "Wall Street lawyers aided insider trading ring, say US prosecutors",
-          "summary": "Latest AI discussion on Hacker News: Wall Street lawyers aided insider trading ring, say US prosecutors. Points: 39. (Source: Hacker News)",
-          "url": "https://www.ft.com/content/d2fbe2c3-103a-4d09-b510-db58c5f8697d"
+          "title": "I work in Hollywood. Everyone who used to make TV is now training AI",
+          "summary": "Latest AI discussion on Hacker News: I work in Hollywood. Everyone who used to make TV is now training AI. Points: 102. (Source: Hacker News)",
+          "url": "https://www.wired.com/story/i-work-in-hollywood-everyone-who-used-to-make-tv-now-training-ai/"
         }
       ]
     },
@@ -329,29 +329,29 @@
       "category": "Enterprise & Agentic AI",
       "items": [
         {
+          "title": "An AI coding agent, used to write code, needs to reduce your maintenance costs",
+          "summary": "Latest AI discussion on Hacker News: An AI coding agent, used to write code, needs to reduce your maintenance costs. Points: 359. (Source: Hacker News)",
+          "url": "https://www.jamesshore.com/v2/blog/2026/you-need-ai-that-reduces-your-maintenance-costs"
+        },
+        {
+          "title": "PS3 Emulator Devs Politely Ask That People Stop Flooding It with AI PRs",
+          "summary": "Latest AI discussion on Hacker News: PS3 Emulator Devs Politely Ask That People Stop Flooding It with AI PRs. Points: 184. (Source: Hacker News)",
+          "url": "https://kotaku.com/playstation-3-emulator-devs-politely-ask-that-people-stop-flooding-it-with-ai-code-pull-requests-2000694656"
+        },
+        {
+          "title": "Maryland citizens hit with $2B power grid upgrade for out-of-state AI",
+          "summary": "Latest AI discussion on Hacker News: Maryland citizens hit with $2B power grid upgrade for out-of-state AI. Points: 315. (Source: Hacker News)",
+          "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/maryland-citizens-slapped-with-usd2-billion-grid-upgrade-bill-for-out-of-state-ai-data-centers-state-complains-to-federal-energy-regulators-says-additional-cost-breaks-ratepayer-protection-pledge-promises"
+        },
+        {
+          "title": "Local AI needs to be the norm",
+          "summary": "Latest AI discussion on Hacker News: Local AI needs to be the norm. Points: 1809. (Source: Hacker News)",
+          "url": "https://unix.foo/posts/local-ai-needs-to-be-norm/"
+        },
+        {
           "title": "Chrome's AI features may be hogging 4GB of your computer storage",
-          "summary": "Latest AI discussion on Hacker News: Chrome's AI features may be hogging 4GB of your computer storage. Points: 110. (Source: Hacker News)",
+          "summary": "Latest AI discussion on Hacker News: Chrome's AI features may be hogging 4GB of your computer storage. Points: 113. (Source: Hacker News)",
           "url": "https://www.theverge.com/tech/924933/google-chrome-4gb-gemini-nano-ai-features"
-        },
-        {
-          "title": "Israel's AI targeting system: data from a phone become a death sentence",
-          "summary": "Latest AI discussion on Hacker News: Israel's AI targeting system: data from a phone become a death sentence. Points: 44. (Source: Hacker News)",
-          "url": "https://www.latimes.com/world-nation/story/2026-05-04/inside-israels-ai-targeting-system-how-data-from-phone-become-death-sentence"
-        },
-        {
-          "title": "Gen Z Resentment Toward AI Grows as Adoption Stagnates and Workplace Fears Mount",
-          "summary": "Latest AI discussion on Hacker News: Gen Z Resentment Toward AI Grows as Adoption Stagnates and Workplace Fears Mount. Points: 96. (Source: Hacker News)",
-          "url": "https://www.waltonfamilyfoundation.org/about-us/newsroom/gen-z-resentment-toward-ai-grows-as-adoption-stagnates-and-workplace-fears-mount"
-        },
-        {
-          "title": "Task Paralysis and AI",
-          "summary": "Latest AI discussion on Hacker News: Task Paralysis and AI. Points: 246. (Source: Hacker News)",
-          "url": "https://g5t.de/articles/20260510-task-paralysis-and-ai/index.html"
-        },
-        {
-          "title": "Meta's embrace of AI is making its employees miserable",
-          "summary": "Latest AI discussion on Hacker News: Meta's embrace of AI is making its employees miserable. Points: 448. (Source: Hacker News)",
-          "url": "https://www.nytimes.com/2026/05/08/technology/meta-ai-employees-miserable.html"
         }
       ]
     },
