@@ -1,26 +1,26 @@
 {
-  "lastUpdated": "May 13, 2026",
+  "lastUpdated": "May 14, 2026",
   "executiveSummary": [
-    "As of May 13, 2026, the U.S. macroeconomic environment is navigating a complex period of high interest rates and shifting labor market dynamics. With the Fed Funds Rate holding at 3.64% and CPI inflation tracking at 3.29%, the central bank continues its \"higher-for-longer\" stance to anchor inflation expectations. Recent headlines such as \"People are paying $5,000 for a pack of Pokemon cards at GameStop. For some, it's paying off big time\" suggest that market participants remain hypersensitive to every data print, particularly around corporate earnings and consumer spending resilience.",
-    "The labor market, a key pillar of support, shows 200,000 initial jobless claims, reflecting a relatively stable but cooling employment landscape. Geopolitically, events like \"Dow Jones Futures: Nvidia's Huang Joins Trump's China Trip; Sandisk, Micron, Intel Rebound\" introduce exogenous risks that could disrupt global energy supplies and re-ignite inflationary impulses, keeping the Federal Reserve in a defensive posture as they balance growth against price stability. Analysts are closely watching for any signs of a \"hard landing\" as the effects of previous tightening cycles continue to filter through the real economy."
+    "As of May 14, 2026, the U.S. macroeconomic environment is navigating a complex period of high interest rates and shifting labor market dynamics. With the Fed Funds Rate holding at 3.64% and CPI inflation tracking at 3.78%, the central bank continues its \"higher-for-longer\" stance to anchor inflation expectations. Recent headlines such as \"Explained: What is a perpetual DEX? A Wall Street primer featuring Decibel\" suggest that market participants remain hypersensitive to every data print, particularly around corporate earnings and consumer spending resilience.",
+    "The labor market, a key pillar of support, shows 200,000 initial jobless claims, reflecting a relatively stable but cooling employment landscape. Geopolitically, events like \"Why BILL Holdings (BILL) Remains a Credible Private-Equity Target\" introduce exogenous risks that could disrupt global energy supplies and re-ignite inflationary impulses, keeping the Federal Reserve in a defensive posture as they balance growth against price stability. Analysts are closely watching for any signs of a \"hard landing\" as the effects of previous tightening cycles continue to filter through the real economy."
   ],
   "dailyHeadlines": [
     {
-      "title": "People are paying $5,000 for a pack of Pokemon cards at GameStop. For some, it's paying off big time",
+      "title": "Explained: What is a perpetual DEX? A Wall Street primer featuring Decibel",
       "summary": "",
-      "url": "https://finance.yahoo.com/news/people-paying-5-000-pack-114000382.html",
+      "url": "https://finance.yahoo.com/news/explained-perpetual-dex-wall-street-152000841.html",
       "type": "extreme"
     },
     {
-      "title": "Dow Jones Futures: Nvidia's Huang Joins Trump's China Trip; Sandisk, Micron, Intel Rebound",
+      "title": "Why BILL Holdings (BILL) Remains a Credible Private-Equity Target",
       "summary": "",
-      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-ai-stocks-sandisk-micron-intel/?src=A00220&amp;yptr=yahoo",
+      "url": "https://finance.yahoo.com/news/why-bill-holdings-bill-remains-234856601.html",
       "type": "warning"
     },
     {
-      "title": "Tower Semiconductor Gets Boost From AI Infrastructure Business",
+      "title": "Why SBA Communications (SBAC) Has Entered the M&amp;A Conversation",
       "summary": "",
-      "url": "https://www.investors.com/news/technology/tsem-stock-tower-semiconductor-q1-2026-earnings/?src=A00220&amp;yptr=yahoo",
+      "url": "https://finance.yahoo.com/news/why-sba-communications-sbac-entered-234758432.html",
       "type": "info"
     }
   ],
@@ -39,19 +39,19 @@
     },
     {
       "title": "10Y - 2Y Spread",
-      "value": "0.46%",
+      "value": "0.48%",
       "status": "Steepening - slower growth",
       "type": "warning"
     },
     {
       "title": "10Y Treasury Rate",
-      "value": "4.42%",
+      "value": "4.46%",
       "status": "High - energy-driven inflation",
       "type": "warning"
     },
     {
       "title": "2Y Treasury Rate",
-      "value": "3.95%",
+      "value": "4.00%",
       "status": "Elevated - higher-for-longer stance",
       "type": "warning"
     },
@@ -93,7 +93,7 @@
     },
     {
       "title": "CPI (YoY)",
-      "value": "3.29%",
+      "value": "3.78%",
       "status": "Stable - tracking within range",
       "type": "neutral"
     }
@@ -299,29 +299,29 @@
       "category": "Frontier Model Race & Breakthroughs",
       "items": [
         {
-          "title": "Reimagining the mouse pointer for the AI era",
-          "summary": "Latest AI discussion on Hacker News: Reimagining the mouse pointer for the AI era. Points: 219. (Source: Hacker News)",
-          "url": "https://deepmind.google/blog/ai-pointer/"
+          "title": "Arena AI Model ELO History",
+          "summary": "Latest AI discussion on Hacker News: Arena AI Model ELO History. Points: 62. (Source: Hacker News)",
+          "url": "https://mayerwin.github.io/AI-Arena-History/"
         },
         {
-          "title": "Show HN: Gigacatalyst – Extend your SaaS with an embedded AI builder",
-          "summary": "Latest AI discussion on Hacker News: Show HN: Gigacatalyst – Extend your SaaS with an embedded AI builder. Points: 50. (Source: Hacker News)",
-          "url": "https://news.ycombinator.com/item?id=48110593"
+          "title": "The other half of AI safety",
+          "summary": "Latest AI discussion on Hacker News: The other half of AI safety. Points: 83. (Source: Hacker News)",
+          "url": "https://personalaisafety.com/p/the-other-half-of-ai-safety"
         },
         {
-          "title": "Amazon employees are \"tokenmaxxing\" due to pressure to use AI tools",
-          "summary": "Latest AI discussion on Hacker News: Amazon employees are \"tokenmaxxing\" due to pressure to use AI tools. Points: 227. (Source: Hacker News)",
-          "url": "https://arstechnica.com/ai/2026/05/amazon-employees-are-tokenmaxxing-due-to-pressure-to-use-ai-tools/"
+          "title": "Medicare's new payment model is built for AI. Most of the tech world has no idea",
+          "summary": "Latest AI discussion on Hacker News: Medicare's new payment model is built for AI. Most of the tech world has no idea. Points: 77. (Source: Hacker News)",
+          "url": "https://techcrunch.com/2026/05/12/medicares-new-payment-model-is-built-for-ai-and-most-of-the-tech-world-has-no-idea/"
         },
         {
-          "title": "Launch HN: Voker (YC S24) – Analytics for AI Agents",
-          "summary": "Latest AI discussion on Hacker News: Launch HN: Voker (YC S24) – Analytics for AI Agents. Points: 55. (Source: Hacker News)",
-          "url": "https://voker.ai"
+          "title": "Meta won't let you block its AI account on Threads",
+          "summary": "Latest AI discussion on Hacker News: Meta won't let you block its AI account on Threads. Points: 169. (Source: Hacker News)",
+          "url": "https://www.theverge.com/tech/929091/meta-ai-threads-account-block"
         },
         {
-          "title": "Show HN: Statewright – Visual state machines that make AI agents reliable",
-          "summary": "Latest AI discussion on Hacker News: Show HN: Statewright – Visual state machines that make AI agents reliable. Points: 97. (Source: Hacker News)",
-          "url": "https://github.com/statewright/statewright"
+          "title": "The AI Backlash Could Get Ugly",
+          "summary": "Latest AI discussion on Hacker News: The AI Backlash Could Get Ugly. Points: 77. (Source: Hacker News)",
+          "url": "https://www.theatlantic.com/technology/2026/05/ai-backlash-data-centers-political-violence/687151/"
         }
       ]
     },
@@ -329,29 +329,29 @@
       "category": "Enterprise & Agentic AI",
       "items": [
         {
-          "title": "GM just laid off IT workers to hire those with stronger AI skills",
-          "summary": "Latest AI discussion on Hacker News: GM just laid off IT workers to hire those with stronger AI skills. Points: 66. (Source: Hacker News)",
-          "url": "https://techcrunch.com/2026/05/11/gm-just-laid-off-hundreds-of-it-workers-to-hire-those-with-stronger-ai-skills/"
+          "title": "The US is winning the AI race where it matters most: commercialization",
+          "summary": "Latest AI discussion on Hacker News: The US is winning the AI race where it matters most: commercialization. Points: 211. (Source: Hacker News)",
+          "url": "https://avkcode.github.io/blog/us-winning-ai-race.html"
         },
         {
-          "title": "I let AI build a tool to help me figure out what was waking me up at night",
-          "summary": "Latest AI discussion on Hacker News: I let AI build a tool to help me figure out what was waking me up at night. Points: 265. (Source: Hacker News)",
-          "url": "https://martin.sh/i-let-ai-build-a-tool-to-help-me-figure-out-what-was-waking-me-up-at-night/"
+          "title": "Software Developers Say AI Is Rotting Their Brains",
+          "summary": "Latest AI discussion on Hacker News: Software Developers Say AI Is Rotting Their Brains. Points: 94. (Source: Hacker News)",
+          "url": "https://www.404media.co/software-developers-say-ai-is-rotting-their-brains/"
         },
         {
-          "title": "If AI writes your code, why use Python?",
-          "summary": "Latest AI discussion on Hacker News: If AI writes your code, why use Python?. Points: 885. (Source: Hacker News)",
-          "url": "https://medium.com/@NMitchem/if-ai-writes-your-code-why-use-python-bf8c4ba1a055"
+          "title": "Reimagining the mouse pointer for the AI era",
+          "summary": "Latest AI discussion on Hacker News: Reimagining the mouse pointer for the AI era. Points: 248. (Source: Hacker News)",
+          "url": "https://deepmind.google/blog/ai-pointer/"
         },
         {
-          "title": "Students boo commencement speaker after she calls AI next industrial revolution",
-          "summary": "Latest AI discussion on Hacker News: Students boo commencement speaker after she calls AI next industrial revolution. Points: 173. (Source: Hacker News)",
-          "url": "https://www.404media.co/ucf-ai-commencement-speaker-booed/"
+          "title": "Amazon employees are \"tokenmaxxing\" due to pressure to use AI tools",
+          "summary": "Latest AI discussion on Hacker News: Amazon employees are \"tokenmaxxing\" due to pressure to use AI tools. Points: 246. (Source: Hacker News)",
+          "url": "https://arstechnica.com/ai/2026/05/amazon-employees-are-tokenmaxxing-due-to-pressure-to-use-ai-tools/"
         },
         {
-          "title": "Google says criminal hackers used AI to find a major software flaw",
-          "summary": "Latest AI discussion on Hacker News: Google says criminal hackers used AI to find a major software flaw. Points: 241. (Source: Hacker News)",
-          "url": "https://www.nytimes.com/2026/05/11/us/politics/google-hackers-attack-ai.html"
+          "title": "Show HN: Statewright – Visual state machines that make AI agents reliable",
+          "summary": "Latest AI discussion on Hacker News: Show HN: Statewright – Visual state machines that make AI agents reliable. Points: 114. (Source: Hacker News)",
+          "url": "https://github.com/statewright/statewright"
         }
       ]
     },
