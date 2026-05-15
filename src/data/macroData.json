@@ -1,26 +1,26 @@
 {
-  "lastUpdated": "May 14, 2026",
+  "lastUpdated": "May 15, 2026",
   "executiveSummary": [
-    "As of May 14, 2026, the U.S. macroeconomic environment is navigating a complex period of high interest rates and shifting labor market dynamics. With the Fed Funds Rate holding at 3.64% and CPI inflation tracking at 3.78%, the central bank continues its \"higher-for-longer\" stance to anchor inflation expectations. Recent headlines such as \"Explained: What is a perpetual DEX? A Wall Street primer featuring Decibel\" suggest that market participants remain hypersensitive to every data print, particularly around corporate earnings and consumer spending resilience.",
-    "The labor market, a key pillar of support, shows 200,000 initial jobless claims, reflecting a relatively stable but cooling employment landscape. Geopolitically, events like \"Why BILL Holdings (BILL) Remains a Credible Private-Equity Target\" introduce exogenous risks that could disrupt global energy supplies and re-ignite inflationary impulses, keeping the Federal Reserve in a defensive posture as they balance growth against price stability. Analysts are closely watching for any signs of a \"hard landing\" as the effects of previous tightening cycles continue to filter through the real economy."
+    "As of May 15, 2026, the U.S. macroeconomic environment is navigating a complex period of high interest rates and shifting labor market dynamics. With the Fed Funds Rate holding at 3.64% and CPI inflation tracking at 3.78%, the central bank continues its \"higher-for-longer\" stance to anchor inflation expectations. Recent headlines such as \"The Pentagon Has Less Than 8 Months to Break China’s Rare Earth Grip\" suggest that market participants remain hypersensitive to every data print, particularly around corporate earnings and consumer spending resilience.",
+    "The labor market, a key pillar of support, shows 211,000 initial jobless claims, reflecting a relatively stable but cooling employment landscape. Geopolitically, events like \"Nvidia CEO's foundation buys $108 million of AI computing from CoreWeave, donates it to researchers\" introduce exogenous risks that could disrupt global energy supplies and re-ignite inflationary impulses, keeping the Federal Reserve in a defensive posture as they balance growth against price stability. Analysts are closely watching for any signs of a \"hard landing\" as the effects of previous tightening cycles continue to filter through the real economy."
   ],
   "dailyHeadlines": [
     {
-      "title": "Explained: What is a perpetual DEX? A Wall Street primer featuring Decibel",
+      "title": "The Pentagon Has Less Than 8 Months to Break China’s Rare Earth Grip",
       "summary": "",
-      "url": "https://finance.yahoo.com/news/explained-perpetual-dex-wall-street-152000841.html",
+      "url": "https://finance.yahoo.com/sectors/energy/articles/pentagon-less-8-months-break-000000236.html",
       "type": "extreme"
     },
     {
-      "title": "Why BILL Holdings (BILL) Remains a Credible Private-Equity Target",
+      "title": "Nvidia CEO's foundation buys $108 million of AI computing from CoreWeave, donates it to researchers",
       "summary": "",
-      "url": "https://finance.yahoo.com/news/why-bill-holdings-bill-remains-234856601.html",
+      "url": "https://finance.yahoo.com/sectors/technology/articles/nvidia-ceo39s-foundation-buys-108-million-of-ai-computing-from-coreweave-donates-it-to-researchers-235709405.html",
       "type": "warning"
     },
     {
-      "title": "Why SBA Communications (SBAC) Has Entered the M&amp;A Conversation",
+      "title": "Why Integer Stock Leaped More Than 5% Higher Today",
       "summary": "",
-      "url": "https://finance.yahoo.com/news/why-sba-communications-sbac-entered-234758432.html",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/why-integer-stock-leaped-more-234321431.html",
       "type": "info"
     }
   ],
@@ -51,7 +51,7 @@
     },
     {
       "title": "2Y Treasury Rate",
-      "value": "4.00%",
+      "value": "3.98%",
       "status": "Elevated - higher-for-longer stance",
       "type": "warning"
     },
@@ -63,7 +63,7 @@
     },
     {
       "title": "Retail Sales (MoM)",
-      "value": "1.90%",
+      "value": "0.50%",
       "status": "Distorted - high gas prices",
       "type": "warning"
     },
@@ -81,7 +81,7 @@
     },
     {
       "title": "Initial Jobless Claims",
-      "value": "200,000",
+      "value": "211,000",
       "status": "Stable - primary pillar of support",
       "type": "neutral"
     },
@@ -100,11 +100,18 @@
   ],
   "adpWeeklyData": [
     {
+      "week": "May 9",
+      "fullDate": "May 9, 2026",
+      "number": 211000,
+      "delta": 12000,
+      "deltaPct": 6.03
+    },
+    {
       "week": "May 2",
       "fullDate": "May 2, 2026",
-      "number": 200000,
-      "delta": 10000,
-      "deltaPct": 5.26
+      "number": 199000,
+      "delta": 9000,
+      "deltaPct": 4.74
     },
     {
       "week": "Apr 25",
@@ -201,13 +208,6 @@
       "week": "Jan 24",
       "fullDate": "Jan 24, 2026",
       "number": 211000,
-      "delta": 1000,
-      "deltaPct": 0.48
-    },
-    {
-      "week": "Jan 17",
-      "fullDate": "Jan 17, 2026",
-      "number": 210000,
       "delta": 0,
       "deltaPct": 0
     }
@@ -299,29 +299,29 @@
       "category": "Frontier Model Race & Breakthroughs",
       "items": [
         {
-          "title": "Arena AI Model ELO History",
-          "summary": "Latest AI discussion on Hacker News: Arena AI Model ELO History. Points: 62. (Source: Hacker News)",
-          "url": "https://mayerwin.github.io/AI-Arena-History/"
+          "title": "Details of the Daring Airdrop at Tristan Da Cunha",
+          "summary": "Latest AI discussion on Hacker News: Details of the Daring Airdrop at Tristan Da Cunha. Points: 166. (Source: Hacker News)",
+          "url": "https://www.tristandc.com/government/news-2026-05-11-airdrop.php"
         },
         {
-          "title": "The other half of AI safety",
-          "summary": "Latest AI discussion on Hacker News: The other half of AI safety. Points: 83. (Source: Hacker News)",
-          "url": "https://personalaisafety.com/p/the-other-half-of-ai-safety"
+          "title": "Access to frontier AI will soon be limited by economic and security constraints",
+          "summary": "Latest AI discussion on Hacker News: Access to frontier AI will soon be limited by economic and security constraints. Points: 175. (Source: Hacker News)",
+          "url": "https://writing.antonleicht.me/p/cut-off"
         },
         {
-          "title": "Medicare's new payment model is built for AI. Most of the tech world has no idea",
-          "summary": "Latest AI discussion on Hacker News: Medicare's new payment model is built for AI. Most of the tech world has no idea. Points: 77. (Source: Hacker News)",
-          "url": "https://techcrunch.com/2026/05/12/medicares-new-payment-model-is-built-for-ai-and-most-of-the-tech-world-has-no-idea/"
+          "title": "Ontario auditors find doctors' AI note takers routinely blow basic facts",
+          "summary": "Latest AI discussion on Hacker News: Ontario auditors find doctors' AI note takers routinely blow basic facts. Points: 248. (Source: Hacker News)",
+          "url": "https://www.theregister.com/ai-ml/2026/05/14/ontario-auditors-find-doctors-ai-note-takers-routinely-blow-basic-facts/5240771"
         },
         {
-          "title": "Meta won't let you block its AI account on Threads",
-          "summary": "Latest AI discussion on Hacker News: Meta won't let you block its AI account on Threads. Points: 169. (Source: Hacker News)",
-          "url": "https://www.theverge.com/tech/929091/meta-ai-threads-account-block"
+          "title": "The AI zombification of universities",
+          "summary": "Latest AI discussion on Hacker News: The AI zombification of universities. Points: 185. (Source: Hacker News)",
+          "url": "https://www.thenewcritic.com/p/the-great-zombification"
         },
         {
-          "title": "The AI Backlash Could Get Ugly",
-          "summary": "Latest AI discussion on Hacker News: The AI Backlash Could Get Ugly. Points: 77. (Source: Hacker News)",
-          "url": "https://www.theatlantic.com/technology/2026/05/ai-backlash-data-centers-political-violence/687151/"
+          "title": "AI is making me dumb",
+          "summary": "Latest AI discussion on Hacker News: AI is making me dumb. Points: 496. (Source: Hacker News)",
+          "url": "https://jpain.io/god-damn-ai-is-making-me-dumb/"
         }
       ]
     },
@@ -329,29 +329,29 @@
       "category": "Enterprise & Agentic AI",
       "items": [
         {
+          "title": "RTX 5090 and M4 MacBook Air: Can It Game?",
+          "summary": "Latest AI discussion on Hacker News: RTX 5090 and M4 MacBook Air: Can It Game?. Points: 614. (Source: Hacker News)",
+          "url": "https://scottjg.com/posts/2026-05-05-egpu-mac-gaming/"
+        },
+        {
+          "title": "The other half of AI safety",
+          "summary": "Latest AI discussion on Hacker News: The other half of AI safety. Points: 97. (Source: Hacker News)",
+          "url": "https://personalaisafety.com/p/the-other-half-of-ai-safety"
+        },
+        {
+          "title": "Meta won't let you block its AI account on Threads",
+          "summary": "Latest AI discussion on Hacker News: Meta won't let you block its AI account on Threads. Points: 193. (Source: Hacker News)",
+          "url": "https://www.theverge.com/tech/929091/meta-ai-threads-account-block"
+        },
+        {
           "title": "The US is winning the AI race where it matters most: commercialization",
-          "summary": "Latest AI discussion on Hacker News: The US is winning the AI race where it matters most: commercialization. Points: 211. (Source: Hacker News)",
+          "summary": "Latest AI discussion on Hacker News: The US is winning the AI race where it matters most: commercialization. Points: 234. (Source: Hacker News)",
           "url": "https://avkcode.github.io/blog/us-winning-ai-race.html"
         },
         {
           "title": "Software Developers Say AI Is Rotting Their Brains",
-          "summary": "Latest AI discussion on Hacker News: Software Developers Say AI Is Rotting Their Brains. Points: 94. (Source: Hacker News)",
+          "summary": "Latest AI discussion on Hacker News: Software Developers Say AI Is Rotting Their Brains. Points: 97. (Source: Hacker News)",
           "url": "https://www.404media.co/software-developers-say-ai-is-rotting-their-brains/"
-        },
-        {
-          "title": "Reimagining the mouse pointer for the AI era",
-          "summary": "Latest AI discussion on Hacker News: Reimagining the mouse pointer for the AI era. Points: 248. (Source: Hacker News)",
-          "url": "https://deepmind.google/blog/ai-pointer/"
-        },
-        {
-          "title": "Amazon employees are \"tokenmaxxing\" due to pressure to use AI tools",
-          "summary": "Latest AI discussion on Hacker News: Amazon employees are \"tokenmaxxing\" due to pressure to use AI tools. Points: 246. (Source: Hacker News)",
-          "url": "https://arstechnica.com/ai/2026/05/amazon-employees-are-tokenmaxxing-due-to-pressure-to-use-ai-tools/"
-        },
-        {
-          "title": "Show HN: Statewright – Visual state machines that make AI agents reliable",
-          "summary": "Latest AI discussion on Hacker News: Show HN: Statewright – Visual state machines that make AI agents reliable. Points: 114. (Source: Hacker News)",
-          "url": "https://github.com/statewright/statewright"
         }
       ]
     },
