@@ -1,26 +1,26 @@
 {
-  "lastUpdated": "May 16, 2026",
+  "lastUpdated": "May 17, 2026",
   "executiveSummary": [
-    "As of May 16, 2026, the U.S. macroeconomic environment is navigating a complex period of high interest rates and shifting labor market dynamics. With the Fed Funds Rate holding at 3.64% and CPI inflation tracking at 3.78%, the central bank continues its \"higher-for-longer\" stance to anchor inflation expectations. Recent headlines such as \"The Progressive Corporation (PGR) Is One Of The Best 52-Week Low Stocks To Buy Right Now\" suggest that market participants remain hypersensitive to every data print, particularly around corporate earnings and consumer spending resilience.",
-    "The labor market, a key pillar of support, shows 211,000 initial jobless claims, reflecting a relatively stable but cooling employment landscape. Geopolitically, events like \"Ackman's Pershing Square takes Microsoft stake, exits Google parent Alphabet\" introduce exogenous risks that could disrupt global energy supplies and re-ignite inflationary impulses, keeping the Federal Reserve in a defensive posture as they balance growth against price stability. Analysts are closely watching for any signs of a \"hard landing\" as the effects of previous tightening cycles continue to filter through the real economy."
+    "As of May 17, 2026, the U.S. macroeconomic environment is navigating a complex period of high interest rates and shifting labor market dynamics. With the Fed Funds Rate holding at 3.64% and CPI inflation tracking at 3.78%, the central bank continues its \"higher-for-longer\" stance to anchor inflation expectations. Recent headlines such as \"MasTec Inc (MTZ): Surging Blacklog Brightens Stock Outlook\" suggest that market participants remain hypersensitive to every data print, particularly around corporate earnings and consumer spending resilience.",
+    "The labor market, a key pillar of support, shows 211,000 initial jobless claims, reflecting a relatively stable but cooling employment landscape. Geopolitically, events like \"What Does Guggenheim Say About Live Nation Entertainment Inc (LYV) Stock?\" introduce exogenous risks that could disrupt global energy supplies and re-ignite inflationary impulses, keeping the Federal Reserve in a defensive posture as they balance growth against price stability. Analysts are closely watching for any signs of a \"hard landing\" as the effects of previous tightening cycles continue to filter through the real economy."
   ],
   "dailyHeadlines": [
     {
-      "title": "The Progressive Corporation (PGR) Is One Of The Best 52-Week Low Stocks To Buy Right Now",
+      "title": "MasTec Inc (MTZ): Surging Blacklog Brightens Stock Outlook",
       "summary": "",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/progressive-corporation-pgr-one-best-092902791.html",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/mastec-inc-mtz-surging-blacklog-091135023.html",
       "type": "extreme"
     },
     {
-      "title": "Ackman's Pershing Square takes Microsoft stake, exits Google parent Alphabet",
+      "title": "What Does Guggenheim Say About Live Nation Entertainment Inc (LYV) Stock?",
       "summary": "",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/ackmans-pershing-square-takes-stake-092754300.html",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/does-guggenheim-live-nation-entertainment-091057029.html",
       "type": "warning"
     },
     {
-      "title": "Rollins Stock: Analyst Estimates &amp; Ratings",
+      "title": "Brookfield Corp (BN) Invests in OpenAI Unit. Keep Your Eyes on the Stock",
       "summary": "",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/rollins-stock-analyst-estimates-ratings-092107212.html",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/brookfield-corp-bn-invests-openai-091036252.html",
       "type": "info"
     }
   ],
@@ -299,29 +299,29 @@
       "category": "Frontier Model Race & Breakthroughs",
       "items": [
         {
+          "title": "US is starting to see heavy job losses in roles exposed to AI",
+          "summary": "Latest AI discussion on Hacker News: US is starting to see heavy job losses in roles exposed to AI. Points: 156. (Source: Hacker News)",
+          "url": "https://www.bloomberg.com/news/articles/2026-05-15/us-is-starting-to-see-heavy-job-losses-in-roles-exposed-to-ai"
+        },
+        {
+          "title": "Prepare for an AI Jobs Apocalypse",
+          "summary": "Latest AI discussion on Hacker News: Prepare for an AI Jobs Apocalypse. Points: 28. (Source: Hacker News)",
+          "url": "https://www.economist.com/leaders/2026/05/14/prepare-for-an-ai-jobs-apocalypse"
+        },
+        {
+          "title": "Someone Shared a Real Monet Painting as AI and Asked for Critiques",
+          "summary": "Latest AI discussion on Hacker News: Someone Shared a Real Monet Painting as AI and Asked for Critiques. Points: 54. (Source: Hacker News)",
+          "url": "https://petapixel.com/2026/05/14/someone-shared-a-real-monet-painting-as-ai-and-asked-for-critiques/"
+        },
+        {
           "title": "Frontier AI has broken the open CTF format",
-          "summary": "Latest AI discussion on Hacker News: Frontier AI has broken the open CTF format. Points: 152. (Source: Hacker News)",
+          "summary": "Latest AI discussion on Hacker News: Frontier AI has broken the open CTF format. Points: 386. (Source: Hacker News)",
           "url": "https://kabir.au/blog/the-ctf-scene-is-dead"
         },
         {
           "title": "I believe there are entire companies right now under AI psychosis",
-          "summary": "Latest AI discussion on Hacker News: I believe there are entire companies right now under AI psychosis. Points: 1408. (Source: Hacker News)",
+          "summary": "Latest AI discussion on Hacker News: I believe there are entire companies right now under AI psychosis. Points: 1988. (Source: Hacker News)",
           "url": "https://twitter.com/mitchellh/status/2055380239711457578"
-        },
-        {
-          "title": "Amazon workers under pressure to up their AI usage are making up tasks",
-          "summary": "Latest AI discussion on Hacker News: Amazon workers under pressure to up their AI usage are making up tasks. Points: 356. (Source: Hacker News)",
-          "url": "https://www.fastcompany.com/91541586/amazon-workers-pressured-to-up-ai-use-extraneous-tasks"
-        },
-        {
-          "title": "Details of the Daring Airdrop at Tristan Da Cunha",
-          "summary": "Latest AI discussion on Hacker News: Details of the Daring Airdrop at Tristan Da Cunha. Points: 260. (Source: Hacker News)",
-          "url": "https://www.tristandc.com/government/news-2026-05-11-airdrop.php"
-        },
-        {
-          "title": "Access to frontier AI will soon be limited by economic and security constraints",
-          "summary": "Latest AI discussion on Hacker News: Access to frontier AI will soon be limited by economic and security constraints. Points: 214. (Source: Hacker News)",
-          "url": "https://writing.antonleicht.me/p/cut-off"
         }
       ]
     },
@@ -329,29 +329,29 @@
       "category": "Enterprise & Agentic AI",
       "items": [
         {
-          "title": "Ontario auditors find doctors' AI note takers routinely blow basic facts",
-          "summary": "Latest AI discussion on Hacker News: Ontario auditors find doctors' AI note takers routinely blow basic facts. Points: 304. (Source: Hacker News)",
-          "url": "https://www.theregister.com/ai-ml/2026/05/14/ontario-auditors-find-doctors-ai-note-takers-routinely-blow-basic-facts/5240771"
+          "title": "Your AI Use Is Breaking My Brain",
+          "summary": "Latest AI discussion on Hacker News: Your AI Use Is Breaking My Brain. Points: 30. (Source: Hacker News)",
+          "url": "https://www.404media.co/your-ai-use-is-breaking-my-brain/"
         },
         {
-          "title": "The AI zombification of universities",
-          "summary": "Latest AI discussion on Hacker News: The AI zombification of universities. Points: 191. (Source: Hacker News)",
-          "url": "https://www.thenewcritic.com/p/the-great-zombification"
+          "title": "Travelers on Air Force One ordered to throw away gifts, phones after China trip",
+          "summary": "Latest AI discussion on Hacker News: Travelers on Air Force One ordered to throw away gifts, phones after China trip. Points: 24. (Source: Hacker News)",
+          "url": "https://techcrunch.com/2026/05/15/us-orders-travelers-on-air-force-one-to-throw-away-gifts-pins-and-burner-phones-after-china-trip/"
         },
         {
-          "title": "AI is making me dumb",
-          "summary": "Latest AI discussion on Hacker News: AI is making me dumb. Points: 537. (Source: Hacker News)",
-          "url": "https://jpain.io/god-damn-ai-is-making-me-dumb/"
+          "title": "Show HN: Sx – an open-source package manager for AI skills, MCPs, and commands",
+          "summary": "Latest AI discussion on Hacker News: Show HN: Sx – an open-source package manager for AI skills, MCPs, and commands. Points: 47. (Source: Hacker News)",
+          "url": "https://github.com/sleuth-io/sx"
         },
         {
-          "title": "The people writing AI alignment policy are not whose work is being replaced",
-          "summary": "Latest AI discussion on Hacker News: The people writing AI alignment policy are not whose work is being replaced. Points: 92. (Source: Hacker News)",
-          "url": "https://danieltan.weblog.lol/2026/05/you-dont-align-an-ai-you-align-with-it"
+          "title": "AI is wiping out entry-level jobs",
+          "summary": "Latest AI discussion on Hacker News: AI is wiping out entry-level jobs. Points: 41. (Source: Hacker News)",
+          "url": "https://fortune.com/2026/05/15/ai-entry-level-jobs-higher-education-experience-gap/"
         },
         {
-          "title": "RTX 5090 and M4 MacBook Air: Can It Game?",
-          "summary": "Latest AI discussion on Hacker News: RTX 5090 and M4 MacBook Air: Can It Game?. Points: 681. (Source: Hacker News)",
-          "url": "https://scottjg.com/posts/2026-05-05-egpu-mac-gaming/"
+          "title": "Amazon workers under pressure to up their AI usage are making up tasks",
+          "summary": "Latest AI discussion on Hacker News: Amazon workers under pressure to up their AI usage are making up tasks. Points: 390. (Source: Hacker News)",
+          "url": "https://www.fastcompany.com/91541586/amazon-workers-pressured-to-up-ai-use-extraneous-tasks"
         }
       ]
     },
