@@ -1,26 +1,26 @@
 {
-  "lastUpdated": "May 19, 2026",
+  "lastUpdated": "May 20, 2026",
   "executiveSummary": [
-    "As of May 19, 2026, the U.S. macroeconomic environment is navigating a complex period of high interest rates and shifting labor market dynamics. With the Fed Funds Rate holding at 3.64% and CPI inflation tracking at 3.78%, the central bank continues its \"higher-for-longer\" stance to anchor inflation expectations. Recent headlines such as \"Stock Market Today: Dow Futures Fall As Micron, Sandisk Extend Slide; Home Depot, Google I/O In Focus\" suggest that market participants remain hypersensitive to every data print, particularly around corporate earnings and consumer spending resilience.",
-    "The labor market, a key pillar of support, shows 211,000 initial jobless claims, reflecting a relatively stable but cooling employment landscape. Geopolitically, events like \"Home Depot Earnings Beat As Mortgage Rates Climb To 9-Month High\" introduce exogenous risks that could disrupt global energy supplies and re-ignite inflationary impulses, keeping the Federal Reserve in a defensive posture as they balance growth against price stability. Analysts are closely watching for any signs of a \"hard landing\" as the effects of previous tightening cycles continue to filter through the real economy."
+    "As of May 20, 2026, the U.S. macroeconomic environment is navigating a complex period of high interest rates and shifting labor market dynamics. With the Fed Funds Rate holding at 3.64% and CPI inflation tracking at 3.78%, the central bank continues its \"higher-for-longer\" stance to anchor inflation expectations. Recent headlines such as \"Deloitte: Private Market Allocations in DC Plans Could Hit $1T by 2030\" suggest that market participants remain hypersensitive to every data print, particularly around corporate earnings and consumer spending resilience.",
+    "The labor market, a key pillar of support, shows 211,000 initial jobless claims, reflecting a relatively stable but cooling employment landscape. Geopolitically, events like \"Mark Zandi warns America is ‘close to the edge’ with 40% recession risk — and says US stocks are detached from reality\" introduce exogenous risks that could disrupt global energy supplies and re-ignite inflationary impulses, keeping the Federal Reserve in a defensive posture as they balance growth against price stability. Analysts are closely watching for any signs of a \"hard landing\" as the effects of previous tightening cycles continue to filter through the real economy."
   ],
   "dailyHeadlines": [
     {
-      "title": "Stock Market Today: Dow Futures Fall As Micron, Sandisk Extend Slide; Home Depot, Google I/O In Focus",
+      "title": "Deloitte: Private Market Allocations in DC Plans Could Hit $1T by 2030",
       "summary": "",
-      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-6/?src=A00220&amp;yptr=yahoo",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/deloitte-private-market-allocations-dc-120000647.html",
       "type": "extreme"
     },
     {
-      "title": "Home Depot Earnings Beat As Mortgage Rates Climb To 9-Month High",
+      "title": "Mark Zandi warns America is ‘close to the edge’ with 40% recession risk — and says US stocks are detached from reality",
       "summary": "",
-      "url": "https://www.investors.com/news/home-depot-earnings-lowes-earnings-q1-mortgage-rates/?src=A00220&amp;yptr=yahoo",
+      "url": "https://finance.yahoo.com/economy/articles/mark-zandi-warns-america-close-120000600.html",
       "type": "warning"
     },
     {
-      "title": "Datadog (DDOG), a Resilient Company in the AI Boom?",
+      "title": "Costco (COST) – Among the 10 Best Long Term Low Risk Stocks to Buy According to Hedge Funds",
       "summary": "",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/datadog-ddog-resilient-company-ai-121743056.html",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/costco-cost-among-10-best-115857023.html",
       "type": "info"
     }
   ],
@@ -45,13 +45,13 @@
     },
     {
       "title": "10Y Treasury Rate",
-      "value": "4.59%",
+      "value": "4.61%",
       "status": "High - energy-driven inflation",
       "type": "warning"
     },
     {
       "title": "2Y Treasury Rate",
-      "value": "4.09%",
+      "value": "4.07%",
       "status": "Elevated - higher-for-longer stance",
       "type": "warning"
     },
@@ -299,29 +299,29 @@
       "category": "Frontier Model Race & Breakthroughs",
       "items": [
         {
-          "title": "We let AIs run radio stations",
-          "summary": "Latest AI discussion on Hacker News: We let AIs run radio stations. Points: 289. (Source: Hacker News)",
-          "url": "https://andonlabs.com/blog/andon-fm"
+          "title": "Remove-AI-Watermarks – CLI and library for removing AI watermarks from images",
+          "summary": "Latest AI discussion on Hacker News: Remove-AI-Watermarks – CLI and library for removing AI watermarks from images. Points: 316. (Source: Hacker News)",
+          "url": "https://github.com/wiltodelta/remove-ai-watermarks"
         },
         {
-          "title": "We stopped AI bot spam in our GitHub repo using Git's –author flag",
-          "summary": "Latest AI discussion on Hacker News: We stopped AI bot spam in our GitHub repo using Git's –author flag. Points: 477. (Source: Hacker News)",
-          "url": "https://archestra.ai/blog/only-responsible-ai"
+          "title": "OpenAI Adopts Google's SynthID Watermark for AI Images with Verification Tool",
+          "summary": "Latest AI discussion on Hacker News: OpenAI Adopts Google's SynthID Watermark for AI Images with Verification Tool. Points: 299. (Source: Hacker News)",
+          "url": "https://openai.com/index/advancing-content-provenance/"
         },
         {
-          "title": "Enough with the AI FOMO, go slow-mo, says Domo CDO",
-          "summary": "Latest AI discussion on Hacker News: Enough with the AI FOMO, go slow-mo, says Domo CDO. Points: 152. (Source: Hacker News)",
-          "url": "https://www.theregister.com/ai-ml/2026/05/17/enough-with-the-ai-fomo-go-slow-mo-says-domo-cdo/5240840"
+          "title": "Mistral AI acquires Emmi AI",
+          "summary": "Latest AI discussion on Hacker News: Mistral AI acquires Emmi AI. Points: 279. (Source: Hacker News)",
+          "url": "https://www.emmi.ai/news/mistral-ai-acquires-emmi-ai"
         },
         {
-          "title": "AI eats the world (Spring 26) [pdf]",
-          "summary": "Latest AI discussion on Hacker News: AI eats the world (Spring 26) [pdf]. Points: 257. (Source: Hacker News)",
-          "url": "https://static1.squarespace.com/static/50363cf324ac8e905e7df861/t/6a0af5d0484fbf5fe9a7743e/1779103184855/2026-Spring-AI.pdf"
+          "title": "Graduates are booing pep talks on AI at college commencements",
+          "summary": "Latest AI discussion on Hacker News: Graduates are booing pep talks on AI at college commencements. Points: 116. (Source: Hacker News)",
+          "url": "https://apnews.com/article/ai-college-commencement-anxiety-boo-35aec9bac660eaeb05c5b8d392db2cac"
         },
         {
-          "title": "Voice AI Systems Are Vulnerable to Hidden Audio Attacks",
-          "summary": "Latest AI discussion on Hacker News: Voice AI Systems Are Vulnerable to Hidden Audio Attacks. Points: 126. (Source: Hacker News)",
-          "url": "https://spectrum.ieee.org/voice-ai-audio-attacks"
+          "title": "AI is too expensive",
+          "summary": "Latest AI discussion on Hacker News: AI is too expensive. Points: 139. (Source: Hacker News)",
+          "url": "https://www.wheresyoured.at/ai-is-too-expensive/"
         }
       ]
     },
@@ -329,29 +329,29 @@
       "category": "Enterprise & Agentic AI",
       "items": [
         {
-          "title": "Eric Schmidt speech about AI booed during graduation",
-          "summary": "Latest AI discussion on Hacker News: Eric Schmidt speech about AI booed during graduation. Points: 358. (Source: Hacker News)",
-          "url": "https://www.nbcnews.com/tech/tech-news/former-google-ceo-booed-graduation-speech-ai-rcna345585"
+          "title": "The American Rebellion Against AI Is Gaining Steam",
+          "summary": "Latest AI discussion on Hacker News: The American Rebellion Against AI Is Gaining Steam. Points: 125. (Source: Hacker News)",
+          "url": "https://www.wsj.com/tech/ai/the-american-rebellion-against-ai-is-gaining-steam-94b72529"
         },
         {
-          "title": "Multiple commencement speakers booed for AI comments during graduation speeches",
-          "summary": "Latest AI discussion on Hacker News: Multiple commencement speakers booed for AI comments during graduation speeches. Points: 156. (Source: Hacker News)",
-          "url": "https://www.nbcnews.com/video/multiple-commencement-speakers-booed-for-ai-comments-during-graduation-speeches-263486021518"
+          "title": "We let AIs run radio stations",
+          "summary": "Latest AI discussion on Hacker News: We let AIs run radio stations. Points: 361. (Source: Hacker News)",
+          "url": "https://andonlabs.com/blog/andon-fm"
         },
         {
-          "title": "Most Americans don't trust AI – or the people in charge of it (2025)",
-          "summary": "Latest AI discussion on Hacker News: Most Americans don't trust AI – or the people in charge of it (2025). Points: 133. (Source: Hacker News)",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/644853/pew-gallup-data-americans-dont-trust-ai"
+          "title": "We stopped AI bot spam in our GitHub repo using Git's –author flag",
+          "summary": "Latest AI discussion on Hacker News: We stopped AI bot spam in our GitHub repo using Git's –author flag. Points: 493. (Source: Hacker News)",
+          "url": "https://archestra.ai/blog/only-responsible-ai"
         },
         {
-          "title": "Two EA-18 fighter jets collide at Mountain Home airshow, pilots ejected safely",
-          "summary": "Latest AI discussion on Hacker News: Two EA-18 fighter jets collide at Mountain Home airshow, pilots ejected safely. Points: 243. (Source: Hacker News)",
-          "url": "https://idahonews.com/news/local/two-f-18-fighter-jets-have-crashed-during-an-airshow-at-mountain-home-air-force-base"
+          "title": "Enough with the AI FOMO, go slow-mo, says Domo CDO",
+          "summary": "Latest AI discussion on Hacker News: Enough with the AI FOMO, go slow-mo, says Domo CDO. Points: 153. (Source: Hacker News)",
+          "url": "https://www.theregister.com/ai-ml/2026/05/17/enough-with-the-ai-fomo-go-slow-mo-says-domo-cdo/5240840"
         },
         {
-          "title": "AI is a technology not a product",
-          "summary": "Latest AI discussion on Hacker News: AI is a technology not a product. Points: 470. (Source: Hacker News)",
-          "url": "https://daringfireball.net/2026/05/ai_is_technology_not_a_product"
+          "title": "AI eats the world (Spring 26) [pdf]",
+          "summary": "Latest AI discussion on Hacker News: AI eats the world (Spring 26) [pdf]. Points: 296. (Source: Hacker News)",
+          "url": "https://static1.squarespace.com/static/50363cf324ac8e905e7df861/t/6a0af5d0484fbf5fe9a7743e/1779103184855/2026-Spring-AI.pdf"
         }
       ]
     },
