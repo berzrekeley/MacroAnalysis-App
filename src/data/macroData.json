@@ -1,26 +1,26 @@
 {
-  "lastUpdated": "May 21, 2026",
+  "lastUpdated": "May 22, 2026",
   "executiveSummary": [
-    "As of May 21, 2026, the U.S. macroeconomic environment is navigating a complex period of high interest rates and shifting labor market dynamics. With the Fed Funds Rate holding at 3.64% and CPI inflation tracking at 3.78%, the central bank continues its \"higher-for-longer\" stance to anchor inflation expectations. Recent headlines such as \"Most Americans retire with this much banked in savings: Will it be enough for you?\" suggest that market participants remain hypersensitive to every data print, particularly around corporate earnings and consumer spending resilience.",
-    "The labor market, a key pillar of support, shows 209,000 initial jobless claims, reflecting a relatively stable but cooling employment landscape. Geopolitically, events like \"Nvidia's $80 billion stock buyback and bigger dividend may unleash an Apple-like stock move\" introduce exogenous risks that could disrupt global energy supplies and re-ignite inflationary impulses, keeping the Federal Reserve in a defensive posture as they balance growth against price stability. Analysts are closely watching for any signs of a \"hard landing\" as the effects of previous tightening cycles continue to filter through the real economy."
+    "As of May 22, 2026, the U.S. macroeconomic environment is navigating a complex period of high interest rates and shifting labor market dynamics. With the Fed Funds Rate holding at 3.64% and CPI inflation tracking at 3.78%, the central bank continues its \"higher-for-longer\" stance to anchor inflation expectations. Recent headlines such as \"Anthropic says it’s about to have its first profitable quarter\" suggest that market participants remain hypersensitive to every data print, particularly around corporate earnings and consumer spending resilience.",
+    "The labor market, a key pillar of support, shows 209,000 initial jobless claims, reflecting a relatively stable but cooling employment landscape. Geopolitically, events like \"NVIDIA Corporation Q1 2027 Earnings Call Summary\" introduce exogenous risks that could disrupt global energy supplies and re-ignite inflationary impulses, keeping the Federal Reserve in a defensive posture as they balance growth against price stability. Analysts are closely watching for any signs of a \"hard landing\" as the effects of previous tightening cycles continue to filter through the real economy."
   ],
   "dailyHeadlines": [
     {
-      "title": "Most Americans retire with this much banked in savings: Will it be enough for you?",
+      "title": "Anthropic says it’s about to have its first profitable quarter",
       "summary": "",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/most-americans-retire-much-banked-122500270.html",
+      "url": "https://finance.yahoo.com/sectors/technology/articles/anthropic-says-first-profitable-quarter-002121100.html",
       "type": "extreme"
     },
     {
-      "title": "Nvidia's $80 billion stock buyback and bigger dividend may unleash an Apple-like stock move",
+      "title": "NVIDIA Corporation Q1 2027 Earnings Call Summary",
       "summary": "",
-      "url": "https://finance.yahoo.com/markets/stocks/article/nvidias-80-billion-stock-buyback-and-bigger-dividend-may-unleash-an-apple-like-stock-move-122248827.html",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-corporation-q1-2027-earnings-002039483.html",
       "type": "warning"
     },
     {
-      "title": "DoJ indicts Chinese container makers on price-fixing charges",
+      "title": "Samsung Electronics' shares jump after tentative wage deal suspends strike",
       "summary": "",
-      "url": "https://finance.yahoo.com/economy/policy/articles/doj-indicts-chinese-container-makers-121225437.html",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/samsung-electronics-shares-jump-tentative-001854341.html",
       "type": "info"
     }
   ],
@@ -39,19 +39,19 @@
     },
     {
       "title": "10Y - 2Y Spread",
-      "value": "0.53%",
+      "value": "0.49%",
       "status": "Steepening - slower growth",
       "type": "warning"
     },
     {
       "title": "10Y Treasury Rate",
-      "value": "4.67%",
+      "value": "4.57%",
       "status": "High - energy-driven inflation",
       "type": "warning"
     },
     {
       "title": "2Y Treasury Rate",
-      "value": "4.13%",
+      "value": "4.04%",
       "status": "Elevated - higher-for-longer stance",
       "type": "warning"
     },
@@ -299,29 +299,29 @@
       "category": "Frontier Model Race & Breakthroughs",
       "items": [
         {
-          "title": "Google officially announces that ads will be included in AI Mode search results",
-          "summary": "Latest AI discussion on Hacker News: Google officially announces that ads will be included in AI Mode search results. Points: 196. (Source: Hacker News)",
-          "url": "https://blog.google/products/ads-commerce/google-marketing-live-search-ads/"
+          "title": "Steve Wozniak cheered after telling students they have AI – actual intelligence",
+          "summary": "Latest AI discussion on Hacker News: Steve Wozniak cheered after telling students they have AI – actual intelligence. Points: 177. (Source: Hacker News)",
+          "url": "https://www.businessinsider.com/steve-wozniak-apple-ai-graduation-speech-2026-5"
         },
         {
-          "title": "Intuit to lay off over 3k employees to refocus on AI",
-          "summary": "Latest AI discussion on Hacker News: Intuit to lay off over 3k employees to refocus on AI. Points: 211. (Source: Hacker News)",
-          "url": "https://techcrunch.com/2026/05/20/intuit-to-lay-off-over-3000-employees-to-refocus-on-ai/"
+          "title": "Samsung chip workers will get an average $340k bonus as AI profits soar",
+          "summary": "Latest AI discussion on Hacker News: Samsung chip workers will get an average $340k bonus as AI profits soar. Points: 223. (Source: Hacker News)",
+          "url": "https://qz.com/samsung-chip-workers-bonus-ai-profits-052126"
         },
         {
-          "title": "Formal Verification Gates for AI Coding Loops",
-          "summary": "Latest AI discussion on Hacker News: Formal Verification Gates for AI Coding Loops. Points: 129. (Source: Hacker News)",
-          "url": "https://reubenbrooks.dev/blog/structural-backpressure-beats-smarter-agents/"
+          "title": "Tell HN: I'm tired of AI-generated answers",
+          "summary": "Latest AI discussion on Hacker News: Tell HN: I'm tired of AI-generated answers. Points: 104. (Source: Hacker News)",
+          "url": "https://news.ycombinator.com/item?id=48230104"
         },
         {
-          "title": "College students drown out AI-praising commencement speeches with boos",
-          "summary": "Latest AI discussion on Hacker News: College students drown out AI-praising commencement speeches with boos. Points: 363. (Source: Hacker News)",
-          "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/college-students-drown-out-ai-praising-commencement-speeches-with-boos-deal-with-it-one-speaker-fires-back-as-students-heckle-positive-pitches-for-ais-role"
+          "title": "AI is just unauthorised plagiarism at a bigger scale",
+          "summary": "Latest AI discussion on Hacker News: AI is just unauthorised plagiarism at a bigger scale. Points: 790. (Source: Hacker News)",
+          "url": "https://axelk.ee/ai-is-just-unauthorised-plagiarism-at-a-bigger-scale/"
         },
         {
-          "title": "Google’s AI is being manipulated. The search giant is quietly fighting back",
-          "summary": "Latest AI discussion on Hacker News: Google’s AI is being manipulated. The search giant is quietly fighting back. Points: 322. (Source: Hacker News)",
-          "url": "https://www.bbc.com/future/article/20260519-google-tackles-attempts-to-hack-its-ai-results"
+          "title": "Shunning AI is the human choice",
+          "summary": "Latest AI discussion on Hacker News: Shunning AI is the human choice. Points: 359. (Source: Hacker News)",
+          "url": "https://www.thehandbasket.co/p/hating-ai-is-good-actually"
         }
       ]
     },
@@ -329,29 +329,29 @@
       "category": "Enterprise & Agentic AI",
       "items": [
         {
-          "title": "Learnings from 100K lines of Rust with AI (2025)",
-          "summary": "Latest AI discussion on Hacker News: Learnings from 100K lines of Rust with AI (2025). Points: 156. (Source: Hacker News)",
-          "url": "https://zfhuang99.github.io/rust/claude%20code/codex/contracts/spec-driven%20development/2025/12/01/rust-with-ai.html"
+          "title": "Throwing AI-generated walls of text into conversations",
+          "summary": "Latest AI discussion on Hacker News: Throwing AI-generated walls of text into conversations. Points: 641. (Source: Hacker News)",
+          "url": "https://noslopgrenade.com/"
         },
         {
-          "title": "Remove-AI-Watermarks – CLI and library for removing AI watermarks from images",
-          "summary": "Latest AI discussion on Hacker News: Remove-AI-Watermarks – CLI and library for removing AI watermarks from images. Points: 378. (Source: Hacker News)",
-          "url": "https://github.com/wiltodelta/remove-ai-watermarks"
+          "title": "Intuit to lay off over 3k employees to refocus on AI",
+          "summary": "Latest AI discussion on Hacker News: Intuit to lay off over 3k employees to refocus on AI. Points: 255. (Source: Hacker News)",
+          "url": "https://techcrunch.com/2026/05/20/intuit-to-lay-off-over-3000-employees-to-refocus-on-ai/"
         },
         {
-          "title": "OpenAI Adopts Google's SynthID Watermark for AI Images with Verification Tool",
-          "summary": "Latest AI discussion on Hacker News: OpenAI Adopts Google's SynthID Watermark for AI Images with Verification Tool. Points: 329. (Source: Hacker News)",
-          "url": "https://openai.com/index/advancing-content-provenance/"
+          "title": "Cloudflare CEO on how he chooses which employees to replace with AI",
+          "summary": "Latest AI discussion on Hacker News: Cloudflare CEO on how he chooses which employees to replace with AI. Points: 108. (Source: Hacker News)",
+          "url": "https://www.wsj.com/opinion/how-i-choose-which-cloudflare-employees-to-replace-with-ai-40a197e5"
         },
         {
-          "title": "Mistral AI acquires Emmi AI",
-          "summary": "Latest AI discussion on Hacker News: Mistral AI acquires Emmi AI. Points: 334. (Source: Hacker News)",
-          "url": "https://www.emmi.ai/news/mistral-ai-acquires-emmi-ai"
+          "title": "Formal Verification Gates for AI Coding Loops",
+          "summary": "Latest AI discussion on Hacker News: Formal Verification Gates for AI Coding Loops. Points: 142. (Source: Hacker News)",
+          "url": "https://reubenbrooks.dev/blog/structural-backpressure-beats-smarter-agents/"
         },
         {
-          "title": "AI is too expensive",
-          "summary": "Latest AI discussion on Hacker News: AI is too expensive. Points: 142. (Source: Hacker News)",
-          "url": "https://www.wheresyoured.at/ai-is-too-expensive/"
+          "title": "Testing distributed systems with AI agents",
+          "summary": "Latest AI discussion on Hacker News: Testing distributed systems with AI agents. Points: 93. (Source: Hacker News)",
+          "url": "https://github.com/shenli/distributed-system-testing"
         }
       ]
     },
