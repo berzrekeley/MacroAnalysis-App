@@ -1,26 +1,26 @@
 {
-  "lastUpdated": "May 24, 2026",
+  "lastUpdated": "May 25, 2026",
   "executiveSummary": [
-    "As of May 24, 2026, the U.S. macroeconomic environment is navigating a complex period of high interest rates and shifting labor market dynamics. With the Fed Funds Rate holding at 3.64% and CPI inflation tracking at 3.78%, the central bank continues its \"higher-for-longer\" stance to anchor inflation expectations. Recent headlines such as \"Jamie Dimon has bad news for JPMorgan bankers\" suggest that market participants remain hypersensitive to every data print, particularly around corporate earnings and consumer spending resilience.",
-    "The labor market, a key pillar of support, shows 209,000 initial jobless claims, reflecting a relatively stable but cooling employment landscape. Geopolitically, events like \"Fidelity, AARP flash warning over 401(k) plans: ‘You could lose 25% to 35%.’ Here’s the big risk Americans face\" introduce exogenous risks that could disrupt global energy supplies and re-ignite inflationary impulses, keeping the Federal Reserve in a defensive posture as they balance growth against price stability. Analysts are closely watching for any signs of a \"hard landing\" as the effects of previous tightening cycles continue to filter through the real economy."
+    "As of May 25, 2026, the U.S. macroeconomic environment is navigating a complex period of high interest rates and shifting labor market dynamics. With the Fed Funds Rate holding at 3.64% and CPI inflation tracking at 3.78%, the central bank continues its \"higher-for-longer\" stance to anchor inflation expectations. Recent headlines such as \"What Gives Curtiss-Wright Corp. (CW) a Strategic Position in Geopolitical Tension?\" suggest that market participants remain hypersensitive to every data print, particularly around corporate earnings and consumer spending resilience.",
+    "The labor market, a key pillar of support, shows 209,000 initial jobless claims, reflecting a relatively stable but cooling employment landscape. Geopolitically, events like \"RXO Inc. (RXO) Prospects ‘Look Rosy,’ Shares Soar 30.4%\" introduce exogenous risks that could disrupt global energy supplies and re-ignite inflationary impulses, keeping the Federal Reserve in a defensive posture as they balance growth against price stability. Analysts are closely watching for any signs of a \"hard landing\" as the effects of previous tightening cycles continue to filter through the real economy."
   ],
   "dailyHeadlines": [
     {
-      "title": "Jamie Dimon has bad news for JPMorgan bankers",
+      "title": "What Gives Curtiss-Wright Corp. (CW) a Strategic Position in Geopolitical Tension?",
       "summary": "",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/jamie-dimon-bad-news-jpmorgan-110300291.html",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/gives-curtiss-wright-corp-cw-123449073.html",
       "type": "extreme"
     },
     {
-      "title": "Fidelity, AARP flash warning over 401(k) plans: ‘You could lose 25% to 35%.’ Here’s the big risk Americans face",
+      "title": "RXO Inc. (RXO) Prospects ‘Look Rosy,’ Shares Soar 30.4%",
       "summary": "",
-      "url": "https://finance.yahoo.com/markets/options/articles/fidelity-aarp-flash-warning-over-101500229.html",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/rxo-inc-rxo-prospects-look-123149974.html",
       "type": "warning"
     },
     {
-      "title": "Best CD rates today, Saturday, May 23, 2026: Best account provides 4% APY",
+      "title": "GlobalFoundries’ (GFS) Robust Results Validated the Inflection in Growth and Margins",
       "summary": "",
-      "url": "https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-saturday-may-23-2026-100000807.html",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/globalfoundries-gfs-robust-results-validated-122911940.html",
       "type": "info"
     }
   ],
@@ -299,29 +299,29 @@
       "category": "Frontier Model Race & Breakthroughs",
       "items": [
         {
-          "title": "Air France and Airbus found guilty of manslaughter over 2009 plane crash",
-          "summary": "Latest AI discussion on Hacker News: Air France and Airbus found guilty of manslaughter over 2009 plane crash. Points: 102. (Source: Hacker News)",
-          "url": "https://www.bbc.com/news/articles/czd2qmdvmq6o"
+          "title": "If you let AI do your writing, I will come to your house and kill you",
+          "summary": "Latest AI discussion on Hacker News: If you let AI do your writing, I will come to your house and kill you. Points: 28. (Source: Hacker News)",
+          "url": "https://samkriss.substack.com/p/if-you-let-ai-do-your-writing-i-will"
         },
         {
-          "title": "Italy moves to Airbus A330 tankers",
-          "summary": "Latest AI discussion on Hacker News: Italy moves to Airbus A330 tankers. Points: 260. (Source: Hacker News)",
-          "url": "https://www.euronews.com/my-europe/2026/05/21/italy-moves-to-airbus-a330-tankers-in-major-nato-aligned-shift"
+          "title": "Memory has grown to nearly two-thirds of AI chip component costs",
+          "summary": "Latest AI discussion on Hacker News: Memory has grown to nearly two-thirds of AI chip component costs. Points: 405. (Source: Hacker News)",
+          "url": "https://epoch.ai/data-insights/ai-chip-component-cost-shares"
         },
         {
-          "title": "Microsoft reports AI is more expensive than paying human employees",
-          "summary": "Latest AI discussion on Hacker News: Microsoft reports AI is more expensive than paying human employees. Points: 225. (Source: Hacker News)",
-          "url": "https://fortune.com/2026/05/22/microsoft-ai-cost-problem-tokens-agents/"
+          "title": "'AI washing': firms are scrambling to rebrand themselves as tech-focused",
+          "summary": "Latest AI discussion on Hacker News: 'AI washing': firms are scrambling to rebrand themselves as tech-focused. Points: 164. (Source: Hacker News)",
+          "url": "https://www.theguardian.com/technology/2026/may/24/ai-washing-pr-firms-scrambling-rebrand"
         },
         {
-          "title": "Is AI Profitable Yet?",
-          "summary": "Latest AI discussion on Hacker News: Is AI Profitable Yet?. Points: 251. (Source: Hacker News)",
-          "url": "https://isaiprofitable.com/"
+          "title": "DeepSeek to Make Permanent 75% Discount on Flagship AI Model",
+          "summary": "Latest AI discussion on Hacker News: DeepSeek to Make Permanent 75% Discount on Flagship AI Model. Points: 209. (Source: Hacker News)",
+          "url": "https://www.bloomberg.com/news/articles/2026-05-23/deepseek-to-make-permanent-75-discount-on-flagship-ai-model"
         },
         {
-          "title": "Don't just paste the AI at me",
-          "summary": "Latest AI discussion on Hacker News: Don't just paste the AI at me. Points: 179. (Source: Hacker News)",
-          "url": "https://dontquotetheai.com/"
+          "title": "AI didn't kill your junior pipeline. You did",
+          "summary": "Latest AI discussion on Hacker News: AI didn't kill your junior pipeline. You did. Points: 12. (Source: Hacker News)",
+          "url": "https://andrewmurphy.io/blog/ai-didnt-kill-your-junior-pipeline-you-did"
         }
       ]
     },
@@ -329,29 +329,29 @@
       "category": "Enterprise & Agentic AI",
       "items": [
         {
-          "title": "Models.dev: open-source database of AI model specs, pricing, and capabilities",
-          "summary": "Latest AI discussion on Hacker News: Models.dev: open-source database of AI model specs, pricing, and capabilities. Points: 155. (Source: Hacker News)",
-          "url": "https://github.com/anomalyco/models.dev"
+          "title": "Anthropic blames dystopian sci-fi for training AI models to act \"evil\"",
+          "summary": "Latest AI discussion on Hacker News: Anthropic blames dystopian sci-fi for training AI models to act \"evil\". Points: 32. (Source: Hacker News)",
+          "url": "https://arstechnica.com/ai/2026/05/anthropic-blames-dystopian-sci-fi-for-training-ai-models-to-act-evil/"
         },
         {
-          "title": "1940 Air Terminal Museum Begins Liquidation",
-          "summary": "Latest AI discussion on Hacker News: 1940 Air Terminal Museum Begins Liquidation. Points: 127. (Source: Hacker News)",
-          "url": "https://www.1940airterminal.org/news/liquidation-of-simulators"
+          "title": "Jimmy Carr on Why Everyone Is Wrong About AI [video]",
+          "summary": "Latest AI discussion on Hacker News: Jimmy Carr on Why Everyone Is Wrong About AI [video]. Points: 29. (Source: Hacker News)",
+          "url": "https://www.youtube.com/watch?v=jaYOskvlq18"
         },
         {
-          "title": "AI has a multiplying effect on existing technical skills",
-          "summary": "Latest AI discussion on Hacker News: AI has a multiplying effect on existing technical skills. Points: 336. (Source: Hacker News)",
-          "url": "https://www.joshwcomeau.com/email/wham-launch-005-elephant-2-p/"
+          "title": "Air France and Airbus found guilty of manslaughter over 2009 plane crash",
+          "summary": "Latest AI discussion on Hacker News: Air France and Airbus found guilty of manslaughter over 2009 plane crash. Points: 132. (Source: Hacker News)",
+          "url": "https://www.bbc.com/news/articles/czd2qmdvmq6o"
         },
         {
-          "title": "The Companies Cutting Headcount for AI Will Lose to the Ones Who Didn't",
-          "summary": "Latest AI discussion on Hacker News: The Companies Cutting Headcount for AI Will Lose to the Ones Who Didn't. Points: 202. (Source: Hacker News)",
-          "url": "https://libertas.software/en/knowledge-hub/19/the-companies-cutting-headcount-for-ai-will-lose-to-the-ones-who-didnt"
+          "title": "Show HN: A satirical idle game about running an AI startup",
+          "summary": "Latest AI discussion on Hacker News: Show HN: A satirical idle game about running an AI startup. Points: 11. (Source: Hacker News)",
+          "url": "https://game.trae.academy/"
         },
         {
-          "title": "The current AI pricing was always going to go away",
-          "summary": "Latest AI discussion on Hacker News: The current AI pricing was always going to go away. Points: 82. (Source: Hacker News)",
-          "url": "https://arnon.dk/the-current-ai-pricing-was-always-going-to-go-away/"
+          "title": "Italy moves to Airbus A330 tankers",
+          "summary": "Latest AI discussion on Hacker News: Italy moves to Airbus A330 tankers. Points: 280. (Source: Hacker News)",
+          "url": "https://www.euronews.com/my-europe/2026/05/21/italy-moves-to-airbus-a330-tankers-in-major-nato-aligned-shift"
         }
       ]
     },
