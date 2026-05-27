@@ -1,26 +1,26 @@
 {
-  "lastUpdated": "May 25, 2026",
+  "lastUpdated": "May 27, 2026",
   "executiveSummary": [
-    "As of May 25, 2026, the U.S. macroeconomic environment is navigating a complex period of high interest rates and shifting labor market dynamics. With the Fed Funds Rate holding at 3.64% and CPI inflation tracking at 3.78%, the central bank continues its \"higher-for-longer\" stance to anchor inflation expectations. Recent headlines such as \"What Gives Curtiss-Wright Corp. (CW) a Strategic Position in Geopolitical Tension?\" suggest that market participants remain hypersensitive to every data print, particularly around corporate earnings and consumer spending resilience.",
-    "The labor market, a key pillar of support, shows 209,000 initial jobless claims, reflecting a relatively stable but cooling employment landscape. Geopolitically, events like \"RXO Inc. (RXO) Prospects ‘Look Rosy,’ Shares Soar 30.4%\" introduce exogenous risks that could disrupt global energy supplies and re-ignite inflationary impulses, keeping the Federal Reserve in a defensive posture as they balance growth against price stability. Analysts are closely watching for any signs of a \"hard landing\" as the effects of previous tightening cycles continue to filter through the real economy."
+    "As of May 27, 2026, the U.S. macroeconomic environment is navigating a complex period of high interest rates and shifting labor market dynamics. With the Fed Funds Rate holding at 3.64% and CPI inflation tracking at 3.78%, the central bank continues its \"higher-for-longer\" stance to anchor inflation expectations. Recent headlines such as \"Energy Stocks Are Secretly Better Than Treasuries. Here’s Why Bob Brackett Is Loading Up on Exxon and Chevron.\" suggest that market participants remain hypersensitive to every data print, particularly around corporate earnings and consumer spending resilience.",
+    "The labor market, a key pillar of support, shows 209,000 initial jobless claims, reflecting a relatively stable but cooling employment landscape. Geopolitically, events like \"PDD Stock Slides After Temu Parent's Revenue Misses Estimates\" introduce exogenous risks that could disrupt global energy supplies and re-ignite inflationary impulses, keeping the Federal Reserve in a defensive posture as they balance growth against price stability. Analysts are closely watching for any signs of a \"hard landing\" as the effects of previous tightening cycles continue to filter through the real economy."
   ],
   "dailyHeadlines": [
     {
-      "title": "What Gives Curtiss-Wright Corp. (CW) a Strategic Position in Geopolitical Tension?",
+      "title": "Energy Stocks Are Secretly Better Than Treasuries. Here’s Why Bob Brackett Is Loading Up on Exxon and Chevron.",
       "summary": "",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/gives-curtiss-wright-corp-cw-123449073.html",
+      "url": "https://finance.yahoo.com/sectors/energy/articles/energy-stocks-secretly-better-treasuries-122641715.html",
       "type": "extreme"
     },
     {
-      "title": "RXO Inc. (RXO) Prospects ‘Look Rosy,’ Shares Soar 30.4%",
+      "title": "PDD Stock Slides After Temu Parent's Revenue Misses Estimates",
       "summary": "",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/rxo-inc-rxo-prospects-look-123149974.html",
+      "url": "https://www.investors.com/news/technology/pdd-stock-q1-2026-earnings-temu/?src=A00220&amp;yptr=yahoo",
       "type": "warning"
     },
     {
-      "title": "GlobalFoundries’ (GFS) Robust Results Validated the Inflection in Growth and Margins",
+      "title": "Warren Buffett sits on a record $397B in cash while Michael Burry shorts AI for $1B, betting it's 1999 all over again",
       "summary": "",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/globalfoundries-gfs-robust-results-validated-122911940.html",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/warren-buffett-sits-record-397b-121500621.html",
       "type": "info"
     }
   ],
@@ -39,19 +39,19 @@
     },
     {
       "title": "10Y - 2Y Spread",
-      "value": "0.43%",
+      "value": "0.49%",
       "status": "Steepening - slower growth",
       "type": "warning"
     },
     {
       "title": "10Y Treasury Rate",
-      "value": "4.57%",
+      "value": "4.56%",
       "status": "High - energy-driven inflation",
       "type": "warning"
     },
     {
       "title": "2Y Treasury Rate",
-      "value": "4.08%",
+      "value": "4.13%",
       "status": "Elevated - higher-for-longer stance",
       "type": "warning"
     },
@@ -299,29 +299,29 @@
       "category": "Frontier Model Race & Breakthroughs",
       "items": [
         {
-          "title": "If you let AI do your writing, I will come to your house and kill you",
-          "summary": "Latest AI discussion on Hacker News: If you let AI do your writing, I will come to your house and kill you. Points: 28. (Source: Hacker News)",
-          "url": "https://samkriss.substack.com/p/if-you-let-ai-do-your-writing-i-will"
+          "title": "I'm Tired of Talking to AI",
+          "summary": "Latest AI discussion on Hacker News: I'm Tired of Talking to AI. Points: 435. (Source: Hacker News)",
+          "url": "https://orchidfiles.com/im-tired-of-ai-generated-answers/"
         },
         {
-          "title": "Memory has grown to nearly two-thirds of AI chip component costs",
-          "summary": "Latest AI discussion on Hacker News: Memory has grown to nearly two-thirds of AI chip component costs. Points: 405. (Source: Hacker News)",
-          "url": "https://epoch.ai/data-insights/ai-chip-component-cost-shares"
+          "title": "AI tools are only as good as your judgment",
+          "summary": "Latest AI discussion on Hacker News: AI tools are only as good as your judgment. Points: 79. (Source: Hacker News)",
+          "url": "https://theaileverageweekly.com/posts/your-ai-tools-are-only-as-good-as-your-judgment-and-that-s-the-point.html"
         },
         {
-          "title": "'AI washing': firms are scrambling to rebrand themselves as tech-focused",
-          "summary": "Latest AI discussion on Hacker News: 'AI washing': firms are scrambling to rebrand themselves as tech-focused. Points: 164. (Source: Hacker News)",
-          "url": "https://www.theguardian.com/technology/2026/may/24/ai-washing-pr-firms-scrambling-rebrand"
+          "title": "Outsourcing plus local AI will soon become more economical vs. frontier labs",
+          "summary": "Latest AI discussion on Hacker News: Outsourcing plus local AI will soon become more economical vs. frontier labs. Points: 299. (Source: Hacker News)",
+          "url": "https://www.signalbloom.ai/posts/outsourcing-plus-localai-will-soon-become-more-economical-vs-frontier-labs/"
         },
         {
-          "title": "DeepSeek to Make Permanent 75% Discount on Flagship AI Model",
-          "summary": "Latest AI discussion on Hacker News: DeepSeek to Make Permanent 75% Discount on Flagship AI Model. Points: 209. (Source: Hacker News)",
-          "url": "https://www.bloomberg.com/news/articles/2026-05-23/deepseek-to-make-permanent-75-discount-on-flagship-ai-model"
+          "title": "The AI bubble isn't like the internet bubble",
+          "summary": "Latest AI discussion on Hacker News: The AI bubble isn't like the internet bubble. Points: 75. (Source: Hacker News)",
+          "url": "https://pluralistic.net/2026/05/26/the-ai-will-continue/#until-morale-improves"
         },
         {
-          "title": "AI didn't kill your junior pipeline. You did",
-          "summary": "Latest AI discussion on Hacker News: AI didn't kill your junior pipeline. You did. Points: 12. (Source: Hacker News)",
-          "url": "https://andrewmurphy.io/blog/ai-didnt-kill-your-junior-pipeline-you-did"
+          "title": "Uber president says AI spending is getting 'harder to justify'",
+          "summary": "Latest AI discussion on Hacker News: Uber president says AI spending is getting 'harder to justify'. Points: 290. (Source: Hacker News)",
+          "url": "https://www.theverge.com/transportation/937116/uber-ai-investment-hard-to-justify"
         }
       ]
     },
@@ -329,29 +329,29 @@
       "category": "Enterprise & Agentic AI",
       "items": [
         {
-          "title": "Anthropic blames dystopian sci-fi for training AI models to act \"evil\"",
-          "summary": "Latest AI discussion on Hacker News: Anthropic blames dystopian sci-fi for training AI models to act \"evil\". Points: 32. (Source: Hacker News)",
-          "url": "https://arstechnica.com/ai/2026/05/anthropic-blames-dystopian-sci-fi-for-training-ai-models-to-act-evil/"
+          "title": "Using AI to write better code more slowly",
+          "summary": "Latest AI discussion on Hacker News: Using AI to write better code more slowly. Points: 1189. (Source: Hacker News)",
+          "url": "https://nolanlawson.com/2026/05/25/using-ai-to-write-better-code-more-slowly/"
         },
         {
-          "title": "Jimmy Carr on Why Everyone Is Wrong About AI [video]",
-          "summary": "Latest AI discussion on Hacker News: Jimmy Carr on Why Everyone Is Wrong About AI [video]. Points: 29. (Source: Hacker News)",
-          "url": "https://www.youtube.com/watch?v=jaYOskvlq18"
+          "title": "A successful Japanese trial of a ramjet engine designed for Mach‑5 aircraft",
+          "summary": "Latest AI discussion on Hacker News: A successful Japanese trial of a ramjet engine designed for Mach‑5 aircraft. Points: 231. (Source: Hacker News)",
+          "url": "https://www.bgr.com/2178211/japan-hypersonic-engine-ramjet-2-hour-flights-to-us/"
         },
         {
-          "title": "Air France and Airbus found guilty of manslaughter over 2009 plane crash",
-          "summary": "Latest AI discussion on Hacker News: Air France and Airbus found guilty of manslaughter over 2009 plane crash. Points: 132. (Source: Hacker News)",
-          "url": "https://www.bbc.com/news/articles/czd2qmdvmq6o"
+          "title": "Netherlands Seizes 800 Servers, Arrests 2 for Aiding Cyberattacks",
+          "summary": "Latest AI discussion on Hacker News: Netherlands Seizes 800 Servers, Arrests 2 for Aiding Cyberattacks. Points: 286. (Source: Hacker News)",
+          "url": "https://krebsonsecurity.com/2026/05/netherlands-seizes-800-servers-arrests-2-for-aiding-cyberattacks/"
         },
         {
-          "title": "Show HN: A satirical idle game about running an AI startup",
-          "summary": "Latest AI discussion on Hacker News: Show HN: A satirical idle game about running an AI startup. Points: 11. (Source: Hacker News)",
-          "url": "https://game.trae.academy/"
+          "title": "Pope Leo XIV says AI must serve humanity, not the powerful few",
+          "summary": "Latest AI discussion on Hacker News: Pope Leo XIV says AI must serve humanity, not the powerful few. Points: 345. (Source: Hacker News)",
+          "url": "https://religionnews.com/2026/05/25/in-his-first-encyclical-pope-leo-xiv-says-ai-must-serve-humanity-not-the-powerful-few/"
         },
         {
-          "title": "Italy moves to Airbus A330 tankers",
-          "summary": "Latest AI discussion on Hacker News: Italy moves to Airbus A330 tankers. Points: 280. (Source: Hacker News)",
-          "url": "https://www.euronews.com/my-europe/2026/05/21/italy-moves-to-airbus-a330-tankers-in-major-nato-aligned-shift"
+          "title": "Pope Leo: opaque AI run by few firms risks \"New Forms of Dehumanization\"",
+          "summary": "Latest AI discussion on Hacker News: Pope Leo: opaque AI run by few firms risks \"New Forms of Dehumanization\". Points: 164. (Source: Hacker News)",
+          "url": "https://variety.com/2026/biz/global/pope-leo-ai-encyclical-algorithms-threaten-dehumanisation-1236758186/"
         }
       ]
     },
