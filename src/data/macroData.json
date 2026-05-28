@@ -1,26 +1,26 @@
 {
-  "lastUpdated": "May 27, 2026",
+  "lastUpdated": "May 28, 2026",
   "executiveSummary": [
-    "As of May 27, 2026, the U.S. macroeconomic environment is navigating a complex period of high interest rates and shifting labor market dynamics. With the Fed Funds Rate holding at 3.64% and CPI inflation tracking at 3.78%, the central bank continues its \"higher-for-longer\" stance to anchor inflation expectations. Recent headlines such as \"Energy Stocks Are Secretly Better Than Treasuries. Here’s Why Bob Brackett Is Loading Up on Exxon and Chevron.\" suggest that market participants remain hypersensitive to every data print, particularly around corporate earnings and consumer spending resilience.",
-    "The labor market, a key pillar of support, shows 209,000 initial jobless claims, reflecting a relatively stable but cooling employment landscape. Geopolitically, events like \"PDD Stock Slides After Temu Parent's Revenue Misses Estimates\" introduce exogenous risks that could disrupt global energy supplies and re-ignite inflationary impulses, keeping the Federal Reserve in a defensive posture as they balance growth against price stability. Analysts are closely watching for any signs of a \"hard landing\" as the effects of previous tightening cycles continue to filter through the real economy."
+    "As of May 28, 2026, the U.S. macroeconomic environment is navigating a complex period of high interest rates and shifting labor market dynamics. With the Fed Funds Rate holding at 3.64% and CPI inflation tracking at 3.78%, the central bank continues its \"higher-for-longer\" stance to anchor inflation expectations. Recent headlines such as \"The Strait of Hormuz Is Still Closed. Here's What Investors Need to Know Before Summer.\" suggest that market participants remain hypersensitive to every data print, particularly around corporate earnings and consumer spending resilience.",
+    "The labor market, a key pillar of support, shows 215,000 initial jobless claims, reflecting a relatively stable but cooling employment landscape. Geopolitically, events like \"Caesars Entertainment to be bought by Fertitta Entertainment in $17.6 billion deal\" introduce exogenous risks that could disrupt global energy supplies and re-ignite inflationary impulses, keeping the Federal Reserve in a defensive posture as they balance growth against price stability. Analysts are closely watching for any signs of a \"hard landing\" as the effects of previous tightening cycles continue to filter through the real economy."
   ],
   "dailyHeadlines": [
     {
-      "title": "Energy Stocks Are Secretly Better Than Treasuries. Here’s Why Bob Brackett Is Loading Up on Exxon and Chevron.",
+      "title": "The Strait of Hormuz Is Still Closed. Here's What Investors Need to Know Before Summer.",
       "summary": "",
-      "url": "https://finance.yahoo.com/sectors/energy/articles/energy-stocks-secretly-better-treasuries-122641715.html",
+      "url": "https://finance.yahoo.com/sectors/energy/articles/strait-hormuz-still-closed-heres-132500608.html",
       "type": "extreme"
     },
     {
-      "title": "PDD Stock Slides After Temu Parent's Revenue Misses Estimates",
+      "title": "Caesars Entertainment to be bought by Fertitta Entertainment in $17.6 billion deal",
       "summary": "",
-      "url": "https://www.investors.com/news/technology/pdd-stock-q1-2026-earnings-temu/?src=A00220&amp;yptr=yahoo",
+      "url": "https://finance.yahoo.com/markets/stocks/article/caesars-entertainment-to-be-bought-by-fertitta-entertainment-in-176-billion-deal-132438092.html",
       "type": "warning"
     },
     {
-      "title": "Warren Buffett sits on a record $397B in cash while Michael Burry shorts AI for $1B, betting it's 1999 all over again",
+      "title": "Tesla and SpaceX Merger Would Make Elon Musk A Major Bitcoin Holder",
       "summary": "",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/warren-buffett-sits-record-397b-121500621.html",
+      "url": "https://finance.yahoo.com/markets/crypto/articles/tesla-spacex-merger-elon-musk-132300788.html",
       "type": "info"
     }
   ],
@@ -39,19 +39,19 @@
     },
     {
       "title": "10Y - 2Y Spread",
-      "value": "0.49%",
+      "value": "0.48%",
       "status": "Steepening - slower growth",
       "type": "warning"
     },
     {
       "title": "10Y Treasury Rate",
-      "value": "4.56%",
+      "value": "4.50%",
       "status": "High - energy-driven inflation",
       "type": "warning"
     },
     {
       "title": "2Y Treasury Rate",
-      "value": "4.13%",
+      "value": "4.01%",
       "status": "Elevated - higher-for-longer stance",
       "type": "warning"
     },
@@ -81,7 +81,7 @@
     },
     {
       "title": "Initial Jobless Claims",
-      "value": "209,000",
+      "value": "215,000",
       "status": "Stable - primary pillar of support",
       "type": "neutral"
     },
@@ -100,11 +100,18 @@
   ],
   "adpWeeklyData": [
     {
+      "week": "May 23",
+      "fullDate": "May 23, 2026",
+      "number": 215000,
+      "delta": 5000,
+      "deltaPct": 2.38
+    },
+    {
       "week": "May 16",
       "fullDate": "May 16, 2026",
-      "number": 209000,
-      "delta": -3000,
-      "deltaPct": -1.42
+      "number": 210000,
+      "delta": -2000,
+      "deltaPct": -0.94
     },
     {
       "week": "May 9",
@@ -203,13 +210,6 @@
       "number": 230000,
       "delta": 0,
       "deltaPct": 0
-    },
-    {
-      "week": "Jan 31",
-      "fullDate": "Jan 31, 2026",
-      "number": 230000,
-      "delta": 0,
-      "deltaPct": 0
     }
   ],
   "sectorData": [
@@ -299,29 +299,29 @@
       "category": "Frontier Model Race & Breakthroughs",
       "items": [
         {
-          "title": "I'm Tired of Talking to AI",
-          "summary": "Latest AI discussion on Hacker News: I'm Tired of Talking to AI. Points: 435. (Source: Hacker News)",
-          "url": "https://orchidfiles.com/im-tired-of-ai-generated-answers/"
+          "title": "AI sticker shock hits corporate America",
+          "summary": "Latest AI discussion on Hacker News: AI sticker shock hits corporate America. Points: 119. (Source: Hacker News)",
+          "url": "https://www.axios.com/2026/05/28/ai-spending-roi-enterprise-costs"
         },
         {
-          "title": "AI tools are only as good as your judgment",
-          "summary": "Latest AI discussion on Hacker News: AI tools are only as good as your judgment. Points: 79. (Source: Hacker News)",
-          "url": "https://theaileverageweekly.com/posts/your-ai-tools-are-only-as-good-as-your-judgment-and-that-s-the-point.html"
+          "title": "A Eureka machine that thinks like nature and explores what AI cannot",
+          "summary": "Latest AI discussion on Hacker News: A Eureka machine that thinks like nature and explores what AI cannot. Points: 120. (Source: Hacker News)",
+          "url": "https://iisc.ac.in/a-eureka-machine-that-thinks-like-nature-and-explores-what-ai-cannot/"
         },
         {
-          "title": "Outsourcing plus local AI will soon become more economical vs. frontier labs",
-          "summary": "Latest AI discussion on Hacker News: Outsourcing plus local AI will soon become more economical vs. frontier labs. Points: 299. (Source: Hacker News)",
-          "url": "https://www.signalbloom.ai/posts/outsourcing-plus-localai-will-soon-become-more-economical-vs-frontier-labs/"
+          "title": "Zig 2026: No-AI Policy, $670K Foundation, Left GitHub and Why Zig Isn't 1.0 [video]",
+          "summary": "Latest AI discussion on Hacker News: Zig 2026: No-AI Policy, $670K Foundation, Left GitHub and Why Zig Isn't 1.0 [video]. Points: 69. (Source: Hacker News)",
+          "url": "https://www.youtube.com/watch?v=iqddnwKF8HQ"
         },
         {
-          "title": "The AI bubble isn't like the internet bubble",
-          "summary": "Latest AI discussion on Hacker News: The AI bubble isn't like the internet bubble. Points: 75. (Source: Hacker News)",
-          "url": "https://pluralistic.net/2026/05/26/the-ai-will-continue/#until-morale-improves"
+          "title": "YouTube to automatically label AI-generated videos",
+          "summary": "Latest AI discussion on Hacker News: YouTube to automatically label AI-generated videos. Points: 1039. (Source: Hacker News)",
+          "url": "https://blog.youtube/news-and-events/improving-ai-labels-viewers-creators/"
         },
         {
-          "title": "Uber president says AI spending is getting 'harder to justify'",
-          "summary": "Latest AI discussion on Hacker News: Uber president says AI spending is getting 'harder to justify'. Points: 290. (Source: Hacker News)",
-          "url": "https://www.theverge.com/transportation/937116/uber-ai-investment-hard-to-justify"
+          "title": "DuckDuckGo search saw 28% more visits after Google said people love AI mode",
+          "summary": "Latest AI discussion on Hacker News: DuckDuckGo search saw 28% more visits after Google said people love AI mode. Points: 946. (Source: Hacker News)",
+          "url": "https://www.pcgamer.com/hardware/duckduckgos-ai-free-search-saw-nearly-28-percent-more-visits-in-the-week-following-googles-insistence-that-people-love-ai-mode/"
         }
       ]
     },
@@ -329,29 +329,29 @@
       "category": "Enterprise & Agentic AI",
       "items": [
         {
-          "title": "Using AI to write better code more slowly",
-          "summary": "Latest AI discussion on Hacker News: Using AI to write better code more slowly. Points: 1189. (Source: Hacker News)",
-          "url": "https://nolanlawson.com/2026/05/25/using-ai-to-write-better-code-more-slowly/"
+          "title": "Training our own AI models",
+          "summary": "Latest AI discussion on Hacker News: Training our own AI models. Points: 204. (Source: Hacker News)",
+          "url": "https://posthog.com/blog/training-ai-models"
         },
         {
-          "title": "A successful Japanese trial of a ramjet engine designed for Mach‑5 aircraft",
-          "summary": "Latest AI discussion on Hacker News: A successful Japanese trial of a ramjet engine designed for Mach‑5 aircraft. Points: 231. (Source: Hacker News)",
-          "url": "https://www.bgr.com/2178211/japan-hypersonic-engine-ramjet-2-hour-flights-to-us/"
+          "title": "Tech CEOs are apparently suffering from AI psychosis",
+          "summary": "Latest AI discussion on Hacker News: Tech CEOs are apparently suffering from AI psychosis. Points: 670. (Source: Hacker News)",
+          "url": "https://techcrunch.com/2026/05/27/tech-ceos-are-apparently-suffering-from-ai-psychosis/"
         },
         {
-          "title": "Netherlands Seizes 800 Servers, Arrests 2 for Aiding Cyberattacks",
-          "summary": "Latest AI discussion on Hacker News: Netherlands Seizes 800 Servers, Arrests 2 for Aiding Cyberattacks. Points: 286. (Source: Hacker News)",
-          "url": "https://krebsonsecurity.com/2026/05/netherlands-seizes-800-servers-arrests-2-for-aiding-cyberattacks/"
+          "title": "Ripgrep AI Policy",
+          "summary": "Latest AI discussion on Hacker News: Ripgrep AI Policy. Points: 80. (Source: Hacker News)",
+          "url": "https://github.com/BurntSushi/ripgrep/blob/master/AI_POLICY.md"
         },
         {
-          "title": "Pope Leo XIV says AI must serve humanity, not the powerful few",
-          "summary": "Latest AI discussion on Hacker News: Pope Leo XIV says AI must serve humanity, not the powerful few. Points: 345. (Source: Hacker News)",
-          "url": "https://religionnews.com/2026/05/25/in-his-first-encyclical-pope-leo-xiv-says-ai-must-serve-humanity-not-the-powerful-few/"
+          "title": "I'm Tired of Talking to AI",
+          "summary": "Latest AI discussion on Hacker News: I'm Tired of Talking to AI. Points: 1937. (Source: Hacker News)",
+          "url": "https://orchidfiles.com/im-tired-of-ai-generated-answers/"
         },
         {
-          "title": "Pope Leo: opaque AI run by few firms risks \"New Forms of Dehumanization\"",
-          "summary": "Latest AI discussion on Hacker News: Pope Leo: opaque AI run by few firms risks \"New Forms of Dehumanization\". Points: 164. (Source: Hacker News)",
-          "url": "https://variety.com/2026/biz/global/pope-leo-ai-encyclical-algorithms-threaten-dehumanisation-1236758186/"
+          "title": "AI tools are only as good as your judgment",
+          "summary": "Latest AI discussion on Hacker News: AI tools are only as good as your judgment. Points: 81. (Source: Hacker News)",
+          "url": "https://theaileverageweekly.com/posts/your-ai-tools-are-only-as-good-as-your-judgment-and-that-s-the-point.html"
         }
       ]
     },
