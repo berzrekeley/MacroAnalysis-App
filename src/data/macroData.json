@@ -1,26 +1,26 @@
 {
-  "lastUpdated": "May 28, 2026",
+  "lastUpdated": "May 29, 2026",
   "executiveSummary": [
-    "As of May 28, 2026, the U.S. macroeconomic environment is navigating a complex period of high interest rates and shifting labor market dynamics. With the Fed Funds Rate holding at 3.64% and CPI inflation tracking at 3.78%, the central bank continues its \"higher-for-longer\" stance to anchor inflation expectations. Recent headlines such as \"The Strait of Hormuz Is Still Closed. Here's What Investors Need to Know Before Summer.\" suggest that market participants remain hypersensitive to every data print, particularly around corporate earnings and consumer spending resilience.",
-    "The labor market, a key pillar of support, shows 215,000 initial jobless claims, reflecting a relatively stable but cooling employment landscape. Geopolitically, events like \"Caesars Entertainment to be bought by Fertitta Entertainment in $17.6 billion deal\" introduce exogenous risks that could disrupt global energy supplies and re-ignite inflationary impulses, keeping the Federal Reserve in a defensive posture as they balance growth against price stability. Analysts are closely watching for any signs of a \"hard landing\" as the effects of previous tightening cycles continue to filter through the real economy."
+    "As of May 29, 2026, the U.S. macroeconomic environment is navigating a complex period of high interest rates and shifting labor market dynamics. With the Fed Funds Rate holding at 3.64% and CPI inflation tracking at 3.78%, the central bank continues its \"higher-for-longer\" stance to anchor inflation expectations. Recent headlines such as \"47-year-old high-end steak and seafood chain closes 80 locations\" suggest that market participants remain hypersensitive to every data print, particularly around corporate earnings and consumer spending resilience.",
+    "The labor market, a key pillar of support, shows 215,000 initial jobless claims, reflecting a relatively stable but cooling employment landscape. Geopolitically, events like \"LG Energy Solution and DTE Sign 6-GWh Michigan Battery Storage Deal\" introduce exogenous risks that could disrupt global energy supplies and re-ignite inflationary impulses, keeping the Federal Reserve in a defensive posture as they balance growth against price stability. Analysts are closely watching for any signs of a \"hard landing\" as the effects of previous tightening cycles continue to filter through the real economy."
   ],
   "dailyHeadlines": [
     {
-      "title": "The Strait of Hormuz Is Still Closed. Here's What Investors Need to Know Before Summer.",
+      "title": "47-year-old high-end steak and seafood chain closes 80 locations",
       "summary": "",
-      "url": "https://finance.yahoo.com/sectors/energy/articles/strait-hormuz-still-closed-heres-132500608.html",
+      "url": "https://finance.yahoo.com/economy/articles/47-old-high-end-steak-170700893.html",
       "type": "extreme"
     },
     {
-      "title": "Caesars Entertainment to be bought by Fertitta Entertainment in $17.6 billion deal",
+      "title": "LG Energy Solution and DTE Sign 6-GWh Michigan Battery Storage Deal",
       "summary": "",
-      "url": "https://finance.yahoo.com/markets/stocks/article/caesars-entertainment-to-be-bought-by-fertitta-entertainment-in-176-billion-deal-132438092.html",
+      "url": "https://finance.yahoo.com/sectors/energy/articles/lg-energy-solution-dte-sign-023238086.html",
       "type": "warning"
     },
     {
-      "title": "Tesla and SpaceX Merger Would Make Elon Musk A Major Bitcoin Holder",
+      "title": "Fed's Jefferson says monetary policy is 'well positioned' amid inflation risks",
       "summary": "",
-      "url": "https://finance.yahoo.com/markets/crypto/articles/tesla-spacex-merger-elon-musk-132300788.html",
+      "url": "https://finance.yahoo.com/economy/policy/articles/feds-jefferson-says-monetary-policy-000452641.html",
       "type": "info"
     }
   ],
@@ -39,19 +39,19 @@
     },
     {
       "title": "10Y - 2Y Spread",
-      "value": "0.48%",
+      "value": "0.46%",
       "status": "Steepening - slower growth",
       "type": "warning"
     },
     {
       "title": "10Y Treasury Rate",
-      "value": "4.50%",
+      "value": "4.48%",
       "status": "High - energy-driven inflation",
       "type": "warning"
     },
     {
       "title": "2Y Treasury Rate",
-      "value": "4.01%",
+      "value": "4.00%",
       "status": "Elevated - higher-for-longer stance",
       "type": "warning"
     },
@@ -75,7 +75,7 @@
     },
     {
       "title": "Building Permits",
-      "value": "1.442M",
+      "value": "1.423M",
       "status": "Soft - cooling residential activity",
       "type": "warning"
     },
@@ -299,29 +299,29 @@
       "category": "Frontier Model Race & Breakthroughs",
       "items": [
         {
+          "title": "Is AI causing a repeat of Front end's Lost Decade?",
+          "summary": "Latest AI discussion on Hacker News: Is AI causing a repeat of Front end's Lost Decade?. Points: 88. (Source: Hacker News)",
+          "url": "https://mastrojs.github.io/blog/2026-05-23-is-AI-causing-a-repeat-of-frontends-lost-decade/"
+        },
+        {
+          "title": "SF startup is testing robots in Airbnbs, and trashing them, lawsuit claims",
+          "summary": "Latest AI discussion on Hacker News: SF startup is testing robots in Airbnbs, and trashing them, lawsuit claims. Points: 229. (Source: Hacker News)",
+          "url": "https://sfstandard.com/2026/05/28/sf-startup-secretly-testing-robots-airbnbs-trashing-lawsuit-claims/"
+        },
+        {
+          "title": "Sam Altman and Dario Amodei are both walking back AI jobs apocalypse predictions",
+          "summary": "Latest AI discussion on Hacker News: Sam Altman and Dario Amodei are both walking back AI jobs apocalypse predictions. Points: 217. (Source: Hacker News)",
+          "url": "https://fortune.com/2026/05/26/sam-altman-dario-amodei-walking-back-ai-jobs-apocalypse-prophecies-ipo/"
+        },
+        {
+          "title": "Show HN: Continue? Y/N: A 60-second game about AI agent permission fatigue",
+          "summary": "Latest AI discussion on Hacker News: Show HN: Continue? Y/N: A 60-second game about AI agent permission fatigue. Points: 344. (Source: Hacker News)",
+          "url": "https://llmgame.scalex.dev"
+        },
+        {
           "title": "AI sticker shock hits corporate America",
-          "summary": "Latest AI discussion on Hacker News: AI sticker shock hits corporate America. Points: 119. (Source: Hacker News)",
+          "summary": "Latest AI discussion on Hacker News: AI sticker shock hits corporate America. Points: 160. (Source: Hacker News)",
           "url": "https://www.axios.com/2026/05/28/ai-spending-roi-enterprise-costs"
-        },
-        {
-          "title": "A Eureka machine that thinks like nature and explores what AI cannot",
-          "summary": "Latest AI discussion on Hacker News: A Eureka machine that thinks like nature and explores what AI cannot. Points: 120. (Source: Hacker News)",
-          "url": "https://iisc.ac.in/a-eureka-machine-that-thinks-like-nature-and-explores-what-ai-cannot/"
-        },
-        {
-          "title": "Zig 2026: No-AI Policy, $670K Foundation, Left GitHub and Why Zig Isn't 1.0 [video]",
-          "summary": "Latest AI discussion on Hacker News: Zig 2026: No-AI Policy, $670K Foundation, Left GitHub and Why Zig Isn't 1.0 [video]. Points: 69. (Source: Hacker News)",
-          "url": "https://www.youtube.com/watch?v=iqddnwKF8HQ"
-        },
-        {
-          "title": "YouTube to automatically label AI-generated videos",
-          "summary": "Latest AI discussion on Hacker News: YouTube to automatically label AI-generated videos. Points: 1039. (Source: Hacker News)",
-          "url": "https://blog.youtube/news-and-events/improving-ai-labels-viewers-creators/"
-        },
-        {
-          "title": "DuckDuckGo search saw 28% more visits after Google said people love AI mode",
-          "summary": "Latest AI discussion on Hacker News: DuckDuckGo search saw 28% more visits after Google said people love AI mode. Points: 946. (Source: Hacker News)",
-          "url": "https://www.pcgamer.com/hardware/duckduckgos-ai-free-search-saw-nearly-28-percent-more-visits-in-the-week-following-googles-insistence-that-people-love-ai-mode/"
         }
       ]
     },
@@ -329,29 +329,29 @@
       "category": "Enterprise & Agentic AI",
       "items": [
         {
+          "title": "A Eureka machine that thinks like nature and explores what AI cannot",
+          "summary": "Latest AI discussion on Hacker News: A Eureka machine that thinks like nature and explores what AI cannot. Points: 145. (Source: Hacker News)",
+          "url": "https://iisc.ac.in/a-eureka-machine-that-thinks-like-nature-and-explores-what-ai-cannot/"
+        },
+        {
+          "title": "YouTube to automatically label AI-generated videos",
+          "summary": "Latest AI discussion on Hacker News: YouTube to automatically label AI-generated videos. Points: 1296. (Source: Hacker News)",
+          "url": "https://blog.youtube/news-and-events/improving-ai-labels-viewers-creators/"
+        },
+        {
+          "title": "DuckDuckGo search saw 28% more visits after Google said people love AI mode",
+          "summary": "Latest AI discussion on Hacker News: DuckDuckGo search saw 28% more visits after Google said people love AI mode. Points: 1055. (Source: Hacker News)",
+          "url": "https://www.pcgamer.com/hardware/duckduckgos-ai-free-search-saw-nearly-28-percent-more-visits-in-the-week-following-googles-insistence-that-people-love-ai-mode/"
+        },
+        {
           "title": "Training our own AI models",
-          "summary": "Latest AI discussion on Hacker News: Training our own AI models. Points: 204. (Source: Hacker News)",
+          "summary": "Latest AI discussion on Hacker News: Training our own AI models. Points: 213. (Source: Hacker News)",
           "url": "https://posthog.com/blog/training-ai-models"
         },
         {
           "title": "Tech CEOs are apparently suffering from AI psychosis",
-          "summary": "Latest AI discussion on Hacker News: Tech CEOs are apparently suffering from AI psychosis. Points: 670. (Source: Hacker News)",
+          "summary": "Latest AI discussion on Hacker News: Tech CEOs are apparently suffering from AI psychosis. Points: 713. (Source: Hacker News)",
           "url": "https://techcrunch.com/2026/05/27/tech-ceos-are-apparently-suffering-from-ai-psychosis/"
-        },
-        {
-          "title": "Ripgrep AI Policy",
-          "summary": "Latest AI discussion on Hacker News: Ripgrep AI Policy. Points: 80. (Source: Hacker News)",
-          "url": "https://github.com/BurntSushi/ripgrep/blob/master/AI_POLICY.md"
-        },
-        {
-          "title": "I'm Tired of Talking to AI",
-          "summary": "Latest AI discussion on Hacker News: I'm Tired of Talking to AI. Points: 1937. (Source: Hacker News)",
-          "url": "https://orchidfiles.com/im-tired-of-ai-generated-answers/"
-        },
-        {
-          "title": "AI tools are only as good as your judgment",
-          "summary": "Latest AI discussion on Hacker News: AI tools are only as good as your judgment. Points: 81. (Source: Hacker News)",
-          "url": "https://theaileverageweekly.com/posts/your-ai-tools-are-only-as-good-as-your-judgment-and-that-s-the-point.html"
         }
       ]
     },
