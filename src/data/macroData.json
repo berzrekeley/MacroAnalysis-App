@@ -1,26 +1,26 @@
 {
-  "lastUpdated": "May 29, 2026",
+  "lastUpdated": "May 30, 2026",
   "executiveSummary": [
-    "As of May 29, 2026, the U.S. macroeconomic environment is navigating a complex period of high interest rates and shifting labor market dynamics. With the Fed Funds Rate holding at 3.64% and CPI inflation tracking at 3.78%, the central bank continues its \"higher-for-longer\" stance to anchor inflation expectations. Recent headlines such as \"47-year-old high-end steak and seafood chain closes 80 locations\" suggest that market participants remain hypersensitive to every data print, particularly around corporate earnings and consumer spending resilience.",
-    "The labor market, a key pillar of support, shows 215,000 initial jobless claims, reflecting a relatively stable but cooling employment landscape. Geopolitically, events like \"LG Energy Solution and DTE Sign 6-GWh Michigan Battery Storage Deal\" introduce exogenous risks that could disrupt global energy supplies and re-ignite inflationary impulses, keeping the Federal Reserve in a defensive posture as they balance growth against price stability. Analysts are closely watching for any signs of a \"hard landing\" as the effects of previous tightening cycles continue to filter through the real economy."
+    "As of May 30, 2026, the U.S. macroeconomic environment is navigating a complex period of high interest rates and shifting labor market dynamics. With the Fed Funds Rate holding at 3.64% and CPI inflation tracking at 3.78%, the central bank continues its \"higher-for-longer\" stance to anchor inflation expectations. Recent headlines such as \"Wall Street ends higher, crude prices ease on potential US-Iran truce extension\" suggest that market participants remain hypersensitive to every data print, particularly around corporate earnings and consumer spending resilience.",
+    "The labor market, a key pillar of support, shows 215,000 initial jobless claims, reflecting a relatively stable but cooling employment landscape. Geopolitically, events like \"Wall Street hits new closing highs on tech strength, Middle East deal hopes\" introduce exogenous risks that could disrupt global energy supplies and re-ignite inflationary impulses, keeping the Federal Reserve in a defensive posture as they balance growth against price stability. Analysts are closely watching for any signs of a \"hard landing\" as the effects of previous tightening cycles continue to filter through the real economy."
   ],
   "dailyHeadlines": [
     {
-      "title": "47-year-old high-end steak and seafood chain closes 80 locations",
+      "title": "Wall Street ends higher, crude prices ease on potential US-Iran truce extension",
       "summary": "",
-      "url": "https://finance.yahoo.com/economy/articles/47-old-high-end-steak-170700893.html",
+      "url": "https://finance.yahoo.com/news/oil-eyes-weekly-drop-hormuz-020658431.html",
       "type": "extreme"
     },
     {
-      "title": "LG Energy Solution and DTE Sign 6-GWh Michigan Battery Storage Deal",
+      "title": "Wall Street hits new closing highs on tech strength, Middle East deal hopes",
       "summary": "",
-      "url": "https://finance.yahoo.com/sectors/energy/articles/lg-energy-solution-dte-sign-023238086.html",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/wall-st-futures-steady-investors-091056175.html",
       "type": "warning"
     },
     {
-      "title": "Fed's Jefferson says monetary policy is 'well positioned' amid inflation risks",
+      "title": "This Quantum Computing Stock Has a Secret Weapon Nobody on Wall Street Has Priced In",
       "summary": "",
-      "url": "https://finance.yahoo.com/economy/policy/articles/feds-jefferson-says-monetary-policy-000452641.html",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/quantum-computing-stock-secret-weapon-093400015.html",
       "type": "info"
     }
   ],
@@ -45,19 +45,19 @@
     },
     {
       "title": "10Y Treasury Rate",
-      "value": "4.48%",
+      "value": "4.45%",
       "status": "High - energy-driven inflation",
       "type": "warning"
     },
     {
       "title": "2Y Treasury Rate",
-      "value": "4.00%",
+      "value": "3.99%",
       "status": "Elevated - higher-for-longer stance",
       "type": "warning"
     },
     {
       "title": "Consumer Sentiment",
-      "value": "49.8",
+      "value": "49.8000000000000000000000000000000000000000",
       "status": "Critical - record low",
       "type": "extreme"
     },
@@ -69,7 +69,7 @@
     },
     {
       "title": "Leading Index (LEI)",
-      "value": "49.8",
+      "value": "49.8000000000000000000000000000000000000000",
       "status": "Weakening - persistent headwinds",
       "type": "warning"
     },
@@ -299,29 +299,29 @@
       "category": "Frontier Model Race & Breakthroughs",
       "items": [
         {
-          "title": "Is AI causing a repeat of Front end's Lost Decade?",
-          "summary": "Latest AI discussion on Hacker News: Is AI causing a repeat of Front end's Lost Decade?. Points: 88. (Source: Hacker News)",
-          "url": "https://mastrojs.github.io/blog/2026-05-23-is-AI-causing-a-repeat-of-frontends-lost-decade/"
+          "title": "Robinhood now lets your AI agents trade stocks",
+          "summary": "Latest AI discussion on Hacker News: Robinhood now lets your AI agents trade stocks. Points: 100. (Source: Hacker News)",
+          "url": "https://techcrunch.com/2026/05/27/robinhood-now-lets-your-ai-agents-trade-stocks/"
         },
         {
-          "title": "SF startup is testing robots in Airbnbs, and trashing them, lawsuit claims",
-          "summary": "Latest AI discussion on Hacker News: SF startup is testing robots in Airbnbs, and trashing them, lawsuit claims. Points: 229. (Source: Hacker News)",
-          "url": "https://sfstandard.com/2026/05/28/sf-startup-secretly-testing-robots-airbnbs-trashing-lawsuit-claims/"
+          "title": "Notes from the Mistral AI Now Summit",
+          "summary": "Latest AI discussion on Hacker News: Notes from the Mistral AI Now Summit. Points: 388. (Source: Hacker News)",
+          "url": "https://koenvangilst.nl/lab/mistral-ai-now-summit"
         },
         {
-          "title": "Sam Altman and Dario Amodei are both walking back AI jobs apocalypse predictions",
-          "summary": "Latest AI discussion on Hacker News: Sam Altman and Dario Amodei are both walking back AI jobs apocalypse predictions. Points: 217. (Source: Hacker News)",
-          "url": "https://fortune.com/2026/05/26/sam-altman-dario-amodei-walking-back-ai-jobs-apocalypse-prophecies-ipo/"
+          "title": "Liquid AI reveals 8B-A1B MoE trained on 38T",
+          "summary": "Latest AI discussion on Hacker News: Liquid AI reveals 8B-A1B MoE trained on 38T. Points: 192. (Source: Hacker News)",
+          "url": "https://www.liquid.ai/blog/lfm2-5-8b-a1b"
         },
         {
-          "title": "Show HN: Continue? Y/N: A 60-second game about AI agent permission fatigue",
-          "summary": "Latest AI discussion on Hacker News: Show HN: Continue? Y/N: A 60-second game about AI agent permission fatigue. Points: 344. (Source: Hacker News)",
-          "url": "https://llmgame.scalex.dev"
+          "title": "CAPTCHAs can still detect AI agents",
+          "summary": "Latest AI discussion on Hacker News: CAPTCHAs can still detect AI agents. Points: 75. (Source: Hacker News)",
+          "url": "https://research.roundtable.ai/captchas-detect-ai/"
         },
         {
-          "title": "AI sticker shock hits corporate America",
-          "summary": "Latest AI discussion on Hacker News: AI sticker shock hits corporate America. Points: 160. (Source: Hacker News)",
-          "url": "https://www.axios.com/2026/05/28/ai-spending-roi-enterprise-costs"
+          "title": "Please Use AI",
+          "summary": "Latest AI discussion on Hacker News: Please Use AI. Points: 747. (Source: Hacker News)",
+          "url": "https://shawnsmucker.substack.com/p/please-use-ai"
         }
       ]
     },
@@ -329,29 +329,29 @@
       "category": "Enterprise & Agentic AI",
       "items": [
         {
-          "title": "A Eureka machine that thinks like nature and explores what AI cannot",
-          "summary": "Latest AI discussion on Hacker News: A Eureka machine that thinks like nature and explores what AI cannot. Points: 145. (Source: Hacker News)",
-          "url": "https://iisc.ac.in/a-eureka-machine-that-thinks-like-nature-and-explores-what-ai-cannot/"
+          "title": "Expertise in the age of AI",
+          "summary": "Latest AI discussion on Hacker News: Expertise in the age of AI. Points: 114. (Source: Hacker News)",
+          "url": "https://www.moderndescartes.com/essays/ai_and_expertise/"
         },
         {
-          "title": "YouTube to automatically label AI-generated videos",
-          "summary": "Latest AI discussion on Hacker News: YouTube to automatically label AI-generated videos. Points: 1296. (Source: Hacker News)",
-          "url": "https://blog.youtube/news-and-events/improving-ai-labels-viewers-creators/"
+          "title": "Is AI causing a repeat of frontend’s lost decade?",
+          "summary": "Latest AI discussion on Hacker News: Is AI causing a repeat of frontend’s lost decade?. Points: 359. (Source: Hacker News)",
+          "url": "https://mastrojs.github.io/blog/2026-05-23-is-AI-causing-a-repeat-of-frontends-lost-decade/"
         },
         {
-          "title": "DuckDuckGo search saw 28% more visits after Google said people love AI mode",
-          "summary": "Latest AI discussion on Hacker News: DuckDuckGo search saw 28% more visits after Google said people love AI mode. Points: 1055. (Source: Hacker News)",
-          "url": "https://www.pcgamer.com/hardware/duckduckgos-ai-free-search-saw-nearly-28-percent-more-visits-in-the-week-following-googles-insistence-that-people-love-ai-mode/"
+          "title": "SF startup is testing robots in Airbnbs, and trashing them, lawsuit claims",
+          "summary": "Latest AI discussion on Hacker News: SF startup is testing robots in Airbnbs, and trashing them, lawsuit claims. Points: 263. (Source: Hacker News)",
+          "url": "https://sfstandard.com/2026/05/28/sf-startup-secretly-testing-robots-airbnbs-trashing-lawsuit-claims/"
         },
         {
-          "title": "Training our own AI models",
-          "summary": "Latest AI discussion on Hacker News: Training our own AI models. Points: 213. (Source: Hacker News)",
-          "url": "https://posthog.com/blog/training-ai-models"
+          "title": "Sam Altman and Dario Amodei are both walking back AI jobs apocalypse predictions",
+          "summary": "Latest AI discussion on Hacker News: Sam Altman and Dario Amodei are both walking back AI jobs apocalypse predictions. Points: 232. (Source: Hacker News)",
+          "url": "https://fortune.com/2026/05/26/sam-altman-dario-amodei-walking-back-ai-jobs-apocalypse-prophecies-ipo/"
         },
         {
-          "title": "Tech CEOs are apparently suffering from AI psychosis",
-          "summary": "Latest AI discussion on Hacker News: Tech CEOs are apparently suffering from AI psychosis. Points: 713. (Source: Hacker News)",
-          "url": "https://techcrunch.com/2026/05/27/tech-ceos-are-apparently-suffering-from-ai-psychosis/"
+          "title": "Show HN: Continue? Y/N: A 60-second game about AI agent permission fatigue",
+          "summary": "Latest AI discussion on Hacker News: Show HN: Continue? Y/N: A 60-second game about AI agent permission fatigue. Points: 376. (Source: Hacker News)",
+          "url": "https://llmgame.scalex.dev"
         }
       ]
     },
