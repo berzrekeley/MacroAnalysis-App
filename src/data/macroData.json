@@ -1,26 +1,26 @@
 {
-  "lastUpdated": "May 30, 2026",
+  "lastUpdated": "May 31, 2026",
   "executiveSummary": [
-    "As of May 30, 2026, the U.S. macroeconomic environment is navigating a complex period of high interest rates and shifting labor market dynamics. With the Fed Funds Rate holding at 3.64% and CPI inflation tracking at 3.78%, the central bank continues its \"higher-for-longer\" stance to anchor inflation expectations. Recent headlines such as \"Wall Street ends higher, crude prices ease on potential US-Iran truce extension\" suggest that market participants remain hypersensitive to every data print, particularly around corporate earnings and consumer spending resilience.",
-    "The labor market, a key pillar of support, shows 215,000 initial jobless claims, reflecting a relatively stable but cooling employment landscape. Geopolitically, events like \"Wall Street hits new closing highs on tech strength, Middle East deal hopes\" introduce exogenous risks that could disrupt global energy supplies and re-ignite inflationary impulses, keeping the Federal Reserve in a defensive posture as they balance growth against price stability. Analysts are closely watching for any signs of a \"hard landing\" as the effects of previous tightening cycles continue to filter through the real economy."
+    "As of May 31, 2026, the U.S. macroeconomic environment is navigating a complex period of high interest rates and shifting labor market dynamics. With the Fed Funds Rate holding at 3.64% and CPI inflation tracking at 3.78%, the central bank continues its \"higher-for-longer\" stance to anchor inflation expectations. Recent headlines such as \"Is There a Future for the Cryptocurrency XRP?\" suggest that market participants remain hypersensitive to every data print, particularly around corporate earnings and consumer spending resilience.",
+    "The labor market, a key pillar of support, shows 215,000 initial jobless claims, reflecting a relatively stable but cooling employment landscape. Geopolitically, events like \"I'm retiring soon with a solid nest egg — so should I take my pension in a lump sum or monthly payments with no COLA?\" introduce exogenous risks that could disrupt global energy supplies and re-ignite inflationary impulses, keeping the Federal Reserve in a defensive posture as they balance growth against price stability. Analysts are closely watching for any signs of a \"hard landing\" as the effects of previous tightening cycles continue to filter through the real economy."
   ],
   "dailyHeadlines": [
     {
-      "title": "Wall Street ends higher, crude prices ease on potential US-Iran truce extension",
+      "title": "Is There a Future for the Cryptocurrency XRP?",
       "summary": "",
-      "url": "https://finance.yahoo.com/news/oil-eyes-weekly-drop-hormuz-020658431.html",
+      "url": "https://finance.yahoo.com/markets/crypto/articles/future-cryptocurrency-xrp-104100736.html",
       "type": "extreme"
     },
     {
-      "title": "Wall Street hits new closing highs on tech strength, Middle East deal hopes",
+      "title": "I'm retiring soon with a solid nest egg — so should I take my pension in a lump sum or monthly payments with no COLA?",
       "summary": "",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/wall-st-futures-steady-investors-091056175.html",
+      "url": "https://finance.yahoo.com/markets/options/articles/im-retiring-soon-solid-nest-100500621.html",
       "type": "warning"
     },
     {
-      "title": "This Quantum Computing Stock Has a Secret Weapon Nobody on Wall Street Has Priced In",
+      "title": "Best high-yield savings interest rates today, Saturday, May 30, 2026: Earn up to 4.1% APY",
       "summary": "",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/quantum-computing-stock-secret-weapon-093400015.html",
+      "url": "https://finance.yahoo.com/personal-finance/banking/article/best-high-yield-savings-interest-rates-today-saturday-may-30-2026-100000660.html",
       "type": "info"
     }
   ],
@@ -39,7 +39,7 @@
     },
     {
       "title": "10Y - 2Y Spread",
-      "value": "0.46%",
+      "value": "0.47%",
       "status": "Steepening - slower growth",
       "type": "warning"
     },
@@ -299,29 +299,29 @@
       "category": "Frontier Model Race & Breakthroughs",
       "items": [
         {
+          "title": "To have a moral stance on AI is to be an outcast, and it sucks",
+          "summary": "Latest AI discussion on Hacker News: To have a moral stance on AI is to be an outcast, and it sucks. Points: 132. (Source: Hacker News)",
+          "url": "https://musings.martyn.berlin/to-have-a-moral-stance-on-ai-is-to-be-an-outcast-and-it-sucks"
+        },
+        {
+          "title": "AI job grief: A psychological crisis hitting tech workers",
+          "summary": "Latest AI discussion on Hacker News: AI job grief: A psychological crisis hitting tech workers. Points: 155. (Source: Hacker News)",
+          "url": "https://jackmaguire.org/blog/ai-job-grief/"
+        },
+        {
+          "title": "Anthropic surpasses OpenAI to become most valuable AI startup",
+          "summary": "Latest AI discussion on Hacker News: Anthropic surpasses OpenAI to become most valuable AI startup. Points: 406. (Source: Hacker News)",
+          "url": "https://qazinform.com/news/anthropic-surpasses-openai-to-become-worlds-most-valuable-ai-startup"
+        },
+        {
+          "title": "Corporate America Is Starting to Ration AI as Cost Skyrockets",
+          "summary": "Latest AI discussion on Hacker News: Corporate America Is Starting to Ration AI as Cost Skyrockets. Points: 171. (Source: Hacker News)",
+          "url": "https://www.wsj.com/tech/ai/corporate-america-is-starting-to-ration-ai-as-cost-skyrockets-1eb99d7a"
+        },
+        {
           "title": "Robinhood now lets your AI agents trade stocks",
-          "summary": "Latest AI discussion on Hacker News: Robinhood now lets your AI agents trade stocks. Points: 100. (Source: Hacker News)",
+          "summary": "Latest AI discussion on Hacker News: Robinhood now lets your AI agents trade stocks. Points: 109. (Source: Hacker News)",
           "url": "https://techcrunch.com/2026/05/27/robinhood-now-lets-your-ai-agents-trade-stocks/"
-        },
-        {
-          "title": "Notes from the Mistral AI Now Summit",
-          "summary": "Latest AI discussion on Hacker News: Notes from the Mistral AI Now Summit. Points: 388. (Source: Hacker News)",
-          "url": "https://koenvangilst.nl/lab/mistral-ai-now-summit"
-        },
-        {
-          "title": "Liquid AI reveals 8B-A1B MoE trained on 38T",
-          "summary": "Latest AI discussion on Hacker News: Liquid AI reveals 8B-A1B MoE trained on 38T. Points: 192. (Source: Hacker News)",
-          "url": "https://www.liquid.ai/blog/lfm2-5-8b-a1b"
-        },
-        {
-          "title": "CAPTCHAs can still detect AI agents",
-          "summary": "Latest AI discussion on Hacker News: CAPTCHAs can still detect AI agents. Points: 75. (Source: Hacker News)",
-          "url": "https://research.roundtable.ai/captchas-detect-ai/"
-        },
-        {
-          "title": "Please Use AI",
-          "summary": "Latest AI discussion on Hacker News: Please Use AI. Points: 747. (Source: Hacker News)",
-          "url": "https://shawnsmucker.substack.com/p/please-use-ai"
         }
       ]
     },
@@ -329,29 +329,29 @@
       "category": "Enterprise & Agentic AI",
       "items": [
         {
+          "title": "Notes from the Mistral AI Now Summit",
+          "summary": "Latest AI discussion on Hacker News: Notes from the Mistral AI Now Summit. Points: 459. (Source: Hacker News)",
+          "url": "https://koenvangilst.nl/lab/mistral-ai-now-summit"
+        },
+        {
+          "title": "Liquid AI reveals 8B-A1B MoE trained on 38T",
+          "summary": "Latest AI discussion on Hacker News: Liquid AI reveals 8B-A1B MoE trained on 38T. Points: 242. (Source: Hacker News)",
+          "url": "https://www.liquid.ai/blog/lfm2-5-8b-a1b"
+        },
+        {
+          "title": "CAPTCHAs can still detect AI agents",
+          "summary": "Latest AI discussion on Hacker News: CAPTCHAs can still detect AI agents. Points: 83. (Source: Hacker News)",
+          "url": "https://research.roundtable.ai/captchas-detect-ai/"
+        },
+        {
+          "title": "Please Use AI",
+          "summary": "Latest AI discussion on Hacker News: Please Use AI. Points: 772. (Source: Hacker News)",
+          "url": "https://shawnsmucker.substack.com/p/please-use-ai"
+        },
+        {
           "title": "Expertise in the age of AI",
-          "summary": "Latest AI discussion on Hacker News: Expertise in the age of AI. Points: 114. (Source: Hacker News)",
+          "summary": "Latest AI discussion on Hacker News: Expertise in the age of AI. Points: 124. (Source: Hacker News)",
           "url": "https://www.moderndescartes.com/essays/ai_and_expertise/"
-        },
-        {
-          "title": "Is AI causing a repeat of frontend’s lost decade?",
-          "summary": "Latest AI discussion on Hacker News: Is AI causing a repeat of frontend’s lost decade?. Points: 359. (Source: Hacker News)",
-          "url": "https://mastrojs.github.io/blog/2026-05-23-is-AI-causing-a-repeat-of-frontends-lost-decade/"
-        },
-        {
-          "title": "SF startup is testing robots in Airbnbs, and trashing them, lawsuit claims",
-          "summary": "Latest AI discussion on Hacker News: SF startup is testing robots in Airbnbs, and trashing them, lawsuit claims. Points: 263. (Source: Hacker News)",
-          "url": "https://sfstandard.com/2026/05/28/sf-startup-secretly-testing-robots-airbnbs-trashing-lawsuit-claims/"
-        },
-        {
-          "title": "Sam Altman and Dario Amodei are both walking back AI jobs apocalypse predictions",
-          "summary": "Latest AI discussion on Hacker News: Sam Altman and Dario Amodei are both walking back AI jobs apocalypse predictions. Points: 232. (Source: Hacker News)",
-          "url": "https://fortune.com/2026/05/26/sam-altman-dario-amodei-walking-back-ai-jobs-apocalypse-prophecies-ipo/"
-        },
-        {
-          "title": "Show HN: Continue? Y/N: A 60-second game about AI agent permission fatigue",
-          "summary": "Latest AI discussion on Hacker News: Show HN: Continue? Y/N: A 60-second game about AI agent permission fatigue. Points: 376. (Source: Hacker News)",
-          "url": "https://llmgame.scalex.dev"
         }
       ]
     },
