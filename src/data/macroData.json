@@ -1,26 +1,26 @@
 {
-  "lastUpdated": "May 31, 2026",
+  "lastUpdated": "June 1, 2026",
   "executiveSummary": [
-    "As of May 31, 2026, the U.S. macroeconomic environment is navigating a complex period of high interest rates and shifting labor market dynamics. With the Fed Funds Rate holding at 3.64% and CPI inflation tracking at 3.78%, the central bank continues its \"higher-for-longer\" stance to anchor inflation expectations. Recent headlines such as \"Is There a Future for the Cryptocurrency XRP?\" suggest that market participants remain hypersensitive to every data print, particularly around corporate earnings and consumer spending resilience.",
-    "The labor market, a key pillar of support, shows 215,000 initial jobless claims, reflecting a relatively stable but cooling employment landscape. Geopolitically, events like \"I'm retiring soon with a solid nest egg — so should I take my pension in a lump sum or monthly payments with no COLA?\" introduce exogenous risks that could disrupt global energy supplies and re-ignite inflationary impulses, keeping the Federal Reserve in a defensive posture as they balance growth against price stability. Analysts are closely watching for any signs of a \"hard landing\" as the effects of previous tightening cycles continue to filter through the real economy."
+    "As of June 1, 2026, the U.S. macroeconomic environment is navigating a complex period of high interest rates and shifting labor market dynamics. With the Fed Funds Rate holding at 3.64% and CPI inflation tracking at 3.78%, the central bank continues its \"higher-for-longer\" stance to anchor inflation expectations. Recent headlines such as \"Why Intel Stock Just Dropped\" suggest that market participants remain hypersensitive to every data print, particularly around corporate earnings and consumer spending resilience.",
+    "The labor market, a key pillar of support, shows 215,000 initial jobless claims, reflecting a relatively stable but cooling employment landscape. Geopolitically, events like \"DMG Blockchain Signs 50 MW AI Data Center LOI at Christina Lake\" introduce exogenous risks that could disrupt global energy supplies and re-ignite inflationary impulses, keeping the Federal Reserve in a defensive posture as they balance growth against price stability. Analysts are closely watching for any signs of a \"hard landing\" as the effects of previous tightening cycles continue to filter through the real economy."
   ],
   "dailyHeadlines": [
     {
-      "title": "Is There a Future for the Cryptocurrency XRP?",
+      "title": "Why Intel Stock Just Dropped",
       "summary": "",
-      "url": "https://finance.yahoo.com/markets/crypto/articles/future-cryptocurrency-xrp-104100736.html",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/why-intel-stock-just-dropped-153544421.html",
       "type": "extreme"
     },
     {
-      "title": "I'm retiring soon with a solid nest egg — so should I take my pension in a lump sum or monthly payments with no COLA?",
+      "title": "DMG Blockchain Signs 50 MW AI Data Center LOI at Christina Lake",
       "summary": "",
-      "url": "https://finance.yahoo.com/markets/options/articles/im-retiring-soon-solid-nest-100500621.html",
+      "url": "https://finance.yahoo.com/markets/crypto/articles/dmg-blockchain-signs-50-mw-152600833.html",
       "type": "warning"
     },
     {
-      "title": "Best high-yield savings interest rates today, Saturday, May 30, 2026: Earn up to 4.1% APY",
+      "title": "SAIC Stock Scores Breakout, Gaps Up On Earnings As Defense Demand Grows",
       "summary": "",
-      "url": "https://finance.yahoo.com/personal-finance/banking/article/best-high-yield-savings-interest-rates-today-saturday-may-30-2026-100000660.html",
+      "url": "https://www.investors.com/news/science-applications-international-earnings-q1-2027-saic-stock-gap-up-buy-point-defense-stocks/?src=A00220&amp;yptr=yahoo",
       "type": "info"
     }
   ],
@@ -57,7 +57,7 @@
     },
     {
       "title": "Consumer Sentiment",
-      "value": "49.8000000000000000000000000000000000000000",
+      "value": "49.8",
       "status": "Critical - record low",
       "type": "extreme"
     },
@@ -69,7 +69,7 @@
     },
     {
       "title": "Leading Index (LEI)",
-      "value": "49.8000000000000000000000000000000000000000",
+      "value": "49.8",
       "status": "Weakening - persistent headwinds",
       "type": "warning"
     },
@@ -299,29 +299,29 @@
       "category": "Frontier Model Race & Breakthroughs",
       "items": [
         {
-          "title": "To have a moral stance on AI is to be an outcast, and it sucks",
-          "summary": "Latest AI discussion on Hacker News: To have a moral stance on AI is to be an outcast, and it sucks. Points: 132. (Source: Hacker News)",
-          "url": "https://musings.martyn.berlin/to-have-a-moral-stance-on-ai-is-to-be-an-outcast-and-it-sucks"
+          "title": "When AI Crosses the Line: The Matplotlib Incident",
+          "summary": "Latest AI discussion on Hacker News: When AI Crosses the Line: The Matplotlib Incident. Points: 122. (Source: Hacker News)",
+          "url": "https://members.sigmazero.cc/posts/when-ai-crosses-159174096?postId=when-ai-crosses-159174096"
         },
         {
-          "title": "AI job grief: A psychological crisis hitting tech workers",
-          "summary": "Latest AI discussion on Hacker News: AI job grief: A psychological crisis hitting tech workers. Points: 155. (Source: Hacker News)",
-          "url": "https://jackmaguire.org/blog/ai-job-grief/"
+          "title": "Nvidia announces new AI chip for personal computers",
+          "summary": "Latest AI discussion on Hacker News: Nvidia announces new AI chip for personal computers. Points: 42. (Source: Hacker News)",
+          "url": "https://www.bbc.com/news/articles/crmp9mppvzro"
         },
         {
-          "title": "Anthropic surpasses OpenAI to become most valuable AI startup",
-          "summary": "Latest AI discussion on Hacker News: Anthropic surpasses OpenAI to become most valuable AI startup. Points: 406. (Source: Hacker News)",
-          "url": "https://qazinform.com/news/anthropic-surpasses-openai-to-become-worlds-most-valuable-ai-startup"
+          "title": "The Speed of Prototyping in the Age of AI",
+          "summary": "Latest AI discussion on Hacker News: The Speed of Prototyping in the Age of AI. Points: 182. (Source: Hacker News)",
+          "url": "https://darylcecile.net/notes/speed-of-prototyping-age-of-ai"
         },
         {
-          "title": "Corporate America Is Starting to Ration AI as Cost Skyrockets",
-          "summary": "Latest AI discussion on Hacker News: Corporate America Is Starting to Ration AI as Cost Skyrockets. Points: 171. (Source: Hacker News)",
-          "url": "https://www.wsj.com/tech/ai/corporate-america-is-starting-to-ration-ai-as-cost-skyrockets-1eb99d7a"
+          "title": "Odysseus – self-hosted AI workspace",
+          "summary": "Latest AI discussion on Hacker News: Odysseus – self-hosted AI workspace. Points: 199. (Source: Hacker News)",
+          "url": "https://github.com/pewdiepie-archdaemon/odysseus"
         },
         {
-          "title": "Robinhood now lets your AI agents trade stocks",
-          "summary": "Latest AI discussion on Hacker News: Robinhood now lets your AI agents trade stocks. Points: 109. (Source: Hacker News)",
-          "url": "https://techcrunch.com/2026/05/27/robinhood-now-lets-your-ai-agents-trade-stocks/"
+          "title": "The solution might be cancelling my AI subscription",
+          "summary": "Latest AI discussion on Hacker News: The solution might be cancelling my AI subscription. Points: 368. (Source: Hacker News)",
+          "url": "https://thoughts.hmmz.org/2026-05-31.html"
         }
       ]
     },
@@ -329,29 +329,29 @@
       "category": "Enterprise & Agentic AI",
       "items": [
         {
-          "title": "Notes from the Mistral AI Now Summit",
-          "summary": "Latest AI discussion on Hacker News: Notes from the Mistral AI Now Summit. Points: 459. (Source: Hacker News)",
-          "url": "https://koenvangilst.nl/lab/mistral-ai-now-summit"
+          "title": "The people who actually want AI to replace humanity",
+          "summary": "Latest AI discussion on Hacker News: The people who actually want AI to replace humanity. Points: 78. (Source: Hacker News)",
+          "url": "https://www.vox.com/future-perfect/489976/ai-successionism-transhumanism-posthumanism"
         },
         {
-          "title": "Liquid AI reveals 8B-A1B MoE trained on 38T",
-          "summary": "Latest AI discussion on Hacker News: Liquid AI reveals 8B-A1B MoE trained on 38T. Points: 242. (Source: Hacker News)",
-          "url": "https://www.liquid.ai/blog/lfm2-5-8b-a1b"
+          "title": "United Airlines 767 returns to Newark after Bluetooth name sparks alert",
+          "summary": "Latest AI discussion on Hacker News: United Airlines 767 returns to Newark after Bluetooth name sparks alert. Points: 399. (Source: Hacker News)",
+          "url": "https://simpleflying.com/united-airlines-767-returns-newark-bluetooth-name-alert/"
         },
         {
-          "title": "CAPTCHAs can still detect AI agents",
-          "summary": "Latest AI discussion on Hacker News: CAPTCHAs can still detect AI agents. Points: 83. (Source: Hacker News)",
-          "url": "https://research.roundtable.ai/captchas-detect-ai/"
+          "title": "AI grifters are creating fake Black people to sell Shein junk",
+          "summary": "Latest AI discussion on Hacker News: AI grifters are creating fake Black people to sell Shein junk. Points: 51. (Source: Hacker News)",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/938844/ai-tiktok-shop-blackface-shein-dropshipping"
         },
         {
-          "title": "Please Use AI",
-          "summary": "Latest AI discussion on Hacker News: Please Use AI. Points: 772. (Source: Hacker News)",
-          "url": "https://shawnsmucker.substack.com/p/please-use-ai"
+          "title": "US plans to halt immigration, customs processing at 'sanctuary city' airports",
+          "summary": "Latest AI discussion on Hacker News: US plans to halt immigration, customs processing at 'sanctuary city' airports. Points: 40. (Source: Hacker News)",
+          "url": "https://www.reuters.com/legal/government/us-drawing-up-plans-halt-immigration-customs-processing-sanctuary-city-airports-2026-05-27/"
         },
         {
-          "title": "Expertise in the age of AI",
-          "summary": "Latest AI discussion on Hacker News: Expertise in the age of AI. Points: 124. (Source: Hacker News)",
-          "url": "https://www.moderndescartes.com/essays/ai_and_expertise/"
+          "title": "To have a moral stance on AI is to be an outcast, and it sucks",
+          "summary": "Latest AI discussion on Hacker News: To have a moral stance on AI is to be an outcast, and it sucks. Points: 145. (Source: Hacker News)",
+          "url": "https://musings.martyn.berlin/to-have-a-moral-stance-on-ai-is-to-be-an-outcast-and-it-sucks"
         }
       ]
     },
