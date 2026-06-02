@@ -1,26 +1,26 @@
 {
-  "lastUpdated": "June 1, 2026",
+  "lastUpdated": "June 2, 2026",
   "executiveSummary": [
-    "As of June 1, 2026, the U.S. macroeconomic environment is navigating a complex period of high interest rates and shifting labor market dynamics. With the Fed Funds Rate holding at 3.64% and CPI inflation tracking at 3.78%, the central bank continues its \"higher-for-longer\" stance to anchor inflation expectations. Recent headlines such as \"Why Intel Stock Just Dropped\" suggest that market participants remain hypersensitive to every data print, particularly around corporate earnings and consumer spending resilience.",
-    "The labor market, a key pillar of support, shows 215,000 initial jobless claims, reflecting a relatively stable but cooling employment landscape. Geopolitically, events like \"DMG Blockchain Signs 50 MW AI Data Center LOI at Christina Lake\" introduce exogenous risks that could disrupt global energy supplies and re-ignite inflationary impulses, keeping the Federal Reserve in a defensive posture as they balance growth against price stability. Analysts are closely watching for any signs of a \"hard landing\" as the effects of previous tightening cycles continue to filter through the real economy."
+    "As of June 2, 2026, the U.S. macroeconomic environment is navigating a complex period of high interest rates and shifting labor market dynamics. With the Fed Funds Rate holding at 3.63% and CPI inflation tracking at 3.78%, the central bank continues its \"higher-for-longer\" stance to anchor inflation expectations. Recent headlines such as \"Cleveland Fed president warns rate hikes could be on the table 'if recent trends continue' with inflation\" suggest that market participants remain hypersensitive to every data print, particularly around corporate earnings and consumer spending resilience.",
+    "The labor market, a key pillar of support, shows 215,000 initial jobless claims, reflecting a relatively stable but cooling employment landscape. Geopolitically, events like \"Hallador to buy Siemens turbines from EWC for $350m\" introduce exogenous risks that could disrupt global energy supplies and re-ignite inflationary impulses, keeping the Federal Reserve in a defensive posture as they balance growth against price stability. Analysts are closely watching for any signs of a \"hard landing\" as the effects of previous tightening cycles continue to filter through the real economy."
   ],
   "dailyHeadlines": [
     {
-      "title": "Why Intel Stock Just Dropped",
+      "title": "Cleveland Fed president warns rate hikes could be on the table 'if recent trends continue' with inflation",
       "summary": "",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/why-intel-stock-just-dropped-153544421.html",
+      "url": "https://finance.yahoo.com/economy/policy/article/cleveland-fed-president-warns-rate-hikes-could-be-on-the-table-if-recent-trends-continue-with-inflation-134934408.html",
       "type": "extreme"
     },
     {
-      "title": "DMG Blockchain Signs 50 MW AI Data Center LOI at Christina Lake",
+      "title": "Hallador to buy Siemens turbines from EWC for $350m",
       "summary": "",
-      "url": "https://finance.yahoo.com/markets/crypto/articles/dmg-blockchain-signs-50-mw-152600833.html",
+      "url": "https://finance.yahoo.com/sectors/energy/articles/hallador-buy-siemens-turbines-ewc-134741563.html",
       "type": "warning"
     },
     {
-      "title": "SAIC Stock Scores Breakout, Gaps Up On Earnings As Defense Demand Grows",
+      "title": "What Makes Barrett Business Services (BBSI) a Good Investment?",
       "summary": "",
-      "url": "https://www.investors.com/news/science-applications-international-earnings-q1-2027-saic-stock-gap-up-buy-point-defense-stocks/?src=A00220&amp;yptr=yahoo",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/makes-barrett-business-services-bbsi-133613145.html",
       "type": "info"
     }
   ],
@@ -33,13 +33,13 @@
     },
     {
       "title": "Fed Funds Rate",
-      "value": "3.64%",
+      "value": "3.63%",
       "status": "Neutral - 99% chance of no change",
       "type": "neutral"
     },
     {
       "title": "10Y - 2Y Spread",
-      "value": "0.47%",
+      "value": "0.42%",
       "status": "Steepening - slower growth",
       "type": "warning"
     },
@@ -299,29 +299,29 @@
       "category": "Frontier Model Race & Breakthroughs",
       "items": [
         {
-          "title": "When AI Crosses the Line: The Matplotlib Incident",
-          "summary": "Latest AI discussion on Hacker News: When AI Crosses the Line: The Matplotlib Incident. Points: 122. (Source: Hacker News)",
-          "url": "https://members.sigmazero.cc/posts/when-ai-crosses-159174096?postId=when-ai-crosses-159174096"
+          "title": "Adafruit Receives Demand Letter from Fenwick Legal Counsel on Behalf of Flux.ai",
+          "summary": "Latest AI discussion on Hacker News: Adafruit Receives Demand Letter from Fenwick Legal Counsel on Behalf of Flux.ai. Points: 254. (Source: Hacker News)",
+          "url": "https://blog.adafruit.com/"
         },
         {
-          "title": "Nvidia announces new AI chip for personal computers",
-          "summary": "Latest AI discussion on Hacker News: Nvidia announces new AI chip for personal computers. Points: 42. (Source: Hacker News)",
-          "url": "https://www.bbc.com/news/articles/crmp9mppvzro"
+          "title": "Alphabet announces $80B equity capital raise to expand AI infra and compute",
+          "summary": "Latest AI discussion on Hacker News: Alphabet announces $80B equity capital raise to expand AI infra and compute. Points: 223. (Source: Hacker News)",
+          "url": "https://abc.xyz/investor/news/news-details/2026/Alphabet-Announces-Proposed-80-Billion-Equity-Capital-Raise-to-Expand-AI-Infrastructure-and-Compute-2026-b0myAMewCa/default.aspx"
         },
         {
-          "title": "The Speed of Prototyping in the Age of AI",
-          "summary": "Latest AI discussion on Hacker News: The Speed of Prototyping in the Age of AI. Points: 182. (Source: Hacker News)",
-          "url": "https://darylcecile.net/notes/speed-of-prototyping-age-of-ai"
+          "title": "AI Agent Guidelines for CS336 at Stanford",
+          "summary": "Latest AI discussion on Hacker News: AI Agent Guidelines for CS336 at Stanford. Points: 452. (Source: Hacker News)",
+          "url": "https://github.com/stanford-cs336/assignment1-basics/blob/main/CLAUDE.md"
         },
         {
-          "title": "Odysseus – self-hosted AI workspace",
-          "summary": "Latest AI discussion on Hacker News: Odysseus – self-hosted AI workspace. Points: 199. (Source: Hacker News)",
-          "url": "https://github.com/pewdiepie-archdaemon/odysseus"
+          "title": "DuckDuckGo makes its 'no-AI' search engine easier to access as its traffic booms",
+          "summary": "Latest AI discussion on Hacker News: DuckDuckGo makes its 'no-AI' search engine easier to access as its traffic booms. Points: 303. (Source: Hacker News)",
+          "url": "https://techcrunch.com/2026/06/01/duckduckgo-makes-its-no-ai-search-engine-easier-to-access-as-its-traffic-booms/"
         },
         {
-          "title": "The solution might be cancelling my AI subscription",
-          "summary": "Latest AI discussion on Hacker News: The solution might be cancelling my AI subscription. Points: 368. (Source: Hacker News)",
-          "url": "https://thoughts.hmmz.org/2026-05-31.html"
+          "title": "Florida sues OpenAI and Sam Altman over AI risks",
+          "summary": "Latest AI discussion on Hacker News: Florida sues OpenAI and Sam Altman over AI risks. Points: 248. (Source: Hacker News)",
+          "url": "https://www.politico.com/news/2026/06/01/openai-hit-with-florida-lawsuit-00944215"
         }
       ]
     },
@@ -329,29 +329,29 @@
       "category": "Enterprise & Agentic AI",
       "items": [
         {
+          "title": "When AI Crosses the Line: The Matplotlib Incident",
+          "summary": "Latest AI discussion on Hacker News: When AI Crosses the Line: The Matplotlib Incident. Points: 133. (Source: Hacker News)",
+          "url": "https://members.sigmazero.cc/posts/when-ai-crosses-159174096?postId=when-ai-crosses-159174096"
+        },
+        {
+          "title": "The Speed of Prototyping in the Age of AI",
+          "summary": "Latest AI discussion on Hacker News: The Speed of Prototyping in the Age of AI. Points: 195. (Source: Hacker News)",
+          "url": "https://darylcecile.net/notes/speed-of-prototyping-age-of-ai"
+        },
+        {
+          "title": "Odysseus – self-hosted AI workspace",
+          "summary": "Latest AI discussion on Hacker News: Odysseus – self-hosted AI workspace. Points: 220. (Source: Hacker News)",
+          "url": "https://github.com/pewdiepie-archdaemon/odysseus"
+        },
+        {
+          "title": "The solution might be cancelling my AI subscription",
+          "summary": "Latest AI discussion on Hacker News: The solution might be cancelling my AI subscription. Points: 381. (Source: Hacker News)",
+          "url": "https://thoughts.hmmz.org/2026-05-31.html"
+        },
+        {
           "title": "The people who actually want AI to replace humanity",
-          "summary": "Latest AI discussion on Hacker News: The people who actually want AI to replace humanity. Points: 78. (Source: Hacker News)",
+          "summary": "Latest AI discussion on Hacker News: The people who actually want AI to replace humanity. Points: 80. (Source: Hacker News)",
           "url": "https://www.vox.com/future-perfect/489976/ai-successionism-transhumanism-posthumanism"
-        },
-        {
-          "title": "United Airlines 767 returns to Newark after Bluetooth name sparks alert",
-          "summary": "Latest AI discussion on Hacker News: United Airlines 767 returns to Newark after Bluetooth name sparks alert. Points: 399. (Source: Hacker News)",
-          "url": "https://simpleflying.com/united-airlines-767-returns-newark-bluetooth-name-alert/"
-        },
-        {
-          "title": "AI grifters are creating fake Black people to sell Shein junk",
-          "summary": "Latest AI discussion on Hacker News: AI grifters are creating fake Black people to sell Shein junk. Points: 51. (Source: Hacker News)",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/938844/ai-tiktok-shop-blackface-shein-dropshipping"
-        },
-        {
-          "title": "US plans to halt immigration, customs processing at 'sanctuary city' airports",
-          "summary": "Latest AI discussion on Hacker News: US plans to halt immigration, customs processing at 'sanctuary city' airports. Points: 40. (Source: Hacker News)",
-          "url": "https://www.reuters.com/legal/government/us-drawing-up-plans-halt-immigration-customs-processing-sanctuary-city-airports-2026-05-27/"
-        },
-        {
-          "title": "To have a moral stance on AI is to be an outcast, and it sucks",
-          "summary": "Latest AI discussion on Hacker News: To have a moral stance on AI is to be an outcast, and it sucks. Points: 145. (Source: Hacker News)",
-          "url": "https://musings.martyn.berlin/to-have-a-moral-stance-on-ai-is-to-be-an-outcast-and-it-sucks"
         }
       ]
     },
