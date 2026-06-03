@@ -1,26 +1,26 @@
 {
-  "lastUpdated": "June 2, 2026",
+  "lastUpdated": "June 3, 2026",
   "executiveSummary": [
-    "As of June 2, 2026, the U.S. macroeconomic environment is navigating a complex period of high interest rates and shifting labor market dynamics. With the Fed Funds Rate holding at 3.63% and CPI inflation tracking at 3.78%, the central bank continues its \"higher-for-longer\" stance to anchor inflation expectations. Recent headlines such as \"Cleveland Fed president warns rate hikes could be on the table 'if recent trends continue' with inflation\" suggest that market participants remain hypersensitive to every data print, particularly around corporate earnings and consumer spending resilience.",
-    "The labor market, a key pillar of support, shows 215,000 initial jobless claims, reflecting a relatively stable but cooling employment landscape. Geopolitically, events like \"Hallador to buy Siemens turbines from EWC for $350m\" introduce exogenous risks that could disrupt global energy supplies and re-ignite inflationary impulses, keeping the Federal Reserve in a defensive posture as they balance growth against price stability. Analysts are closely watching for any signs of a \"hard landing\" as the effects of previous tightening cycles continue to filter through the real economy."
+    "As of June 3, 2026, the U.S. macroeconomic environment is navigating a complex period of high interest rates and shifting labor market dynamics. With the Fed Funds Rate holding at 3.63% and CPI inflation tracking at 3.78%, the central bank continues its \"higher-for-longer\" stance to anchor inflation expectations. Recent headlines such as \"How can I illustrate our financial position to a spouse who shows little interest?\" suggest that market participants remain hypersensitive to every data print, particularly around corporate earnings and consumer spending resilience.",
+    "The labor market, a key pillar of support, shows 215,000 initial jobless claims, reflecting a relatively stable but cooling employment landscape. Geopolitically, events like \"Alphabet's $80 billion stock sale shows how expensive AI is getting: Chart of the Day\" introduce exogenous risks that could disrupt global energy supplies and re-ignite inflationary impulses, keeping the Federal Reserve in a defensive posture as they balance growth against price stability. Analysts are closely watching for any signs of a \"hard landing\" as the effects of previous tightening cycles continue to filter through the real economy."
   ],
   "dailyHeadlines": [
     {
-      "title": "Cleveland Fed president warns rate hikes could be on the table 'if recent trends continue' with inflation",
+      "title": "How can I illustrate our financial position to a spouse who shows little interest?",
       "summary": "",
-      "url": "https://finance.yahoo.com/economy/policy/article/cleveland-fed-president-warns-rate-hikes-could-be-on-the-table-if-recent-trends-continue-with-inflation-134934408.html",
+      "url": "https://finance.yahoo.com/markets/articles/illustrate-financial-position-spouse-shows-140524452.html",
       "type": "extreme"
     },
     {
-      "title": "Hallador to buy Siemens turbines from EWC for $350m",
+      "title": "Alphabet's $80 billion stock sale shows how expensive AI is getting: Chart of the Day",
       "summary": "",
-      "url": "https://finance.yahoo.com/sectors/energy/articles/hallador-buy-siemens-turbines-ewc-134741563.html",
+      "url": "https://finance.yahoo.com/markets/article/alphabets-80-billion-stock-sale-shows-how-expensive-ai-is-getting-chart-of-the-day-140153236.html",
       "type": "warning"
     },
     {
-      "title": "What Makes Barrett Business Services (BBSI) a Good Investment?",
+      "title": "Private employers added 122,000 roles in May",
       "summary": "",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/makes-barrett-business-services-bbsi-133613145.html",
+      "url": "https://finance.yahoo.com/economy/article/private-employers-added-122000-roles-in-may-122103393.html",
       "type": "info"
     }
   ],
@@ -39,7 +39,7 @@
     },
     {
       "title": "10Y - 2Y Spread",
-      "value": "0.42%",
+      "value": "0.41%",
       "status": "Steepening - slower growth",
       "type": "warning"
     },
@@ -299,29 +299,29 @@
       "category": "Frontier Model Race & Breakthroughs",
       "items": [
         {
-          "title": "Adafruit Receives Demand Letter from Fenwick Legal Counsel on Behalf of Flux.ai",
-          "summary": "Latest AI discussion on Hacker News: Adafruit Receives Demand Letter from Fenwick Legal Counsel on Behalf of Flux.ai. Points: 254. (Source: Hacker News)",
+          "title": "AI outperforms law professors in Stanford Law study",
+          "summary": "Latest AI discussion on Hacker News: AI outperforms law professors in Stanford Law study. Points: 335. (Source: Hacker News)",
+          "url": "https://law.stanford.edu/press/ai-outperforms-law-professors-in-stanford-law-study/"
+        },
+        {
+          "title": "Microsoft announces Scout, an autonomous AI agent built on OpenClaw",
+          "summary": "Latest AI discussion on Hacker News: Microsoft announces Scout, an autonomous AI agent built on OpenClaw. Points: 92. (Source: Hacker News)",
+          "url": "https://www.computerworld.com/article/4180103/microsoft-unveils-scout-an-autonomous-ai-agent-built-on-openclaw.html"
+        },
+        {
+          "title": "Trump signs downsized AI order after weeks of reversals",
+          "summary": "Latest AI discussion on Hacker News: Trump signs downsized AI order after weeks of reversals. Points: 220. (Source: Hacker News)",
+          "url": "https://www.politico.com/news/2026/06/02/trump-signs-downsized-ai-order-00946389"
+        },
+        {
+          "title": "Americans don't know how to fight AI so they're fighting data centers",
+          "summary": "Latest AI discussion on Hacker News: Americans don't know how to fight AI so they're fighting data centers. Points: 119. (Source: Hacker News)",
+          "url": "https://www.vox.com/future-perfect/490350/data-center-moratoria-ai-backlash"
+        },
+        {
+          "title": "Adafruit receives demand letter from Fenwick legal counsel on behalf of Flux.ai",
+          "summary": "Latest AI discussion on Hacker News: Adafruit receives demand letter from Fenwick legal counsel on behalf of Flux.ai. Points: 661. (Source: Hacker News)",
           "url": "https://blog.adafruit.com/"
-        },
-        {
-          "title": "Alphabet announces $80B equity capital raise to expand AI infra and compute",
-          "summary": "Latest AI discussion on Hacker News: Alphabet announces $80B equity capital raise to expand AI infra and compute. Points: 223. (Source: Hacker News)",
-          "url": "https://abc.xyz/investor/news/news-details/2026/Alphabet-Announces-Proposed-80-Billion-Equity-Capital-Raise-to-Expand-AI-Infrastructure-and-Compute-2026-b0myAMewCa/default.aspx"
-        },
-        {
-          "title": "AI Agent Guidelines for CS336 at Stanford",
-          "summary": "Latest AI discussion on Hacker News: AI Agent Guidelines for CS336 at Stanford. Points: 452. (Source: Hacker News)",
-          "url": "https://github.com/stanford-cs336/assignment1-basics/blob/main/CLAUDE.md"
-        },
-        {
-          "title": "DuckDuckGo makes its 'no-AI' search engine easier to access as its traffic booms",
-          "summary": "Latest AI discussion on Hacker News: DuckDuckGo makes its 'no-AI' search engine easier to access as its traffic booms. Points: 303. (Source: Hacker News)",
-          "url": "https://techcrunch.com/2026/06/01/duckduckgo-makes-its-no-ai-search-engine-easier-to-access-as-its-traffic-booms/"
-        },
-        {
-          "title": "Florida sues OpenAI and Sam Altman over AI risks",
-          "summary": "Latest AI discussion on Hacker News: Florida sues OpenAI and Sam Altman over AI risks. Points: 248. (Source: Hacker News)",
-          "url": "https://www.politico.com/news/2026/06/01/openai-hit-with-florida-lawsuit-00944215"
         }
       ]
     },
@@ -329,29 +329,29 @@
       "category": "Enterprise & Agentic AI",
       "items": [
         {
-          "title": "When AI Crosses the Line: The Matplotlib Incident",
-          "summary": "Latest AI discussion on Hacker News: When AI Crosses the Line: The Matplotlib Incident. Points: 133. (Source: Hacker News)",
-          "url": "https://members.sigmazero.cc/posts/when-ai-crosses-159174096?postId=when-ai-crosses-159174096"
+          "title": "Different attitudes towards AI in California's university system",
+          "summary": "Latest AI discussion on Hacker News: Different attitudes towards AI in California's university system. Points: 106. (Source: Hacker News)",
+          "url": "https://www.nytimes.com/2026/06/01/magazine/ai-university-college-california.html"
         },
         {
-          "title": "The Speed of Prototyping in the Age of AI",
-          "summary": "Latest AI discussion on Hacker News: The Speed of Prototyping in the Age of AI. Points: 195. (Source: Hacker News)",
-          "url": "https://darylcecile.net/notes/speed-of-prototyping-age-of-ai"
+          "title": "Alphabet announces $80B equity capital raise to expand AI infra and compute",
+          "summary": "Latest AI discussion on Hacker News: Alphabet announces $80B equity capital raise to expand AI infra and compute. Points: 251. (Source: Hacker News)",
+          "url": "https://abc.xyz/investor/news/news-details/2026/Alphabet-Announces-Proposed-80-Billion-Equity-Capital-Raise-to-Expand-AI-Infrastructure-and-Compute-2026-b0myAMewCa/default.aspx"
         },
         {
-          "title": "Odysseus – self-hosted AI workspace",
-          "summary": "Latest AI discussion on Hacker News: Odysseus – self-hosted AI workspace. Points: 220. (Source: Hacker News)",
-          "url": "https://github.com/pewdiepie-archdaemon/odysseus"
+          "title": "AI Agent Guidelines for CS336 at Stanford",
+          "summary": "Latest AI discussion on Hacker News: AI Agent Guidelines for CS336 at Stanford. Points: 497. (Source: Hacker News)",
+          "url": "https://github.com/stanford-cs336/assignment1-basics/blob/main/CLAUDE.md"
         },
         {
-          "title": "The solution might be cancelling my AI subscription",
-          "summary": "Latest AI discussion on Hacker News: The solution might be cancelling my AI subscription. Points: 381. (Source: Hacker News)",
-          "url": "https://thoughts.hmmz.org/2026-05-31.html"
+          "title": "DuckDuckGo makes its 'no-AI' search engine easier to access as its traffic booms",
+          "summary": "Latest AI discussion on Hacker News: DuckDuckGo makes its 'no-AI' search engine easier to access as its traffic booms. Points: 309. (Source: Hacker News)",
+          "url": "https://techcrunch.com/2026/06/01/duckduckgo-makes-its-no-ai-search-engine-easier-to-access-as-its-traffic-booms/"
         },
         {
-          "title": "The people who actually want AI to replace humanity",
-          "summary": "Latest AI discussion on Hacker News: The people who actually want AI to replace humanity. Points: 80. (Source: Hacker News)",
-          "url": "https://www.vox.com/future-perfect/489976/ai-successionism-transhumanism-posthumanism"
+          "title": "Florida sues OpenAI and Sam Altman over AI risks",
+          "summary": "Latest AI discussion on Hacker News: Florida sues OpenAI and Sam Altman over AI risks. Points: 266. (Source: Hacker News)",
+          "url": "https://www.politico.com/news/2026/06/01/openai-hit-with-florida-lawsuit-00944215"
         }
       ]
     },
