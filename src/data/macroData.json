@@ -1,26 +1,26 @@
 {
-  "lastUpdated": "June 4, 2026",
+  "lastUpdated": "June 5, 2026",
   "executiveSummary": [
-    "As of June 4, 2026, the U.S. macroeconomic environment is navigating a complex period of high interest rates and shifting labor market dynamics. With the Fed Funds Rate holding at 3.63% and CPI inflation tracking at 3.78%, the central bank continues its \"higher-for-longer\" stance to anchor inflation expectations. Recent headlines such as \"'The chokepoints now run both ways': JPMorgan says 5 forces are quietly reshaping the US-China balance of power\" suggest that market participants remain hypersensitive to every data print, particularly around corporate earnings and consumer spending resilience.",
-    "The labor market, a key pillar of support, shows 225,000 initial jobless claims, reflecting a relatively stable but cooling employment landscape. Geopolitically, events like \"Broadcom could be headed for one of the worst 1-day destructions in shareholder value ever\" introduce exogenous risks that could disrupt global energy supplies and re-ignite inflationary impulses, keeping the Federal Reserve in a defensive posture as they balance growth against price stability. Analysts are closely watching for any signs of a \"hard landing\" as the effects of previous tightening cycles continue to filter through the real economy."
+    "As of June 5, 2026, the U.S. macroeconomic environment is navigating a complex period of high interest rates and shifting labor market dynamics. With the Fed Funds Rate holding at 3.63% and CPI inflation tracking at 3.78%, the central bank continues its \"higher-for-longer\" stance to anchor inflation expectations. Recent headlines such as \"Anthropic scales its most powerful AI a day after filing to IPO\" suggest that market participants remain hypersensitive to every data print, particularly around corporate earnings and consumer spending resilience.",
+    "The labor market, a key pillar of support, shows 225,000 initial jobless claims, reflecting a relatively stable but cooling employment landscape. Geopolitically, events like \"TransAlta to Buy Colorado Gas Plants in $1 Billion Deal\" introduce exogenous risks that could disrupt global energy supplies and re-ignite inflationary impulses, keeping the Federal Reserve in a defensive posture as they balance growth against price stability. Analysts are closely watching for any signs of a \"hard landing\" as the effects of previous tightening cycles continue to filter through the real economy."
   ],
   "dailyHeadlines": [
     {
-      "title": "'The chokepoints now run both ways': JPMorgan says 5 forces are quietly reshaping the US-China balance of power",
+      "title": "Anthropic scales its most powerful AI a day after filing to IPO",
       "summary": "",
-      "url": "https://finance.yahoo.com/economy/policy/articles/chokepoints-now-run-both-ways-121500757.html",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/anthropic-scales-most-powerful-ai-033300925.html",
       "type": "extreme"
     },
     {
-      "title": "Broadcom could be headed for one of the worst 1-day destructions in shareholder value ever",
+      "title": "TransAlta to Buy Colorado Gas Plants in $1 Billion Deal",
       "summary": "",
-      "url": "https://finance.yahoo.com/markets/stocks/article/broadcom-could-be-headed-for-one-of-the-worst-1-day-destructions-in-shareholder-value-ever-121457875.html",
+      "url": "https://finance.yahoo.com/sectors/energy/articles/transalta-buy-colorado-gas-plants-013200802.html",
       "type": "warning"
     },
     {
-      "title": "Stock Market Today: Dow Rises, Nasdaq Falls With Jobless Data Due; Broadcom, CrowdStrike Plunge (Live Coverage)",
+      "title": "Is Cintas Stock Underperforming the S&amp;P 500?",
       "summary": "",
-      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-broadcom-avgo-crowdstrike-crwd/?src=A00220&amp;yptr=yahoo",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/cintas-stock-underperforming-p-500-011514876.html",
       "type": "info"
     }
   ],
@@ -39,19 +39,19 @@
     },
     {
       "title": "10Y - 2Y Spread",
-      "value": "0.41%",
+      "value": "0.42%",
       "status": "Steepening - slower growth",
       "type": "warning"
     },
     {
       "title": "10Y Treasury Rate",
-      "value": "4.46%",
+      "value": "4.49%",
       "status": "High - energy-driven inflation",
       "type": "warning"
     },
     {
       "title": "2Y Treasury Rate",
-      "value": "4.05%",
+      "value": "4.08%",
       "status": "Elevated - higher-for-longer stance",
       "type": "warning"
     },
@@ -299,29 +299,29 @@
       "category": "Frontier Model Race & Breakthroughs",
       "items": [
         {
-          "title": "Failing grades soar with AI usage, dwindling math skills in Berkeley CS classes",
-          "summary": "Latest AI discussion on Hacker News: Failing grades soar with AI usage, dwindling math skills in Berkeley CS classes. Points: 440. (Source: Hacker News)",
-          "url": "https://www.dailycal.org/news/campus/academics/failing-grades-soar-as-professors-see-greater-ai-usage-dwindling-math-skills-in-uc-berkeley/article_16fad0bf-02cb-4b8c-8d88-888ffd9f8608.html"
+          "title": "The Pentagon is running an AI propaganda mill targeting Latin America",
+          "summary": "Latest AI discussion on Hacker News: The Pentagon is running an AI propaganda mill targeting Latin America. Points: 73. (Source: Hacker News)",
+          "url": "https://theintercept.com/2026/06/02/la-tilde-propaganda-latin-america-pentagon/"
         },
         {
-          "title": "If AI data centers are so great, why are they being built in secret?",
-          "summary": "Latest AI discussion on Hacker News: If AI data centers are so great, why are they being built in secret?. Points: 84. (Source: Hacker News)",
-          "url": "https://www.thebrockovichreport.com/p/if-data-centers-are-so-great-why"
+          "title": "Open Code Review – An AI-powered code review CLI tool",
+          "summary": "Latest AI discussion on Hacker News: Open Code Review – An AI-powered code review CLI tool. Points: 203. (Source: Hacker News)",
+          "url": "https://github.com/alibaba/open-code-review"
         },
         {
-          "title": "32GB of DDR5 now costs $375 – AI shortage continues to squeeze PC building",
-          "summary": "Latest AI discussion on Hacker News: 32GB of DDR5 now costs $375 – AI shortage continues to squeeze PC building. Points: 410. (Source: Hacker News)",
-          "url": "https://www.tomshardware.com/pc-components/ddr5/32gb-of-ddr5-now-costs-usd375-minimum-ai-shortage-continues-to-squeeze-pc-building"
+          "title": "South Korean Forums Will Need to Scan Every Images with AI Censorship Tools",
+          "summary": "Latest AI discussion on Hacker News: South Korean Forums Will Need to Scan Every Images with AI Censorship Tools. Points: 142. (Source: Hacker News)",
+          "url": "https://discuss.privacyguides.net/t/south-korean-online-communities-will-need-to-scan-every-images-with-ai-censorship-tools/38341"
         },
         {
-          "title": "Uber's $1,500/month AI limit is a useful signal for AI tool pricing",
-          "summary": "Latest AI discussion on Hacker News: Uber's $1,500/month AI limit is a useful signal for AI tool pricing. Points: 520. (Source: Hacker News)",
-          "url": "https://simonwillison.net/2026/Jun/3/uber-caps-usage/"
+          "title": "Anthropic's open-source framework for AI-powered vulnerability discovery",
+          "summary": "Latest AI discussion on Hacker News: Anthropic's open-source framework for AI-powered vulnerability discovery. Points: 455. (Source: Hacker News)",
+          "url": "https://github.com/anthropics/defending-code-reference-harness"
         },
         {
-          "title": "Mathematicians issue warning as AI rapidly gains ground",
-          "summary": "Latest AI discussion on Hacker News: Mathematicians issue warning as AI rapidly gains ground. Points: 259. (Source: Hacker News)",
-          "url": "https://www.science.org/content/article/mathematicians-issue-warning-ai-rapidly-gains-ground"
+          "title": "When AI Builds Itself: Our progress toward recursive self-improvement",
+          "summary": "Latest AI discussion on Hacker News: When AI Builds Itself: Our progress toward recursive self-improvement. Points: 470. (Source: Hacker News)",
+          "url": "https://www.anthropic.com/institute/recursive-self-improvement"
         }
       ]
     },
@@ -329,29 +329,29 @@
       "category": "Enterprise & Agentic AI",
       "items": [
         {
-          "title": "U of T researchers demonstrate AI worm could target any online device",
-          "summary": "Latest AI discussion on Hacker News: U of T researchers demonstrate AI worm could target any online device. Points: 141. (Source: Hacker News)",
-          "url": "https://www.utoronto.ca/news/u-t-researchers-demonstrate-ai-worm-could-target-any-online-device"
+          "title": "Google employees internally share memes about how its AI sucks",
+          "summary": "Latest AI discussion on Hacker News: Google employees internally share memes about how its AI sucks. Points: 162. (Source: Hacker News)",
+          "url": "https://www.404media.co/google-employees-internally-share-memes-about-how-its-ai-sucks/"
         },
         {
-          "title": "AI outperforms law professors in Stanford Law study",
-          "summary": "Latest AI discussion on Hacker News: AI outperforms law professors in Stanford Law study. Points: 404. (Source: Hacker News)",
-          "url": "https://law.stanford.edu/press/ai-outperforms-law-professors-in-stanford-law-study/"
+          "title": "AI, Ashby Engineering, and the future",
+          "summary": "Latest AI discussion on Hacker News: AI, Ashby Engineering, and the future. Points: 59. (Source: Hacker News)",
+          "url": "https://www.ashbyhq.com/blog/engineering/ai-ashby-engineering-and-the-future"
         },
         {
-          "title": "Microsoft announces Scout, an autonomous AI agent built on OpenClaw",
-          "summary": "Latest AI discussion on Hacker News: Microsoft announces Scout, an autonomous AI agent built on OpenClaw. Points: 94. (Source: Hacker News)",
-          "url": "https://www.computerworld.com/article/4180103/microsoft-unveils-scout-an-autonomous-ai-agent-built-on-openclaw.html"
+          "title": "Failing grades soar with AI usage, dwindling math skills in Berkeley CS classes",
+          "summary": "Latest AI discussion on Hacker News: Failing grades soar with AI usage, dwindling math skills in Berkeley CS classes. Points: 782. (Source: Hacker News)",
+          "url": "https://www.dailycal.org/news/campus/academics/failing-grades-soar-as-professors-see-greater-ai-usage-dwindling-math-skills-in-uc-berkeley/article_16fad0bf-02cb-4b8c-8d88-888ffd9f8608.html"
         },
         {
-          "title": "Trump signs downsized AI order after weeks of reversals",
-          "summary": "Latest AI discussion on Hacker News: Trump signs downsized AI order after weeks of reversals. Points: 235. (Source: Hacker News)",
-          "url": "https://www.politico.com/news/2026/06/02/trump-signs-downsized-ai-order-00946389"
+          "title": "If AI data centers are so great, why are they being built in secret?",
+          "summary": "Latest AI discussion on Hacker News: If AI data centers are so great, why are they being built in secret?. Points: 89. (Source: Hacker News)",
+          "url": "https://www.thebrockovichreport.com/p/if-data-centers-are-so-great-why"
         },
         {
-          "title": "Americans don't know how to fight AI so they're fighting data centers",
-          "summary": "Latest AI discussion on Hacker News: Americans don't know how to fight AI so they're fighting data centers. Points: 121. (Source: Hacker News)",
-          "url": "https://www.vox.com/future-perfect/490350/data-center-moratoria-ai-backlash"
+          "title": "32GB of DDR5 now costs $375 – AI shortage continues to squeeze PC building",
+          "summary": "Latest AI discussion on Hacker News: 32GB of DDR5 now costs $375 – AI shortage continues to squeeze PC building. Points: 427. (Source: Hacker News)",
+          "url": "https://www.tomshardware.com/pc-components/ddr5/32gb-of-ddr5-now-costs-usd375-minimum-ai-shortage-continues-to-squeeze-pc-building"
         }
       ]
     },
