@@ -1,26 +1,26 @@
 {
-  "lastUpdated": "June 5, 2026",
+  "lastUpdated": "June 6, 2026",
   "executiveSummary": [
-    "As of June 5, 2026, the U.S. macroeconomic environment is navigating a complex period of high interest rates and shifting labor market dynamics. With the Fed Funds Rate holding at 3.63% and CPI inflation tracking at 3.78%, the central bank continues its \"higher-for-longer\" stance to anchor inflation expectations. Recent headlines such as \"Anthropic scales its most powerful AI a day after filing to IPO\" suggest that market participants remain hypersensitive to every data print, particularly around corporate earnings and consumer spending resilience.",
-    "The labor market, a key pillar of support, shows 225,000 initial jobless claims, reflecting a relatively stable but cooling employment landscape. Geopolitically, events like \"TransAlta to Buy Colorado Gas Plants in $1 Billion Deal\" introduce exogenous risks that could disrupt global energy supplies and re-ignite inflationary impulses, keeping the Federal Reserve in a defensive posture as they balance growth against price stability. Analysts are closely watching for any signs of a \"hard landing\" as the effects of previous tightening cycles continue to filter through the real economy."
+    "As of June 6, 2026, the U.S. macroeconomic environment is navigating a complex period of high interest rates and shifting labor market dynamics. With the Fed Funds Rate holding at 3.63% and CPI inflation tracking at 3.78%, the central bank continues its \"higher-for-longer\" stance to anchor inflation expectations. Recent headlines such as \"Is Block, Inc. Stock Underperforming the S&amp;P 500?\" suggest that market participants remain hypersensitive to every data print, particularly around corporate earnings and consumer spending resilience.",
+    "The labor market, a key pillar of support, shows 225,000 initial jobless claims, reflecting a relatively stable but cooling employment landscape. Geopolitically, events like \"5 AI Stocks to Own for the Inference Age\" introduce exogenous risks that could disrupt global energy supplies and re-ignite inflationary impulses, keeping the Federal Reserve in a defensive posture as they balance growth against price stability. Analysts are closely watching for any signs of a \"hard landing\" as the effects of previous tightening cycles continue to filter through the real economy."
   ],
   "dailyHeadlines": [
     {
-      "title": "Anthropic scales its most powerful AI a day after filing to IPO",
+      "title": "Is Block, Inc. Stock Underperforming the S&amp;P 500?",
       "summary": "",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/anthropic-scales-most-powerful-ai-033300925.html",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/block-inc-stock-underperforming-p-095812581.html",
       "type": "extreme"
     },
     {
-      "title": "TransAlta to Buy Colorado Gas Plants in $1 Billion Deal",
+      "title": "5 AI Stocks to Own for the Inference Age",
       "summary": "",
-      "url": "https://finance.yahoo.com/sectors/energy/articles/transalta-buy-colorado-gas-plants-013200802.html",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/5-ai-stocks-own-inference-094100148.html",
       "type": "warning"
     },
     {
-      "title": "Is Cintas Stock Underperforming the S&amp;P 500?",
+      "title": "Captive equity boom rewrites rules for Europe's CLO and leveraged loan markets",
       "summary": "",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/cintas-stock-underperforming-p-500-011514876.html",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/captive-equity-boom-rewrites-rules-093813223.html",
       "type": "info"
     }
   ],
@@ -39,19 +39,19 @@
     },
     {
       "title": "10Y - 2Y Spread",
-      "value": "0.42%",
+      "value": "0.38%",
       "status": "Steepening - slower growth",
       "type": "warning"
     },
     {
       "title": "10Y Treasury Rate",
-      "value": "4.49%",
+      "value": "4.47%",
       "status": "High - energy-driven inflation",
       "type": "warning"
     },
     {
       "title": "2Y Treasury Rate",
-      "value": "4.08%",
+      "value": "4.05%",
       "status": "Elevated - higher-for-longer stance",
       "type": "warning"
     },
@@ -299,29 +299,29 @@
       "category": "Frontier Model Race & Breakthroughs",
       "items": [
         {
+          "title": "Ask HN: Why is the HN crowd so anti-AI?",
+          "summary": "Latest AI discussion on Hacker News: Ask HN: Why is the HN crowd so anti-AI?. Points: 183. (Source: Hacker News)",
+          "url": "https://news.ycombinator.com/item?id=48420827"
+        },
+        {
+          "title": "Hacker News, Sans AI",
+          "summary": "Latest AI discussion on Hacker News: Hacker News, Sans AI. Points: 169. (Source: Hacker News)",
+          "url": "https://elijahpotter.dev/articles/hacker-news-sans-AI"
+        },
+        {
+          "title": "Ask HN: What is your (AI) dev tech stack / workflow?",
+          "summary": "Latest AI discussion on Hacker News: Ask HN: What is your (AI) dev tech stack / workflow?. Points: 139. (Source: Hacker News)",
+          "url": "https://news.ycombinator.com/item?id=48413629"
+        },
+        {
+          "title": "Astronauts told to return to ISS after sheltering over air leak repairs",
+          "summary": "Latest AI discussion on Hacker News: Astronauts told to return to ISS after sheltering over air leak repairs. Points: 402. (Source: Hacker News)",
+          "url": "https://www.bbc.com/news/live/c4g44ew3g1kt"
+        },
+        {
           "title": "The Pentagon is running an AI propaganda mill targeting Latin America",
-          "summary": "Latest AI discussion on Hacker News: The Pentagon is running an AI propaganda mill targeting Latin America. Points: 73. (Source: Hacker News)",
+          "summary": "Latest AI discussion on Hacker News: The Pentagon is running an AI propaganda mill targeting Latin America. Points: 116. (Source: Hacker News)",
           "url": "https://theintercept.com/2026/06/02/la-tilde-propaganda-latin-america-pentagon/"
-        },
-        {
-          "title": "Open Code Review – An AI-powered code review CLI tool",
-          "summary": "Latest AI discussion on Hacker News: Open Code Review – An AI-powered code review CLI tool. Points: 203. (Source: Hacker News)",
-          "url": "https://github.com/alibaba/open-code-review"
-        },
-        {
-          "title": "South Korean Forums Will Need to Scan Every Images with AI Censorship Tools",
-          "summary": "Latest AI discussion on Hacker News: South Korean Forums Will Need to Scan Every Images with AI Censorship Tools. Points: 142. (Source: Hacker News)",
-          "url": "https://discuss.privacyguides.net/t/south-korean-online-communities-will-need-to-scan-every-images-with-ai-censorship-tools/38341"
-        },
-        {
-          "title": "Anthropic's open-source framework for AI-powered vulnerability discovery",
-          "summary": "Latest AI discussion on Hacker News: Anthropic's open-source framework for AI-powered vulnerability discovery. Points: 455. (Source: Hacker News)",
-          "url": "https://github.com/anthropics/defending-code-reference-harness"
-        },
-        {
-          "title": "When AI Builds Itself: Our progress toward recursive self-improvement",
-          "summary": "Latest AI discussion on Hacker News: When AI Builds Itself: Our progress toward recursive self-improvement. Points: 470. (Source: Hacker News)",
-          "url": "https://www.anthropic.com/institute/recursive-self-improvement"
         }
       ]
     },
@@ -329,29 +329,29 @@
       "category": "Enterprise & Agentic AI",
       "items": [
         {
+          "title": "Open Code Review – An AI-powered code review CLI tool",
+          "summary": "Latest AI discussion on Hacker News: Open Code Review – An AI-powered code review CLI tool. Points: 267. (Source: Hacker News)",
+          "url": "https://github.com/alibaba/open-code-review"
+        },
+        {
+          "title": "South Korean forums will need to scan every images with AI censorship tools",
+          "summary": "Latest AI discussion on Hacker News: South Korean forums will need to scan every images with AI censorship tools. Points: 247. (Source: Hacker News)",
+          "url": "https://discuss.privacyguides.net/t/south-korean-online-communities-will-need-to-scan-every-images-with-ai-censorship-tools/38341"
+        },
+        {
+          "title": "Anthropic's open-source framework for AI-powered vulnerability discovery",
+          "summary": "Latest AI discussion on Hacker News: Anthropic's open-source framework for AI-powered vulnerability discovery. Points: 523. (Source: Hacker News)",
+          "url": "https://github.com/anthropics/defending-code-reference-harness"
+        },
+        {
+          "title": "When AI Builds Itself: Our progress toward recursive self-improvement",
+          "summary": "Latest AI discussion on Hacker News: When AI Builds Itself: Our progress toward recursive self-improvement. Points: 511. (Source: Hacker News)",
+          "url": "https://www.anthropic.com/institute/recursive-self-improvement"
+        },
+        {
           "title": "Google employees internally share memes about how its AI sucks",
-          "summary": "Latest AI discussion on Hacker News: Google employees internally share memes about how its AI sucks. Points: 162. (Source: Hacker News)",
+          "summary": "Latest AI discussion on Hacker News: Google employees internally share memes about how its AI sucks. Points: 167. (Source: Hacker News)",
           "url": "https://www.404media.co/google-employees-internally-share-memes-about-how-its-ai-sucks/"
-        },
-        {
-          "title": "AI, Ashby Engineering, and the future",
-          "summary": "Latest AI discussion on Hacker News: AI, Ashby Engineering, and the future. Points: 59. (Source: Hacker News)",
-          "url": "https://www.ashbyhq.com/blog/engineering/ai-ashby-engineering-and-the-future"
-        },
-        {
-          "title": "Failing grades soar with AI usage, dwindling math skills in Berkeley CS classes",
-          "summary": "Latest AI discussion on Hacker News: Failing grades soar with AI usage, dwindling math skills in Berkeley CS classes. Points: 782. (Source: Hacker News)",
-          "url": "https://www.dailycal.org/news/campus/academics/failing-grades-soar-as-professors-see-greater-ai-usage-dwindling-math-skills-in-uc-berkeley/article_16fad0bf-02cb-4b8c-8d88-888ffd9f8608.html"
-        },
-        {
-          "title": "If AI data centers are so great, why are they being built in secret?",
-          "summary": "Latest AI discussion on Hacker News: If AI data centers are so great, why are they being built in secret?. Points: 89. (Source: Hacker News)",
-          "url": "https://www.thebrockovichreport.com/p/if-data-centers-are-so-great-why"
-        },
-        {
-          "title": "32GB of DDR5 now costs $375 – AI shortage continues to squeeze PC building",
-          "summary": "Latest AI discussion on Hacker News: 32GB of DDR5 now costs $375 – AI shortage continues to squeeze PC building. Points: 427. (Source: Hacker News)",
-          "url": "https://www.tomshardware.com/pc-components/ddr5/32gb-of-ddr5-now-costs-usd375-minimum-ai-shortage-continues-to-squeeze-pc-building"
         }
       ]
     },
