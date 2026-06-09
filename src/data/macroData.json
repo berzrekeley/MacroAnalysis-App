@@ -1,26 +1,26 @@
 {
-  "lastUpdated": "June 8, 2026",
+  "lastUpdated": "June 9, 2026",
   "executiveSummary": [
-    "As of June 8, 2026, the U.S. macroeconomic environment is navigating a complex period of high interest rates and shifting labor market dynamics. With the Fed Funds Rate holding at 3.63% and CPI inflation tracking at 3.78%, the central bank continues its \"higher-for-longer\" stance to anchor inflation expectations. Recent headlines such as \"“Taking back control” – will Rémy Cointreau’s plans pay off?\" suggest that market participants remain hypersensitive to every data print, particularly around corporate earnings and consumer spending resilience.",
-    "The labor market, a key pillar of support, shows 225,000 initial jobless claims, reflecting a relatively stable but cooling employment landscape. Geopolitically, events like \"Stock Market Today: Dow Rallies On Trump, Iran Comments; Marvell Pops On S&amp;P 500 Addition(Live Coverage)\" introduce exogenous risks that could disrupt global energy supplies and re-ignite inflationary impulses, keeping the Federal Reserve in a defensive posture as they balance growth against price stability. Analysts are closely watching for any signs of a \"hard landing\" as the effects of previous tightening cycles continue to filter through the real economy."
+    "As of June 9, 2026, the U.S. macroeconomic environment is navigating a complex period of high interest rates and shifting labor market dynamics. With the Fed Funds Rate holding at 3.63% and CPI inflation tracking at 3.78%, the central bank continues its \"higher-for-longer\" stance to anchor inflation expectations. Recent headlines such as \"Billionaire Ray Dalio Just Warned of an AI Bubble, but His Top Stock Holdings Are in These 6 AI Names\" suggest that market participants remain hypersensitive to every data print, particularly around corporate earnings and consumer spending resilience.",
+    "The labor market, a key pillar of support, shows 225,000 initial jobless claims, reflecting a relatively stable but cooling employment landscape. Geopolitically, events like \"SpaceX, Google compute deal raises eyebrows ahead of IPO\" introduce exogenous risks that could disrupt global energy supplies and re-ignite inflationary impulses, keeping the Federal Reserve in a defensive posture as they balance growth against price stability. Analysts are closely watching for any signs of a \"hard landing\" as the effects of previous tightening cycles continue to filter through the real economy."
   ],
   "dailyHeadlines": [
     {
-      "title": "“Taking back control” – will Rémy Cointreau’s plans pay off?",
+      "title": "Billionaire Ray Dalio Just Warned of an AI Bubble, but His Top Stock Holdings Are in These 6 AI Names",
       "summary": "",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/taking-back-control-r-cointreau-135027261.html",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/billionaire-ray-dalio-just-warned-122000477.html",
       "type": "extreme"
     },
     {
-      "title": "Stock Market Today: Dow Rallies On Trump, Iran Comments; Marvell Pops On S&amp;P 500 Addition(Live Coverage)",
+      "title": "SpaceX, Google compute deal raises eyebrows ahead of IPO",
       "summary": "",
-      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-trump-iran-marvell-stock-mrvl/?src=A00220&amp;yptr=yahoo",
+      "url": "https://finance.yahoo.com/markets/stocks/article/spacex-google-compute-deal-raises-eyebrows-ahead-of-ipo-120522033.html",
       "type": "warning"
     },
     {
-      "title": "Argosy Investors Chose Fomento Económico Mexicano, S.A.B. de C.V. (FMX) for Growth and Income Stability",
+      "title": "Finfluencers call it a 'no brainer' to grab Social Security right at 62, despite the penalties — many experts disagree",
       "summary": "",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/argosy-investors-chose-fomento-econ-134532459.html",
+      "url": "https://finance.yahoo.com/economy/policy/articles/finfluencers-call-no-brainer-grab-120500040.html",
       "type": "info"
     }
   ],
@@ -39,19 +39,19 @@
     },
     {
       "title": "10Y - 2Y Spread",
-      "value": "0.38%",
+      "value": "0.41%",
       "status": "Steepening - slower growth",
       "type": "warning"
     },
     {
       "title": "10Y Treasury Rate",
-      "value": "4.47%",
+      "value": "4.55%",
       "status": "High - energy-driven inflation",
       "type": "warning"
     },
     {
       "title": "2Y Treasury Rate",
-      "value": "4.05%",
+      "value": "4.17%",
       "status": "Elevated - higher-for-longer stance",
       "type": "warning"
     },
@@ -299,29 +299,29 @@
       "category": "Frontier Model Race & Breakthroughs",
       "items": [
         {
-          "title": "SDSU Wired Its Dorms with 1,300 AI Cameras Without Telling Students",
-          "summary": "Latest AI discussion on Hacker News: SDSU Wired Its Dorms with 1,300 AI Cameras Without Telling Students. Points: 47. (Source: Hacker News)",
-          "url": "https://reclaimthenet.org/sdsu-adds-1300-ai-cameras-330-in-student-dorms"
+          "title": "Microsoft's open source tools were hacked to steal passwords of AI developers",
+          "summary": "Latest AI discussion on Hacker News: Microsoft's open source tools were hacked to steal passwords of AI developers. Points: 267. (Source: Hacker News)",
+          "url": "https://techcrunch.com/2026/06/08/microsofts-open-source-tools-were-hacked-to-steal-passwords-of-ai-developers/"
         },
         {
-          "title": "Show HN: Nightwatch, The open-source, read-only AI SRE",
-          "summary": "Latest AI discussion on Hacker News: Show HN: Nightwatch, The open-source, read-only AI SRE. Points: 25. (Source: Hacker News)",
-          "url": "https://github.com/ninoxAI/nightwatch"
+          "title": "Show HN: Command Center, the AI coding env for people who care about quality",
+          "summary": "Latest AI discussion on Hacker News: Show HN: Command Center, the AI coding env for people who care about quality. Points: 52. (Source: Hacker News)",
+          "url": "https://www.cc.dev/"
         },
         {
-          "title": "Billions spent and hypothetical returns: the AI boom explained with six charts",
-          "summary": "Latest AI discussion on Hacker News: Billions spent and hypothetical returns: the AI boom explained with six charts. Points: 28. (Source: Hacker News)",
-          "url": "https://www.theguardian.com/technology/2026/jun/07/billions-spent-hypothetical-returns-the-ai-boom-explained-with-six-charts"
+          "title": "Apple bets cheaper AI will woo small developers",
+          "summary": "Latest AI discussion on Hacker News: Apple bets cheaper AI will woo small developers. Points: 72. (Source: Hacker News)",
+          "url": "https://techcrunch.com/2026/06/08/apple-bets-cheaper-ai-will-woo-small-developers/"
         },
         {
-          "title": "Iran Severely Damaged US Air Ops Center in Qatar Soon After War Began",
-          "summary": "Latest AI discussion on Hacker News: Iran Severely Damaged US Air Ops Center in Qatar Soon After War Began. Points: 53. (Source: Hacker News)",
-          "url": "https://www.airandspaceforces.com/us-air-operations-center-qatar-severely-damaged-iran/"
+          "title": "Apple reveals new AI architecture built around Google Gemini models",
+          "summary": "Latest AI discussion on Hacker News: Apple reveals new AI architecture built around Google Gemini models. Points: 631. (Source: Hacker News)",
+          "url": "https://www.macrumors.com/2026/06/08/apple-reveals-new-ai-architecture/"
         },
         {
-          "title": "The OnlyFans Economy of American AI",
-          "summary": "Latest AI discussion on Hacker News: The OnlyFans Economy of American AI. Points: 143. (Source: Hacker News)",
-          "url": "https://leoveanu.com/2026-06-06-qwen3.7max/"
+          "title": "Apple Core AI Framework",
+          "summary": "Latest AI discussion on Hacker News: Apple Core AI Framework. Points: 317. (Source: Hacker News)",
+          "url": "https://developer.apple.com/documentation/coreai/"
         }
       ]
     },
@@ -329,29 +329,29 @@
       "category": "Enterprise & Agentic AI",
       "items": [
         {
-          "title": "Automated QA and Testing with AI",
-          "summary": "Latest AI discussion on Hacker News: Automated QA and Testing with AI. Points: 36. (Source: Hacker News)",
-          "url": "https://antirez.com/news/168"
+          "title": "Ask HN: What are tools you have made for yourself since the advent of AI?",
+          "summary": "Latest AI discussion on Hacker News: Ask HN: What are tools you have made for yourself since the advent of AI?. Points: 342. (Source: Hacker News)",
+          "url": "https://news.ycombinator.com/item?id=48449187"
         },
         {
-          "title": "Why Aren't We Measuring How AI Affects Humans?",
-          "summary": "Latest AI discussion on Hacker News: Why Aren't We Measuring How AI Affects Humans?. Points: 27. (Source: Hacker News)",
-          "url": "https://spectrum.ieee.org/measuring-ai-societal-impact-khan"
+          "title": "Siri AI",
+          "summary": "Latest AI discussion on Hacker News: Siri AI. Points: 609. (Source: Hacker News)",
+          "url": "https://www.apple.com/apple-intelligence/"
         },
         {
-          "title": "Meta confirms 1000s of Instagram accounts were hacked by abusing its AI chatbot",
-          "summary": "Latest AI discussion on Hacker News: Meta confirms 1000s of Instagram accounts were hacked by abusing its AI chatbot. Points: 701. (Source: Hacker News)",
-          "url": "https://this.weekinsecurity.com/meta-confirms-thousands-of-instagram-accounts-were-hacked-by-abusing-its-ai-chatbot/"
+          "title": "AI is slowing down",
+          "summary": "Latest AI discussion on Hacker News: AI is slowing down. Points: 589. (Source: Hacker News)",
+          "url": "https://www.wheresyoured.at/ai-is-slowing-down/"
         },
         {
-          "title": "Law Professors Prefer AI over Peer Answers",
-          "summary": "Latest AI discussion on Hacker News: Law Professors Prefer AI over Peer Answers. Points: 28. (Source: Hacker News)",
-          "url": "https://law.stanford.edu/publications/law-professors-prefer-ai-over-peer-answers/"
+          "title": "Iran Severely Damaged US Air Ops Center in Qatar Soon After War Began",
+          "summary": "Latest AI discussion on Hacker News: Iran Severely Damaged US Air Ops Center in Qatar Soon After War Began. Points: 56. (Source: Hacker News)",
+          "url": "https://www.airandspaceforces.com/us-air-operations-center-qatar-severely-damaged-iran/"
         },
         {
-          "title": "Police in England and Wales told to halt AI use in court statements",
-          "summary": "Latest AI discussion on Hacker News: Police in England and Wales told to halt AI use in court statements. Points: 155. (Source: Hacker News)",
-          "url": "https://www.ft.com/content/229e5949-3ebc-4151-8a86-a01b5e259241"
+          "title": "The OnlyFans Economy of American AI",
+          "summary": "Latest AI discussion on Hacker News: The OnlyFans Economy of American AI. Points: 144. (Source: Hacker News)",
+          "url": "https://leoveanu.com/2026-06-06-qwen3.7max/"
         }
       ]
     },
