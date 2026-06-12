@@ -1,26 +1,26 @@
 {
-  "lastUpdated": "June 11, 2026",
+  "lastUpdated": "June 12, 2026",
   "executiveSummary": [
-    "As of June 11, 2026, the U.S. macroeconomic environment is navigating a complex period of high interest rates and shifting labor market dynamics. With the Fed Funds Rate holding at 3.63% and CPI inflation tracking at 4.17%, the central bank continues its \"higher-for-longer\" stance to anchor inflation expectations. Recent headlines such as \"Americans are having kids later — and child-rearing costs are colliding with retirement savings\" suggest that market participants remain hypersensitive to every data print, particularly around corporate earnings and consumer spending resilience.",
-    "The labor market, a key pillar of support, shows 229,000 initial jobless claims, reflecting a relatively stable but cooling employment landscape. Geopolitically, events like \"This 2x Super Micro ETF Just Soared 175% in One Month. The YTD Number Is Wilder.\" introduce exogenous risks that could disrupt global energy supplies and re-ignite inflationary impulses, keeping the Federal Reserve in a defensive posture as they balance growth against price stability. Analysts are closely watching for any signs of a \"hard landing\" as the effects of previous tightening cycles continue to filter through the real economy."
+    "As of June 12, 2026, the U.S. macroeconomic environment is navigating a complex period of high interest rates and shifting labor market dynamics. With the Fed Funds Rate holding at 3.63% and CPI inflation tracking at 4.17%, the central bank continues its \"higher-for-longer\" stance to anchor inflation expectations. Recent headlines such as \"Daily Spotlight: Argus Adjusts Sector Ratings\" suggest that market participants remain hypersensitive to every data print, particularly around corporate earnings and consumer spending resilience.",
+    "The labor market, a key pillar of support, shows 229,000 initial jobless claims, reflecting a relatively stable but cooling employment landscape. Geopolitically, events like \"Equinix Inc (EQIX) Added to Citi’s Focus List. Here’s What That Means\" introduce exogenous risks that could disrupt global energy supplies and re-ignite inflationary impulses, keeping the Federal Reserve in a defensive posture as they balance growth against price stability. Analysts are closely watching for any signs of a \"hard landing\" as the effects of previous tightening cycles continue to filter through the real economy."
   ],
   "dailyHeadlines": [
     {
-      "title": "Americans are having kids later — and child-rearing costs are colliding with retirement savings",
+      "title": "Daily Spotlight: Argus Adjusts Sector Ratings",
       "summary": "",
-      "url": "https://finance.yahoo.com/economy/articles/americans-having-kids-later-child-134901427.html",
+      "url": "https://finance.yahoo.com/research/reports/ARGUS_47316_MarketOutlook_1781262787000?yptr=yahoo&amp;ncid=yahooproperties_plusresear_nm5q6ze1cei",
       "type": "extreme"
     },
     {
-      "title": "This 2x Super Micro ETF Just Soared 175% in One Month. The YTD Number Is Wilder.",
+      "title": "Equinix Inc (EQIX) Added to Citi’s Focus List. Here’s What That Means",
       "summary": "",
-      "url": "https://finance.yahoo.com/markets/options/articles/2x-super-micro-etf-just-134514609.html",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/equinix-inc-eqix-added-citi-005830337.html",
       "type": "warning"
     },
     {
-      "title": "The ultra-rich can buy yachts to live ‘nowhere’ — but can it also be a tax strategy? Not for most Americans",
+      "title": "Nvidia Corp (NVDA) Strengthens AI Platform with Micron HBM4",
       "summary": "",
-      "url": "https://finance.yahoo.com/economy/policy/articles/ultra-rich-buy-yachts-live-133500075.html",
+      "url": "https://finance.yahoo.com/sectors/technology/articles/nvidia-corp-nvda-strengthens-ai-005824804.html",
       "type": "info"
     }
   ],
@@ -39,13 +39,13 @@
     },
     {
       "title": "10Y - 2Y Spread",
-      "value": "0.42%",
+      "value": "0.40%",
       "status": "Steepening - slower growth",
       "type": "warning"
     },
     {
       "title": "10Y Treasury Rate",
-      "value": "4.53%",
+      "value": "4.55%",
       "status": "High - energy-driven inflation",
       "type": "warning"
     },
@@ -299,29 +299,29 @@
       "category": "Frontier Model Race & Breakthroughs",
       "items": [
         {
-          "title": "Why AI hasn't replaced software engineers, and won't",
-          "summary": "Latest AI discussion on Hacker News: Why AI hasn't replaced software engineers, and won't. Points: 118. (Source: Hacker News)",
-          "url": "https://www.normaltech.ai/p/why-ai-hasnt-replaced-software-engineers"
+          "title": "AI agent bankrupted their operator while trying to scan DN42",
+          "summary": "Latest AI discussion on Hacker News: AI agent bankrupted their operator while trying to scan DN42. Points: 834. (Source: Hacker News)",
+          "url": "https://lantian.pub/en/article/fun/ai-agent-bankrupted-their-operator-scan-dn42lantian.lantian/"
         },
         {
-          "title": "AI agent runs amok in Fedora and elsewhere",
-          "summary": "Latest AI discussion on Hacker News: AI agent runs amok in Fedora and elsewhere. Points: 477. (Source: Hacker News)",
-          "url": "https://lwn.net/SubscriberLink/1077035/c7e7c14fbd60fae9/"
+          "title": "A jacket that harvests drinking water from the air",
+          "summary": "Latest AI discussion on Hacker News: A jacket that harvests drinking water from the air. Points: 116. (Source: Hacker News)",
+          "url": "https://news.utexas.edu/2026/06/11/this-jacket-pulls-drinking-water-from-thin-air/"
         },
         {
-          "title": "Policy on the AI Exponential",
-          "summary": "Latest AI discussion on Hacker News: Policy on the AI Exponential. Points: 159. (Source: Hacker News)",
-          "url": "https://darioamodei.com/post/policy-on-the-ai-exponential"
+          "title": "Shall we play a game? My AI nuclear simulation",
+          "summary": "Latest AI discussion on Hacker News: Shall we play a game? My AI nuclear simulation. Points: 199. (Source: Hacker News)",
+          "url": "https://www.kennethpayne.uk/p/shall-we-play-a-game"
         },
         {
-          "title": "Apache Burr: Build reliable AI agents and applications",
-          "summary": "Latest AI discussion on Hacker News: Apache Burr: Build reliable AI agents and applications. Points: 233. (Source: Hacker News)",
-          "url": "https://burr.apache.org/"
+          "title": "Ask HN: How do you get into a flow state when using AI to code?",
+          "summary": "Latest AI discussion on Hacker News: Ask HN: How do you get into a flow state when using AI to code?. Points: 87. (Source: Hacker News)",
+          "url": "https://news.ycombinator.com/item?id=48492118"
         },
         {
-          "title": "A €0.01 bank transfer could compromise a banking AI agent",
-          "summary": "Latest AI discussion on Hacker News: A €0.01 bank transfer could compromise a banking AI agent. Points: 193. (Source: Hacker News)",
-          "url": "https://blue41.com/blog/how-we-helped-bunq-secure-their-financial-ai-assistant/"
+          "title": "Workers are spending over 6 hours a week botsitting AI, fueling job frustration",
+          "summary": "Latest AI discussion on Hacker News: Workers are spending over 6 hours a week botsitting AI, fueling job frustration. Points: 271. (Source: Hacker News)",
+          "url": "https://www.businessinsider.com/botsitting-ai-hidden-human-labor-at-work-2026-6"
         }
       ]
     },
@@ -329,29 +329,29 @@
       "category": "Enterprise & Agentic AI",
       "items": [
         {
-          "title": "Rich Sutton on AI creativity and discovery",
-          "summary": "Latest AI discussion on Hacker News: Rich Sutton on AI creativity and discovery. Points: 204. (Source: Hacker News)",
-          "url": "https://twitter.com/RichardSSutton/status/2061216087744946656"
+          "title": "Why AI hasn't replaced software engineers, and won't",
+          "summary": "Latest AI discussion on Hacker News: Why AI hasn't replaced software engineers, and won't. Points: 298. (Source: Hacker News)",
+          "url": "https://www.normaltech.ai/p/why-ai-hasnt-replaced-software-engineers"
         },
         {
-          "title": "German ruling declares Google liable for false answers in AI Overviews",
-          "summary": "Latest AI discussion on Hacker News: German ruling declares Google liable for false answers in AI Overviews. Points: 986. (Source: Hacker News)",
-          "url": "https://the-decoder.com/landmark-german-ruling-declares-googles-ai-overviews-are-googles-own-words-and-makes-it-liable-for-false-answers/"
+          "title": "AI agent runs amok in Fedora and elsewhere",
+          "summary": "Latest AI discussion on Hacker News: AI agent runs amok in Fedora and elsewhere. Points: 546. (Source: Hacker News)",
+          "url": "https://lwn.net/SubscriberLink/1077035/c7e7c14fbd60fae9/"
         },
         {
-          "title": "CEOs who think AI replaces their employees are just bad CEOs",
-          "summary": "Latest AI discussion on Hacker News: CEOs who think AI replaces their employees are just bad CEOs. Points: 824. (Source: Hacker News)",
-          "url": "https://www.techdirt.com/2026/06/09/ceos-who-think-ai-replaces-their-employees-are-just-bad-ceos/"
+          "title": "Policy on the AI Exponential",
+          "summary": "Latest AI discussion on Hacker News: Policy on the AI Exponential. Points: 165. (Source: Hacker News)",
+          "url": "https://darioamodei.com/post/policy-on-the-ai-exponential"
         },
         {
-          "title": "Where is the AI jobs crisis?",
-          "summary": "Latest AI discussion on Hacker News: Where is the AI jobs crisis?. Points: 160. (Source: Hacker News)",
-          "url": "https://www.apollo.com/wealth/the-daily-spark/where-is-the-ai-jobs-crisis"
+          "title": "Apache Burr: Build reliable AI agents and applications",
+          "summary": "Latest AI discussion on Hacker News: Apache Burr: Build reliable AI agents and applications. Points: 243. (Source: Hacker News)",
+          "url": "https://burr.apache.org/"
         },
         {
-          "title": "'Sloppenheimer:' Amazon employees mock the company's AI on Slack",
-          "summary": "Latest AI discussion on Hacker News: 'Sloppenheimer:' Amazon employees mock the company's AI on Slack. Points: 196. (Source: Hacker News)",
-          "url": "https://www.404media.co/sloppenheimer-amazon-employees-mock-the-companys-ai-on-slack/"
+          "title": "A €0.01 bank transfer could compromise a banking AI agent",
+          "summary": "Latest AI discussion on Hacker News: A €0.01 bank transfer could compromise a banking AI agent. Points: 205. (Source: Hacker News)",
+          "url": "https://blue41.com/blog/how-we-helped-bunq-secure-their-financial-ai-assistant/"
         }
       ]
     },
