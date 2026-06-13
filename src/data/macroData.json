@@ -1,26 +1,26 @@
 {
-  "lastUpdated": "June 12, 2026",
+  "lastUpdated": "June 13, 2026",
   "executiveSummary": [
-    "As of June 12, 2026, the U.S. macroeconomic environment is navigating a complex period of high interest rates and shifting labor market dynamics. With the Fed Funds Rate holding at 3.63% and CPI inflation tracking at 4.17%, the central bank continues its \"higher-for-longer\" stance to anchor inflation expectations. Recent headlines such as \"Daily Spotlight: Argus Adjusts Sector Ratings\" suggest that market participants remain hypersensitive to every data print, particularly around corporate earnings and consumer spending resilience.",
-    "The labor market, a key pillar of support, shows 229,000 initial jobless claims, reflecting a relatively stable but cooling employment landscape. Geopolitically, events like \"Equinix Inc (EQIX) Added to Citi’s Focus List. Here’s What That Means\" introduce exogenous risks that could disrupt global energy supplies and re-ignite inflationary impulses, keeping the Federal Reserve in a defensive posture as they balance growth against price stability. Analysts are closely watching for any signs of a \"hard landing\" as the effects of previous tightening cycles continue to filter through the real economy."
+    "As of June 13, 2026, the U.S. macroeconomic environment is navigating a complex period of high interest rates and shifting labor market dynamics. With the Fed Funds Rate holding at 3.63% and CPI inflation tracking at 4.17%, the central bank continues its \"higher-for-longer\" stance to anchor inflation expectations. Recent headlines such as \"Securitize brings tokenized CLO fund to Solana with $250 million backing from Ethena\" suggest that market participants remain hypersensitive to every data print, particularly around corporate earnings and consumer spending resilience.",
+    "The labor market, a key pillar of support, shows 229,000 initial jobless claims, reflecting a relatively stable but cooling employment landscape. Geopolitically, events like \"Is the Commodity Complex the Definition of Insanity Early Friday Morning?\" introduce exogenous risks that could disrupt global energy supplies and re-ignite inflationary impulses, keeping the Federal Reserve in a defensive posture as they balance growth against price stability. Analysts are closely watching for any signs of a \"hard landing\" as the effects of previous tightening cycles continue to filter through the real economy."
   ],
   "dailyHeadlines": [
     {
-      "title": "Daily Spotlight: Argus Adjusts Sector Ratings",
+      "title": "Securitize brings tokenized CLO fund to Solana with $250 million backing from Ethena",
       "summary": "",
-      "url": "https://finance.yahoo.com/research/reports/ARGUS_47316_MarketOutlook_1781262787000?yptr=yahoo&amp;ncid=yahooproperties_plusresear_nm5q6ze1cei",
+      "url": "https://finance.yahoo.com/markets/crypto/articles/securitize-brings-tokenized-clo-fund-194300779.html",
       "type": "extreme"
     },
     {
-      "title": "Equinix Inc (EQIX) Added to Citi’s Focus List. Here’s What That Means",
+      "title": "Is the Commodity Complex the Definition of Insanity Early Friday Morning?",
       "summary": "",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/equinix-inc-eqix-added-citi-005830337.html",
+      "url": "https://finance.yahoo.com/markets/commodities/articles/commodity-complex-definition-insanity-early-100551130.html",
       "type": "warning"
     },
     {
-      "title": "Nvidia Corp (NVDA) Strengthens AI Platform with Micron HBM4",
+      "title": "How Musk's tactics left investors clamoring for SpaceX stock and ignoring risks",
       "summary": "",
-      "url": "https://finance.yahoo.com/sectors/technology/articles/nvidia-corp-nvda-strengthens-ai-005824804.html",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/musks-tactics-left-investors-clamoring-100106217.html",
       "type": "info"
     }
   ],
@@ -39,19 +39,19 @@
     },
     {
       "title": "10Y - 2Y Spread",
-      "value": "0.40%",
+      "value": "0.39%",
       "status": "Steepening - slower growth",
       "type": "warning"
     },
     {
       "title": "10Y Treasury Rate",
-      "value": "4.55%",
+      "value": "4.45%",
       "status": "High - energy-driven inflation",
       "type": "warning"
     },
     {
       "title": "2Y Treasury Rate",
-      "value": "4.13%",
+      "value": "4.05%",
       "status": "Elevated - higher-for-longer stance",
       "type": "warning"
     },
@@ -299,29 +299,29 @@
       "category": "Frontier Model Race & Breakthroughs",
       "items": [
         {
+          "title": "Show HN: Paca – Lightweight Jira alternative for human-AI collaboration",
+          "summary": "Latest AI discussion on Hacker News: Show HN: Paca – Lightweight Jira alternative for human-AI collaboration. Points: 30. (Source: Hacker News)",
+          "url": "https://github.com/Paca-AI/paca"
+        },
+        {
+          "title": "Shepherd's Dog: A Game by the Most Dangerous AI Model",
+          "summary": "Latest AI discussion on Hacker News: Shepherd's Dog: A Game by the Most Dangerous AI Model. Points: 99. (Source: Hacker News)",
+          "url": "https://koenvangilst.nl/lab/claude-fable-shepherds-dog"
+        },
+        {
+          "title": "Open source AI must win",
+          "summary": "Latest AI discussion on Hacker News: Open source AI must win. Points: 1059. (Source: Hacker News)",
+          "url": "https://opensourceaimustwin.com/?share=v2"
+        },
+        {
+          "title": "Slightly reducing the sloppiness of AI generated front end",
+          "summary": "Latest AI discussion on Hacker News: Slightly reducing the sloppiness of AI generated front end. Points: 198. (Source: Hacker News)",
+          "url": "https://envs.net/~volpe/blog/posts/reduce-slop.html"
+        },
+        {
           "title": "AI agent bankrupted their operator while trying to scan DN42",
-          "summary": "Latest AI discussion on Hacker News: AI agent bankrupted their operator while trying to scan DN42. Points: 834. (Source: Hacker News)",
+          "summary": "Latest AI discussion on Hacker News: AI agent bankrupted their operator while trying to scan DN42. Points: 1420. (Source: Hacker News)",
           "url": "https://lantian.pub/en/article/fun/ai-agent-bankrupted-their-operator-scan-dn42lantian.lantian/"
-        },
-        {
-          "title": "A jacket that harvests drinking water from the air",
-          "summary": "Latest AI discussion on Hacker News: A jacket that harvests drinking water from the air. Points: 116. (Source: Hacker News)",
-          "url": "https://news.utexas.edu/2026/06/11/this-jacket-pulls-drinking-water-from-thin-air/"
-        },
-        {
-          "title": "Shall we play a game? My AI nuclear simulation",
-          "summary": "Latest AI discussion on Hacker News: Shall we play a game? My AI nuclear simulation. Points: 199. (Source: Hacker News)",
-          "url": "https://www.kennethpayne.uk/p/shall-we-play-a-game"
-        },
-        {
-          "title": "Ask HN: How do you get into a flow state when using AI to code?",
-          "summary": "Latest AI discussion on Hacker News: Ask HN: How do you get into a flow state when using AI to code?. Points: 87. (Source: Hacker News)",
-          "url": "https://news.ycombinator.com/item?id=48492118"
-        },
-        {
-          "title": "Workers are spending over 6 hours a week botsitting AI, fueling job frustration",
-          "summary": "Latest AI discussion on Hacker News: Workers are spending over 6 hours a week botsitting AI, fueling job frustration. Points: 271. (Source: Hacker News)",
-          "url": "https://www.businessinsider.com/botsitting-ai-hidden-human-labor-at-work-2026-6"
         }
       ]
     },
@@ -329,29 +329,29 @@
       "category": "Enterprise & Agentic AI",
       "items": [
         {
-          "title": "Why AI hasn't replaced software engineers, and won't",
-          "summary": "Latest AI discussion on Hacker News: Why AI hasn't replaced software engineers, and won't. Points: 298. (Source: Hacker News)",
-          "url": "https://www.normaltech.ai/p/why-ai-hasnt-replaced-software-engineers"
+          "title": "A jacket that harvests drinking water from the air",
+          "summary": "Latest AI discussion on Hacker News: A jacket that harvests drinking water from the air. Points: 158. (Source: Hacker News)",
+          "url": "https://news.utexas.edu/2026/06/11/this-jacket-pulls-drinking-water-from-thin-air/"
         },
         {
-          "title": "AI agent runs amok in Fedora and elsewhere",
-          "summary": "Latest AI discussion on Hacker News: AI agent runs amok in Fedora and elsewhere. Points: 546. (Source: Hacker News)",
-          "url": "https://lwn.net/SubscriberLink/1077035/c7e7c14fbd60fae9/"
+          "title": "Shall we play a game? My AI nuclear simulation",
+          "summary": "Latest AI discussion on Hacker News: Shall we play a game? My AI nuclear simulation. Points: 205. (Source: Hacker News)",
+          "url": "https://www.kennethpayne.uk/p/shall-we-play-a-game"
         },
         {
-          "title": "Policy on the AI Exponential",
-          "summary": "Latest AI discussion on Hacker News: Policy on the AI Exponential. Points: 165. (Source: Hacker News)",
-          "url": "https://darioamodei.com/post/policy-on-the-ai-exponential"
+          "title": "Ask HN: How do you get into a flow state when using AI to code?",
+          "summary": "Latest AI discussion on Hacker News: Ask HN: How do you get into a flow state when using AI to code?. Points: 89. (Source: Hacker News)",
+          "url": "https://news.ycombinator.com/item?id=48492118"
         },
         {
-          "title": "Apache Burr: Build reliable AI agents and applications",
-          "summary": "Latest AI discussion on Hacker News: Apache Burr: Build reliable AI agents and applications. Points: 243. (Source: Hacker News)",
-          "url": "https://burr.apache.org/"
+          "title": "Workers are spending over 6 hours a week botsitting AI, fueling job frustration",
+          "summary": "Latest AI discussion on Hacker News: Workers are spending over 6 hours a week botsitting AI, fueling job frustration. Points: 278. (Source: Hacker News)",
+          "url": "https://www.businessinsider.com/botsitting-ai-hidden-human-labor-at-work-2026-6"
         },
         {
-          "title": "A €0.01 bank transfer could compromise a banking AI agent",
-          "summary": "Latest AI discussion on Hacker News: A €0.01 bank transfer could compromise a banking AI agent. Points: 205. (Source: Hacker News)",
-          "url": "https://blue41.com/blog/how-we-helped-bunq-secure-their-financial-ai-assistant/"
+          "title": "More AI-generated code doesn't make your team faster. It might slow you",
+          "summary": "Latest AI discussion on Hacker News: More AI-generated code doesn't make your team faster. It might slow you. Points: 43. (Source: Hacker News)",
+          "url": "https://twitter.com/awscloud/status/2064449711155589396"
         }
       ]
     },
