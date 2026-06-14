@@ -1,26 +1,26 @@
 {
-  "lastUpdated": "June 13, 2026",
+  "lastUpdated": "June 14, 2026",
   "executiveSummary": [
-    "As of June 13, 2026, the U.S. macroeconomic environment is navigating a complex period of high interest rates and shifting labor market dynamics. With the Fed Funds Rate holding at 3.63% and CPI inflation tracking at 4.17%, the central bank continues its \"higher-for-longer\" stance to anchor inflation expectations. Recent headlines such as \"Securitize brings tokenized CLO fund to Solana with $250 million backing from Ethena\" suggest that market participants remain hypersensitive to every data print, particularly around corporate earnings and consumer spending resilience.",
-    "The labor market, a key pillar of support, shows 229,000 initial jobless claims, reflecting a relatively stable but cooling employment landscape. Geopolitically, events like \"Is the Commodity Complex the Definition of Insanity Early Friday Morning?\" introduce exogenous risks that could disrupt global energy supplies and re-ignite inflationary impulses, keeping the Federal Reserve in a defensive posture as they balance growth against price stability. Analysts are closely watching for any signs of a \"hard landing\" as the effects of previous tightening cycles continue to filter through the real economy."
+    "As of June 14, 2026, the U.S. macroeconomic environment is navigating a complex period of high interest rates and shifting labor market dynamics. With the Fed Funds Rate holding at 3.63% and CPI inflation tracking at 4.17%, the central bank continues its \"higher-for-longer\" stance to anchor inflation expectations. Recent headlines such as \"BofA’s Hartnett Warns Bullish Positioning Remains Entrenched Despite 5% Bond Yields\" suggest that market participants remain hypersensitive to every data print, particularly around corporate earnings and consumer spending resilience.",
+    "The labor market, a key pillar of support, shows 229,000 initial jobless claims, reflecting a relatively stable but cooling employment landscape. Geopolitically, events like \"Pfizer (PFE): The Best Longevity Stock to Buy Now\" introduce exogenous risks that could disrupt global energy supplies and re-ignite inflationary impulses, keeping the Federal Reserve in a defensive posture as they balance growth against price stability. Analysts are closely watching for any signs of a \"hard landing\" as the effects of previous tightening cycles continue to filter through the real economy."
   ],
   "dailyHeadlines": [
     {
-      "title": "Securitize brings tokenized CLO fund to Solana with $250 million backing from Ethena",
+      "title": "BofA’s Hartnett Warns Bullish Positioning Remains Entrenched Despite 5% Bond Yields",
       "summary": "",
-      "url": "https://finance.yahoo.com/markets/crypto/articles/securitize-brings-tokenized-clo-fund-194300779.html",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/bofa-hartnett-warns-bullish-positioning-110000962.html",
       "type": "extreme"
     },
     {
-      "title": "Is the Commodity Complex the Definition of Insanity Early Friday Morning?",
+      "title": "Pfizer (PFE): The Best Longevity Stock to Buy Now",
       "summary": "",
-      "url": "https://finance.yahoo.com/markets/commodities/articles/commodity-complex-definition-insanity-early-100551130.html",
+      "url": "https://finance.yahoo.com/sectors/healthcare/articles/pfizer-pfe-best-longevity-stock-104027293.html",
       "type": "warning"
     },
     {
-      "title": "How Musk's tactics left investors clamoring for SpaceX stock and ignoring risks",
+      "title": "Is Abbott (ABT) the Best Longevity Stock to Buy Now?",
       "summary": "",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/musks-tactics-left-investors-clamoring-100106217.html",
+      "url": "https://finance.yahoo.com/sectors/healthcare/articles/abbott-abt-best-longevity-stock-104011723.html",
       "type": "info"
     }
   ],
@@ -299,29 +299,29 @@
       "category": "Frontier Model Race & Breakthroughs",
       "items": [
         {
-          "title": "Show HN: Paca – Lightweight Jira alternative for human-AI collaboration",
-          "summary": "Latest AI discussion on Hacker News: Show HN: Paca – Lightweight Jira alternative for human-AI collaboration. Points: 30. (Source: Hacker News)",
-          "url": "https://github.com/Paca-AI/paca"
+          "title": "Meta’s chaotic AI strategy",
+          "summary": "Latest AI discussion on Hacker News: Meta’s chaotic AI strategy. Points: 66. (Source: Hacker News)",
+          "url": "https://www.wired.com/story/mark-zuckerberg-meta-employee-meeting-interrupt-ai/"
         },
         {
-          "title": "Shepherd's Dog: A Game by the Most Dangerous AI Model",
-          "summary": "Latest AI discussion on Hacker News: Shepherd's Dog: A Game by the Most Dangerous AI Model. Points: 99. (Source: Hacker News)",
-          "url": "https://koenvangilst.nl/lab/claude-fable-shepherds-dog"
+          "title": "Derbyshire Police officer accused of using AI to 'create evidence'",
+          "summary": "Latest AI discussion on Hacker News: Derbyshire Police officer accused of using AI to 'create evidence'. Points: 30. (Source: Hacker News)",
+          "url": "https://www.bbc.com/news/articles/cy8wppwdxl6o"
         },
         {
-          "title": "Open source AI must win",
-          "summary": "Latest AI discussion on Hacker News: Open source AI must win. Points: 1059. (Source: Hacker News)",
-          "url": "https://opensourceaimustwin.com/?share=v2"
+          "title": "Police officer investigated for using AI to 'create evidence' in multiple cases",
+          "summary": "Latest AI discussion on Hacker News: Police officer investigated for using AI to 'create evidence' in multiple cases. Points: 337. (Source: Hacker News)",
+          "url": "https://news.sky.com/story/derbyshire-police-officer-investigated-for-using-ai-to-create-evidence-in-multiple-cases-13553661"
         },
         {
-          "title": "Slightly reducing the sloppiness of AI generated front end",
-          "summary": "Latest AI discussion on Hacker News: Slightly reducing the sloppiness of AI generated front end. Points: 198. (Source: Hacker News)",
-          "url": "https://envs.net/~volpe/blog/posts/reduce-slop.html"
+          "title": "PwC Report: AI Making Medical Bills Higher",
+          "summary": "Latest AI discussion on Hacker News: PwC Report: AI Making Medical Bills Higher. Points: 76. (Source: Hacker News)",
+          "url": "https://fortune.com/2026/06/12/ai-making-medical-bills-higher/"
         },
         {
-          "title": "AI agent bankrupted their operator while trying to scan DN42",
-          "summary": "Latest AI discussion on Hacker News: AI agent bankrupted their operator while trying to scan DN42. Points: 1420. (Source: Hacker News)",
-          "url": "https://lantian.pub/en/article/fun/ai-agent-bankrupted-their-operator-scan-dn42lantian.lantian/"
+          "title": "AI coding at home without going broke",
+          "summary": "Latest AI discussion on Hacker News: AI coding at home without going broke. Points: 304. (Source: Hacker News)",
+          "url": "https://stephen.bochinski.dev/blog/2026/06/13/ai-coding-at-home-without-going-broke/"
         }
       ]
     },
@@ -329,29 +329,29 @@
       "category": "Enterprise & Agentic AI",
       "items": [
         {
-          "title": "A jacket that harvests drinking water from the air",
-          "summary": "Latest AI discussion on Hacker News: A jacket that harvests drinking water from the air. Points: 158. (Source: Hacker News)",
-          "url": "https://news.utexas.edu/2026/06/11/this-jacket-pulls-drinking-water-from-thin-air/"
+          "title": "AI OSS tool repo goes archived over night after raising $7.3M Seed",
+          "summary": "Latest AI discussion on Hacker News: AI OSS tool repo goes archived over night after raising $7.3M Seed. Points: 264. (Source: Hacker News)",
+          "url": "https://github.com/tensorzero/tensorzero"
         },
         {
-          "title": "Shall we play a game? My AI nuclear simulation",
-          "summary": "Latest AI discussion on Hacker News: Shall we play a game? My AI nuclear simulation. Points: 205. (Source: Hacker News)",
-          "url": "https://www.kennethpayne.uk/p/shall-we-play-a-game"
+          "title": "Show HN: Paca – Lightweight Jira alternative for human-AI collaboration",
+          "summary": "Latest AI discussion on Hacker News: Show HN: Paca – Lightweight Jira alternative for human-AI collaboration. Points: 155. (Source: Hacker News)",
+          "url": "https://github.com/Paca-AI/paca"
         },
         {
-          "title": "Ask HN: How do you get into a flow state when using AI to code?",
-          "summary": "Latest AI discussion on Hacker News: Ask HN: How do you get into a flow state when using AI to code?. Points: 89. (Source: Hacker News)",
-          "url": "https://news.ycombinator.com/item?id=48492118"
+          "title": "Open source AI must win",
+          "summary": "Latest AI discussion on Hacker News: Open source AI must win. Points: 1539. (Source: Hacker News)",
+          "url": "https://opensourceaimustwin.com/?share=v2"
         },
         {
-          "title": "Workers are spending over 6 hours a week botsitting AI, fueling job frustration",
-          "summary": "Latest AI discussion on Hacker News: Workers are spending over 6 hours a week botsitting AI, fueling job frustration. Points: 278. (Source: Hacker News)",
-          "url": "https://www.businessinsider.com/botsitting-ai-hidden-human-labor-at-work-2026-6"
+          "title": "Trump admin blocks foreign access to Anthropic's most powerful AI models",
+          "summary": "Latest AI discussion on Hacker News: Trump admin blocks foreign access to Anthropic's most powerful AI models. Points: 29. (Source: Hacker News)",
+          "url": "https://www.axios.com/2026/06/12/anthropic-trump-mythos-fable-national-security"
         },
         {
-          "title": "More AI-generated code doesn't make your team faster. It might slow you",
-          "summary": "Latest AI discussion on Hacker News: More AI-generated code doesn't make your team faster. It might slow you. Points: 43. (Source: Hacker News)",
-          "url": "https://twitter.com/awscloud/status/2064449711155589396"
+          "title": "Slightly reducing the sloppiness of AI generated front end",
+          "summary": "Latest AI discussion on Hacker News: Slightly reducing the sloppiness of AI generated front end. Points: 218. (Source: Hacker News)",
+          "url": "https://envs.net/~volpe/blog/posts/reduce-slop.html"
         }
       ]
     },
