@@ -1,26 +1,26 @@
 {
-  "lastUpdated": "June 14, 2026",
+  "lastUpdated": "June 15, 2026",
   "executiveSummary": [
-    "As of June 14, 2026, the U.S. macroeconomic environment is navigating a complex period of high interest rates and shifting labor market dynamics. With the Fed Funds Rate holding at 3.63% and CPI inflation tracking at 4.17%, the central bank continues its \"higher-for-longer\" stance to anchor inflation expectations. Recent headlines such as \"BofA’s Hartnett Warns Bullish Positioning Remains Entrenched Despite 5% Bond Yields\" suggest that market participants remain hypersensitive to every data print, particularly around corporate earnings and consumer spending resilience.",
-    "The labor market, a key pillar of support, shows 229,000 initial jobless claims, reflecting a relatively stable but cooling employment landscape. Geopolitically, events like \"Pfizer (PFE): The Best Longevity Stock to Buy Now\" introduce exogenous risks that could disrupt global energy supplies and re-ignite inflationary impulses, keeping the Federal Reserve in a defensive posture as they balance growth against price stability. Analysts are closely watching for any signs of a \"hard landing\" as the effects of previous tightening cycles continue to filter through the real economy."
+    "As of June 15, 2026, the U.S. macroeconomic environment is navigating a complex period of high interest rates and shifting labor market dynamics. With the Fed Funds Rate holding at 3.63% and CPI inflation tracking at 4.17%, the central bank continues its \"higher-for-longer\" stance to anchor inflation expectations. Recent headlines such as \"Ron Paul warns the US can't 'print money and lie' to Americans forever. Protect yourself and your nest egg now\" suggest that market participants remain hypersensitive to every data print, particularly around corporate earnings and consumer spending resilience.",
+    "The labor market, a key pillar of support, shows 229,000 initial jobless claims, reflecting a relatively stable but cooling employment landscape. Geopolitically, events like \"Stock Market Today: Dow Jumps 650 Points On U.S.-Iran Deal; AI Stock Tests Entry, Nvidia Pops (Live Coverage)\" introduce exogenous risks that could disrupt global energy supplies and re-ignite inflationary impulses, keeping the Federal Reserve in a defensive posture as they balance growth against price stability. Analysts are closely watching for any signs of a \"hard landing\" as the effects of previous tightening cycles continue to filter through the real economy."
   ],
   "dailyHeadlines": [
     {
-      "title": "BofA’s Hartnett Warns Bullish Positioning Remains Entrenched Despite 5% Bond Yields",
+      "title": "Ron Paul warns the US can't 'print money and lie' to Americans forever. Protect yourself and your nest egg now",
       "summary": "",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/bofa-hartnett-warns-bullish-positioning-110000962.html",
+      "url": "https://finance.yahoo.com/economy/policy/articles/ron-paul-warns-us-cant-152000479.html",
       "type": "extreme"
     },
     {
-      "title": "Pfizer (PFE): The Best Longevity Stock to Buy Now",
+      "title": "Stock Market Today: Dow Jumps 650 Points On U.S.-Iran Deal; AI Stock Tests Entry, Nvidia Pops (Live Coverage)",
       "summary": "",
-      "url": "https://finance.yahoo.com/sectors/healthcare/articles/pfizer-pfe-best-longevity-stock-104027293.html",
+      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-us-iran-deal-oil-prices/?src=A00220&amp;yptr=yahoo",
       "type": "warning"
     },
     {
-      "title": "Is Abbott (ABT) the Best Longevity Stock to Buy Now?",
+      "title": "STOXX 600 Rockets to All-Time High on US-Iran Peace Breakthrough",
       "summary": "",
-      "url": "https://finance.yahoo.com/sectors/healthcare/articles/abbott-abt-best-longevity-stock-104011723.html",
+      "url": "https://finance.yahoo.com/markets/world-indices/articles/stoxx-600-rockets-time-high-151604221.html",
       "type": "info"
     }
   ],
@@ -299,29 +299,29 @@
       "category": "Frontier Model Race & Breakthroughs",
       "items": [
         {
-          "title": "Meta’s chaotic AI strategy",
-          "summary": "Latest AI discussion on Hacker News: Meta’s chaotic AI strategy. Points: 66. (Source: Hacker News)",
-          "url": "https://www.wired.com/story/mark-zuckerberg-meta-employee-meeting-interrupt-ai/"
+          "title": "Show HN: I wrote a C++ ray tracer from scratch without AI",
+          "summary": "Latest AI discussion on Hacker News: Show HN: I wrote a C++ ray tracer from scratch without AI. Points: 100. (Source: Hacker News)",
+          "url": "https://github.com/themartiano/luz"
         },
         {
-          "title": "Derbyshire Police officer accused of using AI to 'create evidence'",
-          "summary": "Latest AI discussion on Hacker News: Derbyshire Police officer accused of using AI to 'create evidence'. Points: 30. (Source: Hacker News)",
-          "url": "https://www.bbc.com/news/articles/cy8wppwdxl6o"
+          "title": "The Jqwik Anti-AI Affair",
+          "summary": "Latest AI discussion on Hacker News: The Jqwik Anti-AI Affair. Points: 52. (Source: Hacker News)",
+          "url": "https://blog.johanneslink.net/2026/06/09/the-jqwik-anti-ai-affair/"
         },
         {
-          "title": "Police officer investigated for using AI to 'create evidence' in multiple cases",
-          "summary": "Latest AI discussion on Hacker News: Police officer investigated for using AI to 'create evidence' in multiple cases. Points: 337. (Source: Hacker News)",
-          "url": "https://news.sky.com/story/derbyshire-police-officer-investigated-for-using-ai-to-create-evidence-in-multiple-cases-13553661"
+          "title": "AI is code – and can't be prompted into being smarter",
+          "summary": "Latest AI discussion on Hacker News: AI is code – and can't be prompted into being smarter. Points: 148. (Source: Hacker News)",
+          "url": "https://www.theregister.com/ai-and-ml/2026/06/14/ai-is-code-and-cant-be-prompted-into-being-smarter/5254141"
         },
         {
-          "title": "PwC Report: AI Making Medical Bills Higher",
-          "summary": "Latest AI discussion on Hacker News: PwC Report: AI Making Medical Bills Higher. Points: 76. (Source: Hacker News)",
-          "url": "https://fortune.com/2026/06/12/ai-making-medical-bills-higher/"
+          "title": "Ponytail – make your AI agent think like the laziest senior dev in the room",
+          "summary": "Latest AI discussion on Hacker News: Ponytail – make your AI agent think like the laziest senior dev in the room. Points: 79. (Source: Hacker News)",
+          "url": "https://github.com/DietrichGebert/ponytail"
         },
         {
-          "title": "AI coding at home without going broke",
-          "summary": "Latest AI discussion on Hacker News: AI coding at home without going broke. Points: 304. (Source: Hacker News)",
-          "url": "https://stephen.bochinski.dev/blog/2026/06/13/ai-coding-at-home-without-going-broke/"
+          "title": "Not everyone is using AI for everything",
+          "summary": "Latest AI discussion on Hacker News: Not everyone is using AI for everything. Points: 484. (Source: Hacker News)",
+          "url": "https://gabrielweinberg.com/p/people-are-consuming-ai-like-they"
         }
       ]
     },
@@ -329,29 +329,29 @@
       "category": "Enterprise & Agentic AI",
       "items": [
         {
-          "title": "AI OSS tool repo goes archived over night after raising $7.3M Seed",
-          "summary": "Latest AI discussion on Hacker News: AI OSS tool repo goes archived over night after raising $7.3M Seed. Points: 264. (Source: Hacker News)",
-          "url": "https://github.com/tensorzero/tensorzero"
+          "title": "KPMG pulls report on AI usage due to apparent hallucinations",
+          "summary": "Latest AI discussion on Hacker News: KPMG pulls report on AI usage due to apparent hallucinations. Points: 152. (Source: Hacker News)",
+          "url": "https://techcrunch.com/2026/06/13/kpmg-pulls-report-on-ai-usage-due-to-apparent-hallucinations/"
         },
         {
-          "title": "Show HN: Paca – Lightweight Jira alternative for human-AI collaboration",
-          "summary": "Latest AI discussion on Hacker News: Show HN: Paca – Lightweight Jira alternative for human-AI collaboration. Points: 155. (Source: Hacker News)",
-          "url": "https://github.com/Paca-AI/paca"
+          "title": "Meta’s chaotic AI strategy",
+          "summary": "Latest AI discussion on Hacker News: Meta’s chaotic AI strategy. Points: 72. (Source: Hacker News)",
+          "url": "https://www.wired.com/story/mark-zuckerberg-meta-employee-meeting-interrupt-ai/"
         },
         {
-          "title": "Open source AI must win",
-          "summary": "Latest AI discussion on Hacker News: Open source AI must win. Points: 1539. (Source: Hacker News)",
-          "url": "https://opensourceaimustwin.com/?share=v2"
+          "title": "Police officer investigated for using AI to 'create evidence' in multiple cases",
+          "summary": "Latest AI discussion on Hacker News: Police officer investigated for using AI to 'create evidence' in multiple cases. Points: 387. (Source: Hacker News)",
+          "url": "https://news.sky.com/story/derbyshire-police-officer-investigated-for-using-ai-to-create-evidence-in-multiple-cases-13553661"
         },
         {
-          "title": "Trump admin blocks foreign access to Anthropic's most powerful AI models",
-          "summary": "Latest AI discussion on Hacker News: Trump admin blocks foreign access to Anthropic's most powerful AI models. Points: 29. (Source: Hacker News)",
-          "url": "https://www.axios.com/2026/06/12/anthropic-trump-mythos-fable-national-security"
+          "title": "PwC Report: AI Making Medical Bills Higher",
+          "summary": "Latest AI discussion on Hacker News: PwC Report: AI Making Medical Bills Higher. Points: 80. (Source: Hacker News)",
+          "url": "https://fortune.com/2026/06/12/ai-making-medical-bills-higher/"
         },
         {
-          "title": "Slightly reducing the sloppiness of AI generated front end",
-          "summary": "Latest AI discussion on Hacker News: Slightly reducing the sloppiness of AI generated front end. Points: 218. (Source: Hacker News)",
-          "url": "https://envs.net/~volpe/blog/posts/reduce-slop.html"
+          "title": "AI coding at home without going broke",
+          "summary": "Latest AI discussion on Hacker News: AI coding at home without going broke. Points: 348. (Source: Hacker News)",
+          "url": "https://stephen.bochinski.dev/blog/2026/06/13/ai-coding-at-home-without-going-broke/"
         }
       ]
     },
