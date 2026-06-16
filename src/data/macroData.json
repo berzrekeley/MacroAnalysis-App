@@ -1,26 +1,26 @@
 {
-  "lastUpdated": "June 15, 2026",
+  "lastUpdated": "June 16, 2026",
   "executiveSummary": [
-    "As of June 15, 2026, the U.S. macroeconomic environment is navigating a complex period of high interest rates and shifting labor market dynamics. With the Fed Funds Rate holding at 3.63% and CPI inflation tracking at 4.17%, the central bank continues its \"higher-for-longer\" stance to anchor inflation expectations. Recent headlines such as \"Ron Paul warns the US can't 'print money and lie' to Americans forever. Protect yourself and your nest egg now\" suggest that market participants remain hypersensitive to every data print, particularly around corporate earnings and consumer spending resilience.",
-    "The labor market, a key pillar of support, shows 229,000 initial jobless claims, reflecting a relatively stable but cooling employment landscape. Geopolitically, events like \"Stock Market Today: Dow Jumps 650 Points On U.S.-Iran Deal; AI Stock Tests Entry, Nvidia Pops (Live Coverage)\" introduce exogenous risks that could disrupt global energy supplies and re-ignite inflationary impulses, keeping the Federal Reserve in a defensive posture as they balance growth against price stability. Analysts are closely watching for any signs of a \"hard landing\" as the effects of previous tightening cycles continue to filter through the real economy."
+    "As of June 16, 2026, the U.S. macroeconomic environment is navigating a complex period of high interest rates and shifting labor market dynamics. With the Fed Funds Rate holding at 3.63% and CPI inflation tracking at 4.17%, the central bank continues its \"higher-for-longer\" stance to anchor inflation expectations. Recent headlines such as \"ASML Holding N.V. (ASML) Rallied on Market Dominance\" suggest that market participants remain hypersensitive to every data print, particularly around corporate earnings and consumer spending resilience.",
+    "The labor market, a key pillar of support, shows 229,000 initial jobless claims, reflecting a relatively stable but cooling employment landscape. Geopolitically, events like \"What Makes Taiwan Semiconductor Manufacturing (TSM) a Strong Bet?\" introduce exogenous risks that could disrupt global energy supplies and re-ignite inflationary impulses, keeping the Federal Reserve in a defensive posture as they balance growth against price stability. Analysts are closely watching for any signs of a \"hard landing\" as the effects of previous tightening cycles continue to filter through the real economy."
   ],
   "dailyHeadlines": [
     {
-      "title": "Ron Paul warns the US can't 'print money and lie' to Americans forever. Protect yourself and your nest egg now",
+      "title": "ASML Holding N.V. (ASML) Rallied on Market Dominance",
       "summary": "",
-      "url": "https://finance.yahoo.com/economy/policy/articles/ron-paul-warns-us-cant-152000479.html",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/asml-holding-n-v-asml-144055884.html",
       "type": "extreme"
     },
     {
-      "title": "Stock Market Today: Dow Jumps 650 Points On U.S.-Iran Deal; AI Stock Tests Entry, Nvidia Pops (Live Coverage)",
+      "title": "What Makes Taiwan Semiconductor Manufacturing (TSM) a Strong Bet?",
       "summary": "",
-      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-us-iran-deal-oil-prices/?src=A00220&amp;yptr=yahoo",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/makes-taiwan-semiconductor-manufacturing-tsm-143732310.html",
       "type": "warning"
     },
     {
-      "title": "STOXX 600 Rockets to All-Time High on US-Iran Peace Breakthrough",
+      "title": "Taiwan Semiconductor Manufacturing Co.’s (TSM) 25% Capex Budget Hike Surged Market Confidence",
       "summary": "",
-      "url": "https://finance.yahoo.com/markets/world-indices/articles/stoxx-600-rockets-time-high-151604221.html",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/taiwan-semiconductor-manufacturing-co-tsm-143342260.html",
       "type": "info"
     }
   ],
@@ -39,19 +39,19 @@
     },
     {
       "title": "10Y - 2Y Spread",
-      "value": "0.39%",
+      "value": "0.40%",
       "status": "Steepening - slower growth",
       "type": "warning"
     },
     {
       "title": "10Y Treasury Rate",
-      "value": "4.45%",
+      "value": "4.48%",
       "status": "High - energy-driven inflation",
       "type": "warning"
     },
     {
       "title": "2Y Treasury Rate",
-      "value": "4.05%",
+      "value": "4.09%",
       "status": "Elevated - higher-for-longer stance",
       "type": "warning"
     },
@@ -75,7 +75,7 @@
     },
     {
       "title": "Building Permits",
-      "value": "1.423M",
+      "value": "1.413M",
       "status": "Soft - cooling residential activity",
       "type": "warning"
     },
@@ -299,29 +299,29 @@
       "category": "Frontier Model Race & Breakthroughs",
       "items": [
         {
-          "title": "Show HN: I wrote a C++ ray tracer from scratch without AI",
-          "summary": "Latest AI discussion on Hacker News: Show HN: I wrote a C++ ray tracer from scratch without AI. Points: 100. (Source: Hacker News)",
-          "url": "https://github.com/themartiano/luz"
+          "title": "SpaceX to buy Cursor AI coding agent operator Anysphere for $60B",
+          "summary": "Latest AI discussion on Hacker News: SpaceX to buy Cursor AI coding agent operator Anysphere for $60B. Points: 158. (Source: Hacker News)",
+          "url": "https://www.reuters.com/legal/transactional/spacex-buy-anysphere-60-billion-2026-06-16/"
         },
         {
-          "title": "The Jqwik Anti-AI Affair",
-          "summary": "Latest AI discussion on Hacker News: The Jqwik Anti-AI Affair. Points: 52. (Source: Hacker News)",
-          "url": "https://blog.johanneslink.net/2026/06/09/the-jqwik-anti-ai-affair/"
+          "title": "Microsoft turns to AWS as GitHub faces AI capacity crunch",
+          "summary": "Latest AI discussion on Hacker News: Microsoft turns to AWS as GitHub faces AI capacity crunch. Points: 153. (Source: Hacker News)",
+          "url": "https://runtimewire.com/article/microsoft-github-aws-ai-capacity-crunch"
         },
         {
-          "title": "AI is code – and can't be prompted into being smarter",
-          "summary": "Latest AI discussion on Hacker News: AI is code – and can't be prompted into being smarter. Points: 148. (Source: Hacker News)",
-          "url": "https://www.theregister.com/ai-and-ml/2026/06/14/ai-is-code-and-cant-be-prompted-into-being-smarter/5254141"
+          "title": "US Air Force B-52 bomber crashes after takeoff, Edwards Air Force Base says",
+          "summary": "Latest AI discussion on Hacker News: US Air Force B-52 bomber crashes after takeoff, Edwards Air Force Base says. Points: 101. (Source: Hacker News)",
+          "url": "https://www.reuters.com/business/aerospace-defense/us-air-force-b-52-bomber-crashes-after-takeoff-edwards-air-force-base-says-2026-06-15/"
         },
         {
-          "title": "Ponytail – make your AI agent think like the laziest senior dev in the room",
-          "summary": "Latest AI discussion on Hacker News: Ponytail – make your AI agent think like the laziest senior dev in the room. Points: 79. (Source: Hacker News)",
-          "url": "https://github.com/DietrichGebert/ponytail"
+          "title": "Show HN: Veterinarian turned founder, AI lawn diagnosis",
+          "summary": "Latest AI discussion on Hacker News: Show HN: Veterinarian turned founder, AI lawn diagnosis. Points: 70. (Source: Hacker News)",
+          "url": "https://grassdx.com/"
         },
         {
-          "title": "Not everyone is using AI for everything",
-          "summary": "Latest AI discussion on Hacker News: Not everyone is using AI for everything. Points: 484. (Source: Hacker News)",
-          "url": "https://gabrielweinberg.com/p/people-are-consuming-ai-like-they"
+          "title": "My Homelab AI Dev Platform",
+          "summary": "Latest AI discussion on Hacker News: My Homelab AI Dev Platform. Points: 347. (Source: Hacker News)",
+          "url": "https://rsgm.dev/post/ai-dev-platform/"
         }
       ]
     },
@@ -329,29 +329,29 @@
       "category": "Enterprise & Agentic AI",
       "items": [
         {
-          "title": "KPMG pulls report on AI usage due to apparent hallucinations",
-          "summary": "Latest AI discussion on Hacker News: KPMG pulls report on AI usage due to apparent hallucinations. Points: 152. (Source: Hacker News)",
-          "url": "https://techcrunch.com/2026/06/13/kpmg-pulls-report-on-ai-usage-due-to-apparent-hallucinations/"
+          "title": "Can Europe train a frontier AI model on the compute it owns?",
+          "summary": "Latest AI discussion on Hacker News: Can Europe train a frontier AI model on the compute it owns?. Points: 137. (Source: Hacker News)",
+          "url": "https://github.com/sammysltd/euromesh"
         },
         {
-          "title": "Meta’s chaotic AI strategy",
-          "summary": "Latest AI discussion on Hacker News: Meta’s chaotic AI strategy. Points: 72. (Source: Hacker News)",
-          "url": "https://www.wired.com/story/mark-zuckerberg-meta-employee-meeting-interrupt-ai/"
+          "title": "Show HN: I wrote a C++ ray tracer from scratch without AI",
+          "summary": "Latest AI discussion on Hacker News: Show HN: I wrote a C++ ray tracer from scratch without AI. Points: 148. (Source: Hacker News)",
+          "url": "https://github.com/themartiano/luz"
         },
         {
-          "title": "Police officer investigated for using AI to 'create evidence' in multiple cases",
-          "summary": "Latest AI discussion on Hacker News: Police officer investigated for using AI to 'create evidence' in multiple cases. Points: 387. (Source: Hacker News)",
-          "url": "https://news.sky.com/story/derbyshire-police-officer-investigated-for-using-ai-to-create-evidence-in-multiple-cases-13553661"
+          "title": "The Jqwik Anti-AI Affair",
+          "summary": "Latest AI discussion on Hacker News: The Jqwik Anti-AI Affair. Points: 53. (Source: Hacker News)",
+          "url": "https://blog.johanneslink.net/2026/06/09/the-jqwik-anti-ai-affair/"
         },
         {
-          "title": "PwC Report: AI Making Medical Bills Higher",
-          "summary": "Latest AI discussion on Hacker News: PwC Report: AI Making Medical Bills Higher. Points: 80. (Source: Hacker News)",
-          "url": "https://fortune.com/2026/06/12/ai-making-medical-bills-higher/"
+          "title": "AI is code – and can't be prompted into being smarter",
+          "summary": "Latest AI discussion on Hacker News: AI is code – and can't be prompted into being smarter. Points: 158. (Source: Hacker News)",
+          "url": "https://www.theregister.com/ai-and-ml/2026/06/14/ai-is-code-and-cant-be-prompted-into-being-smarter/5254141"
         },
         {
-          "title": "AI coding at home without going broke",
-          "summary": "Latest AI discussion on Hacker News: AI coding at home without going broke. Points: 348. (Source: Hacker News)",
-          "url": "https://stephen.bochinski.dev/blog/2026/06/13/ai-coding-at-home-without-going-broke/"
+          "title": "Ponytail – make your AI agent think like the laziest senior dev in the room",
+          "summary": "Latest AI discussion on Hacker News: Ponytail – make your AI agent think like the laziest senior dev in the room. Points: 87. (Source: Hacker News)",
+          "url": "https://github.com/DietrichGebert/ponytail"
         }
       ]
     },
