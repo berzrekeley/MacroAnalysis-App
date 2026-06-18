@@ -1,26 +1,26 @@
 {
-  "lastUpdated": "June 17, 2026",
+  "lastUpdated": "June 18, 2026",
   "executiveSummary": [
-    "As of June 17, 2026, the U.S. macroeconomic environment is navigating a complex period of high interest rates and shifting labor market dynamics. With the Fed Funds Rate holding at 3.63% and CPI inflation tracking at 4.17%, the central bank continues its \"higher-for-longer\" stance to anchor inflation expectations. Recent headlines such as \"Howmet Aerospace (HWM) Gains From Competitive Edge\" suggest that market participants remain hypersensitive to every data print, particularly around corporate earnings and consumer spending resilience.",
-    "The labor market, a key pillar of support, shows 229,000 initial jobless claims, reflecting a relatively stable but cooling employment landscape. Geopolitically, events like \"Stocks edge up as oil hovers near 3-month lows ahead of Warsh debut\" introduce exogenous risks that could disrupt global energy supplies and re-ignite inflationary impulses, keeping the Federal Reserve in a defensive posture as they balance growth against price stability. Analysts are closely watching for any signs of a \"hard landing\" as the effects of previous tightening cycles continue to filter through the real economy."
+    "As of June 18, 2026, the U.S. macroeconomic environment is navigating a complex period of high interest rates and shifting labor market dynamics. With the Fed Funds Rate holding at 3.63% and CPI inflation tracking at 4.17%, the central bank continues its \"higher-for-longer\" stance to anchor inflation expectations. Recent headlines such as \"Turtle Creek Asset Management’s Outlook for Colliers International Group (CIGI) Remains Strong\" suggest that market participants remain hypersensitive to every data print, particularly around corporate earnings and consumer spending resilience.",
+    "The labor market, a key pillar of support, shows 226,000 initial jobless claims, reflecting a relatively stable but cooling employment landscape. Geopolitically, events like \"What Offers Celanese Corporation (CE) the Edge of Advantage?\" introduce exogenous risks that could disrupt global energy supplies and re-ignite inflationary impulses, keeping the Federal Reserve in a defensive posture as they balance growth against price stability. Analysts are closely watching for any signs of a \"hard landing\" as the effects of previous tightening cycles continue to filter through the real economy."
   ],
   "dailyHeadlines": [
     {
-      "title": "Howmet Aerospace (HWM) Gains From Competitive Edge",
+      "title": "Turtle Creek Asset Management’s Outlook for Colliers International Group (CIGI) Remains Strong",
       "summary": "",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/howmet-aerospace-hwm-gains-competitive-132143719.html",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/turtle-creek-asset-management-outlook-122704789.html",
       "type": "extreme"
     },
     {
-      "title": "Stocks edge up as oil hovers near 3-month lows ahead of Warsh debut",
+      "title": "What Offers Celanese Corporation (CE) the Edge of Advantage?",
       "summary": "",
-      "url": "https://finance.yahoo.com/energy/articles/oil-slides-iran-supply-prospects-015051067.html",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/offers-celanese-corporation-ce-edge-122335544.html",
       "type": "warning"
     },
     {
-      "title": "SGA Global Growth Strategy Exited Its Holdings in Gartner (IT)",
+      "title": "What Makes American Express Company (AXP) an Attractive Bet?",
       "summary": "",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/sga-global-growth-strategy-exited-131005386.html",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/makes-american-express-company-axp-121830656.html",
       "type": "info"
     }
   ],
@@ -39,19 +39,19 @@
     },
     {
       "title": "10Y - 2Y Spread",
-      "value": "0.38%",
+      "value": "0.29%",
       "status": "Steepening - slower growth",
       "type": "warning"
     },
     {
       "title": "10Y Treasury Rate",
-      "value": "4.47%",
+      "value": "4.43%",
       "status": "High - energy-driven inflation",
       "type": "warning"
     },
     {
       "title": "2Y Treasury Rate",
-      "value": "4.07%",
+      "value": "4.05%",
       "status": "Elevated - higher-for-longer stance",
       "type": "warning"
     },
@@ -81,7 +81,7 @@
     },
     {
       "title": "Initial Jobless Claims",
-      "value": "229,000",
+      "value": "226,000",
       "status": "Stable - primary pillar of support",
       "type": "neutral"
     },
@@ -100,11 +100,18 @@
   ],
   "adpWeeklyData": [
     {
+      "week": "Jun 13",
+      "fullDate": "Jun 13, 2026",
+      "number": 226000,
+      "delta": -4000,
+      "deltaPct": -1.74
+    },
+    {
       "week": "Jun 6",
       "fullDate": "Jun 6, 2026",
-      "number": 229000,
-      "delta": 4000,
-      "deltaPct": 1.78
+      "number": 230000,
+      "delta": 5000,
+      "deltaPct": 2.22
     },
     {
       "week": "May 30",
@@ -201,13 +208,6 @@
       "week": "Feb 28",
       "fullDate": "Feb 28, 2026",
       "number": 214000,
-      "delta": 3000,
-      "deltaPct": 1.42
-    },
-    {
-      "week": "Feb 21",
-      "fullDate": "Feb 21, 2026",
-      "number": 211000,
       "delta": 0,
       "deltaPct": 0
     }
@@ -299,29 +299,29 @@
       "category": "Frontier Model Race & Breakthroughs",
       "items": [
         {
-          "title": "Sixty percent of US consumers say 'AI' in brand messaging is a turnoff",
-          "summary": "Latest AI discussion on Hacker News: Sixty percent of US consumers say 'AI' in brand messaging is a turnoff. Points: 261. (Source: Hacker News)",
-          "url": "https://wpvip.com/future-of-the-web-2026/"
+          "title": "The hacker sent by Anthropic to calm the government's nerves about AI safety",
+          "summary": "Latest AI discussion on Hacker News: The hacker sent by Anthropic to calm the government's nerves about AI safety. Points: 80. (Source: Hacker News)",
+          "url": "https://www.wsj.com/tech/ai/anthropic-mythos-safety-nicholas-carlini-20bceaa3"
         },
         {
-          "title": "The founder's playbook: Building an AI-native startup",
-          "summary": "Latest AI discussion on Hacker News: The founder's playbook: Building an AI-native startup. Points: 123. (Source: Hacker News)",
-          "url": "https://claude.com/blog/the-founders-playbook"
+          "title": "The Competitive Moat That AI Can't Replicate",
+          "summary": "Latest AI discussion on Hacker News: The Competitive Moat That AI Can't Replicate. Points: 137. (Source: Hacker News)",
+          "url": "https://ghostinthedata.info/posts/2026/2026-06-13-human-connection-moat/"
         },
         {
-          "title": "France to ditch Palantir's AI data tools in favour of domestic provider",
-          "summary": "Latest AI discussion on Hacker News: France to ditch Palantir's AI data tools in favour of domestic provider. Points: 36. (Source: Hacker News)",
-          "url": "https://www.theguardian.com/world/2026/jun/16/france-ai-data-tools-palantir-chapsvision"
+          "title": "Only 16 Percent of Americans Think AI Will Have a Positive Impact on Society",
+          "summary": "Latest AI discussion on Hacker News: Only 16 Percent of Americans Think AI Will Have a Positive Impact on Society. Points: 380. (Source: Hacker News)",
+          "url": "https://techcrunch.com/2026/06/17/only-16-percent-of-americans-think-ai-will-have-a-positive-impact-on-society-a-new-study-shows/"
         },
         {
-          "title": "AI is potentially a Dunning-Kruger effect amplifier",
-          "summary": "Latest AI discussion on Hacker News: AI is potentially a Dunning-Kruger effect amplifier. Points: 63. (Source: Hacker News)",
-          "url": "https://twitter.com/i/status/2066825204207091926"
+          "title": "Launch HN: Adam (YC W25) – Open-Source AI CAD",
+          "summary": "Latest AI discussion on Hacker News: Launch HN: Adam (YC W25) – Open-Source AI CAD. Points: 192. (Source: Hacker News)",
+          "url": "https://github.com/Adam-CAD/CADAM"
         },
         {
-          "title": "Has AI already killed self-help nonfiction books?",
-          "summary": "Latest AI discussion on Hacker News: Has AI already killed self-help nonfiction books?. Points: 349. (Source: Hacker News)",
-          "url": "https://tim.blog/2026/06/12/has-ai-already-killed-nonfiction/"
+          "title": "AI demands more engineering discipline. Not less",
+          "summary": "Latest AI discussion on Hacker News: AI demands more engineering discipline. Not less. Points: 388. (Source: Hacker News)",
+          "url": "https://charitydotwtf.substack.com/p/ai-demands-more-engineering-discipline"
         }
       ]
     },
@@ -329,29 +329,29 @@
       "category": "Enterprise & Agentic AI",
       "items": [
         {
+          "title": "Sixty percent of US consumers say 'AI' in brand messaging is a turnoff",
+          "summary": "Latest AI discussion on Hacker News: Sixty percent of US consumers say 'AI' in brand messaging is a turnoff. Points: 1048. (Source: Hacker News)",
+          "url": "https://wpvip.com/future-of-the-web-2026/"
+        },
+        {
+          "title": "Show HN: I built 184 free browser tools – PDF, image, dev, AI tasks, no upload",
+          "summary": "Latest AI discussion on Hacker News: Show HN: I built 184 free browser tools – PDF, image, dev, AI tasks, no upload. Points: 87. (Source: Hacker News)",
+          "url": "https://brevio.pro"
+        },
+        {
+          "title": "The founder's playbook: Building an AI-native startup",
+          "summary": "Latest AI discussion on Hacker News: The founder's playbook: Building an AI-native startup. Points: 233. (Source: Hacker News)",
+          "url": "https://claude.com/blog/the-founders-playbook"
+        },
+        {
+          "title": "Has AI already killed self-help nonfiction books?",
+          "summary": "Latest AI discussion on Hacker News: Has AI already killed self-help nonfiction books?. Points: 402. (Source: Hacker News)",
+          "url": "https://tim.blog/2026/06/12/has-ai-already-killed-nonfiction/"
+        },
+        {
           "title": "After AI takes everything",
-          "summary": "Latest AI discussion on Hacker News: After AI takes everything. Points: 100. (Source: Hacker News)",
+          "summary": "Latest AI discussion on Hacker News: After AI takes everything. Points: 101. (Source: Hacker News)",
           "url": "https://ursb.me/en/posts/after-ai-takes-everything/"
-        },
-        {
-          "title": "Microsoft turns to AWS as GitHub faces AI capacity crunch",
-          "summary": "Latest AI discussion on Hacker News: Microsoft turns to AWS as GitHub faces AI capacity crunch. Points: 154. (Source: Hacker News)",
-          "url": "https://runtimewire.com/article/microsoft-github-aws-ai-capacity-crunch"
-        },
-        {
-          "title": "US Air Force B-52 bomber crashes after takeoff, Edwards Air Force Base says",
-          "summary": "Latest AI discussion on Hacker News: US Air Force B-52 bomber crashes after takeoff, Edwards Air Force Base says. Points: 102. (Source: Hacker News)",
-          "url": "https://www.reuters.com/business/aerospace-defense/us-air-force-b-52-bomber-crashes-after-takeoff-edwards-air-force-base-says-2026-06-15/"
-        },
-        {
-          "title": "Show HN: Veterinarian turned founder, AI lawn diagnosis",
-          "summary": "Latest AI discussion on Hacker News: Show HN: Veterinarian turned founder, AI lawn diagnosis. Points: 75. (Source: Hacker News)",
-          "url": "https://grassdx.com/"
-        },
-        {
-          "title": "My Homelab AI Dev Platform",
-          "summary": "Latest AI discussion on Hacker News: My Homelab AI Dev Platform. Points: 360. (Source: Hacker News)",
-          "url": "https://rsgm.dev/post/ai-dev-platform/"
         }
       ]
     },
