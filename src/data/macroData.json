@@ -1,26 +1,26 @@
 {
-  "lastUpdated": "June 19, 2026",
+  "lastUpdated": "June 20, 2026",
   "executiveSummary": [
-    "As of June 19, 2026, the U.S. macroeconomic environment is navigating a complex period of high interest rates and shifting labor market dynamics. With the Fed Funds Rate holding at 3.63% and CPI inflation tracking at 4.17%, the central bank continues its \"higher-for-longer\" stance to anchor inflation expectations. Recent headlines such as \"Jim Cramer sends a stern message to SpaceX buyers\" suggest that market participants remain hypersensitive to every data print, particularly around corporate earnings and consumer spending resilience.",
-    "The labor market, a key pillar of support, shows 226,000 initial jobless claims, reflecting a relatively stable but cooling employment landscape. Geopolitically, events like \"Stocks rise on Wall Street, erasing much of their loss from a day earlier\" introduce exogenous risks that could disrupt global energy supplies and re-ignite inflationary impulses, keeping the Federal Reserve in a defensive posture as they balance growth against price stability. Analysts are closely watching for any signs of a \"hard landing\" as the effects of previous tightening cycles continue to filter through the real economy."
+    "As of June 20, 2026, the U.S. macroeconomic environment is navigating a complex period of high interest rates and shifting labor market dynamics. With the Fed Funds Rate holding at 3.63% and CPI inflation tracking at 4.17%, the central bank continues its \"higher-for-longer\" stance to anchor inflation expectations. Recent headlines such as \"Is Skyworks Solutions Stock Underperforming the Nasdaq?\" suggest that market participants remain hypersensitive to every data print, particularly around corporate earnings and consumer spending resilience.",
+    "The labor market, a key pillar of support, shows 226,000 initial jobless claims, reflecting a relatively stable but cooling employment landscape. Geopolitically, events like \"ON Semiconductor (ON) Launches GaNEXUS Gallium Nitride Power Portfolio for Enhanced Efficiency\" introduce exogenous risks that could disrupt global energy supplies and re-ignite inflationary impulses, keeping the Federal Reserve in a defensive posture as they balance growth against price stability. Analysts are closely watching for any signs of a \"hard landing\" as the effects of previous tightening cycles continue to filter through the real economy."
   ],
   "dailyHeadlines": [
     {
-      "title": "Jim Cramer sends a stern message to SpaceX buyers",
+      "title": "Is Skyworks Solutions Stock Underperforming the Nasdaq?",
       "summary": "",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-sends-stern-message-024700597.html",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/skyworks-solutions-stock-underperforming-nasdaq-102614125.html",
       "type": "extreme"
     },
     {
-      "title": "Stocks rise on Wall Street, erasing much of their loss from a day earlier",
+      "title": "ON Semiconductor (ON) Launches GaNEXUS Gallium Nitride Power Portfolio for Enhanced Efficiency",
       "summary": "",
-      "url": "https://finance.yahoo.com/markets/world-indices/articles/asian-shares-shrug-off-us-032213169.html",
+      "url": "https://finance.yahoo.com/technology/articles/semiconductor-launches-ganexus-gallium-nitride-102510380.html",
       "type": "warning"
     },
     {
-      "title": "Is Northern Trust Stock Outperforming the Dow?",
+      "title": "Microchip (MCHP) Releases TimePictra 12 for Advanced Synchronization Management",
       "summary": "",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/northern-trust-stock-outperforming-dow-023627902.html",
+      "url": "https://finance.yahoo.com/technology/articles/microchip-mchp-releases-timepictra-12-102318688.html",
       "type": "info"
     }
   ],
@@ -299,29 +299,29 @@
       "category": "Frontier Model Race & Breakthroughs",
       "items": [
         {
-          "title": "Generative AI Is Having Its Herbalife Moment",
-          "summary": "Latest AI discussion on Hacker News: Generative AI Is Having Its Herbalife Moment. Points: 57. (Source: Hacker News)",
-          "url": "https://www.whatwelo.st/p/generative-ai-is-having-its-herbalife"
+          "title": "Aikido Code Audit",
+          "summary": "Latest AI discussion on Hacker News: Aikido Code Audit. Points: 34. (Source: Hacker News)",
+          "url": "https://www.aikido.dev/blog/introducing-code-audit-find-complex-vulnerabilities-hidden-in-your-codebase"
         },
         {
-          "title": "The AirPods Effect",
-          "summary": "Latest AI discussion on Hacker News: The AirPods Effect. Points: 181. (Source: Hacker News)",
-          "url": "https://www.theescapenewsletter.com/p/the-airpods-effect"
+          "title": "Companies rein in AI usage as costs strain budgets",
+          "summary": "Latest AI discussion on Hacker News: Companies rein in AI usage as costs strain budgets. Points: 114. (Source: Hacker News)",
+          "url": "https://www.ft.com/content/1d37cc08-e0aa-45a4-a45d-4ad282529314"
         },
         {
-          "title": "The AI Hate Progression",
-          "summary": "Latest AI discussion on Hacker News: The AI Hate Progression. Points: 113. (Source: Hacker News)",
-          "url": "https://www.xodium.net/2026/06/the-ai-hate-progression.html"
+          "title": "Is AI ruining our skills? Early results are in – and they're not good",
+          "summary": "Latest AI discussion on Hacker News: Is AI ruining our skills? Early results are in – and they're not good. Points: 226. (Source: Hacker News)",
+          "url": "https://www.nature.com/articles/d41586-026-01947-1"
         },
         {
-          "title": "The hacker sent by Anthropic to calm the government's nerves about AI safety",
-          "summary": "Latest AI discussion on Hacker News: The hacker sent by Anthropic to calm the government's nerves about AI safety. Points: 88. (Source: Hacker News)",
-          "url": "https://www.wsj.com/tech/ai/anthropic-mythos-safety-nicholas-carlini-20bceaa3"
+          "title": "A new bill takes aim at government pressure to silence lawful online speech",
+          "summary": "Latest AI discussion on Hacker News: A new bill takes aim at government pressure to silence lawful online speech. Points: 283. (Source: Hacker News)",
+          "url": "https://www.eff.org/deeplinks/2026/06/new-bill-takes-aim-government-pressure-silence-lawful-online-speech"
         },
         {
-          "title": "The Competitive Moat That AI Can't Replicate",
-          "summary": "Latest AI discussion on Hacker News: The Competitive Moat That AI Can't Replicate. Points: 140. (Source: Hacker News)",
-          "url": "https://ghostinthedata.info/posts/2026/2026-06-13-human-connection-moat/"
+          "title": "AI Engineer Claims to Have Cracked Linear A",
+          "summary": "Latest AI discussion on Hacker News: AI Engineer Claims to Have Cracked Linear A. Points: 428. (Source: Hacker News)",
+          "url": "https://aiclambake.com/clamtakes/linear-a/"
         }
       ]
     },
@@ -329,29 +329,29 @@
       "category": "Enterprise & Agentic AI",
       "items": [
         {
-          "title": "Only 16 Percent of Americans Think AI Will Have a Positive Impact on Society",
-          "summary": "Latest AI discussion on Hacker News: Only 16 Percent of Americans Think AI Will Have a Positive Impact on Society. Points: 395. (Source: Hacker News)",
-          "url": "https://techcrunch.com/2026/06/17/only-16-percent-of-americans-think-ai-will-have-a-positive-impact-on-society-a-new-study-shows/"
+          "title": "Norway imposes near ban on AI in elementary school",
+          "summary": "Latest AI discussion on Hacker News: Norway imposes near ban on AI in elementary school. Points: 706. (Source: Hacker News)",
+          "url": "https://www.reuters.com/technology/norway-imposes-near-ban-ai-elementary-school-2026-06-19/"
         },
         {
-          "title": "Launch HN: Adam (YC W25) – Open-Source AI CAD",
-          "summary": "Latest AI discussion on Hacker News: Launch HN: Adam (YC W25) – Open-Source AI CAD. Points: 209. (Source: Hacker News)",
-          "url": "https://github.com/Adam-CAD/CADAM"
+          "title": "Generative AI Is Having Its Herbalife Moment",
+          "summary": "Latest AI discussion on Hacker News: Generative AI Is Having Its Herbalife Moment. Points: 68. (Source: Hacker News)",
+          "url": "https://www.whatwelo.st/p/generative-ai-is-having-its-herbalife"
         },
         {
-          "title": "TREX: An AI code reviewer that runs your code",
-          "summary": "Latest AI discussion on Hacker News: TREX: An AI code reviewer that runs your code. Points: 59. (Source: Hacker News)",
-          "url": "https://www.greptile.com/blog/trex-code-execution"
+          "title": "The AirPods Effect",
+          "summary": "Latest AI discussion on Hacker News: The AirPods Effect. Points: 423. (Source: Hacker News)",
+          "url": "https://www.theescapenewsletter.com/p/the-airpods-effect"
         },
         {
-          "title": "Pentagon boasts of using AI to write reports mandated by Congress (1.5mil users)",
-          "summary": "Latest AI discussion on Hacker News: Pentagon boasts of using AI to write reports mandated by Congress (1.5mil users). Points: 77. (Source: Hacker News)",
-          "url": "https://arstechnica.com/ai/2026/06/pentagon-boasts-of-using-ai-to-write-reports-mandated-by-congress/"
+          "title": "Amazon investigating engineers who criticized AI data center expansion",
+          "summary": "Latest AI discussion on Hacker News: Amazon investigating engineers who criticized AI data center expansion. Points: 55. (Source: Hacker News)",
+          "url": "https://www.cnbc.com/2026/06/18/amazon-engineers-ai-data-center-opposition.html"
         },
         {
-          "title": "AI demands more engineering discipline. Not less",
-          "summary": "Latest AI discussion on Hacker News: AI demands more engineering discipline. Not less. Points: 414. (Source: Hacker News)",
-          "url": "https://charitydotwtf.substack.com/p/ai-demands-more-engineering-discipline"
+          "title": "The AI Hate Progression",
+          "summary": "Latest AI discussion on Hacker News: The AI Hate Progression. Points: 123. (Source: Hacker News)",
+          "url": "https://www.xodium.net/2026/06/the-ai-hate-progression.html"
         }
       ]
     },
