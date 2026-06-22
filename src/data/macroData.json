@@ -1,26 +1,26 @@
 {
-  "lastUpdated": "June 21, 2026",
+  "lastUpdated": "June 22, 2026",
   "executiveSummary": [
-    "As of June 21, 2026, the U.S. macroeconomic environment is navigating a complex period of high interest rates and shifting labor market dynamics. With the Fed Funds Rate holding at 3.63% and CPI inflation tracking at 4.17%, the central bank continues its \"higher-for-longer\" stance to anchor inflation expectations. Recent headlines such as \"'I didn't believe it': Florida divers find $100K silver bar in legendary shipwreck. Strike it rich without getting wet\" suggest that market participants remain hypersensitive to every data print, particularly around corporate earnings and consumer spending resilience.",
-    "The labor market, a key pillar of support, shows 226,000 initial jobless claims, reflecting a relatively stable but cooling employment landscape. Geopolitically, events like \"The Fed's Warsh era clearly has a new vibe — and that's not all bad for investors\" introduce exogenous risks that could disrupt global energy supplies and re-ignite inflationary impulses, keeping the Federal Reserve in a defensive posture as they balance growth against price stability. Analysts are closely watching for any signs of a \"hard landing\" as the effects of previous tightening cycles continue to filter through the real economy."
+    "As of June 22, 2026, the U.S. macroeconomic environment is navigating a complex period of high interest rates and shifting labor market dynamics. With the Fed Funds Rate holding at 3.63% and CPI inflation tracking at 4.17%, the central bank continues its \"higher-for-longer\" stance to anchor inflation expectations. Recent headlines such as \"American Express Company (AXP): A Top Financial Stock to Buy According to Warren Buffett\" suggest that market participants remain hypersensitive to every data print, particularly around corporate earnings and consumer spending resilience.",
+    "The labor market, a key pillar of support, shows 226,000 initial jobless claims, reflecting a relatively stable but cooling employment landscape. Geopolitically, events like \"Bank of America Corporation (BAC): One of the Top Financial Stocks According to Berkshire Hathaway\" introduce exogenous risks that could disrupt global energy supplies and re-ignite inflationary impulses, keeping the Federal Reserve in a defensive posture as they balance growth against price stability. Analysts are closely watching for any signs of a \"hard landing\" as the effects of previous tightening cycles continue to filter through the real economy."
   ],
   "dailyHeadlines": [
     {
-      "title": "'I didn't believe it': Florida divers find $100K silver bar in legendary shipwreck. Strike it rich without getting wet",
+      "title": "American Express Company (AXP): A Top Financial Stock to Buy According to Warren Buffett",
       "summary": "",
-      "url": "https://finance.yahoo.com/markets/commodities/articles/didnt-believe-florida-divers-100k-110500034.html",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/american-express-company-axp-top-145340803.html",
       "type": "extreme"
     },
     {
-      "title": "The Fed's Warsh era clearly has a new vibe — and that's not all bad for investors",
+      "title": "Bank of America Corporation (BAC): One of the Top Financial Stocks According to Berkshire Hathaway",
       "summary": "",
-      "url": "https://finance.yahoo.com/markets/article/the-feds-warsh-era-clearly-has-a-new-vibe--and-thats-not-all-bad-for-investors-110147708.html",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/bank-america-corporation-bac-one-145322645.html",
       "type": "warning"
     },
     {
-      "title": "BofA Sees No Sign of a Major Peak in Risk Assets Despite Strong Investor Optimism",
+      "title": "Chubb Limited (CB): One of the Best Financial Stocks to Buy Per Warren Buffett?",
       "summary": "",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/bofa-sees-no-sign-major-110000323.html",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/chubb-limited-cb-one-best-145224971.html",
       "type": "info"
     }
   ],
@@ -299,29 +299,29 @@
       "category": "Frontier Model Race & Breakthroughs",
       "items": [
         {
-          "title": "The 100k Whys of AI",
-          "summary": "Latest AI discussion on Hacker News: The 100k Whys of AI. Points: 117. (Source: Hacker News)",
-          "url": "https://lcamtuf.substack.com/p/the-100000-whys-of-ai"
+          "title": "New Super Pac Aims to Rally Tech Workers to Help Limit A.I",
+          "summary": "Latest AI discussion on Hacker News: New Super Pac Aims to Rally Tech Workers to Help Limit A.I. Points: 19. (Source: Hacker News)",
+          "url": "https://www.nytimes.com/2026/06/18/technology/ai-super-pac-guardrails-alliance.html"
         },
         {
-          "title": "Public Service Announcement: Don't Say You Use AI for Writing",
-          "summary": "Latest AI discussion on Hacker News: Public Service Announcement: Don't Say You Use AI for Writing. Points: 38. (Source: Hacker News)",
-          "url": "https://www.satisfice.com/blog/archives/488148"
+          "title": "Tech Workers Are Fighting Against Silicon Valley's AI Push",
+          "summary": "Latest AI discussion on Hacker News: Tech Workers Are Fighting Against Silicon Valley's AI Push. Points: 42. (Source: Hacker News)",
+          "url": "https://www.techpolicy.press/tech-workers-are-fighting-against-silicon-valleys-ai-push/"
         },
         {
-          "title": "Building reliable agentic AI systems",
-          "summary": "Latest AI discussion on Hacker News: Building reliable agentic AI systems. Points: 112. (Source: Hacker News)",
-          "url": "https://martinfowler.com/articles/reliable-llm-bayer.html"
+          "title": "The anatomy of an AI-native org",
+          "summary": "Latest AI discussion on Hacker News: The anatomy of an AI-native org. Points: 36. (Source: Hacker News)",
+          "url": "https://ajeygore.in/content/the-anatomy-of-an-ai-native-org"
         },
         {
-          "title": "When I reject AI code even if it works",
-          "summary": "Latest AI discussion on Hacker News: When I reject AI code even if it works. Points: 196. (Source: Hacker News)",
-          "url": "https://vinibrasil.com/when-i-reject-ai-code-even-if-it-works/"
+          "title": "Apertus – Open Foundation Model for Sovereign AI",
+          "summary": "Latest AI discussion on Hacker News: Apertus – Open Foundation Model for Sovereign AI. Points: 487. (Source: Hacker News)",
+          "url": "https://apertvs.ai/"
         },
         {
-          "title": "Temporary Cloudflare accounts for AI agents",
-          "summary": "Latest AI discussion on Hacker News: Temporary Cloudflare accounts for AI agents. Points: 220. (Source: Hacker News)",
-          "url": "https://blog.cloudflare.com/temporary-accounts/"
+          "title": "Show HN: Jacobi–IDE for Abaqus subroutine with analytical tests and AI diagnosis",
+          "summary": "Latest AI discussion on Hacker News: Show HN: Jacobi–IDE for Abaqus subroutine with analytical tests and AI diagnosis. Points: 18. (Source: Hacker News)",
+          "url": "https://jacobee.netlify.app/"
         }
       ]
     },
@@ -329,29 +329,29 @@
       "category": "Enterprise & Agentic AI",
       "items": [
         {
-          "title": "Companies rein in AI usage as costs strain budgets",
-          "summary": "Latest AI discussion on Hacker News: Companies rein in AI usage as costs strain budgets. Points: 120. (Source: Hacker News)",
-          "url": "https://www.ft.com/content/1d37cc08-e0aa-45a4-a45d-4ad282529314"
+          "title": "AI Under Trump's Control: Can France Still Avoid Digital Dependence?",
+          "summary": "Latest AI discussion on Hacker News: AI Under Trump's Control: Can France Still Avoid Digital Dependence?. Points: 28. (Source: Hacker News)",
+          "url": "https://thenewassociationwebmasters.blogspot.com/2026/06/ai-under-american-control-can-france.html"
         },
         {
-          "title": "Is AI ruining our skills? Early results are in – and they're not good",
-          "summary": "Latest AI discussion on Hacker News: Is AI ruining our skills? Early results are in – and they're not good. Points: 244. (Source: Hacker News)",
-          "url": "https://www.nature.com/articles/d41586-026-01947-1"
+          "title": "The 100k whys of AI",
+          "summary": "Latest AI discussion on Hacker News: The 100k whys of AI. Points: 190. (Source: Hacker News)",
+          "url": "https://lcamtuf.substack.com/p/the-100000-whys-of-ai"
         },
         {
-          "title": "A new bill takes aim at government pressure to silence lawful online speech",
-          "summary": "Latest AI discussion on Hacker News: A new bill takes aim at government pressure to silence lawful online speech. Points: 295. (Source: Hacker News)",
-          "url": "https://www.eff.org/deeplinks/2026/06/new-bill-takes-aim-government-pressure-silence-lawful-online-speech"
+          "title": "Don’t use AI to write things that you present as your own work",
+          "summary": "Latest AI discussion on Hacker News: Don’t use AI to write things that you present as your own work. Points: 97. (Source: Hacker News)",
+          "url": "https://www.satisfice.com/blog/archives/488148"
         },
         {
-          "title": "AI Engineer Claims to Have Cracked Linear A",
-          "summary": "Latest AI discussion on Hacker News: AI Engineer Claims to Have Cracked Linear A. Points: 441. (Source: Hacker News)",
-          "url": "https://aiclambake.com/clamtakes/linear-a/"
+          "title": "Building reliable agentic AI systems",
+          "summary": "Latest AI discussion on Hacker News: Building reliable agentic AI systems. Points: 193. (Source: Hacker News)",
+          "url": "https://martinfowler.com/articles/reliable-llm-bayer.html"
         },
         {
-          "title": "Norway imposes near ban on AI in elementary school",
-          "summary": "Latest AI discussion on Hacker News: Norway imposes near ban on AI in elementary school. Points: 801. (Source: Hacker News)",
-          "url": "https://www.reuters.com/technology/norway-imposes-near-ban-ai-elementary-school-2026-06-19/"
+          "title": "When I reject AI code even if it works",
+          "summary": "Latest AI discussion on Hacker News: When I reject AI code even if it works. Points: 225. (Source: Hacker News)",
+          "url": "https://vinibrasil.com/when-i-reject-ai-code-even-if-it-works/"
         }
       ]
     },
