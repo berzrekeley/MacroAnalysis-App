@@ -1,26 +1,26 @@
 {
-  "lastUpdated": "June 23, 2026",
+  "lastUpdated": "June 24, 2026",
   "executiveSummary": [
-    "As of June 23, 2026, the U.S. macroeconomic environment is navigating a complex period of high interest rates and shifting labor market dynamics. With the Fed Funds Rate holding at 3.63% and CPI inflation tracking at 4.17%, the central bank continues its \"higher-for-longer\" stance to anchor inflation expectations. Recent headlines such as \"Stock Market Today: Techs Dive As South Korea Leads Global Rout; Sandisk, Micron Dive As SpaceX Nears Lows\" suggest that market participants remain hypersensitive to every data print, particularly around corporate earnings and consumer spending resilience.",
-    "The labor market, a key pillar of support, shows 226,000 initial jobless claims, reflecting a relatively stable but cooling employment landscape. Geopolitically, events like \"Oil steady as investors focus on Hormuz flows after peace talks\" introduce exogenous risks that could disrupt global energy supplies and re-ignite inflationary impulses, keeping the Federal Reserve in a defensive posture as they balance growth against price stability. Analysts are closely watching for any signs of a \"hard landing\" as the effects of previous tightening cycles continue to filter through the real economy."
+    "As of June 24, 2026, the U.S. macroeconomic environment is navigating a complex period of high interest rates and shifting labor market dynamics. With the Fed Funds Rate holding at 3.63% and CPI inflation tracking at 4.17%, the central bank continues its \"higher-for-longer\" stance to anchor inflation expectations. Recent headlines such as \"Ovata Capital to wind down as founder and staff join ExodusPoint\" suggest that market participants remain hypersensitive to every data print, particularly around corporate earnings and consumer spending resilience.",
+    "The labor market, a key pillar of support, shows 226,000 initial jobless claims, reflecting a relatively stable but cooling employment landscape. Geopolitically, events like \"Stocks stabilise as tech recovers; dollar gets a boost\" introduce exogenous risks that could disrupt global energy supplies and re-ignite inflationary impulses, keeping the Federal Reserve in a defensive posture as they balance growth against price stability. Analysts are closely watching for any signs of a \"hard landing\" as the effects of previous tightening cycles continue to filter through the real economy."
   ],
   "dailyHeadlines": [
     {
-      "title": "Stock Market Today: Techs Dive As South Korea Leads Global Rout; Sandisk, Micron Dive As SpaceX Nears Lows",
+      "title": "Ovata Capital to wind down as founder and staff join ExodusPoint",
       "summary": "",
-      "url": "https://www.investors.com/market-trend/stock-market-today/techs-dive-south-korea-leads-global-rout-sandisk-micron-spacex/?src=A00220&amp;yptr=yahoo",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/ovata-capital-wind-down-founder-115952433.html",
       "type": "extreme"
     },
     {
-      "title": "Oil steady as investors focus on Hormuz flows after peace talks",
+      "title": "Stocks stabilise as tech recovers; dollar gets a boost",
       "summary": "",
-      "url": "https://finance.yahoo.com/news/oil-gains-selloff-awaits-progress-003527539.html",
+      "url": "https://finance.yahoo.com/news/asian-stocks-wobble-tech-led-014509887.html",
       "type": "warning"
     },
     {
-      "title": "GROW Small Cap Equity Fund Covered Its Position in Harrow (HROW) in Q1",
+      "title": "Dollar hits 13-month high as rate-hike bets and stock selloff boost demand",
       "summary": "",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/grow-small-cap-equity-fund-120610023.html",
+      "url": "https://finance.yahoo.com/news/dollar-13-month-high-rate-015035712.html",
       "type": "info"
     }
   ],
@@ -39,19 +39,19 @@
     },
     {
       "title": "10Y - 2Y Spread",
-      "value": "0.27%",
+      "value": "0.34%",
       "status": "Steepening - slower growth",
       "type": "warning"
     },
     {
       "title": "10Y Treasury Rate",
-      "value": "4.46%",
+      "value": "4.51%",
       "status": "High - energy-driven inflation",
       "type": "warning"
     },
     {
       "title": "2Y Treasury Rate",
-      "value": "4.19%",
+      "value": "4.24%",
       "status": "Elevated - higher-for-longer stance",
       "type": "warning"
     },
@@ -299,29 +299,29 @@
       "category": "Frontier Model Race & Breakthroughs",
       "items": [
         {
-          "title": "AI Built a Nuke and Still Lost",
-          "summary": "Latest AI discussion on Hacker News: AI Built a Nuke and Still Lost. Points: 73. (Source: Hacker News)",
-          "url": "https://www.lwilko.com/blog/i-gave-an-ai-a-civilization"
+          "title": "How to burst the AI bubble: Strike at its roots",
+          "summary": "Latest AI discussion on Hacker News: How to burst the AI bubble: Strike at its roots. Points: 44. (Source: Hacker News)",
+          "url": "https://arstechnica.com/gadgets/2026/06/how-to-burst-the-ai-bubble-strike-at-its-roots/"
         },
         {
-          "title": "Meta pauses AI training program tracking employee keystrokes after internal leak",
-          "summary": "Latest AI discussion on Hacker News: Meta pauses AI training program tracking employee keystrokes after internal leak. Points: 93. (Source: Hacker News)",
-          "url": "https://www.businessinsider.com/meta-ai-training-data-leak-exposed-employee-activity-across-company-2026-6"
+          "title": "US AI stock sell-off shakes markets from Wall Street to Asia",
+          "summary": "Latest AI discussion on Hacker News: US AI stock sell-off shakes markets from Wall Street to Asia. Points: 45. (Source: Hacker News)",
+          "url": "https://www.theguardian.com/business/2026/jun/23/ai-stocks-sell-off-us-markets"
         },
         {
-          "title": "AI Has Already Killed Academia as We Know It",
-          "summary": "Latest AI discussion on Hacker News: AI Has Already Killed Academia as We Know It. Points: 34. (Source: Hacker News)",
-          "url": "https://truths-and-loves.ghost.io/ai-has-already-killed-academia-as-we-know-it/"
+          "title": "'The Worst It's Ever Been': Why Meta's AI Reorg Backfired Spectacularly",
+          "summary": "Latest AI discussion on Hacker News: 'The Worst It's Ever Been': Why Meta's AI Reorg Backfired Spectacularly. Points: 36. (Source: Hacker News)",
+          "url": "https://www.inc.com/jessica-stillman/the-worst-its-ever-been-why-metas-massive-ai-reorg-backfired-spectacularly/91363370"
         },
         {
-          "title": "Bain tests software takeover targets by vibecoding AI replicas",
-          "summary": "Latest AI discussion on Hacker News: Bain tests software takeover targets by vibecoding AI replicas. Points: 29. (Source: Hacker News)",
-          "url": "https://www.ft.com/content/e5bac4d1-b1f8-43a4-bd54-b182d5357af0"
+          "title": "AI's Affordability Crisis",
+          "summary": "Latest AI discussion on Hacker News: AI's Affordability Crisis. Points: 298. (Source: Hacker News)",
+          "url": "https://blog.dshr.org/2026/06/ais-affordability-crisis.html"
         },
         {
-          "title": "Show HN: Selector Forge – browser extension for AI-generated resilient selectors",
-          "summary": "Latest AI discussion on Hacker News: Show HN: Selector Forge – browser extension for AI-generated resilient selectors. Points: 34. (Source: Hacker News)",
-          "url": "https://github.com/Intuned/selector-forge"
+          "title": "The Low-Tech AI of Elden Ring",
+          "summary": "Latest AI discussion on Hacker News: The Low-Tech AI of Elden Ring. Points: 152. (Source: Hacker News)",
+          "url": "https://nega.tv/posts/low-tech-ai-of-elden-ring.html"
         }
       ]
     },
@@ -329,29 +329,29 @@
       "category": "Enterprise & Agentic AI",
       "items": [
         {
-          "title": "The Coming Enshittification of AI",
-          "summary": "Latest AI discussion on Hacker News: The Coming Enshittification of AI. Points: 29. (Source: Hacker News)",
-          "url": "https://www.damianmr.com/posts/the-coming-enshittification-of-ai"
+          "title": "AI Built a Nuke and Still Lost",
+          "summary": "Latest AI discussion on Hacker News: AI Built a Nuke and Still Lost. Points: 86. (Source: Hacker News)",
+          "url": "https://www.lwilko.com/blog/i-gave-an-ai-a-civilization"
         },
         {
-          "title": "Tech Workers Are Fighting Against Silicon Valley's AI Push",
-          "summary": "Latest AI discussion on Hacker News: Tech Workers Are Fighting Against Silicon Valley's AI Push. Points: 46. (Source: Hacker News)",
-          "url": "https://www.techpolicy.press/tech-workers-are-fighting-against-silicon-valleys-ai-push/"
+          "title": "Meta pauses AI training program tracking employee keystrokes after internal leak",
+          "summary": "Latest AI discussion on Hacker News: Meta pauses AI training program tracking employee keystrokes after internal leak. Points: 121. (Source: Hacker News)",
+          "url": "https://www.businessinsider.com/meta-ai-training-data-leak-exposed-employee-activity-across-company-2026-6"
         },
         {
-          "title": "The anatomy of an AI-native org",
-          "summary": "Latest AI discussion on Hacker News: The anatomy of an AI-native org. Points: 36. (Source: Hacker News)",
-          "url": "https://ajeygore.in/content/the-anatomy-of-an-ai-native-org"
+          "title": "Oracle workforce shrinks by about 21,000 employees amid AI adoption",
+          "summary": "Latest AI discussion on Hacker News: Oracle workforce shrinks by about 21,000 employees amid AI adoption. Points: 31. (Source: Hacker News)",
+          "url": "https://www.reuters.com/business/world-at-work/oracle-workforce-shrinks-by-about-13-2026-06-22/"
         },
         {
-          "title": "Apertus – Open Foundation Model for Sovereign AI",
-          "summary": "Latest AI discussion on Hacker News: Apertus – Open Foundation Model for Sovereign AI. Points: 526. (Source: Hacker News)",
-          "url": "https://apertvs.ai/"
+          "title": "AI has already killed academia as we know it?",
+          "summary": "Latest AI discussion on Hacker News: AI has already killed academia as we know it?. Points: 66. (Source: Hacker News)",
+          "url": "https://truths-and-loves.ghost.io/ai-has-already-killed-academia-as-we-know-it/"
         },
         {
-          "title": "AI Under Trump's Control: Can France Still Avoid Digital Dependence?",
-          "summary": "Latest AI discussion on Hacker News: AI Under Trump's Control: Can France Still Avoid Digital Dependence?. Points: 29. (Source: Hacker News)",
-          "url": "https://thenewassociationwebmasters.blogspot.com/2026/06/ai-under-american-control-can-france.html"
+          "title": "Show HN: Selector Forge – browser extension for AI-generated resilient selectors",
+          "summary": "Latest AI discussion on Hacker News: Show HN: Selector Forge – browser extension for AI-generated resilient selectors. Points: 37. (Source: Hacker News)",
+          "url": "https://github.com/Intuned/selector-forge"
         }
       ]
     },
