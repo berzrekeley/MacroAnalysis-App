@@ -1,26 +1,26 @@
 {
-  "lastUpdated": "June 24, 2026",
+  "lastUpdated": "June 25, 2026",
   "executiveSummary": [
-    "As of June 24, 2026, the U.S. macroeconomic environment is navigating a complex period of high interest rates and shifting labor market dynamics. With the Fed Funds Rate holding at 3.63% and CPI inflation tracking at 4.17%, the central bank continues its \"higher-for-longer\" stance to anchor inflation expectations. Recent headlines such as \"Ovata Capital to wind down as founder and staff join ExodusPoint\" suggest that market participants remain hypersensitive to every data print, particularly around corporate earnings and consumer spending resilience.",
-    "The labor market, a key pillar of support, shows 226,000 initial jobless claims, reflecting a relatively stable but cooling employment landscape. Geopolitically, events like \"Stocks stabilise as tech recovers; dollar gets a boost\" introduce exogenous risks that could disrupt global energy supplies and re-ignite inflationary impulses, keeping the Federal Reserve in a defensive posture as they balance growth against price stability. Analysts are closely watching for any signs of a \"hard landing\" as the effects of previous tightening cycles continue to filter through the real economy."
+    "As of June 25, 2026, the U.S. macroeconomic environment is navigating a complex period of high interest rates and shifting labor market dynamics. With the Fed Funds Rate holding at 3.63% and CPI inflation tracking at 4.17%, the central bank continues its \"higher-for-longer\" stance to anchor inflation expectations. Recent headlines such as \"Live Nation CEO Michael Rapino spoke with Trump before DOJ settlement\" suggest that market participants remain hypersensitive to every data print, particularly around corporate earnings and consumer spending resilience.",
+    "The labor market, a key pillar of support, shows 226,000 initial jobless claims, reflecting a relatively stable but cooling employment landscape. Geopolitically, events like \"TD Cowen Maintains a Buy Rating on Boston Scientific (BSX)\" introduce exogenous risks that could disrupt global energy supplies and re-ignite inflationary impulses, keeping the Federal Reserve in a defensive posture as they balance growth against price stability. Analysts are closely watching for any signs of a \"hard landing\" as the effects of previous tightening cycles continue to filter through the real economy."
   ],
   "dailyHeadlines": [
     {
-      "title": "Ovata Capital to wind down as founder and staff join ExodusPoint",
+      "title": "Live Nation CEO Michael Rapino spoke with Trump before DOJ settlement",
       "summary": "",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/ovata-capital-wind-down-founder-115952433.html",
+      "url": "https://finance.yahoo.com/media-advertising/articles/live-nation-ceo-michael-rapino-120248969.html",
       "type": "extreme"
     },
     {
-      "title": "Stocks stabilise as tech recovers; dollar gets a boost",
+      "title": "TD Cowen Maintains a Buy Rating on Boston Scientific (BSX)",
       "summary": "",
-      "url": "https://finance.yahoo.com/news/asian-stocks-wobble-tech-led-014509887.html",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/td-cowen-maintains-buy-rating-115853392.html",
       "type": "warning"
     },
     {
-      "title": "Dollar hits 13-month high as rate-hike bets and stock selloff boost demand",
+      "title": "​DoorDash (DASH) Down 21% YTD, Should You Buy?",
       "summary": "",
-      "url": "https://finance.yahoo.com/news/dollar-13-month-high-rate-015035712.html",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/doordash-dash-down-21-ytd-115612677.html",
       "type": "info"
     }
   ],
@@ -39,19 +39,19 @@
     },
     {
       "title": "10Y - 2Y Spread",
-      "value": "0.34%",
+      "value": "0.30%",
       "status": "Steepening - slower growth",
       "type": "warning"
     },
     {
       "title": "10Y Treasury Rate",
-      "value": "4.51%",
+      "value": "4.50%",
       "status": "High - energy-driven inflation",
       "type": "warning"
     },
     {
       "title": "2Y Treasury Rate",
-      "value": "4.24%",
+      "value": "4.16%",
       "status": "Elevated - higher-for-longer stance",
       "type": "warning"
     },
@@ -75,7 +75,7 @@
     },
     {
       "title": "Building Permits",
-      "value": "1.413M",
+      "value": "1.410M",
       "status": "Soft - cooling residential activity",
       "type": "warning"
     },
@@ -299,29 +299,29 @@
       "category": "Frontier Model Race & Breakthroughs",
       "items": [
         {
-          "title": "How to burst the AI bubble: Strike at its roots",
-          "summary": "Latest AI discussion on Hacker News: How to burst the AI bubble: Strike at its roots. Points: 44. (Source: Hacker News)",
-          "url": "https://arstechnica.com/gadgets/2026/06/how-to-burst-the-ai-bubble-strike-at-its-roots/"
+          "title": "Anthropic says Alibaba illicitly extracted Claude AI model capabilities",
+          "summary": "Latest AI discussion on Hacker News: Anthropic says Alibaba illicitly extracted Claude AI model capabilities. Points: 496. (Source: Hacker News)",
+          "url": "https://www.reuters.com/world/china/anthropic-says-alibaba-illicitly-extracted-claude-ai-model-capabilities-2026-06-24/"
         },
         {
-          "title": "US AI stock sell-off shakes markets from Wall Street to Asia",
-          "summary": "Latest AI discussion on Hacker News: US AI stock sell-off shakes markets from Wall Street to Asia. Points: 45. (Source: Hacker News)",
-          "url": "https://www.theguardian.com/business/2026/jun/23/ai-stocks-sell-off-us-markets"
+          "title": "Big AI labs are hiring philosophers",
+          "summary": "Latest AI discussion on Hacker News: Big AI labs are hiring philosophers. Points: 140. (Source: Hacker News)",
+          "url": "https://www.economist.com/science-and-technology/2026/06/24/why-big-ai-labs-are-hiring-so-many-philosophers"
         },
         {
-          "title": "'The Worst It's Ever Been': Why Meta's AI Reorg Backfired Spectacularly",
-          "summary": "Latest AI discussion on Hacker News: 'The Worst It's Ever Been': Why Meta's AI Reorg Backfired Spectacularly. Points: 36. (Source: Hacker News)",
-          "url": "https://www.inc.com/jessica-stillman/the-worst-its-ever-been-why-metas-massive-ai-reorg-backfired-spectacularly/91363370"
+          "title": "For most of the world, open-source AI is the only way forward",
+          "summary": "Latest AI discussion on Hacker News: For most of the world, open-source AI is the only way forward. Points: 217. (Source: Hacker News)",
+          "url": "https://techstrong.ai/articles/for-most-of-the-world-open-source-ai-is-the-only-way-forward/"
         },
         {
-          "title": "AI's Affordability Crisis",
-          "summary": "Latest AI discussion on Hacker News: AI's Affordability Crisis. Points: 298. (Source: Hacker News)",
-          "url": "https://blog.dshr.org/2026/06/ais-affordability-crisis.html"
+          "title": "RubyLLM: A Ruby framework for all major AI providers",
+          "summary": "Latest AI discussion on Hacker News: RubyLLM: A Ruby framework for all major AI providers. Points: 396. (Source: Hacker News)",
+          "url": "https://rubyllm.com/"
         },
         {
-          "title": "The Low-Tech AI of Elden Ring",
-          "summary": "Latest AI discussion on Hacker News: The Low-Tech AI of Elden Ring. Points: 152. (Source: Hacker News)",
-          "url": "https://nega.tv/posts/low-tech-ai-of-elden-ring.html"
+          "title": "Reid Hoffman says SpaceX 'not an AI company', xAI 'complete train wreck'",
+          "summary": "Latest AI discussion on Hacker News: Reid Hoffman says SpaceX 'not an AI company', xAI 'complete train wreck'. Points: 231. (Source: Hacker News)",
+          "url": "https://fortune.com/2026/06/24/reid-hoffman-spacex-musk-openai-anthropic-gen-z-mistake/"
         }
       ]
     },
@@ -329,29 +329,29 @@
       "category": "Enterprise & Agentic AI",
       "items": [
         {
-          "title": "AI Built a Nuke and Still Lost",
-          "summary": "Latest AI discussion on Hacker News: AI Built a Nuke and Still Lost. Points: 86. (Source: Hacker News)",
-          "url": "https://www.lwilko.com/blog/i-gave-an-ai-a-civilization"
+          "title": "Haystack: Open-Source AI Framework for Production Ready Agents, RAG",
+          "summary": "Latest AI discussion on Hacker News: Haystack: Open-Source AI Framework for Production Ready Agents, RAG. Points: 87. (Source: Hacker News)",
+          "url": "https://haystack.deepset.ai/"
         },
         {
-          "title": "Meta pauses AI training program tracking employee keystrokes after internal leak",
-          "summary": "Latest AI discussion on Hacker News: Meta pauses AI training program tracking employee keystrokes after internal leak. Points: 121. (Source: Hacker News)",
-          "url": "https://www.businessinsider.com/meta-ai-training-data-leak-exposed-employee-activity-across-company-2026-6"
+          "title": "How to burst the AI bubble: Strike at its roots",
+          "summary": "Latest AI discussion on Hacker News: How to burst the AI bubble: Strike at its roots. Points: 62. (Source: Hacker News)",
+          "url": "https://arstechnica.com/gadgets/2026/06/how-to-burst-the-ai-bubble-strike-at-its-roots/"
         },
         {
-          "title": "Oracle workforce shrinks by about 21,000 employees amid AI adoption",
-          "summary": "Latest AI discussion on Hacker News: Oracle workforce shrinks by about 21,000 employees amid AI adoption. Points: 31. (Source: Hacker News)",
-          "url": "https://www.reuters.com/business/world-at-work/oracle-workforce-shrinks-by-about-13-2026-06-22/"
+          "title": "US AI stock sell-off shakes markets from Wall Street to Asia",
+          "summary": "Latest AI discussion on Hacker News: US AI stock sell-off shakes markets from Wall Street to Asia. Points: 55. (Source: Hacker News)",
+          "url": "https://www.theguardian.com/business/2026/jun/23/ai-stocks-sell-off-us-markets"
         },
         {
-          "title": "AI has already killed academia as we know it?",
-          "summary": "Latest AI discussion on Hacker News: AI has already killed academia as we know it?. Points: 66. (Source: Hacker News)",
-          "url": "https://truths-and-loves.ghost.io/ai-has-already-killed-academia-as-we-know-it/"
+          "title": "AI's Affordability Crisis",
+          "summary": "Latest AI discussion on Hacker News: AI's Affordability Crisis. Points: 328. (Source: Hacker News)",
+          "url": "https://blog.dshr.org/2026/06/ais-affordability-crisis.html"
         },
         {
-          "title": "Show HN: Selector Forge – browser extension for AI-generated resilient selectors",
-          "summary": "Latest AI discussion on Hacker News: Show HN: Selector Forge – browser extension for AI-generated resilient selectors. Points: 37. (Source: Hacker News)",
-          "url": "https://github.com/Intuned/selector-forge"
+          "title": "Show HN: peerd – AI agent harness that runs entirely in your browser",
+          "summary": "Latest AI discussion on Hacker News: Show HN: peerd – AI agent harness that runs entirely in your browser. Points: 61. (Source: Hacker News)",
+          "url": "https://github.com/NotASithLord/peerd"
         }
       ]
     },
