@@ -1,26 +1,26 @@
 {
-  "lastUpdated": "June 26, 2026",
+  "lastUpdated": "June 27, 2026",
   "executiveSummary": [
-    "As of June 26, 2026, the U.S. macroeconomic environment is navigating a complex period of high interest rates and shifting labor market dynamics. With the Fed Funds Rate holding at 3.63% and CPI inflation tracking at 4.17%, the central bank continues its \"higher-for-longer\" stance to anchor inflation expectations. Recent headlines such as \"Global chip stocks jump as blowout Micron results reignite AI rally\" suggest that market participants remain hypersensitive to every data print, particularly around corporate earnings and consumer spending resilience.",
-    "The labor market, a key pillar of support, shows 215,000 initial jobless claims, reflecting a relatively stable but cooling employment landscape. Geopolitically, events like \"Samsara tracking label targets $35B cargo theft problem\" introduce exogenous risks that could disrupt global energy supplies and re-ignite inflationary impulses, keeping the Federal Reserve in a defensive posture as they balance growth against price stability. Analysts are closely watching for any signs of a \"hard landing\" as the effects of previous tightening cycles continue to filter through the real economy."
+    "As of June 27, 2026, the U.S. macroeconomic environment is navigating a complex period of high interest rates and shifting labor market dynamics. With the Fed Funds Rate holding at 3.63% and CPI inflation tracking at 4.17%, the central bank continues its \"higher-for-longer\" stance to anchor inflation expectations. Recent headlines such as \"HELOC and home equity loan rates today, Friday, June 26, 2026: Looking ahead: Will the Fed raise rates?\" suggest that market participants remain hypersensitive to every data print, particularly around corporate earnings and consumer spending resilience.",
+    "The labor market, a key pillar of support, shows 215,000 initial jobless claims, reflecting a relatively stable but cooling employment landscape. Geopolitically, events like \"Best high-yield savings interest rates today, Friday, June 26, 2026: Up to 4.10% APY return\" introduce exogenous risks that could disrupt global energy supplies and re-ignite inflationary impulses, keeping the Federal Reserve in a defensive posture as they balance growth against price stability. Analysts are closely watching for any signs of a \"hard landing\" as the effects of previous tightening cycles continue to filter through the real economy."
   ],
   "dailyHeadlines": [
     {
-      "title": "Global chip stocks jump as blowout Micron results reignite AI rally",
+      "title": "HELOC and home equity loan rates today, Friday, June 26, 2026: Looking ahead: Will the Fed raise rates?",
       "summary": "",
-      "url": "https://finance.yahoo.com/technology/ai/articles/south-korean-chip-shares-surge-001932900.html",
+      "url": "https://finance.yahoo.com/personal-finance/mortgages/article/heloc-and-home-equity-loan-rates-today-friday-june-26-2026-looking-ahead-will-the-fed-raise-rates-100000567.html",
       "type": "extreme"
     },
     {
-      "title": "Samsara tracking label targets $35B cargo theft problem",
+      "title": "Best high-yield savings interest rates today, Friday, June 26, 2026: Up to 4.10% APY return",
       "summary": "",
-      "url": "https://finance.yahoo.com/technology/articles/samsara-tracking-label-targets-35b-000431094.html",
+      "url": "https://finance.yahoo.com/personal-finance/banking/article/best-high-yield-savings-interest-rates-today-friday-june-26-2026-up-to-410-apy-return-100000413.html",
       "type": "warning"
     },
     {
-      "title": "Barclays resets S&amp;P 500 price target with a key warning",
+      "title": "Swatch seeks $170 million in damages from Samsung over trademark infringement",
       "summary": "",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/barclays-resets-p-500-price-000300073.html",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/swatch-claiming-170-million-damages-095448848.html",
       "type": "info"
     }
   ],
@@ -45,19 +45,19 @@
     },
     {
       "title": "10Y Treasury Rate",
-      "value": "4.41%",
+      "value": "4.40%",
       "status": "High - energy-driven inflation",
       "type": "warning"
     },
     {
       "title": "2Y Treasury Rate",
-      "value": "4.11%",
+      "value": "4.09%",
       "status": "Elevated - higher-for-longer stance",
       "type": "warning"
     },
     {
       "title": "Consumer Sentiment",
-      "value": "49.8",
+      "value": "44.8",
       "status": "Critical - record low",
       "type": "extreme"
     },
@@ -69,7 +69,7 @@
     },
     {
       "title": "Leading Index (LEI)",
-      "value": "49.8",
+      "value": "44.8",
       "status": "Weakening - persistent headwinds",
       "type": "warning"
     },
@@ -299,29 +299,29 @@
       "category": "Frontier Model Race & Breakthroughs",
       "items": [
         {
+          "title": "U.S. allows Anthropic to release Mythos AI to ‘trusted’ US organizations",
+          "summary": "Latest AI discussion on Hacker News: U.S. allows Anthropic to release Mythos AI to ‘trusted’ US organizations. Points: 459. (Source: Hacker News)",
+          "url": "https://www.semafor.com/article/06/27/2026/us-releases-powerful-anthropic-model-mythos-to-some-us-companies"
+        },
+        {
+          "title": "AI in mathematics is forcing big questions",
+          "summary": "Latest AI discussion on Hacker News: AI in mathematics is forcing big questions. Points: 136. (Source: Hacker News)",
+          "url": "https://spectrum.ieee.org/ai-in-mathematics"
+        },
+        {
+          "title": "The AI industry is pouring millions into US elections",
+          "summary": "Latest AI discussion on Hacker News: The AI industry is pouring millions into US elections. Points: 117. (Source: Hacker News)",
+          "url": "https://www.bloodinthemachine.com/p/the-ai-industry-is-pouring-hundreds"
+        },
+        {
+          "title": "The AI backlash is only getting started",
+          "summary": "Latest AI discussion on Hacker News: The AI backlash is only getting started. Points: 92. (Source: Hacker News)",
+          "url": "https://www.economist.com/leaders/2026/06/25/the-ai-backlash-is-only-getting-started"
+        },
+        {
           "title": "What happened after 2k people tried to hack my AI assistant",
-          "summary": "Latest AI discussion on Hacker News: What happened after 2k people tried to hack my AI assistant. Points: 207. (Source: Hacker News)",
+          "summary": "Latest AI discussion on Hacker News: What happened after 2k people tried to hack my AI assistant. Points: 364. (Source: Hacker News)",
           "url": "https://www.fernandoi.cl/posts/hackmyclaw/"
-        },
-        {
-          "title": "AI children's books, body horror edition",
-          "summary": "Latest AI discussion on Hacker News: AI children's books, body horror edition. Points: 185. (Source: Hacker News)",
-          "url": "https://lcamtuf.substack.com/p/ai-childrens-books-body-horror-edition"
-        },
-        {
-          "title": "Apple to skip high-end M6 Mac chips in favor of AI-focused M7 line",
-          "summary": "Latest AI discussion on Hacker News: Apple to skip high-end M6 Mac chips in favor of AI-focused M7 line. Points: 285. (Source: Hacker News)",
-          "url": "https://www.bloomberg.com/news/articles/2026-06-25/apple-to-skip-high-end-m6-mac-chips-to-launch-m7-pro-m7-max-m7-ultra-instead?embedded-checkout=true"
-        },
-        {
-          "title": "Show HN: OpenKnowledge – open source AI-first alternative to Obsidian/Notion",
-          "summary": "Latest AI discussion on Hacker News: Show HN: OpenKnowledge – open source AI-first alternative to Obsidian/Notion. Points: 292. (Source: Hacker News)",
-          "url": "https://github.com/inkeep/open-knowledge"
-        },
-        {
-          "title": "Ford AI hiccups push carmaker to rehire ‘gray beard’ inspectors",
-          "summary": "Latest AI discussion on Hacker News: Ford AI hiccups push carmaker to rehire ‘gray beard’ inspectors. Points: 589. (Source: Hacker News)",
-          "url": "https://www.bloomberg.com/news/articles/2026-06-25/ford-has-been-rehiring-quality-inspectors-after-ai-fell-short"
         }
       ]
     },
@@ -329,29 +329,29 @@
       "category": "Enterprise & Agentic AI",
       "items": [
         {
-          "title": "Anthropic says Alibaba illicitly extracted Claude AI model capabilities",
-          "summary": "Latest AI discussion on Hacker News: Anthropic says Alibaba illicitly extracted Claude AI model capabilities. Points: 764. (Source: Hacker News)",
-          "url": "https://www.reuters.com/world/china/anthropic-says-alibaba-illicitly-extracted-claude-ai-model-capabilities-2026-06-24/"
+          "title": "AI children's books, body horror edition",
+          "summary": "Latest AI discussion on Hacker News: AI children's books, body horror edition. Points: 206. (Source: Hacker News)",
+          "url": "https://lcamtuf.substack.com/p/ai-childrens-books-body-horror-edition"
         },
         {
-          "title": "Big AI labs are hiring philosophers",
-          "summary": "Latest AI discussion on Hacker News: Big AI labs are hiring philosophers. Points: 149. (Source: Hacker News)",
-          "url": "https://www.economist.com/science-and-technology/2026/06/24/why-big-ai-labs-are-hiring-so-many-philosophers"
+          "title": "Apple to skip high-end M6 Mac chips in favor of AI-focused M7 line",
+          "summary": "Latest AI discussion on Hacker News: Apple to skip high-end M6 Mac chips in favor of AI-focused M7 line. Points: 309. (Source: Hacker News)",
+          "url": "https://www.bloomberg.com/news/articles/2026-06-25/apple-to-skip-high-end-m6-mac-chips-to-launch-m7-pro-m7-max-m7-ultra-instead?embedded-checkout=true"
         },
         {
-          "title": "For most of the world, open-source AI is the only way forward",
-          "summary": "Latest AI discussion on Hacker News: For most of the world, open-source AI is the only way forward. Points: 232. (Source: Hacker News)",
-          "url": "https://techstrong.ai/articles/for-most-of-the-world-open-source-ai-is-the-only-way-forward/"
+          "title": "Show HN: OpenKnowledge – open source AI-first alternative to Obsidian/Notion",
+          "summary": "Latest AI discussion on Hacker News: Show HN: OpenKnowledge – open source AI-first alternative to Obsidian/Notion. Points: 368. (Source: Hacker News)",
+          "url": "https://github.com/inkeep/open-knowledge"
         },
         {
-          "title": "RubyLLM: A Ruby framework for all major AI providers",
-          "summary": "Latest AI discussion on Hacker News: RubyLLM: A Ruby framework for all major AI providers. Points: 442. (Source: Hacker News)",
-          "url": "https://rubyllm.com/"
+          "title": "Ford AI hiccups push carmaker to rehire ‘gray beard’ inspectors",
+          "summary": "Latest AI discussion on Hacker News: Ford AI hiccups push carmaker to rehire ‘gray beard’ inspectors. Points: 600. (Source: Hacker News)",
+          "url": "https://www.bloomberg.com/news/articles/2026-06-25/ford-has-been-rehiring-quality-inspectors-after-ai-fell-short"
         },
         {
-          "title": "Reid Hoffman says SpaceX 'not an AI company', xAI 'complete train wreck'",
-          "summary": "Latest AI discussion on Hacker News: Reid Hoffman says SpaceX 'not an AI company', xAI 'complete train wreck'. Points: 236. (Source: Hacker News)",
-          "url": "https://fortune.com/2026/06/24/reid-hoffman-spacex-musk-openai-anthropic-gen-z-mistake/"
+          "title": "Political bias in AI: Where the AI models stand",
+          "summary": "Latest AI discussion on Hacker News: Political bias in AI: Where the AI models stand. Points: 174. (Source: Hacker News)",
+          "url": "https://trakkr.ai/bias"
         }
       ]
     },
