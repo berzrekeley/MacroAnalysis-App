@@ -1,26 +1,26 @@
 {
-  "lastUpdated": "June 28, 2026",
+  "lastUpdated": "June 29, 2026",
   "executiveSummary": [
-    "As of June 28, 2026, the U.S. macroeconomic environment is navigating a complex period of high interest rates and shifting labor market dynamics. With the Fed Funds Rate holding at 3.63% and CPI inflation tracking at 4.17%, the central bank continues its \"higher-for-longer\" stance to anchor inflation expectations. Recent headlines such as \"'Dean Of Valuation' Aswath Damodaran Warns Private Credit Is 'Setting Itself Up For A Beating' Amid AI Data Center Lending Boom\" suggest that market participants remain hypersensitive to every data print, particularly around corporate earnings and consumer spending resilience.",
-    "The labor market, a key pillar of support, shows 215,000 initial jobless claims, reflecting a relatively stable but cooling employment landscape. Geopolitically, events like \"Regret taking Social Security at 62? What to do if the decision haunts you (and why younger Boomers must take notice)\" introduce exogenous risks that could disrupt global energy supplies and re-ignite inflationary impulses, keeping the Federal Reserve in a defensive posture as they balance growth against price stability. Analysts are closely watching for any signs of a \"hard landing\" as the effects of previous tightening cycles continue to filter through the real economy."
+    "As of June 29, 2026, the U.S. macroeconomic environment is navigating a complex period of high interest rates and shifting labor market dynamics. With the Fed Funds Rate holding at 3.63% and CPI inflation tracking at 4.17%, the central bank continues its \"higher-for-longer\" stance to anchor inflation expectations. Recent headlines such as \"Stock Market Today: Dow Rises On U.S.-Iran News; SpaceX Rallies On Index Addition (Live Coverage)\" suggest that market participants remain hypersensitive to every data print, particularly around corporate earnings and consumer spending resilience.",
+    "The labor market, a key pillar of support, shows 215,000 initial jobless claims, reflecting a relatively stable but cooling employment landscape. Geopolitically, events like \"BofA, Jefferies Start Quantinuum With Buy Ratings On 'Full-Stack' Platform\" introduce exogenous risks that could disrupt global energy supplies and re-ignite inflationary impulses, keeping the Federal Reserve in a defensive posture as they balance growth against price stability. Analysts are closely watching for any signs of a \"hard landing\" as the effects of previous tightening cycles continue to filter through the real economy."
   ],
   "dailyHeadlines": [
     {
-      "title": "'Dean Of Valuation' Aswath Damodaran Warns Private Credit Is 'Setting Itself Up For A Beating' Amid AI Data Center Lending Boom",
+      "title": "Stock Market Today: Dow Rises On U.S.-Iran News; SpaceX Rallies On Index Addition (Live Coverage)",
       "summary": "",
-      "url": "https://finance.yahoo.com/technology/ai/articles/dean-valuation-aswath-damodaran-warns-104614246.html",
+      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-us-iran-spacex-spcx-stock-nasdaq-100/?src=A00220&amp;yptr=yahoo",
       "type": "extreme"
     },
     {
-      "title": "Regret taking Social Security at 62? What to do if the decision haunts you (and why younger Boomers must take notice)",
+      "title": "BofA, Jefferies Start Quantinuum With Buy Ratings On 'Full-Stack' Platform",
       "summary": "",
-      "url": "https://finance.yahoo.com/markets/articles/regret-taking-social-security-62-104500328.html",
+      "url": "https://www.investors.com/news/technology/jefferies-starts-quantinuum-stock-qnt-buy-rating-full-stack-platform/?src=A00220&amp;yptr=yahoo",
       "type": "warning"
     },
     {
-      "title": "Missouri dad stashes stocks in a coffee can for his 3 daughters. He says with time, they’ll grow to $500 million",
+      "title": "'Magnificent 7' stocks are having a dreadful year",
       "summary": "",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/missouri-dad-stashes-stocks-coffee-103000092.html",
+      "url": "https://finance.yahoo.com/markets/article/magnificent-7-stocks-are-having-a-dreadful-year-134333813.html",
       "type": "info"
     }
   ],
@@ -299,29 +299,29 @@
       "category": "Frontier Model Race & Breakthroughs",
       "items": [
         {
-          "title": "Ford hired AI and sacked humans. It backfired badly",
-          "summary": "Latest AI discussion on Hacker News: Ford hired AI and sacked humans. It backfired badly. Points: 207. (Source: Hacker News)",
-          "url": "https://www.the-independent.com/tech/ford-ai-automation-human-workers-b3003787.html"
+          "title": "AI boom risks global financial crash, warn central bankers",
+          "summary": "Latest AI discussion on Hacker News: AI boom risks global financial crash, warn central bankers. Points: 141. (Source: Hacker News)",
+          "url": "https://www.telegraph.co.uk/business/2026/06/28/ai-boom-risks-global-financial-crash-central-bankers-warn/"
         },
         {
-          "title": "The best response to AI slop and online noise is from Robin Williams",
-          "summary": "Latest AI discussion on Hacker News: The best response to AI slop and online noise is from Robin Williams. Points: 257. (Source: Hacker News)",
-          "url": "https://jayacunzo.com/blog/your-move-chief"
+          "title": "We need tech news sources which exclude AI",
+          "summary": "Latest AI discussion on Hacker News: We need tech news sources which exclude AI. Points: 126. (Source: Hacker News)",
+          "url": "https://news.ycombinator.com/item?id=48713041"
         },
         {
-          "title": "The AI Industry as You Know It Died Today",
-          "summary": "Latest AI discussion on Hacker News: The AI Industry as You Know It Died Today. Points: 29. (Source: Hacker News)",
-          "url": "https://www.thealgorithmicbridge.com/p/the-ai-industry-as-you-know-it-died"
+          "title": "Ford rehires 'gray beard' engineers after AI falls short",
+          "summary": "Latest AI discussion on Hacker News: Ford rehires 'gray beard' engineers after AI falls short. Points: 133. (Source: Hacker News)",
+          "url": "https://techcrunch.com/2026/06/28/ford-rehires-gray-beard-engineers-after-ai-falls-short/"
         },
         {
-          "title": "Everyone feared AI taking over; the real danger is AI serving just the few",
-          "summary": "Latest AI discussion on Hacker News: Everyone feared AI taking over; the real danger is AI serving just the few. Points: 79. (Source: Hacker News)",
-          "url": "https://news.ycombinator.com/item?id=48701615"
+          "title": "Librepods: AirPods liberated",
+          "summary": "Latest AI discussion on Hacker News: Librepods: AirPods liberated. Points: 437. (Source: Hacker News)",
+          "url": "https://github.com/librepods-org/librepods"
         },
         {
-          "title": "Asian AI startups launch Mythos-like models",
-          "summary": "Latest AI discussion on Hacker News: Asian AI startups launch Mythos-like models. Points: 244. (Source: Hacker News)",
-          "url": "https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on/"
+          "title": "Professor denounces mass AI fraud on an exam at Brown",
+          "summary": "Latest AI discussion on Hacker News: Professor denounces mass AI fraud on an exam at Brown. Points: 474. (Source: Hacker News)",
+          "url": "https://english.elpais.com/education/2026-06-28/ai-fraud-at-brown-university-academic-integrity-is-at-risk.html"
         }
       ]
     },
@@ -329,29 +329,29 @@
       "category": "Enterprise & Agentic AI",
       "items": [
         {
-          "title": "U.S. allows Anthropic to release Mythos AI to ‘trusted’ US organizations",
-          "summary": "Latest AI discussion on Hacker News: U.S. allows Anthropic to release Mythos AI to ‘trusted’ US organizations. Points: 546. (Source: Hacker News)",
-          "url": "https://www.semafor.com/article/06/27/2026/us-releases-powerful-anthropic-model-mythos-to-some-us-companies"
+          "title": "Google limits Meta's use of its Gemini AI models",
+          "summary": "Latest AI discussion on Hacker News: Google limits Meta's use of its Gemini AI models. Points: 156. (Source: Hacker News)",
+          "url": "https://www.cnbc.com/2026/06/28/google-limits-metas-use-of-its-gemini-ai-models-ft-reports.html"
         },
         {
-          "title": "AI in mathematics is forcing big questions",
-          "summary": "Latest AI discussion on Hacker News: AI in mathematics is forcing big questions. Points: 202. (Source: Hacker News)",
-          "url": "https://spectrum.ieee.org/ai-in-mathematics"
+          "title": "The origins of the school system aimed to produce independent, critical thinkers (2024)",
+          "summary": "Latest AI discussion on Hacker News: The origins of the school system aimed to produce independent, critical thinkers (2024). Points: 107. (Source: Hacker News)",
+          "url": "https://www.cbc.ca/radio/ideas/humboldt-education-system-bildung-1.7172093"
         },
         {
-          "title": "AgentKits – 60 production-ready AI agent blueprints with guardrails",
-          "summary": "Latest AI discussion on Hacker News: AgentKits – 60 production-ready AI agent blueprints with guardrails. Points: 38. (Source: Hacker News)",
-          "url": "https://www.agent-kits.com"
+          "title": "Ford hired AI and sacked humans. It backfired badly",
+          "summary": "Latest AI discussion on Hacker News: Ford hired AI and sacked humans. It backfired badly. Points: 235. (Source: Hacker News)",
+          "url": "https://www.the-independent.com/tech/ford-ai-automation-human-workers-b3003787.html"
         },
         {
-          "title": "The AI industry is pouring millions into US elections",
-          "summary": "Latest AI discussion on Hacker News: The AI industry is pouring millions into US elections. Points: 121. (Source: Hacker News)",
-          "url": "https://www.bloodinthemachine.com/p/the-ai-industry-is-pouring-hundreds"
+          "title": "The best response to AI slop and online noise is from Robin Williams",
+          "summary": "Latest AI discussion on Hacker News: The best response to AI slop and online noise is from Robin Williams. Points: 389. (Source: Hacker News)",
+          "url": "https://jayacunzo.com/blog/your-move-chief"
         },
         {
-          "title": "The AI backlash is only getting started",
-          "summary": "Latest AI discussion on Hacker News: The AI backlash is only getting started. Points: 95. (Source: Hacker News)",
-          "url": "https://www.economist.com/leaders/2026/06/25/the-ai-backlash-is-only-getting-started"
+          "title": "Everyone feared AI taking over; the real danger is AI serving just the few",
+          "summary": "Latest AI discussion on Hacker News: Everyone feared AI taking over; the real danger is AI serving just the few. Points: 109. (Source: Hacker News)",
+          "url": "https://news.ycombinator.com/item?id=48701615"
         }
       ]
     },
