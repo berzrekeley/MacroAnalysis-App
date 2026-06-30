@@ -1,26 +1,26 @@
 {
-  "lastUpdated": "June 29, 2026",
+  "lastUpdated": "June 30, 2026",
   "executiveSummary": [
-    "As of June 29, 2026, the U.S. macroeconomic environment is navigating a complex period of high interest rates and shifting labor market dynamics. With the Fed Funds Rate holding at 3.63% and CPI inflation tracking at 4.17%, the central bank continues its \"higher-for-longer\" stance to anchor inflation expectations. Recent headlines such as \"Stock Market Today: Dow Rises On U.S.-Iran News; SpaceX Rallies On Index Addition (Live Coverage)\" suggest that market participants remain hypersensitive to every data print, particularly around corporate earnings and consumer spending resilience.",
-    "The labor market, a key pillar of support, shows 215,000 initial jobless claims, reflecting a relatively stable but cooling employment landscape. Geopolitically, events like \"BofA, Jefferies Start Quantinuum With Buy Ratings On 'Full-Stack' Platform\" introduce exogenous risks that could disrupt global energy supplies and re-ignite inflationary impulses, keeping the Federal Reserve in a defensive posture as they balance growth against price stability. Analysts are closely watching for any signs of a \"hard landing\" as the effects of previous tightening cycles continue to filter through the real economy."
+    "As of June 30, 2026, the U.S. macroeconomic environment is navigating a complex period of high interest rates and shifting labor market dynamics. With the Fed Funds Rate holding at 3.63% and CPI inflation tracking at 4.17%, the central bank continues its \"higher-for-longer\" stance to anchor inflation expectations. Recent headlines such as \"Gold prices today, Tuesday, June 30: Hanging just above $4,000, but ready to rise?\" suggest that market participants remain hypersensitive to every data print, particularly around corporate earnings and consumer spending resilience.",
+    "The labor market, a key pillar of support, shows 215,000 initial jobless claims, reflecting a relatively stable but cooling employment landscape. Geopolitically, events like \"Oracle (ORCL) Launches Fusion Agentic Applications to Automate Supply Chain Management Tasks\" introduce exogenous risks that could disrupt global energy supplies and re-ignite inflationary impulses, keeping the Federal Reserve in a defensive posture as they balance growth against price stability. Analysts are closely watching for any signs of a \"hard landing\" as the effects of previous tightening cycles continue to filter through the real economy."
   ],
   "dailyHeadlines": [
     {
-      "title": "Stock Market Today: Dow Rises On U.S.-Iran News; SpaceX Rallies On Index Addition (Live Coverage)",
+      "title": "Gold prices today, Tuesday, June 30: Hanging just above $4,000, but ready to rise?",
       "summary": "",
-      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-us-iran-spacex-spcx-stock-nasdaq-100/?src=A00220&amp;yptr=yahoo",
+      "url": "https://finance.yahoo.com/personal-finance/investing/article/gold-prices-today-tuesday-june-30-hanging-just-above-4000-but-ready-to-rise-115357985.html",
       "type": "extreme"
     },
     {
-      "title": "BofA, Jefferies Start Quantinuum With Buy Ratings On 'Full-Stack' Platform",
+      "title": "Oracle (ORCL) Launches Fusion Agentic Applications to Automate Supply Chain Management Tasks",
       "summary": "",
-      "url": "https://www.investors.com/news/technology/jefferies-starts-quantinuum-stock-qnt-buy-rating-full-stack-platform/?src=A00220&amp;yptr=yahoo",
+      "url": "https://finance.yahoo.com/technology/ai/articles/oracle-orcl-launches-fusion-agentic-114627722.html",
       "type": "warning"
     },
     {
-      "title": "'Magnificent 7' stocks are having a dreadful year",
+      "title": "Trip.com Group (TCOM): 10 Undervalued Stocks with High Upside Potential",
       "summary": "",
-      "url": "https://finance.yahoo.com/markets/article/magnificent-7-stocks-are-having-a-dreadful-year-134333813.html",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/trip-com-group-tcom-10-114622848.html",
       "type": "info"
     }
   ],
@@ -39,19 +39,19 @@
     },
     {
       "title": "10Y - 2Y Spread",
-      "value": "0.31%",
+      "value": "0.28%",
       "status": "Steepening - slower growth",
       "type": "warning"
     },
     {
       "title": "10Y Treasury Rate",
-      "value": "4.40%",
+      "value": "4.38%",
       "status": "High - energy-driven inflation",
       "type": "warning"
     },
     {
       "title": "2Y Treasury Rate",
-      "value": "4.09%",
+      "value": "4.07%",
       "status": "Elevated - higher-for-longer stance",
       "type": "warning"
     },
@@ -299,29 +299,29 @@
       "category": "Frontier Model Race & Breakthroughs",
       "items": [
         {
+          "title": "Working With AI: A concrete example",
+          "summary": "Latest AI discussion on Hacker News: Working With AI: A concrete example. Points: 165. (Source: Hacker News)",
+          "url": "https://htmx.org/essays/working-with-ai/"
+        },
+        {
+          "title": "Tidal AI Policy",
+          "summary": "Latest AI discussion on Hacker News: Tidal AI Policy. Points: 301. (Source: Hacker News)",
+          "url": "https://tidal.com/ai-policy"
+        },
+        {
           "title": "AI boom risks global financial crash, warn central bankers",
-          "summary": "Latest AI discussion on Hacker News: AI boom risks global financial crash, warn central bankers. Points: 141. (Source: Hacker News)",
+          "summary": "Latest AI discussion on Hacker News: AI boom risks global financial crash, warn central bankers. Points: 156. (Source: Hacker News)",
           "url": "https://www.telegraph.co.uk/business/2026/06/28/ai-boom-risks-global-financial-crash-central-bankers-warn/"
         },
         {
           "title": "We need tech news sources which exclude AI",
-          "summary": "Latest AI discussion on Hacker News: We need tech news sources which exclude AI. Points: 126. (Source: Hacker News)",
+          "summary": "Latest AI discussion on Hacker News: We need tech news sources which exclude AI. Points: 136. (Source: Hacker News)",
           "url": "https://news.ycombinator.com/item?id=48713041"
         },
         {
           "title": "Ford rehires 'gray beard' engineers after AI falls short",
-          "summary": "Latest AI discussion on Hacker News: Ford rehires 'gray beard' engineers after AI falls short. Points: 133. (Source: Hacker News)",
+          "summary": "Latest AI discussion on Hacker News: Ford rehires 'gray beard' engineers after AI falls short. Points: 135. (Source: Hacker News)",
           "url": "https://techcrunch.com/2026/06/28/ford-rehires-gray-beard-engineers-after-ai-falls-short/"
-        },
-        {
-          "title": "Librepods: AirPods liberated",
-          "summary": "Latest AI discussion on Hacker News: Librepods: AirPods liberated. Points: 437. (Source: Hacker News)",
-          "url": "https://github.com/librepods-org/librepods"
-        },
-        {
-          "title": "Professor denounces mass AI fraud on an exam at Brown",
-          "summary": "Latest AI discussion on Hacker News: Professor denounces mass AI fraud on an exam at Brown. Points: 474. (Source: Hacker News)",
-          "url": "https://english.elpais.com/education/2026-06-28/ai-fraud-at-brown-university-academic-integrity-is-at-risk.html"
         }
       ]
     },
@@ -329,29 +329,29 @@
       "category": "Enterprise & Agentic AI",
       "items": [
         {
+          "title": "Librepods: AirPods liberated",
+          "summary": "Latest AI discussion on Hacker News: Librepods: AirPods liberated. Points: 490. (Source: Hacker News)",
+          "url": "https://github.com/librepods-org/librepods"
+        },
+        {
+          "title": "Professor denounces mass AI fraud on an exam at Brown",
+          "summary": "Latest AI discussion on Hacker News: Professor denounces mass AI fraud on an exam at Brown. Points: 541. (Source: Hacker News)",
+          "url": "https://english.elpais.com/education/2026-06-28/ai-fraud-at-brown-university-academic-integrity-is-at-risk.html"
+        },
+        {
+          "title": "Reflections on software engineering in the age of AI",
+          "summary": "Latest AI discussion on Hacker News: Reflections on software engineering in the age of AI. Points: 104. (Source: Hacker News)",
+          "url": "https://adiamond.me/2026/06/software-engineering-in-the-age-of-ai/"
+        },
+        {
           "title": "Google limits Meta's use of its Gemini AI models",
-          "summary": "Latest AI discussion on Hacker News: Google limits Meta's use of its Gemini AI models. Points: 156. (Source: Hacker News)",
+          "summary": "Latest AI discussion on Hacker News: Google limits Meta's use of its Gemini AI models. Points: 159. (Source: Hacker News)",
           "url": "https://www.cnbc.com/2026/06/28/google-limits-metas-use-of-its-gemini-ai-models-ft-reports.html"
         },
         {
           "title": "The origins of the school system aimed to produce independent, critical thinkers (2024)",
-          "summary": "Latest AI discussion on Hacker News: The origins of the school system aimed to produce independent, critical thinkers (2024). Points: 107. (Source: Hacker News)",
+          "summary": "Latest AI discussion on Hacker News: The origins of the school system aimed to produce independent, critical thinkers (2024). Points: 110. (Source: Hacker News)",
           "url": "https://www.cbc.ca/radio/ideas/humboldt-education-system-bildung-1.7172093"
-        },
-        {
-          "title": "Ford hired AI and sacked humans. It backfired badly",
-          "summary": "Latest AI discussion on Hacker News: Ford hired AI and sacked humans. It backfired badly. Points: 235. (Source: Hacker News)",
-          "url": "https://www.the-independent.com/tech/ford-ai-automation-human-workers-b3003787.html"
-        },
-        {
-          "title": "The best response to AI slop and online noise is from Robin Williams",
-          "summary": "Latest AI discussion on Hacker News: The best response to AI slop and online noise is from Robin Williams. Points: 389. (Source: Hacker News)",
-          "url": "https://jayacunzo.com/blog/your-move-chief"
-        },
-        {
-          "title": "Everyone feared AI taking over; the real danger is AI serving just the few",
-          "summary": "Latest AI discussion on Hacker News: Everyone feared AI taking over; the real danger is AI serving just the few. Points: 109. (Source: Hacker News)",
-          "url": "https://news.ycombinator.com/item?id=48701615"
         }
       ]
     },
