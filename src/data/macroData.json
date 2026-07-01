@@ -1,26 +1,26 @@
 {
-  "lastUpdated": "June 30, 2026",
+  "lastUpdated": "July 1, 2026",
   "executiveSummary": [
-    "As of June 30, 2026, the U.S. macroeconomic environment is navigating a complex period of high interest rates and shifting labor market dynamics. With the Fed Funds Rate holding at 3.63% and CPI inflation tracking at 4.17%, the central bank continues its \"higher-for-longer\" stance to anchor inflation expectations. Recent headlines such as \"Gold prices today, Tuesday, June 30: Hanging just above $4,000, but ready to rise?\" suggest that market participants remain hypersensitive to every data print, particularly around corporate earnings and consumer spending resilience.",
-    "The labor market, a key pillar of support, shows 215,000 initial jobless claims, reflecting a relatively stable but cooling employment landscape. Geopolitically, events like \"Oracle (ORCL) Launches Fusion Agentic Applications to Automate Supply Chain Management Tasks\" introduce exogenous risks that could disrupt global energy supplies and re-ignite inflationary impulses, keeping the Federal Reserve in a defensive posture as they balance growth against price stability. Analysts are closely watching for any signs of a \"hard landing\" as the effects of previous tightening cycles continue to filter through the real economy."
+    "As of July 1, 2026, the U.S. macroeconomic environment is navigating a complex period of high interest rates and shifting labor market dynamics. With the Fed Funds Rate holding at 3.63% and CPI inflation tracking at 4.17%, the central bank continues its \"higher-for-longer\" stance to anchor inflation expectations. Recent headlines such as \"Private employers added 98,000 jobs in June, fewer than expected\" suggest that market participants remain hypersensitive to every data print, particularly around corporate earnings and consumer spending resilience.",
+    "The labor market, a key pillar of support, shows 215,000 initial jobless claims, reflecting a relatively stable but cooling employment landscape. Geopolitically, events like \"Fini backs PE takeover of US candy firm YumEarth\" introduce exogenous risks that could disrupt global energy supplies and re-ignite inflationary impulses, keeping the Federal Reserve in a defensive posture as they balance growth against price stability. Analysts are closely watching for any signs of a \"hard landing\" as the effects of previous tightening cycles continue to filter through the real economy."
   ],
   "dailyHeadlines": [
     {
-      "title": "Gold prices today, Tuesday, June 30: Hanging just above $4,000, but ready to rise?",
+      "title": "Private employers added 98,000 jobs in June, fewer than expected",
       "summary": "",
-      "url": "https://finance.yahoo.com/personal-finance/investing/article/gold-prices-today-tuesday-june-30-hanging-just-above-4000-but-ready-to-rise-115357985.html",
+      "url": "https://finance.yahoo.com/economy/article/private-employers-added-98000-jobs-in-june-fewer-than-expected-122106116.html",
       "type": "extreme"
     },
     {
-      "title": "Oracle (ORCL) Launches Fusion Agentic Applications to Automate Supply Chain Management Tasks",
+      "title": "Fini backs PE takeover of US candy firm YumEarth",
       "summary": "",
-      "url": "https://finance.yahoo.com/technology/ai/articles/oracle-orcl-launches-fusion-agentic-114627722.html",
+      "url": "https://finance.yahoo.com/small-business/articles/fini-backs-pe-takeover-us-121845826.html",
       "type": "warning"
     },
     {
-      "title": "Trip.com Group (TCOM): 10 Undervalued Stocks with High Upside Potential",
+      "title": "Silver prices today, Wednesday, July 1, 2026: Silver remains below $60",
       "summary": "",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/trip-com-group-tcom-10-114622848.html",
+      "url": "https://finance.yahoo.com/personal-finance/investing/article/silver-prices-today-wednesday-july-1-2026-silver-remains-below-60-121621350.html",
       "type": "info"
     }
   ],
@@ -39,7 +39,7 @@
     },
     {
       "title": "10Y - 2Y Spread",
-      "value": "0.28%",
+      "value": "0.30%",
       "status": "Steepening - slower growth",
       "type": "warning"
     },
@@ -51,7 +51,7 @@
     },
     {
       "title": "2Y Treasury Rate",
-      "value": "4.07%",
+      "value": "4.10%",
       "status": "Elevated - higher-for-longer stance",
       "type": "warning"
     },
@@ -87,7 +87,7 @@
     },
     {
       "title": "Monthly ADP Employment",
-      "value": "+122,000",
+      "value": "+98,000",
       "status": "Stable - private sector resilience",
       "type": "neutral"
     },
@@ -299,29 +299,29 @@
       "category": "Frontier Model Race & Breakthroughs",
       "items": [
         {
-          "title": "Working With AI: A concrete example",
-          "summary": "Latest AI discussion on Hacker News: Working With AI: A concrete example. Points: 165. (Source: Hacker News)",
-          "url": "https://htmx.org/essays/working-with-ai/"
+          "title": "Godot will no longer accept AI-authored code contributions",
+          "summary": "Latest AI discussion on Hacker News: Godot will no longer accept AI-authored code contributions. Points: 290. (Source: Hacker News)",
+          "url": "https://www.pcgamer.com/gaming-industry/open-source-game-engine-godot-will-no-longer-accept-ai-authored-code-contributions-we-cant-trust-heavy-users-of-ai-to-understand-their-code-enough-to-fix-it/"
         },
         {
-          "title": "Tidal AI Policy",
-          "summary": "Latest AI discussion on Hacker News: Tidal AI Policy. Points: 301. (Source: Hacker News)",
-          "url": "https://tidal.com/ai-policy"
+          "title": "How employment changes when firms adopt generative AI",
+          "summary": "Latest AI discussion on Hacker News: How employment changes when firms adopt generative AI. Points: 46. (Source: Hacker News)",
+          "url": "https://ramp.com/data/ai-jobs-impact"
         },
         {
-          "title": "AI boom risks global financial crash, warn central bankers",
-          "summary": "Latest AI discussion on Hacker News: AI boom risks global financial crash, warn central bankers. Points: 156. (Source: Hacker News)",
-          "url": "https://www.telegraph.co.uk/business/2026/06/28/ai-boom-risks-global-financial-crash-central-bankers-warn/"
+          "title": "America can switch off AI. Europe must switch gears before it's too late",
+          "summary": "Latest AI discussion on Hacker News: America can switch off AI. Europe must switch gears before it's too late. Points: 41. (Source: Hacker News)",
+          "url": "https://www.euronews.com/my-europe/2026/06/30/america-can-switch-off-the-worlds-ai-europe-must-switch-gears-before-its-too-late"
         },
         {
-          "title": "We need tech news sources which exclude AI",
-          "summary": "Latest AI discussion on Hacker News: We need tech news sources which exclude AI. Points: 136. (Source: Hacker News)",
-          "url": "https://news.ycombinator.com/item?id=48713041"
+          "title": "EU commissioners shut down air conditioning for employees, leave theirs on",
+          "summary": "Latest AI discussion on Hacker News: EU commissioners shut down air conditioning for employees, leave theirs on. Points: 136. (Source: Hacker News)",
+          "url": "https://www.politico.eu/article/eu-commission-heatwave-hq-forced-shut-down-air-conditioning-europe/"
         },
         {
-          "title": "Ford rehires 'gray beard' engineers after AI falls short",
-          "summary": "Latest AI discussion on Hacker News: Ford rehires 'gray beard' engineers after AI falls short. Points: 135. (Source: Hacker News)",
-          "url": "https://techcrunch.com/2026/06/28/ford-rehires-gray-beard-engineers-after-ai-falls-short/"
+          "title": "Scammers Sell Seeds for Exotic AI-Generated Flowers That Don't Exist",
+          "summary": "Latest AI discussion on Hacker News: Scammers Sell Seeds for Exotic AI-Generated Flowers That Don't Exist. Points: 49. (Source: Hacker News)",
+          "url": "https://www.404media.co/scammers-sell-seeds-for-exotic-ai-generated-flowers-that-dont-exist/"
         }
       ]
     },
@@ -329,29 +329,29 @@
       "category": "Enterprise & Agentic AI",
       "items": [
         {
-          "title": "Librepods: AirPods liberated",
-          "summary": "Latest AI discussion on Hacker News: Librepods: AirPods liberated. Points: 490. (Source: Hacker News)",
-          "url": "https://github.com/librepods-org/librepods"
+          "title": "AI Zillionaires Are Starting to Get Scared as the Public Turns Against Them",
+          "summary": "Latest AI discussion on Hacker News: AI Zillionaires Are Starting to Get Scared as the Public Turns Against Them. Points: 35. (Source: Hacker News)",
+          "url": "https://futurism.com/artificial-intelligence/ai-tech-billionaires-mark-cuban-scared-public"
         },
         {
-          "title": "Professor denounces mass AI fraud on an exam at Brown",
-          "summary": "Latest AI discussion on Hacker News: Professor denounces mass AI fraud on an exam at Brown. Points: 541. (Source: Hacker News)",
-          "url": "https://english.elpais.com/education/2026-06-28/ai-fraud-at-brown-university-academic-integrity-is-at-risk.html"
+          "title": "Why Won't Europe Build AI Data Centers in Iceland?",
+          "summary": "Latest AI discussion on Hacker News: Why Won't Europe Build AI Data Centers in Iceland?. Points: 33. (Source: Hacker News)",
+          "url": "https://mrkt30.com/why-wont-europe-build-ai-data-centers-in-iceland/"
         },
         {
-          "title": "Reflections on software engineering in the age of AI",
-          "summary": "Latest AI discussion on Hacker News: Reflections on software engineering in the age of AI. Points: 104. (Source: Hacker News)",
-          "url": "https://adiamond.me/2026/06/software-engineering-in-the-age-of-ai/"
+          "title": "Amazon Is Awash with AI-Written Guideslop for Games That Aren't Even Out",
+          "summary": "Latest AI discussion on Hacker News: Amazon Is Awash with AI-Written Guideslop for Games That Aren't Even Out. Points: 55. (Source: Hacker News)",
+          "url": "https://kotaku.com/amazon-ai-game-guidebooks-alien-isolation-gears-of-war-2000711365"
         },
         {
-          "title": "Google limits Meta's use of its Gemini AI models",
-          "summary": "Latest AI discussion on Hacker News: Google limits Meta's use of its Gemini AI models. Points: 159. (Source: Hacker News)",
-          "url": "https://www.cnbc.com/2026/06/28/google-limits-metas-use-of-its-gemini-ai-models-ft-reports.html"
+          "title": "Working With AI: A concrete example",
+          "summary": "Latest AI discussion on Hacker News: Working With AI: A concrete example. Points: 190. (Source: Hacker News)",
+          "url": "https://htmx.org/essays/working-with-ai/"
         },
         {
-          "title": "The origins of the school system aimed to produce independent, critical thinkers (2024)",
-          "summary": "Latest AI discussion on Hacker News: The origins of the school system aimed to produce independent, critical thinkers (2024). Points: 110. (Source: Hacker News)",
-          "url": "https://www.cbc.ca/radio/ideas/humboldt-education-system-bildung-1.7172093"
+          "title": "Tidal AI Policy",
+          "summary": "Latest AI discussion on Hacker News: Tidal AI Policy. Points: 308. (Source: Hacker News)",
+          "url": "https://tidal.com/ai-policy"
         }
       ]
     },
