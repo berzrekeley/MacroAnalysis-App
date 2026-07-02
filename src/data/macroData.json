@@ -1,26 +1,26 @@
 {
-  "lastUpdated": "July 1, 2026",
+  "lastUpdated": "July 2, 2026",
   "executiveSummary": [
-    "As of July 1, 2026, the U.S. macroeconomic environment is navigating a complex period of high interest rates and shifting labor market dynamics. With the Fed Funds Rate holding at 3.63% and CPI inflation tracking at 4.17%, the central bank continues its \"higher-for-longer\" stance to anchor inflation expectations. Recent headlines such as \"Private employers added 98,000 jobs in June, fewer than expected\" suggest that market participants remain hypersensitive to every data print, particularly around corporate earnings and consumer spending resilience.",
-    "The labor market, a key pillar of support, shows 215,000 initial jobless claims, reflecting a relatively stable but cooling employment landscape. Geopolitically, events like \"Fini backs PE takeover of US candy firm YumEarth\" introduce exogenous risks that could disrupt global energy supplies and re-ignite inflationary impulses, keeping the Federal Reserve in a defensive posture as they balance growth against price stability. Analysts are closely watching for any signs of a \"hard landing\" as the effects of previous tightening cycles continue to filter through the real economy."
+    "As of July 2, 2026, the U.S. macroeconomic environment is navigating a complex period of high interest rates and shifting labor market dynamics. With the Fed Funds Rate holding at 3.63% and CPI inflation tracking at 4.17%, the central bank continues its \"higher-for-longer\" stance to anchor inflation expectations. Recent headlines such as \"Retail giant exits U.S. fashion after multi-million-dollar scandal\" suggest that market participants remain hypersensitive to every data print, particularly around corporate earnings and consumer spending resilience.",
+    "The labor market, a key pillar of support, shows 215,000 initial jobless claims, reflecting a relatively stable but cooling employment landscape. Geopolitically, events like \"Uber-backed Lime raises $167 million in US IPO\" introduce exogenous risks that could disrupt global energy supplies and re-ignite inflationary impulses, keeping the Federal Reserve in a defensive posture as they balance growth against price stability. Analysts are closely watching for any signs of a \"hard landing\" as the effects of previous tightening cycles continue to filter through the real economy."
   ],
   "dailyHeadlines": [
     {
-      "title": "Private employers added 98,000 jobs in June, fewer than expected",
+      "title": "Retail giant exits U.S. fashion after multi-million-dollar scandal",
       "summary": "",
-      "url": "https://finance.yahoo.com/economy/article/private-employers-added-98000-jobs-in-june-fewer-than-expected-122106116.html",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/retail-giant-exits-u-fashion-031700615.html",
       "type": "extreme"
     },
     {
-      "title": "Fini backs PE takeover of US candy firm YumEarth",
+      "title": "Uber-backed Lime raises $167 million in US IPO",
       "summary": "",
-      "url": "https://finance.yahoo.com/small-business/articles/fini-backs-pe-takeover-us-121845826.html",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/uber-backed-lime-prices-ipo-010436987.html",
       "type": "warning"
     },
     {
-      "title": "Silver prices today, Wednesday, July 1, 2026: Silver remains below $60",
+      "title": "Bayer seeks US duties on Chinese-made glyphosate, angering farmers",
       "summary": "",
-      "url": "https://finance.yahoo.com/personal-finance/investing/article/silver-prices-today-wednesday-july-1-2026-silver-remains-below-60-121621350.html",
+      "url": "https://finance.yahoo.com/economy/policy/articles/bayer-seeks-us-duties-chinese-002645914.html",
       "type": "info"
     }
   ],
@@ -39,19 +39,19 @@
     },
     {
       "title": "10Y - 2Y Spread",
-      "value": "0.30%",
+      "value": "0.31%",
       "status": "Steepening - slower growth",
       "type": "warning"
     },
     {
       "title": "10Y Treasury Rate",
-      "value": "4.38%",
+      "value": "4.44%",
       "status": "High - energy-driven inflation",
       "type": "warning"
     },
     {
       "title": "2Y Treasury Rate",
-      "value": "4.10%",
+      "value": "4.14%",
       "status": "Elevated - higher-for-longer stance",
       "type": "warning"
     },
@@ -299,29 +299,29 @@
       "category": "Frontier Model Race & Breakthroughs",
       "items": [
         {
-          "title": "Godot will no longer accept AI-authored code contributions",
-          "summary": "Latest AI discussion on Hacker News: Godot will no longer accept AI-authored code contributions. Points: 290. (Source: Hacker News)",
-          "url": "https://www.pcgamer.com/gaming-industry/open-source-game-engine-godot-will-no-longer-accept-ai-authored-code-contributions-we-cant-trust-heavy-users-of-ai-to-understand-their-code-enough-to-fix-it/"
+          "title": "The gauge broke: devs felt 20% faster with AI, measured 19% slower",
+          "summary": "Latest AI discussion on Hacker News: The gauge broke: devs felt 20% faster with AI, measured 19% slower. Points: 70. (Source: Hacker News)",
+          "url": "https://intrepidkarthi.com/writing/the-gauge-broke/"
         },
         {
-          "title": "How employment changes when firms adopt generative AI",
-          "summary": "Latest AI discussion on Hacker News: How employment changes when firms adopt generative AI. Points: 46. (Source: Hacker News)",
-          "url": "https://ramp.com/data/ai-jobs-impact"
+          "title": "Meta caps internal AI token spending",
+          "summary": "Latest AI discussion on Hacker News: Meta caps internal AI token spending. Points: 142. (Source: Hacker News)",
+          "url": "https://mlq.ai/news/meta-caps-internal-ai-token-spending-after-costs-approach-billions-in-2026/"
         },
         {
-          "title": "America can switch off AI. Europe must switch gears before it's too late",
-          "summary": "Latest AI discussion on Hacker News: America can switch off AI. Europe must switch gears before it's too late. Points: 41. (Source: Hacker News)",
-          "url": "https://www.euronews.com/my-europe/2026/06/30/america-can-switch-off-the-worlds-ai-europe-must-switch-gears-before-its-too-late"
+          "title": "Weird Al declined 'a nice pile of money' to star in AI ad",
+          "summary": "Latest AI discussion on Hacker News: Weird Al declined 'a nice pile of money' to star in AI ad. Points: 27. (Source: Hacker News)",
+          "url": "https://www.avclub.com/weird-al-yankovic-ai-commercial-exit"
         },
         {
-          "title": "EU commissioners shut down air conditioning for employees, leave theirs on",
-          "summary": "Latest AI discussion on Hacker News: EU commissioners shut down air conditioning for employees, leave theirs on. Points: 136. (Source: Hacker News)",
-          "url": "https://www.politico.eu/article/eu-commission-heatwave-hq-forced-shut-down-air-conditioning-europe/"
+          "title": "'It's like having a dumb friend': Young San Franciscans hate AI",
+          "summary": "Latest AI discussion on Hacker News: 'It's like having a dumb friend': Young San Franciscans hate AI. Points: 44. (Source: Hacker News)",
+          "url": "https://www.sfgate.com/tech/article/san-francisco-ai-backlash-22325141.php"
         },
         {
-          "title": "Scammers Sell Seeds for Exotic AI-Generated Flowers That Don't Exist",
-          "summary": "Latest AI discussion on Hacker News: Scammers Sell Seeds for Exotic AI-Generated Flowers That Don't Exist. Points: 49. (Source: Hacker News)",
-          "url": "https://www.404media.co/scammers-sell-seeds-for-exotic-ai-generated-flowers-that-dont-exist/"
+          "title": "Are readers generating fiction with AI models?",
+          "summary": "Latest AI discussion on Hacker News: Are readers generating fiction with AI models?. Points: 36. (Source: Hacker News)",
+          "url": "https://arxiv.org/abs/2606.22748"
         }
       ]
     },
@@ -329,29 +329,29 @@
       "category": "Enterprise & Agentic AI",
       "items": [
         {
-          "title": "AI Zillionaires Are Starting to Get Scared as the Public Turns Against Them",
-          "summary": "Latest AI discussion on Hacker News: AI Zillionaires Are Starting to Get Scared as the Public Turns Against Them. Points: 35. (Source: Hacker News)",
-          "url": "https://futurism.com/artificial-intelligence/ai-tech-billionaires-mark-cuban-scared-public"
+          "title": "Godot will no longer accept AI-authored code contributions",
+          "summary": "Latest AI discussion on Hacker News: Godot will no longer accept AI-authored code contributions. Points: 543. (Source: Hacker News)",
+          "url": "https://www.pcgamer.com/gaming-industry/open-source-game-engine-godot-will-no-longer-accept-ai-authored-code-contributions-we-cant-trust-heavy-users-of-ai-to-understand-their-code-enough-to-fix-it/"
         },
         {
-          "title": "Why Won't Europe Build AI Data Centers in Iceland?",
-          "summary": "Latest AI discussion on Hacker News: Why Won't Europe Build AI Data Centers in Iceland?. Points: 33. (Source: Hacker News)",
-          "url": "https://mrkt30.com/why-wont-europe-build-ai-data-centers-in-iceland/"
+          "title": "How employment changes when firms adopt generative AI",
+          "summary": "Latest AI discussion on Hacker News: How employment changes when firms adopt generative AI. Points: 53. (Source: Hacker News)",
+          "url": "https://ramp.com/data/ai-jobs-impact"
         },
         {
-          "title": "Amazon Is Awash with AI-Written Guideslop for Games That Aren't Even Out",
-          "summary": "Latest AI discussion on Hacker News: Amazon Is Awash with AI-Written Guideslop for Games That Aren't Even Out. Points: 55. (Source: Hacker News)",
-          "url": "https://kotaku.com/amazon-ai-game-guidebooks-alien-isolation-gears-of-war-2000711365"
+          "title": "America can switch off AI. Europe must switch gears before it's too late",
+          "summary": "Latest AI discussion on Hacker News: America can switch off AI. Europe must switch gears before it's too late. Points: 45. (Source: Hacker News)",
+          "url": "https://www.euronews.com/my-europe/2026/06/30/america-can-switch-off-the-worlds-ai-europe-must-switch-gears-before-its-too-late"
         },
         {
-          "title": "Working With AI: A concrete example",
-          "summary": "Latest AI discussion on Hacker News: Working With AI: A concrete example. Points: 190. (Source: Hacker News)",
-          "url": "https://htmx.org/essays/working-with-ai/"
+          "title": "EU commissioners shut down air conditioning for employees, leave theirs on",
+          "summary": "Latest AI discussion on Hacker News: EU commissioners shut down air conditioning for employees, leave theirs on. Points: 137. (Source: Hacker News)",
+          "url": "https://www.politico.eu/article/eu-commission-heatwave-hq-forced-shut-down-air-conditioning-europe/"
         },
         {
-          "title": "Tidal AI Policy",
-          "summary": "Latest AI discussion on Hacker News: Tidal AI Policy. Points: 308. (Source: Hacker News)",
-          "url": "https://tidal.com/ai-policy"
+          "title": "Scammers Sell Seeds for Exotic AI-Generated Flowers That Don't Exist",
+          "summary": "Latest AI discussion on Hacker News: Scammers Sell Seeds for Exotic AI-Generated Flowers That Don't Exist. Points: 50. (Source: Hacker News)",
+          "url": "https://www.404media.co/scammers-sell-seeds-for-exotic-ai-generated-flowers-that-dont-exist/"
         }
       ]
     },
