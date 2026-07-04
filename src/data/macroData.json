@@ -1,26 +1,26 @@
 {
-  "lastUpdated": "July 3, 2026",
+  "lastUpdated": "July 4, 2026",
   "executiveSummary": [
-    "As of July 3, 2026, the U.S. macroeconomic environment is navigating a complex period of high interest rates and shifting labor market dynamics. With the Fed Funds Rate holding at 3.63% and CPI inflation tracking at 4.17%, the central bank continues its \"higher-for-longer\" stance to anchor inflation expectations. Recent headlines such as \"Retail giant exits U.S. fashion after multi-million-dollar scandal\" suggest that market participants remain hypersensitive to every data print, particularly around corporate earnings and consumer spending resilience.",
-    "The labor market, a key pillar of support, shows 215,000 initial jobless claims, reflecting a relatively stable but cooling employment landscape. Geopolitically, events like \"Trump Accounts explained: How they work, who qualifies\" introduce exogenous risks that could disrupt global energy supplies and re-ignite inflationary impulses, keeping the Federal Reserve in a defensive posture as they balance growth against price stability. Analysts are closely watching for any signs of a \"hard landing\" as the effects of previous tightening cycles continue to filter through the real economy."
+    "As of July 4, 2026, the U.S. macroeconomic environment is navigating a complex period of high interest rates and shifting labor market dynamics. With the Fed Funds Rate holding at 3.63% and CPI inflation tracking at 4.17%, the central bank continues its \"higher-for-longer\" stance to anchor inflation expectations. Recent headlines such as \"Global equity fund inflows rise as investors add tech stocks after market dip\" suggest that market participants remain hypersensitive to every data print, particularly around corporate earnings and consumer spending resilience.",
+    "The labor market, a key pillar of support, shows 215,000 initial jobless claims, reflecting a relatively stable but cooling employment landscape. Geopolitically, events like \"Energy &amp; Utilities Roundup: Market Talk\" introduce exogenous risks that could disrupt global energy supplies and re-ignite inflationary impulses, keeping the Federal Reserve in a defensive posture as they balance growth against price stability. Analysts are closely watching for any signs of a \"hard landing\" as the effects of previous tightening cycles continue to filter through the real economy."
   ],
   "dailyHeadlines": [
     {
-      "title": "Retail giant exits U.S. fashion after multi-million-dollar scandal",
+      "title": "Global equity fund inflows rise as investors add tech stocks after market dip",
       "summary": "",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/retail-giant-exits-u-fashion-031700615.html",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/global-equity-fund-inflows-rise-094754157.html",
       "type": "extreme"
     },
     {
-      "title": "Trump Accounts explained: How they work, who qualifies",
+      "title": "Energy &amp; Utilities Roundup: Market Talk",
       "summary": "",
-      "url": "https://finance.yahoo.com/personal-finance/taxes/article/trump-accounts-205705429.html",
+      "url": "https://finance.yahoo.com/energy/articles/energy-utilities-roundup-market-talk-094600823.html",
       "type": "warning"
     },
     {
-      "title": "Mortgage rate predictions for the next five years: How much will rates change?",
+      "title": "Centene's Quarterly Earnings Preview: What You Need to Know",
       "summary": "",
-      "url": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-rate-predictions-for-the-next-five-years-how-much-will-rates-change-195826935.html",
+      "url": "https://finance.yahoo.com/healthcare/articles/centenes-quarterly-earnings-preview-know-094041312.html",
       "type": "info"
     }
   ],
@@ -299,29 +299,29 @@
       "category": "Frontier Model Race & Breakthroughs",
       "items": [
         {
-          "title": "AI coding is a nightmare. Am I the only one experiencing this?",
-          "summary": "Latest AI discussion on Hacker News: AI coding is a nightmare. Am I the only one experiencing this?. Points: 48. (Source: Hacker News)",
-          "url": "https://news.ycombinator.com/item?id=48770319"
+          "title": "The bottleneck might be the air in the room",
+          "summary": "Latest AI discussion on Hacker News: The bottleneck might be the air in the room. Points: 322. (Source: Hacker News)",
+          "url": "https://blog.mikebowler.ca/2026/07/03/co2-and-decision-making/"
         },
         {
-          "title": "Zuckerberg says AI agent development going slower than expected",
-          "summary": "Latest AI discussion on Hacker News: Zuckerberg says AI agent development going slower than expected. Points: 38. (Source: Hacker News)",
-          "url": "https://www.reuters.com/business/zuckerberg-says-ai-agent-development-going-slower-than-expected-2026-07-02/"
+          "title": "Kagi Changelog (July 2): Heads, tails, and an AI toggle",
+          "summary": "Latest AI discussion on Hacker News: Kagi Changelog (July 2): Heads, tails, and an AI toggle. Points: 62. (Source: Hacker News)",
+          "url": "https://kagi.com/changelog#10959"
         },
         {
-          "title": "The short leash AI coding method for beating Fable",
-          "summary": "Latest AI discussion on Hacker News: The short leash AI coding method for beating Fable. Points: 146. (Source: Hacker News)",
-          "url": "https://blog.okturtles.org/2026/07/short-leash-ai-method/"
+          "title": "AI saves about 3% of your hours, and almost none of it reaches the money",
+          "summary": "Latest AI discussion on Hacker News: AI saves about 3% of your hours, and almost none of it reaches the money. Points: 75. (Source: Hacker News)",
+          "url": "https://okaneland.com/study/ai-productivity-roi-at-work/"
         },
         {
-          "title": "Ask HN: Why are so many \"AI evangelists\" posting such insufferable content?",
-          "summary": "Latest AI discussion on Hacker News: Ask HN: Why are so many \"AI evangelists\" posting such insufferable content?. Points: 46. (Source: Hacker News)",
-          "url": "https://news.ycombinator.com/item?id=48765450"
+          "title": "Instead of banning AI, I made a classroom contract with my students",
+          "summary": "Latest AI discussion on Hacker News: Instead of banning AI, I made a classroom contract with my students. Points: 75. (Source: Hacker News)",
+          "url": "https://www.science.org/content/article/instead-banning-ai-i-made-classroom-contract-my-students"
         },
         {
-          "title": "Weird Al Yankovic Pulled Out of AI Ad Deal: 'I Can't Be the Poster Boy for AI'",
-          "summary": "Latest AI discussion on Hacker News: Weird Al Yankovic Pulled Out of AI Ad Deal: 'I Can't Be the Poster Boy for AI'. Points: 69. (Source: Hacker News)",
-          "url": "https://variety.com/2026/biz/news/weird-al-yankovic-rejected-ai-commercial-money-offer-1236800794/"
+          "title": "Please stop the AI confidence theater",
+          "summary": "Latest AI discussion on Hacker News: Please stop the AI confidence theater. Points: 231. (Source: Hacker News)",
+          "url": "https://www.elenaverna.com/p/please-stop-the-ai-confidence-theater"
         }
       ]
     },
@@ -329,29 +329,29 @@
       "category": "Enterprise & Agentic AI",
       "items": [
         {
+          "title": "Protect your right to run local AI",
+          "summary": "Latest AI discussion on Hacker News: Protect your right to run local AI. Points: 519. (Source: Hacker News)",
+          "url": "https://righttointelligence.org/"
+        },
+        {
+          "title": "The short leash AI coding method for beating Fable",
+          "summary": "Latest AI discussion on Hacker News: The short leash AI coding method for beating Fable. Points: 193. (Source: Hacker News)",
+          "url": "https://blog.okturtles.org/2026/07/short-leash-ai-method/"
+        },
+        {
+          "title": "Weird Al Yankovic Pulled Out of AI Ad Deal: 'I Can't Be the Poster Boy for AI'",
+          "summary": "Latest AI discussion on Hacker News: Weird Al Yankovic Pulled Out of AI Ad Deal: 'I Can't Be the Poster Boy for AI'. Points: 74. (Source: Hacker News)",
+          "url": "https://variety.com/2026/biz/news/weird-al-yankovic-rejected-ai-commercial-money-offer-1236800794/"
+        },
+        {
           "title": "AI can't be listed as inventor on patent applications, Japan's top court rules",
-          "summary": "Latest AI discussion on Hacker News: AI can't be listed as inventor on patent applications, Japan's top court rules. Points: 379. (Source: Hacker News)",
+          "summary": "Latest AI discussion on Hacker News: AI can't be listed as inventor on patent applications, Japan's top court rules. Points: 394. (Source: Hacker News)",
           "url": "https://japannews.yomiuri.co.jp/science-nature/technology/20260306-314930/"
         },
         {
           "title": "AI fake news complaining about how AI fake news is the death of real news",
-          "summary": "Latest AI discussion on Hacker News: AI fake news complaining about how AI fake news is the death of real news. Points: 157. (Source: Hacker News)",
+          "summary": "Latest AI discussion on Hacker News: AI fake news complaining about how AI fake news is the death of real news. Points: 158. (Source: Hacker News)",
           "url": "https://www.niemanlab.org/2026/07/now-were-getting-ai-fake-news-complaining-about-how-ai-fake-news-is-the-death-of-real-news/"
-        },
-        {
-          "title": "The gauge broke: devs felt 20% faster with AI, measured 19% slower (2025)",
-          "summary": "Latest AI discussion on Hacker News: The gauge broke: devs felt 20% faster with AI, measured 19% slower (2025). Points: 77. (Source: Hacker News)",
-          "url": "https://intrepidkarthi.com/writing/the-gauge-broke/"
-        },
-        {
-          "title": "Meta caps internal AI token spending",
-          "summary": "Latest AI discussion on Hacker News: Meta caps internal AI token spending. Points: 146. (Source: Hacker News)",
-          "url": "https://mlq.ai/news/meta-caps-internal-ai-token-spending-after-costs-approach-billions-in-2026/"
-        },
-        {
-          "title": "'It's like having a dumb friend': Young San Franciscans hate AI",
-          "summary": "Latest AI discussion on Hacker News: 'It's like having a dumb friend': Young San Franciscans hate AI. Points: 46. (Source: Hacker News)",
-          "url": "https://www.sfgate.com/tech/article/san-francisco-ai-backlash-22325141.php"
         }
       ]
     },
