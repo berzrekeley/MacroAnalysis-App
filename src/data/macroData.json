@@ -1,26 +1,26 @@
 {
-  "lastUpdated": "July 4, 2026",
+  "lastUpdated": "July 5, 2026",
   "executiveSummary": [
-    "As of July 4, 2026, the U.S. macroeconomic environment is navigating a complex period of high interest rates and shifting labor market dynamics. With the Fed Funds Rate holding at 3.63% and CPI inflation tracking at 4.17%, the central bank continues its \"higher-for-longer\" stance to anchor inflation expectations. Recent headlines such as \"Global equity fund inflows rise as investors add tech stocks after market dip\" suggest that market participants remain hypersensitive to every data print, particularly around corporate earnings and consumer spending resilience.",
-    "The labor market, a key pillar of support, shows 215,000 initial jobless claims, reflecting a relatively stable but cooling employment landscape. Geopolitically, events like \"Energy &amp; Utilities Roundup: Market Talk\" introduce exogenous risks that could disrupt global energy supplies and re-ignite inflationary impulses, keeping the Federal Reserve in a defensive posture as they balance growth against price stability. Analysts are closely watching for any signs of a \"hard landing\" as the effects of previous tightening cycles continue to filter through the real economy."
+    "As of July 5, 2026, the U.S. macroeconomic environment is navigating a complex period of high interest rates and shifting labor market dynamics. With the Fed Funds Rate holding at 3.63% and CPI inflation tracking at 4.17%, the central bank continues its \"higher-for-longer\" stance to anchor inflation expectations. Recent headlines such as \"Is Micron Turning Into a Steadier Growth Stock?\" suggest that market participants remain hypersensitive to every data print, particularly around corporate earnings and consumer spending resilience.",
+    "The labor market, a key pillar of support, shows 215,000 initial jobless claims, reflecting a relatively stable but cooling employment landscape. Geopolitically, events like \"I retired at 63 with $850K, but now my finances are keeping me up at night. How do I know if I really have enough?\" introduce exogenous risks that could disrupt global energy supplies and re-ignite inflationary impulses, keeping the Federal Reserve in a defensive posture as they balance growth against price stability. Analysts are closely watching for any signs of a \"hard landing\" as the effects of previous tightening cycles continue to filter through the real economy."
   ],
   "dailyHeadlines": [
     {
-      "title": "Global equity fund inflows rise as investors add tech stocks after market dip",
+      "title": "Is Micron Turning Into a Steadier Growth Stock?",
       "summary": "",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/global-equity-fund-inflows-rise-094754157.html",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/micron-turning-steadier-growth-stock-102100291.html",
       "type": "extreme"
     },
     {
-      "title": "Energy &amp; Utilities Roundup: Market Talk",
+      "title": "I retired at 63 with $850K, but now my finances are keeping me up at night. How do I know if I really have enough?",
       "summary": "",
-      "url": "https://finance.yahoo.com/energy/articles/energy-utilities-roundup-market-talk-094600823.html",
+      "url": "https://finance.yahoo.com/markets/articles/retired-63-850k-now-finances-101000171.html",
       "type": "warning"
     },
     {
-      "title": "Centene's Quarterly Earnings Preview: What You Need to Know",
+      "title": "For one small business, AI was key to a quick start and expansion",
       "summary": "",
-      "url": "https://finance.yahoo.com/healthcare/articles/centenes-quarterly-earnings-preview-know-094041312.html",
+      "url": "https://finance.yahoo.com/small-business/articles/one-small-business-ai-key-100159658.html",
       "type": "info"
     }
   ],
@@ -299,29 +299,29 @@
       "category": "Frontier Model Race & Breakthroughs",
       "items": [
         {
+          "title": "President pardons 9 for Clean Air violations for 'fixing their car'",
+          "summary": "Latest AI discussion on Hacker News: President pardons 9 for Clean Air violations for 'fixing their car'. Points: 75. (Source: Hacker News)",
+          "url": "https://www.msn.com/en-us/news/crime/trump-pardons-9-for-clean-air-violations-for-fixing-their-car/ar-AA27cSkT"
+        },
+        {
+          "title": "AI has torched the market for junior programmers",
+          "summary": "Latest AI discussion on Hacker News: AI has torched the market for junior programmers. Points: 92. (Source: Hacker News)",
+          "url": "https://seldo.com/posts/ai-has-torched-the-market-for-junior-programmers/"
+        },
+        {
+          "title": "Plein Air",
+          "summary": "Latest AI discussion on Hacker News: Plein Air. Points: 60. (Source: Hacker News)",
+          "url": "https://art.joonas.wtf/"
+        },
+        {
           "title": "The bottleneck might be the air in the room",
-          "summary": "Latest AI discussion on Hacker News: The bottleneck might be the air in the room. Points: 322. (Source: Hacker News)",
+          "summary": "Latest AI discussion on Hacker News: The bottleneck might be the air in the room. Points: 785. (Source: Hacker News)",
           "url": "https://blog.mikebowler.ca/2026/07/03/co2-and-decision-making/"
         },
         {
-          "title": "Kagi Changelog (July 2): Heads, tails, and an AI toggle",
-          "summary": "Latest AI discussion on Hacker News: Kagi Changelog (July 2): Heads, tails, and an AI toggle. Points: 62. (Source: Hacker News)",
-          "url": "https://kagi.com/changelog#10959"
-        },
-        {
-          "title": "AI saves about 3% of your hours, and almost none of it reaches the money",
-          "summary": "Latest AI discussion on Hacker News: AI saves about 3% of your hours, and almost none of it reaches the money. Points: 75. (Source: Hacker News)",
-          "url": "https://okaneland.com/study/ai-productivity-roi-at-work/"
-        },
-        {
-          "title": "Instead of banning AI, I made a classroom contract with my students",
-          "summary": "Latest AI discussion on Hacker News: Instead of banning AI, I made a classroom contract with my students. Points: 75. (Source: Hacker News)",
-          "url": "https://www.science.org/content/article/instead-banning-ai-i-made-classroom-contract-my-students"
-        },
-        {
-          "title": "Please stop the AI confidence theater",
-          "summary": "Latest AI discussion on Hacker News: Please stop the AI confidence theater. Points: 231. (Source: Hacker News)",
-          "url": "https://www.elenaverna.com/p/please-stop-the-ai-confidence-theater"
+          "title": "2026 Unslop AI-Written Fiction Contest Results",
+          "summary": "Latest AI discussion on Hacker News: 2026 Unslop AI-Written Fiction Contest Results. Points: 63. (Source: Hacker News)",
+          "url": "https://www.hyperstitionai.com/unslop-results"
         }
       ]
     },
@@ -329,29 +329,29 @@
       "category": "Enterprise & Agentic AI",
       "items": [
         {
-          "title": "Protect your right to run local AI",
-          "summary": "Latest AI discussion on Hacker News: Protect your right to run local AI. Points: 519. (Source: Hacker News)",
-          "url": "https://righttointelligence.org/"
+          "title": "Kagi Changelog (July 2): Heads, tails, and an AI toggle",
+          "summary": "Latest AI discussion on Hacker News: Kagi Changelog (July 2): Heads, tails, and an AI toggle. Points: 66. (Source: Hacker News)",
+          "url": "https://kagi.com/changelog#10959"
         },
         {
-          "title": "The short leash AI coding method for beating Fable",
-          "summary": "Latest AI discussion on Hacker News: The short leash AI coding method for beating Fable. Points: 193. (Source: Hacker News)",
-          "url": "https://blog.okturtles.org/2026/07/short-leash-ai-method/"
+          "title": "AI saves about 3% of your hours, and almost none of it reaches the money",
+          "summary": "Latest AI discussion on Hacker News: AI saves about 3% of your hours, and almost none of it reaches the money. Points: 77. (Source: Hacker News)",
+          "url": "https://okaneland.com/study/ai-productivity-roi-at-work/"
         },
         {
-          "title": "Weird Al Yankovic Pulled Out of AI Ad Deal: 'I Can't Be the Poster Boy for AI'",
-          "summary": "Latest AI discussion on Hacker News: Weird Al Yankovic Pulled Out of AI Ad Deal: 'I Can't Be the Poster Boy for AI'. Points: 74. (Source: Hacker News)",
-          "url": "https://variety.com/2026/biz/news/weird-al-yankovic-rejected-ai-commercial-money-offer-1236800794/"
+          "title": "Instead of banning AI, I made a classroom contract with my students",
+          "summary": "Latest AI discussion on Hacker News: Instead of banning AI, I made a classroom contract with my students. Points: 93. (Source: Hacker News)",
+          "url": "https://www.science.org/content/article/instead-banning-ai-i-made-classroom-contract-my-students"
         },
         {
-          "title": "AI can't be listed as inventor on patent applications, Japan's top court rules",
-          "summary": "Latest AI discussion on Hacker News: AI can't be listed as inventor on patent applications, Japan's top court rules. Points: 394. (Source: Hacker News)",
-          "url": "https://japannews.yomiuri.co.jp/science-nature/technology/20260306-314930/"
+          "title": "Please stop the AI confidence theater",
+          "summary": "Latest AI discussion on Hacker News: Please stop the AI confidence theater. Points: 232. (Source: Hacker News)",
+          "url": "https://www.elenaverna.com/p/please-stop-the-ai-confidence-theater"
         },
         {
-          "title": "AI fake news complaining about how AI fake news is the death of real news",
-          "summary": "Latest AI discussion on Hacker News: AI fake news complaining about how AI fake news is the death of real news. Points: 158. (Source: Hacker News)",
-          "url": "https://www.niemanlab.org/2026/07/now-were-getting-ai-fake-news-complaining-about-how-ai-fake-news-is-the-death-of-real-news/"
+          "title": "AI Data Centers Use More Water Than Most Tech Giants Report",
+          "summary": "Latest AI discussion on Hacker News: AI Data Centers Use More Water Than Most Tech Giants Report. Points: 55. (Source: Hacker News)",
+          "url": "https://www.wsj.com/tech/ai/ai-data-centers-water-use-901e2902"
         }
       ]
     },
