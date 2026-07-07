@@ -1,26 +1,26 @@
 {
-  "lastUpdated": "July 6, 2026",
+  "lastUpdated": "July 7, 2026",
   "executiveSummary": [
-    "As of July 6, 2026, the U.S. macroeconomic environment is navigating a complex period of high interest rates and shifting labor market dynamics. With the Fed Funds Rate holding at 3.63% and CPI inflation tracking at 4.17%, the central bank continues its \"higher-for-longer\" stance to anchor inflation expectations. Recent headlines such as \"Prediction: This Is What Bitcoin Will Do in the Next Bull Market\" suggest that market participants remain hypersensitive to every data print, particularly around corporate earnings and consumer spending resilience.",
-    "The labor market, a key pillar of support, shows 215,000 initial jobless claims, reflecting a relatively stable but cooling employment landscape. Geopolitically, events like \"Trump accounts are now live — here's one big challenge they must overcome\" introduce exogenous risks that could disrupt global energy supplies and re-ignite inflationary impulses, keeping the Federal Reserve in a defensive posture as they balance growth against price stability. Analysts are closely watching for any signs of a \"hard landing\" as the effects of previous tightening cycles continue to filter through the real economy."
+    "As of July 7, 2026, the U.S. macroeconomic environment is navigating a complex period of high interest rates and shifting labor market dynamics. With the Fed Funds Rate holding at 3.63% and CPI inflation tracking at 4.17%, the central bank continues its \"higher-for-longer\" stance to anchor inflation expectations. Recent headlines such as \"Samsung's 19-fold rise in profit fails to impress investors as AI chip stocks fall\" suggest that market participants remain hypersensitive to every data print, particularly around corporate earnings and consumer spending resilience.",
+    "The labor market, a key pillar of support, shows 215,000 initial jobless claims, reflecting a relatively stable but cooling employment landscape. Geopolitically, events like \"Bitcoin and ethereum prices today, Tuesday, July 7, 2026: Another strong opening for BTC and ETH prices\" introduce exogenous risks that could disrupt global energy supplies and re-ignite inflationary impulses, keeping the Federal Reserve in a defensive posture as they balance growth against price stability. Analysts are closely watching for any signs of a \"hard landing\" as the effects of previous tightening cycles continue to filter through the real economy."
   ],
   "dailyHeadlines": [
     {
-      "title": "Prediction: This Is What Bitcoin Will Do in the Next Bull Market",
+      "title": "Samsung's 19-fold rise in profit fails to impress investors as AI chip stocks fall",
       "summary": "",
-      "url": "https://finance.yahoo.com/markets/crypto/articles/prediction-bitcoin-next-bull-market-132600667.html",
+      "url": "https://finance.yahoo.com/technology/article/samsungs-19-fold-rise-in-profit-fails-to-impress-investors-as-ai-chip-stocks-fall-120636336.html",
       "type": "extreme"
     },
     {
-      "title": "Trump accounts are now live — here's one big challenge they must overcome",
+      "title": "Bitcoin and ethereum prices today, Tuesday, July 7, 2026: Another strong opening for BTC and ETH prices",
       "summary": "",
-      "url": "https://finance.yahoo.com/markets/article/trump-accounts-are-now-live--heres-one-big-challenge-they-must-overcome-132338042.html",
+      "url": "https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-tuesday-july-7-2026-another-strong-opening-for-btc-and-eth-prices-120355126.html",
       "type": "warning"
     },
     {
-      "title": "SK Hynix seeks $28 billion in US IPO listing as memory maker rides AI wave",
+      "title": "AscendTMS expands fraud-fighting toolkit with SearchCarriers integration",
       "summary": "",
-      "url": "https://finance.yahoo.com/markets/article/sk-hynix-seeks-28-billion-in-us-ipo-listing-as-memory-maker-rides-ai-wave-132016294.html",
+      "url": "https://finance.yahoo.com/small-business/articles/ascendtms-expands-fraud-fighting-toolkit-120000721.html",
       "type": "info"
     }
   ],
@@ -45,13 +45,13 @@
     },
     {
       "title": "10Y Treasury Rate",
-      "value": "4.48%",
+      "value": "4.49%",
       "status": "High - energy-driven inflation",
       "type": "warning"
     },
     {
       "title": "2Y Treasury Rate",
-      "value": "4.17%",
+      "value": "4.14%",
       "status": "Elevated - higher-for-longer stance",
       "type": "warning"
     },
@@ -299,29 +299,29 @@
       "category": "Frontier Model Race & Breakthroughs",
       "items": [
         {
-          "title": "When AI Costs More Than the Engineer",
-          "summary": "Latest AI discussion on Hacker News: When AI Costs More Than the Engineer. Points: 113. (Source: Hacker News)",
-          "url": "https://tomtunguz.com/ai-spend-breakeven-2029/"
+          "title": "Small AI Models Gain Traction In places with unreliable networks",
+          "summary": "Latest AI discussion on Hacker News: Small AI Models Gain Traction In places with unreliable networks. Points: 178. (Source: Hacker News)",
+          "url": "https://spectrum.ieee.org/small-language-models-ai-pharmaceuticals"
         },
         {
-          "title": "Al Vigier: Canada's AI strategy shouldn't include secret Palantir bills",
-          "summary": "Latest AI discussion on Hacker News: Al Vigier: Canada's AI strategy shouldn't include secret Palantir bills. Points: 157. (Source: Hacker News)",
-          "url": "https://www.readtheline.ca/p/al-vigier-canadas-ai-strategy-shouldnt"
+          "title": "GLM 5.2 and the coming AI margin collapse",
+          "summary": "Latest AI discussion on Hacker News: GLM 5.2 and the coming AI margin collapse. Points: 512. (Source: Hacker News)",
+          "url": "https://martinalderson.com/posts/the-upcoming-ai-margin-collapse-part-1-glm-5-2/"
         },
         {
-          "title": "Delta flight hit by firework while landing at Midway Airport on Fourth of July",
-          "summary": "Latest AI discussion on Hacker News: Delta flight hit by firework while landing at Midway Airport on Fourth of July. Points: 145. (Source: Hacker News)",
-          "url": "https://www.nbcchicago.com/news/local/delta-flight-hit-by-firework-while-landing-at-midway-airport-on-fourth-of-july/3957451/"
+          "title": "Big Tech Has Suddenly Flipped on the AI Jobs Wipeout Scenario",
+          "summary": "Latest AI discussion on Hacker News: Big Tech Has Suddenly Flipped on the AI Jobs Wipeout Scenario. Points: 95. (Source: Hacker News)",
+          "url": "https://www.wsj.com/tech/ai/ai-workers-tech-ceos-job-losses-afc71e15"
         },
         {
-          "title": "New AI tutor achieves 0.71-1.30 SD effect size in Dartmouth course [pdf]",
-          "summary": "Latest AI discussion on Hacker News: New AI tutor achieves 0.71-1.30 SD effect size in Dartmouth course [pdf]. Points: 170. (Source: Hacker News)",
-          "url": "https://intextbooks.science.uu.nl/workshop2026/files/itb26_s1s2.pdf"
+          "title": "OfficeCLI: Office suite for AI agents to read and edit Microsoft Office files",
+          "summary": "Latest AI discussion on Hacker News: OfficeCLI: Office suite for AI agents to read and edit Microsoft Office files. Points: 194. (Source: Hacker News)",
+          "url": "https://github.com/iOfficeAI/OfficeCLI"
         },
         {
-          "title": "A sociotechnical threat model for AI-driven smart home devices",
-          "summary": "Latest AI discussion on Hacker News: A sociotechnical threat model for AI-driven smart home devices. Points: 83. (Source: Hacker News)",
-          "url": "https://arxiv.org/abs/2602.09239"
+          "title": "AMD Ryzen AI Halo – $4k AI Dev Kit",
+          "summary": "Latest AI discussion on Hacker News: AMD Ryzen AI Halo – $4k AI Dev Kit. Points: 346. (Source: Hacker News)",
+          "url": "https://www.lttlabs.com/articles/2026/07/06/amd-ryzen-ai-halo"
         }
       ]
     },
@@ -329,29 +329,29 @@
       "category": "Enterprise & Agentic AI",
       "items": [
         {
+          "title": "When AI Costs More Than the Engineer",
+          "summary": "Latest AI discussion on Hacker News: When AI Costs More Than the Engineer. Points: 124. (Source: Hacker News)",
+          "url": "https://tomtunguz.com/ai-spend-breakeven-2029/"
+        },
+        {
+          "title": "Al Vigier: Canada's AI strategy shouldn't include secret Palantir bills",
+          "summary": "Latest AI discussion on Hacker News: Al Vigier: Canada's AI strategy shouldn't include secret Palantir bills. Points: 163. (Source: Hacker News)",
+          "url": "https://www.readtheline.ca/p/al-vigier-canadas-ai-strategy-shouldnt"
+        },
+        {
+          "title": "Delta flight hit by firework while landing at Midway Airport on Fourth of July",
+          "summary": "Latest AI discussion on Hacker News: Delta flight hit by firework while landing at Midway Airport on Fourth of July. Points: 170. (Source: Hacker News)",
+          "url": "https://www.nbcchicago.com/news/local/delta-flight-hit-by-firework-while-landing-at-midway-airport-on-fourth-of-july/3957451/"
+        },
+        {
+          "title": "New AI tutor achieves 0.71-1.30 SD effect size in Dartmouth course [pdf]",
+          "summary": "Latest AI discussion on Hacker News: New AI tutor achieves 0.71-1.30 SD effect size in Dartmouth course [pdf]. Points: 177. (Source: Hacker News)",
+          "url": "https://intextbooks.science.uu.nl/workshop2026/files/itb26_s1s2.pdf"
+        },
+        {
           "title": "Mark Zuckerberg tells staff that AI agents haven't progressed enough",
           "summary": "Latest AI discussion on Hacker News: Mark Zuckerberg tells staff that AI agents haven't progressed enough. Points: 133. (Source: Hacker News)",
           "url": "https://techcrunch.com/2026/07/02/mark-zuckerberg-tells-staff-that-ai-agents-havent-progressed-as-quickly-as-hed-hoped/"
-        },
-        {
-          "title": "President pardons 9 for Clean Air violations for 'fixing their car'",
-          "summary": "Latest AI discussion on Hacker News: President pardons 9 for Clean Air violations for 'fixing their car'. Points: 89. (Source: Hacker News)",
-          "url": "https://www.msn.com/en-us/news/crime/trump-pardons-9-for-clean-air-violations-for-fixing-their-car/ar-AA27cSkT"
-        },
-        {
-          "title": "AI has torched the market for junior programmers",
-          "summary": "Latest AI discussion on Hacker News: AI has torched the market for junior programmers. Points: 100. (Source: Hacker News)",
-          "url": "https://seldo.com/posts/ai-has-torched-the-market-for-junior-programmers/"
-        },
-        {
-          "title": "Plein Air",
-          "summary": "Latest AI discussion on Hacker News: Plein Air. Points: 62. (Source: Hacker News)",
-          "url": "https://art.joonas.wtf/"
-        },
-        {
-          "title": "Airplane Boneyards List and Map",
-          "summary": "Latest AI discussion on Hacker News: Airplane Boneyards List and Map. Points: 90. (Source: Hacker News)",
-          "url": "https://airplaneboneyards.com/airplane-boneyards-list-and-map.htm"
         }
       ]
     },
