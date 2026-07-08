@@ -1,26 +1,26 @@
 {
-  "lastUpdated": "July 7, 2026",
+  "lastUpdated": "July 8, 2026",
   "executiveSummary": [
-    "As of July 7, 2026, the U.S. macroeconomic environment is navigating a complex period of high interest rates and shifting labor market dynamics. With the Fed Funds Rate holding at 3.63% and CPI inflation tracking at 4.17%, the central bank continues its \"higher-for-longer\" stance to anchor inflation expectations. Recent headlines such as \"Samsung's 19-fold rise in profit fails to impress investors as AI chip stocks fall\" suggest that market participants remain hypersensitive to every data print, particularly around corporate earnings and consumer spending resilience.",
-    "The labor market, a key pillar of support, shows 215,000 initial jobless claims, reflecting a relatively stable but cooling employment landscape. Geopolitically, events like \"Bitcoin and ethereum prices today, Tuesday, July 7, 2026: Another strong opening for BTC and ETH prices\" introduce exogenous risks that could disrupt global energy supplies and re-ignite inflationary impulses, keeping the Federal Reserve in a defensive posture as they balance growth against price stability. Analysts are closely watching for any signs of a \"hard landing\" as the effects of previous tightening cycles continue to filter through the real economy."
+    "As of July 8, 2026, the U.S. macroeconomic environment is navigating a complex period of high interest rates and shifting labor market dynamics. With the Fed Funds Rate holding at 3.63% and CPI inflation tracking at 4.17%, the central bank continues its \"higher-for-longer\" stance to anchor inflation expectations. Recent headlines such as \"Is Veralto (VLTO) Trading at a Fair Valuation?\" suggest that market participants remain hypersensitive to every data print, particularly around corporate earnings and consumer spending resilience.",
+    "The labor market, a key pillar of support, shows 215,000 initial jobless claims, reflecting a relatively stable but cooling employment landscape. Geopolitically, events like \"Strong Growth Fueled Analog Devices (ADI) in Q1\" introduce exogenous risks that could disrupt global energy supplies and re-ignite inflationary impulses, keeping the Federal Reserve in a defensive posture as they balance growth against price stability. Analysts are closely watching for any signs of a \"hard landing\" as the effects of previous tightening cycles continue to filter through the real economy."
   ],
   "dailyHeadlines": [
     {
-      "title": "Samsung's 19-fold rise in profit fails to impress investors as AI chip stocks fall",
+      "title": "Is Veralto (VLTO) Trading at a Fair Valuation?",
       "summary": "",
-      "url": "https://finance.yahoo.com/technology/article/samsungs-19-fold-rise-in-profit-fails-to-impress-investors-as-ai-chip-stocks-fall-120636336.html",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/veralto-vlto-trading-fair-valuation-112500855.html",
       "type": "extreme"
     },
     {
-      "title": "Bitcoin and ethereum prices today, Tuesday, July 7, 2026: Another strong opening for BTC and ETH prices",
+      "title": "Strong Growth Fueled Analog Devices (ADI) in Q1",
       "summary": "",
-      "url": "https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-tuesday-july-7-2026-another-strong-opening-for-btc-and-eth-prices-120355126.html",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/strong-growth-fueled-analog-devices-112314647.html",
       "type": "warning"
     },
     {
-      "title": "AscendTMS expands fraud-fighting toolkit with SearchCarriers integration",
+      "title": "Here’s What Boosted Permian Resources (PR) in Q1",
       "summary": "",
-      "url": "https://finance.yahoo.com/small-business/articles/ascendtms-expands-fraud-fighting-toolkit-120000721.html",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/boosted-permian-resources-pr-q1-112026937.html",
       "type": "info"
     }
   ],
@@ -39,19 +39,19 @@
     },
     {
       "title": "10Y - 2Y Spread",
-      "value": "0.35%",
+      "value": "0.36%",
       "status": "Steepening - slower growth",
       "type": "warning"
     },
     {
       "title": "10Y Treasury Rate",
-      "value": "4.49%",
+      "value": "4.48%",
       "status": "High - energy-driven inflation",
       "type": "warning"
     },
     {
       "title": "2Y Treasury Rate",
-      "value": "4.14%",
+      "value": "4.13%",
       "status": "Elevated - higher-for-longer stance",
       "type": "warning"
     },
@@ -299,29 +299,29 @@
       "category": "Frontier Model Race & Breakthroughs",
       "items": [
         {
-          "title": "Small AI Models Gain Traction In places with unreliable networks",
-          "summary": "Latest AI discussion on Hacker News: Small AI Models Gain Traction In places with unreliable networks. Points: 178. (Source: Hacker News)",
-          "url": "https://spectrum.ieee.org/small-language-models-ai-pharmaceuticals"
+          "title": "GitLost: We Tricked GitHub's AI Agent into Leaking Private Repos",
+          "summary": "Latest AI discussion on Hacker News: GitLost: We Tricked GitHub's AI Agent into Leaking Private Repos. Points: 247. (Source: Hacker News)",
+          "url": "https://noma.security/blog/gitlost-how-we-tricked-githubs-ai-agent-into-leaking-private-repos/"
         },
         {
-          "title": "GLM 5.2 and the coming AI margin collapse",
-          "summary": "Latest AI discussion on Hacker News: GLM 5.2 and the coming AI margin collapse. Points: 512. (Source: Hacker News)",
-          "url": "https://martinalderson.com/posts/the-upcoming-ai-margin-collapse-part-1-glm-5-2/"
+          "title": "We charge $10k a week to delete AI-generated code",
+          "summary": "Latest AI discussion on Hacker News: We charge $10k a week to delete AI-generated code. Points: 278. (Source: Hacker News)",
+          "url": "https://odra.dev/slopfix/"
         },
         {
-          "title": "Big Tech Has Suddenly Flipped on the AI Jobs Wipeout Scenario",
-          "summary": "Latest AI discussion on Hacker News: Big Tech Has Suddenly Flipped on the AI Jobs Wipeout Scenario. Points: 95. (Source: Hacker News)",
-          "url": "https://www.wsj.com/tech/ai/ai-workers-tech-ceos-job-losses-afc71e15"
+          "title": "AI Meets Cryptography 1: What AI Found in Cloudflare's Circl",
+          "summary": "Latest AI discussion on Hacker News: AI Meets Cryptography 1: What AI Found in Cloudflare's Circl. Points: 107. (Source: Hacker News)",
+          "url": "https://blog.zksecurity.xyz/posts/circl-bugs/"
         },
         {
-          "title": "OfficeCLI: Office suite for AI agents to read and edit Microsoft Office files",
-          "summary": "Latest AI discussion on Hacker News: OfficeCLI: Office suite for AI agents to read and edit Microsoft Office files. Points: 194. (Source: Hacker News)",
-          "url": "https://github.com/iOfficeAI/OfficeCLI"
+          "title": "Automating AI Away",
+          "summary": "Latest AI discussion on Hacker News: Automating AI Away. Points: 120. (Source: Hacker News)",
+          "url": "https://replicated.live/blog/away"
         },
         {
-          "title": "AMD Ryzen AI Halo – $4k AI Dev Kit",
-          "summary": "Latest AI discussion on Hacker News: AMD Ryzen AI Halo – $4k AI Dev Kit. Points: 346. (Source: Hacker News)",
-          "url": "https://www.lttlabs.com/articles/2026/07/06/amd-ryzen-ai-halo"
+          "title": "YC CEO says he ships 37K LoC AI code per day. A developer looked under the hood",
+          "summary": "Latest AI discussion on Hacker News: YC CEO says he ships 37K LoC AI code per day. A developer looked under the hood. Points: 110. (Source: Hacker News)",
+          "url": "https://www.fastcompany.com/91520702/y-combinator-garry-tan-agentic-ai-social-media"
         }
       ]
     },
@@ -329,29 +329,29 @@
       "category": "Enterprise & Agentic AI",
       "items": [
         {
-          "title": "When AI Costs More Than the Engineer",
-          "summary": "Latest AI discussion on Hacker News: When AI Costs More Than the Engineer. Points: 124. (Source: Hacker News)",
-          "url": "https://tomtunguz.com/ai-spend-breakeven-2029/"
+          "title": "Small AI Models Gain Traction In places with unreliable networks",
+          "summary": "Latest AI discussion on Hacker News: Small AI Models Gain Traction In places with unreliable networks. Points: 269. (Source: Hacker News)",
+          "url": "https://spectrum.ieee.org/small-language-models-ai-pharmaceuticals"
         },
         {
-          "title": "Al Vigier: Canada's AI strategy shouldn't include secret Palantir bills",
-          "summary": "Latest AI discussion on Hacker News: Al Vigier: Canada's AI strategy shouldn't include secret Palantir bills. Points: 163. (Source: Hacker News)",
-          "url": "https://www.readtheline.ca/p/al-vigier-canadas-ai-strategy-shouldnt"
+          "title": "GLM 5.2 and the coming AI margin collapse",
+          "summary": "Latest AI discussion on Hacker News: GLM 5.2 and the coming AI margin collapse. Points: 673. (Source: Hacker News)",
+          "url": "https://martinalderson.com/posts/the-upcoming-ai-margin-collapse-part-1-glm-5-2/"
         },
         {
-          "title": "Delta flight hit by firework while landing at Midway Airport on Fourth of July",
-          "summary": "Latest AI discussion on Hacker News: Delta flight hit by firework while landing at Midway Airport on Fourth of July. Points: 170. (Source: Hacker News)",
-          "url": "https://www.nbcchicago.com/news/local/delta-flight-hit-by-firework-while-landing-at-midway-airport-on-fourth-of-july/3957451/"
+          "title": "Big Tech Has Suddenly Flipped on the AI Jobs Wipeout Scenario",
+          "summary": "Latest AI discussion on Hacker News: Big Tech Has Suddenly Flipped on the AI Jobs Wipeout Scenario. Points: 97. (Source: Hacker News)",
+          "url": "https://www.wsj.com/tech/ai/ai-workers-tech-ceos-job-losses-afc71e15"
         },
         {
-          "title": "New AI tutor achieves 0.71-1.30 SD effect size in Dartmouth course [pdf]",
-          "summary": "Latest AI discussion on Hacker News: New AI tutor achieves 0.71-1.30 SD effect size in Dartmouth course [pdf]. Points: 177. (Source: Hacker News)",
-          "url": "https://intextbooks.science.uu.nl/workshop2026/files/itb26_s1s2.pdf"
+          "title": "OfficeCLI: Office suite for AI agents to read and edit Microsoft Office files",
+          "summary": "Latest AI discussion on Hacker News: OfficeCLI: Office suite for AI agents to read and edit Microsoft Office files. Points: 213. (Source: Hacker News)",
+          "url": "https://github.com/iOfficeAI/OfficeCLI"
         },
         {
-          "title": "Mark Zuckerberg tells staff that AI agents haven't progressed enough",
-          "summary": "Latest AI discussion on Hacker News: Mark Zuckerberg tells staff that AI agents haven't progressed enough. Points: 133. (Source: Hacker News)",
-          "url": "https://techcrunch.com/2026/07/02/mark-zuckerberg-tells-staff-that-ai-agents-havent-progressed-as-quickly-as-hed-hoped/"
+          "title": "AMD Ryzen AI Halo – $4k AI Dev Kit",
+          "summary": "Latest AI discussion on Hacker News: AMD Ryzen AI Halo – $4k AI Dev Kit. Points: 373. (Source: Hacker News)",
+          "url": "https://www.lttlabs.com/articles/2026/07/06/amd-ryzen-ai-halo"
         }
       ]
     },
