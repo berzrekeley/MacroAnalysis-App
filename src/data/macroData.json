@@ -1,26 +1,26 @@
 {
-  "lastUpdated": "July 11, 2026",
+  "lastUpdated": "July 12, 2026",
   "executiveSummary": [
-    "As of July 11, 2026, the U.S. macroeconomic environment is navigating a complex period of high interest rates and shifting labor market dynamics. With the Fed Funds Rate holding at 3.63% and CPI inflation tracking at 4.17%, the central bank continues its \"higher-for-longer\" stance to anchor inflation expectations. Recent headlines such as \"Elon Musk SEC settlement raises 'red flags,' judge says\" suggest that market participants remain hypersensitive to every data print, particularly around corporate earnings and consumer spending resilience.",
-    "The labor market, a key pillar of support, shows 215,000 initial jobless claims, reflecting a relatively stable but cooling employment landscape. Geopolitically, events like \"Taiwanese chipmaker Nanya plans $6 billion in spending in 2027, riding AI boom\" introduce exogenous risks that could disrupt global energy supplies and re-ignite inflationary impulses, keeping the Federal Reserve in a defensive posture as they balance growth against price stability. Analysts are closely watching for any signs of a \"hard landing\" as the effects of previous tightening cycles continue to filter through the real economy."
+    "As of July 12, 2026, the U.S. macroeconomic environment is navigating a complex period of high interest rates and shifting labor market dynamics. With the Fed Funds Rate holding at 3.63% and CPI inflation tracking at 4.17%, the central bank continues its \"higher-for-longer\" stance to anchor inflation expectations. Recent headlines such as \"Pizza chain closing up to 50 locations after years of declines\" suggest that market participants remain hypersensitive to every data print, particularly around corporate earnings and consumer spending resilience.",
+    "The labor market, a key pillar of support, shows 215,000 initial jobless claims, reflecting a relatively stable but cooling employment landscape. Geopolitically, events like \"Big fast-food burger chain franchisee files Chapter 11 bankruptcy\" introduce exogenous risks that could disrupt global energy supplies and re-ignite inflationary impulses, keeping the Federal Reserve in a defensive posture as they balance growth against price stability. Analysts are closely watching for any signs of a \"hard landing\" as the effects of previous tightening cycles continue to filter through the real economy."
   ],
   "dailyHeadlines": [
     {
-      "title": "Elon Musk SEC settlement raises 'red flags,' judge says",
+      "title": "Pizza chain closing up to 50 locations after years of declines",
       "summary": "",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/elon-musk-sec-settlement-raises-164700167.html",
+      "url": "https://finance.yahoo.com/small-business/articles/pizza-chain-closing-50-locations-023300151.html",
       "type": "extreme"
     },
     {
-      "title": "Taiwanese chipmaker Nanya plans $6 billion in spending in 2027, riding AI boom",
+      "title": "Big fast-food burger chain franchisee files Chapter 11 bankruptcy",
       "summary": "",
-      "url": "https://finance.yahoo.com/technology/ai/articles/taiwanese-chipmaker-nanya-plans-6-092507004.html",
+      "url": "https://finance.yahoo.com/small-business/articles/big-fast-food-burger-chain-164700124.html",
       "type": "warning"
     },
     {
-      "title": "Chevron Signs Five-Year WA Gas Supply Deal With Alinta Energy",
+      "title": "How Norfolk Southern (NSC) Is Navigating Regulatory Review to Advance Its Transformational Rail Merger Strategy",
       "summary": "",
-      "url": "https://finance.yahoo.com/energy/articles/chevron-signs-five-wa-gas-091000252.html",
+      "url": "https://finance.yahoo.com/economy/policy/articles/norfolk-southern-nsc-navigating-regulatory-100150717.html",
       "type": "info"
     }
   ],
@@ -299,29 +299,29 @@
       "category": "Frontier Model Race & Breakthroughs",
       "items": [
         {
-          "title": "A font that humans can read but AI cannot",
-          "summary": "Latest AI discussion on Hacker News: A font that humans can read but AI cannot. Points: 53. (Source: Hacker News)",
+          "title": "Under federal rule, colleges must leave grads better off or lose financial aid",
+          "summary": "Latest AI discussion on Hacker News: Under federal rule, colleges must leave grads better off or lose financial aid. Points: 100. (Source: Hacker News)",
+          "url": "https://www.npr.org/2026/06/30/nx-s1-5835631/turner-camhi-do-no-harm-college-loans"
+        },
+        {
+          "title": "Mesh LLM: distributed AI computing on iroh",
+          "summary": "Latest AI discussion on Hacker News: Mesh LLM: distributed AI computing on iroh. Points: 266. (Source: Hacker News)",
+          "url": "https://www.iroh.computer/blog/mesh-llm"
+        },
+        {
+          "title": "AI 2040 and the cult of intelligence",
+          "summary": "Latest AI discussion on Hacker News: AI 2040 and the cult of intelligence. Points: 204. (Source: Hacker News)",
+          "url": "https://geohot.github.io//blog/jekyll/update/2026/07/11/ai-2040.html"
+        },
+        {
+          "title": "Reverse centaurs are the answer to the AI paradox (2025)",
+          "summary": "Latest AI discussion on Hacker News: Reverse centaurs are the answer to the AI paradox (2025). Points: 105. (Source: Hacker News)",
+          "url": "https://pluralistic.net/2025/09/11/vulgar-thatcherism/#there-is-an-alternative"
+        },
+        {
+          "title": "Ghost Font: A font that humans can read but AI cannot",
+          "summary": "Latest AI discussion on Hacker News: Ghost Font: A font that humans can read but AI cannot. Points: 217. (Source: Hacker News)",
           "url": "https://www.mixfont.com/ghost-font"
-        },
-        {
-          "title": "How the terrorist group Boko Haram uses frontier AI",
-          "summary": "Latest AI discussion on Hacker News: How the terrorist group Boko Haram uses frontier AI. Points: 207. (Source: Hacker News)",
-          "url": "https://casp.ac/reports/ai-enabled-terrorism"
-        },
-        {
-          "title": "AI-generated videos to maximally drive a target brain region",
-          "summary": "Latest AI discussion on Hacker News: AI-generated videos to maximally drive a target brain region. Points: 278. (Source: Hacker News)",
-          "url": "https://nevo-project.epfl.ch/"
-        },
-        {
-          "title": "Building a real-time AI tutor for 5-year-olds",
-          "summary": "Latest AI discussion on Hacker News: Building a real-time AI tutor for 5-year-olds. Points: 142. (Source: Hacker News)",
-          "url": "https://www.ello.com/blog/teaching-a-child-in-1000-ms"
-        },
-        {
-          "title": "Show HN: Reviving my 2001 college band with AI",
-          "summary": "Latest AI discussion on Hacker News: Show HN: Reviving my 2001 college band with AI. Points: 53. (Source: Hacker News)",
-          "url": "https://www.fadingmaize.com"
         }
       ]
     },
@@ -329,29 +329,29 @@
       "category": "Enterprise & Agentic AI",
       "items": [
         {
-          "title": "AI 2040: Plan A",
-          "summary": "Latest AI discussion on Hacker News: AI 2040: Plan A. Points: 281. (Source: Hacker News)",
-          "url": "https://ai-2040.com/"
+          "title": "Microsoft latest report shows 25% emissions raised due to AI data centers",
+          "summary": "Latest AI discussion on Hacker News: Microsoft latest report shows 25% emissions raised due to AI data centers. Points: 50. (Source: Hacker News)",
+          "url": "https://www.windowscentral.com/microsoft/dropping-greenwashing-credits-and-expanding-ai-datacenters-caused-microsofts-25-percent-emissions-jump"
         },
         {
-          "title": "AI content is everywhere on social media, especially LinkedIn",
-          "summary": "Latest AI discussion on Hacker News: AI content is everywhere on social media, especially LinkedIn. Points: 240. (Source: Hacker News)",
-          "url": "https://www.pangram.com/blog/ai-in-your-feed"
+          "title": "Meta pulls new AI image feature after days of backlash",
+          "summary": "Latest AI discussion on Hacker News: Meta pulls new AI image feature after days of backlash. Points: 56. (Source: Hacker News)",
+          "url": "https://www.bbc.com/news/articles/c2dy6e8klw0o"
         },
         {
-          "title": "The next era of AI is about infrastructure, not just models",
-          "summary": "Latest AI discussion on Hacker News: The next era of AI is about infrastructure, not just models. Points: 60. (Source: Hacker News)",
-          "url": "https://blog.mozilla.ai/the-control-layer-why-the-next-era-of-ai-is-about-infrastructure-not-just-models/"
+          "title": "AI Can't Recreate the Thrust Game (But It Can Help You Understand It)",
+          "summary": "Latest AI discussion on Hacker News: AI Can't Recreate the Thrust Game (But It Can Help You Understand It). Points: 52. (Source: Hacker News)",
+          "url": "https://www.jamesdrandall.com/posts/thrust_ai_powered_software_archaeology/"
         },
         {
-          "title": "DeepSeek aims to make its own AI chip",
-          "summary": "Latest AI discussion on Hacker News: DeepSeek aims to make its own AI chip. Points: 72. (Source: Hacker News)",
-          "url": "https://www.proactiveinvestors.com/companies/news/1095178/deepseek-makes-pivot-that-should-put-silicon-valley-on-high-alert-1095178.html"
+          "title": "How the terrorist group Boko Haram uses frontier AI",
+          "summary": "Latest AI discussion on Hacker News: How the terrorist group Boko Haram uses frontier AI. Points: 227. (Source: Hacker News)",
+          "url": "https://casp.ac/reports/ai-enabled-terrorism"
         },
         {
-          "title": "Show HN: FableCut – A browser video editor AI agents can drive (zero deps)",
-          "summary": "Latest AI discussion on Hacker News: Show HN: FableCut – A browser video editor AI agents can drive (zero deps). Points: 96. (Source: Hacker News)",
-          "url": "https://github.com/ronak-create/FableCut"
+          "title": "Hands-On with the AMD Ryzen AI Halo",
+          "summary": "Latest AI discussion on Hacker News: Hands-On with the AMD Ryzen AI Halo. Points: 52. (Source: Hacker News)",
+          "url": "https://www.microcenter.com/site/mc-news/article/amd-ryzen-ai-halo-review.aspx"
         }
       ]
     },
