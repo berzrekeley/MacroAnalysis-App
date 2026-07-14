@@ -1,26 +1,26 @@
 {
-  "lastUpdated": "July 13, 2026",
+  "lastUpdated": "July 14, 2026",
   "executiveSummary": [
-    "As of July 13, 2026, the U.S. macroeconomic environment is navigating a complex period of high interest rates and shifting labor market dynamics. With the Fed Funds Rate holding at 3.63% and CPI inflation tracking at 4.17%, the central bank continues its \"higher-for-longer\" stance to anchor inflation expectations. Recent headlines such as \"SK Hynix stock drops, chip sector declines as AI trade angst returns\" suggest that market participants remain hypersensitive to every data print, particularly around corporate earnings and consumer spending resilience.",
-    "The labor market, a key pillar of support, shows 215,000 initial jobless claims, reflecting a relatively stable but cooling employment landscape. Geopolitically, events like \"Intel announces $5.7 billion capital investment at Irish manufacturing hub\" introduce exogenous risks that could disrupt global energy supplies and re-ignite inflationary impulses, keeping the Federal Reserve in a defensive posture as they balance growth against price stability. Analysts are closely watching for any signs of a \"hard landing\" as the effects of previous tightening cycles continue to filter through the real economy."
+    "As of July 14, 2026, the U.S. macroeconomic environment is navigating a complex period of high interest rates and shifting labor market dynamics. With the Fed Funds Rate holding at 3.63% and CPI inflation tracking at 4.17%, the central bank continues its \"higher-for-longer\" stance to anchor inflation expectations. Recent headlines such as \"JPMorgan notches the highest quarterly profit in US banking history\" suggest that market participants remain hypersensitive to every data print, particularly around corporate earnings and consumer spending resilience.",
+    "The labor market, a key pillar of support, shows 215,000 initial jobless claims, reflecting a relatively stable but cooling employment landscape. Geopolitically, events like \"Trump's promotion of 'Freedom Fuel' gas stations sparks accusations of a double standard\" introduce exogenous risks that could disrupt global energy supplies and re-ignite inflationary impulses, keeping the Federal Reserve in a defensive posture as they balance growth against price stability. Analysts are closely watching for any signs of a \"hard landing\" as the effects of previous tightening cycles continue to filter through the real economy."
   ],
   "dailyHeadlines": [
     {
-      "title": "SK Hynix stock drops, chip sector declines as AI trade angst returns",
+      "title": "JPMorgan notches the highest quarterly profit in US banking history",
       "summary": "",
-      "url": "https://finance.yahoo.com/markets/article/sk-hynix-stock-drops-chip-sector-declines-as-ai-trade-angst-returns-120751185.html",
+      "url": "https://finance.yahoo.com/markets/article/jpmorgan-notches-the-highest-quarterly-profit-in-us-banking-history-110031854.html",
       "type": "extreme"
     },
     {
-      "title": "Intel announces $5.7 billion capital investment at Irish manufacturing hub",
+      "title": "Trump's promotion of 'Freedom Fuel' gas stations sparks accusations of a double standard",
       "summary": "",
-      "url": "https://finance.yahoo.com/technology/articles/intel-announces-5-7-billion-120259165.html",
+      "url": "https://finance.yahoo.com/energy/articles/trumps-promotion-freedom-fuel-gas-110000934.html",
       "type": "warning"
     },
     {
-      "title": "Oil gains over 3% as fresh military strikes threaten Hormuz shipments",
+      "title": "European biotech chases record VC funding",
       "summary": "",
-      "url": "https://finance.yahoo.com/energy/articles/oil-jumps-more-3-us-221223358.html",
+      "url": "https://finance.yahoo.com/healthcare/articles/european-biotech-chases-record-vc-105336852.html",
       "type": "info"
     }
   ],
@@ -39,19 +39,19 @@
     },
     {
       "title": "10Y - 2Y Spread",
-      "value": "0.35%",
+      "value": "0.36%",
       "status": "Steepening - slower growth",
       "type": "warning"
     },
     {
       "title": "10Y Treasury Rate",
-      "value": "4.54%",
+      "value": "4.56%",
       "status": "High - energy-driven inflation",
       "type": "warning"
     },
     {
       "title": "2Y Treasury Rate",
-      "value": "4.16%",
+      "value": "4.21%",
       "status": "Elevated - higher-for-longer stance",
       "type": "warning"
     },
@@ -299,29 +299,29 @@
       "category": "Frontier Model Race & Breakthroughs",
       "items": [
         {
-          "title": "Ask HN: Add flag for AI-generated articles",
-          "summary": "Latest AI discussion on Hacker News: Ask HN: Add flag for AI-generated articles. Points: 778. (Source: Hacker News)",
-          "url": "https://news.ycombinator.com/item?id=48886741"
+          "title": "Show HN: Sx 2.0 – Share AI skills with your team through a Dropbox folder",
+          "summary": "Latest AI discussion on Hacker News: Show HN: Sx 2.0 – Share AI skills with your team through a Dropbox folder. Points: 38. (Source: Hacker News)",
+          "url": "https://sleuth-io.github.io/sx/2026/07/10/your-dropbox-is-now-a-skill-server.html"
         },
         {
-          "title": "The One-Step Trap (In AI Research)",
-          "summary": "Latest AI discussion on Hacker News: The One-Step Trap (In AI Research). Points: 51. (Source: Hacker News)",
-          "url": "http://incompleteideas.net/IncIdeas/OneStepTrap.html"
+          "title": "The AI Whale Fall and Open Source",
+          "summary": "Latest AI discussion on Hacker News: The AI Whale Fall and Open Source. Points: 32. (Source: Hacker News)",
+          "url": "https://minor.gripe/posts/2026-07-13-the_ai_whalefall_and_open_source/"
         },
         {
-          "title": "Migrating a production AI agent to GPT-5.6: 2.2x faster, 27% cheaper",
-          "summary": "Latest AI discussion on Hacker News: Migrating a production AI agent to GPT-5.6: 2.2x faster, 27% cheaper. Points: 217. (Source: Hacker News)",
-          "url": "https://ploy.ai/blog/migrating-a-production-ai-agent-to-gpt-5-6"
+          "title": "Samsung Health app threatens data deletion if users opt out AI training",
+          "summary": "Latest AI discussion on Hacker News: Samsung Health app threatens data deletion if users opt out AI training. Points: 330. (Source: Hacker News)",
+          "url": "https://neow.in/cWsyMTV3"
         },
         {
-          "title": "AI boosts research careers but narrow the span of ideas explored: study",
-          "summary": "Latest AI discussion on Hacker News: AI boosts research careers but narrow the span of ideas explored: study. Points: 150. (Source: Hacker News)",
-          "url": "https://spectrum.ieee.org/ai-science-research-flattens-discovery"
+          "title": "AI is a bad tool",
+          "summary": "Latest AI discussion on Hacker News: AI is a bad tool. Points: 78. (Source: Hacker News)",
+          "url": "https://bytecode.news/posts/2026/07/user-submission-ai-is-a-bad-tool"
         },
         {
-          "title": "Under federal rule, colleges must leave grads better off or lose financial aid",
-          "summary": "Latest AI discussion on Hacker News: Under federal rule, colleges must leave grads better off or lose financial aid. Points: 192. (Source: Hacker News)",
-          "url": "https://www.npr.org/2026/06/30/nx-s1-5835631/turner-camhi-do-no-harm-college-loans"
+          "title": "Show HN: BillAI Bass, an AI-Powered Big Mouth Billy Bass Using Strands Agents",
+          "summary": "Latest AI discussion on Hacker News: Show HN: BillAI Bass, an AI-Powered Big Mouth Billy Bass Using Strands Agents. Points: 70. (Source: Hacker News)",
+          "url": "https://github.com/morganwilliscloud/billai-bass"
         }
       ]
     },
@@ -329,29 +329,29 @@
       "category": "Enterprise & Agentic AI",
       "items": [
         {
-          "title": "Mesh LLM: distributed AI computing on iroh",
-          "summary": "Latest AI discussion on Hacker News: Mesh LLM: distributed AI computing on iroh. Points: 340. (Source: Hacker News)",
-          "url": "https://www.iroh.computer/blog/mesh-llm"
+          "title": "Show HN: Jacquard, a programming language for AI-written, human-reviewed code",
+          "summary": "Latest AI discussion on Hacker News: Show HN: Jacquard, a programming language for AI-written, human-reviewed code. Points: 91. (Source: Hacker News)",
+          "url": "https://github.com/jbwinters/jacquard-lang"
         },
         {
-          "title": "Wealthy AI workers send San Francisco house prices soaring",
-          "summary": "Latest AI discussion on Hacker News: Wealthy AI workers send San Francisco house prices soaring. Points: 48. (Source: Hacker News)",
-          "url": "https://www.bbc.com/news/articles/c9q29j47v9ro"
+          "title": "Ask HN: Add flag for AI-generated articles",
+          "summary": "Latest AI discussion on Hacker News: Ask HN: Add flag for AI-generated articles. Points: 1041. (Source: Hacker News)",
+          "url": "https://news.ycombinator.com/item?id=48886741"
         },
         {
-          "title": "Show HN: Sqlsure – deterministic semantic checks for AI-generated SQL",
-          "summary": "Latest AI discussion on Hacker News: Show HN: Sqlsure – deterministic semantic checks for AI-generated SQL. Points: 41. (Source: Hacker News)",
-          "url": "https://github.com/sqlsure/sqlsure"
+          "title": "The One-Step Trap (In AI Research)",
+          "summary": "Latest AI discussion on Hacker News: The One-Step Trap (In AI Research). Points: 53. (Source: Hacker News)",
+          "url": "http://incompleteideas.net/IncIdeas/OneStepTrap.html"
         },
         {
-          "title": "AI 2040 and the cult of intelligence",
-          "summary": "Latest AI discussion on Hacker News: AI 2040 and the cult of intelligence. Points: 221. (Source: Hacker News)",
-          "url": "https://geohot.github.io//blog/jekyll/update/2026/07/11/ai-2040.html"
+          "title": "Migrating a production AI agent to GPT-5.6: 2.2x faster, 27% cheaper",
+          "summary": "Latest AI discussion on Hacker News: Migrating a production AI agent to GPT-5.6: 2.2x faster, 27% cheaper. Points: 256. (Source: Hacker News)",
+          "url": "https://ploy.ai/blog/migrating-a-production-ai-agent-to-gpt-5-6"
         },
         {
-          "title": "Reverse centaurs are the answer to the AI paradox (2025)",
-          "summary": "Latest AI discussion on Hacker News: Reverse centaurs are the answer to the AI paradox (2025). Points: 109. (Source: Hacker News)",
-          "url": "https://pluralistic.net/2025/09/11/vulgar-thatcherism/#there-is-an-alternative"
+          "title": "AI boosts research careers but narrow the span of ideas explored: study",
+          "summary": "Latest AI discussion on Hacker News: AI boosts research careers but narrow the span of ideas explored: study. Points: 154. (Source: Hacker News)",
+          "url": "https://spectrum.ieee.org/ai-science-research-flattens-discovery"
         }
       ]
     },
