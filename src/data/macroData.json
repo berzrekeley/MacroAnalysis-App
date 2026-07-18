@@ -1,26 +1,26 @@
 {
-  "lastUpdated": "July 17, 2026",
+  "lastUpdated": "July 18, 2026",
   "executiveSummary": [
-    "As of July 17, 2026, the U.S. macroeconomic environment is navigating a complex period of high interest rates and shifting labor market dynamics. With the Fed Funds Rate holding at 3.63% and CPI inflation tracking at 3.46%, the central bank continues its \"higher-for-longer\" stance to anchor inflation expectations. Recent headlines such as \"Widow, 74, Applied For A HELOC Alone For The First Time Since Her Husband Died — And The Bank Said No\" suggest that market participants remain hypersensitive to every data print, particularly around corporate earnings and consumer spending resilience.",
-    "The labor market, a key pillar of support, shows 208,000 initial jobless claims, reflecting a relatively stable but cooling employment landscape. Geopolitically, events like \"Limited-time offer: Earn up to $500 in travel credits with a Capital One business credit card\" introduce exogenous risks that could disrupt global energy supplies and re-ignite inflationary impulses, keeping the Federal Reserve in a defensive posture as they balance growth against price stability. Analysts are closely watching for any signs of a \"hard landing\" as the effects of previous tightening cycles continue to filter through the real economy."
+    "As of July 18, 2026, the U.S. macroeconomic environment is navigating a complex period of high interest rates and shifting labor market dynamics. With the Fed Funds Rate holding at 3.63% and CPI inflation tracking at 3.46%, the central bank continues its \"higher-for-longer\" stance to anchor inflation expectations. Recent headlines such as \"Oil prices hold steady but remain on course for strong weekly gains as U.S.-Iran conflict escalates\" suggest that market participants remain hypersensitive to every data print, particularly around corporate earnings and consumer spending resilience.",
+    "The labor market, a key pillar of support, shows 208,000 initial jobless claims, reflecting a relatively stable but cooling employment landscape. Geopolitically, events like \"Libya Declares Major Oil Discovery Commercial as Production Revival Gains Pace\" introduce exogenous risks that could disrupt global energy supplies and re-ignite inflationary impulses, keeping the Federal Reserve in a defensive posture as they balance growth against price stability. Analysts are closely watching for any signs of a \"hard landing\" as the effects of previous tightening cycles continue to filter through the real economy."
   ],
   "dailyHeadlines": [
     {
-      "title": "Widow, 74, Applied For A HELOC Alone For The First Time Since Her Husband Died — And The Bank Said No",
+      "title": "Oil prices hold steady but remain on course for strong weekly gains as U.S.-Iran conflict escalates",
       "summary": "",
-      "url": "https://finance.yahoo.com/real-estate/articles/widow-74-applied-heloc-alone-230108528.html",
+      "url": "https://finance.yahoo.com/energy/articles/oil-prices-hold-steady-remain-093205249.html",
       "type": "extreme"
     },
     {
-      "title": "Limited-time offer: Earn up to $500 in travel credits with a Capital One business credit card",
+      "title": "Libya Declares Major Oil Discovery Commercial as Production Revival Gains Pace",
       "summary": "",
-      "url": "https://finance.yahoo.com/personal-finance/credit-cards/article/limited-time-offer-earn-up-to-500-in-travel-credits-with-a-capital-one-business-credit-card-191731905.html",
+      "url": "https://finance.yahoo.com/energy/articles/libya-declares-major-oil-discovery-093000857.html",
       "type": "warning"
     },
     {
-      "title": "Parent PLUS loans after July 1: Do you still have a path to income-driven repayment?",
+      "title": "Netflix tumbles as slowing growth, less viewership data spook investors",
       "summary": "",
-      "url": "https://finance.yahoo.com/personal-finance/student-loans/article/parent-plus-loan-consolidation-deadline-231605885.html",
+      "url": "https://finance.yahoo.com/media-advertising/articles/lacks-excitement-netflix-tumbles-9-091549414.html",
       "type": "info"
     }
   ],
@@ -39,19 +39,19 @@
     },
     {
       "title": "10Y - 2Y Spread",
-      "value": "0.41%",
+      "value": "0.37%",
       "status": "Steepening - slower growth",
       "type": "warning"
     },
     {
       "title": "10Y Treasury Rate",
-      "value": "4.55%",
+      "value": "4.57%",
       "status": "High - energy-driven inflation",
       "type": "warning"
     },
     {
       "title": "2Y Treasury Rate",
-      "value": "4.13%",
+      "value": "4.16%",
       "status": "Elevated - higher-for-longer stance",
       "type": "warning"
     },
@@ -75,7 +75,7 @@
     },
     {
       "title": "Building Permits",
-      "value": "1.410M",
+      "value": "1.367M",
       "status": "Soft - cooling residential activity",
       "type": "warning"
     },
@@ -299,29 +299,29 @@
       "category": "Frontier Model Race & Breakthroughs",
       "items": [
         {
-          "title": "LM Studio Bionic: the AI agent for open models",
-          "summary": "Latest AI discussion on Hacker News: LM Studio Bionic: the AI agent for open models. Points: 265. (Source: Hacker News)",
-          "url": "https://lmstudio.ai/blog/introducing-lm-studio-bionic"
+          "title": "Kaiser nurses say AI, surveillance are making their jobs and patient care worse",
+          "summary": "Latest AI discussion on Hacker News: Kaiser nurses say AI, surveillance are making their jobs and patient care worse. Points: 514. (Source: Hacker News)",
+          "url": "https://localnewsmatters.org/2026/07/15/kaiser-nurses-say-ai-workplace-surveillance-are-making-their-jobs-and-patient-care-worse/"
         },
         {
-          "title": "$100 AI Music Video: Claude Fable 5 vs. GPT-5.6 Sol",
-          "summary": "Latest AI discussion on Hacker News: $100 AI Music Video: Claude Fable 5 vs. GPT-5.6 Sol. Points: 291. (Source: Hacker News)",
-          "url": "https://www.tryai.dev/blog/ai-music-video-arena-claude-vs-gpt-5.6"
+          "title": "FAA lets Boeing sign off on 737 MAX, 787 airworthiness certificates again",
+          "summary": "Latest AI discussion on Hacker News: FAA lets Boeing sign off on 737 MAX, 787 airworthiness certificates again. Points: 176. (Source: Hacker News)",
+          "url": "https://www.cnbc.com/2026/07/17/faa-boeing-737-max-787.html"
         },
         {
-          "title": "German AI consortium releases Soofi S, an open 30B model that tops benchmarks",
-          "summary": "Latest AI discussion on Hacker News: German AI consortium releases Soofi S, an open 30B model that tops benchmarks. Points: 139. (Source: Hacker News)",
-          "url": "https://the-decoder.com/german-ai-consortium-releases-soofi-s-an-open-30b-model-that-tops-benchmarks-in-both-english-and-german/"
+          "title": "The state of open source AI",
+          "summary": "Latest AI discussion on Hacker News: The state of open source AI. Points: 451. (Source: Hacker News)",
+          "url": "https://stateofopensource.ai/"
         },
         {
-          "title": "800 Canadian wildfires burning as air quality alerts extend to US",
-          "summary": "Latest AI discussion on Hacker News: 800 Canadian wildfires burning as air quality alerts extend to US. Points: 58. (Source: Hacker News)",
-          "url": "https://www.bbc.com/news/articles/c0m7n427xd8o"
+          "title": "AI Meets Cryptography 2: What AI Found in OpenVM's ZkVM",
+          "summary": "Latest AI discussion on Hacker News: AI Meets Cryptography 2: What AI Found in OpenVM's ZkVM. Points: 95. (Source: Hacker News)",
+          "url": "https://blog.zksecurity.xyz/posts/openvm-bugs/"
         },
         {
-          "title": "How to Train a Gen AI Kick Drum Model on Your Old Linux Desktop with 6GB VRAM",
-          "summary": "Latest AI discussion on Hacker News: How to Train a Gen AI Kick Drum Model on Your Old Linux Desktop with 6GB VRAM. Points: 139. (Source: Hacker News)",
-          "url": "https://www.zhinit.dev/blog/training-a-kick-drum-diffusion-model"
+          "title": "VulnHunter: Capital One's agentic AI code security tool",
+          "summary": "Latest AI discussion on Hacker News: VulnHunter: Capital One's agentic AI code security tool. Points: 71. (Source: Hacker News)",
+          "url": "https://www.capitalone.com/tech/open-source/announcing-vulnhunter/"
         }
       ]
     },
@@ -329,29 +329,29 @@
       "category": "Enterprise & Agentic AI",
       "items": [
         {
+          "title": "LM Studio Bionic: the AI agent for open models",
+          "summary": "Latest AI discussion on Hacker News: LM Studio Bionic: the AI agent for open models. Points: 323. (Source: Hacker News)",
+          "url": "https://lmstudio.ai/blog/introducing-lm-studio-bionic"
+        },
+        {
+          "title": "$100 AI Music Video: Claude Fable 5 vs. GPT-5.6 Sol",
+          "summary": "Latest AI discussion on Hacker News: $100 AI Music Video: Claude Fable 5 vs. GPT-5.6 Sol. Points: 389. (Source: Hacker News)",
+          "url": "https://www.tryai.dev/blog/ai-music-video-arena-claude-vs-gpt-5.6"
+        },
+        {
+          "title": "German AI consortium releases Soofi S, an open 30B model that tops benchmarks",
+          "summary": "Latest AI discussion on Hacker News: German AI consortium releases Soofi S, an open 30B model that tops benchmarks. Points: 144. (Source: Hacker News)",
+          "url": "https://the-decoder.com/german-ai-consortium-releases-soofi-s-an-open-30b-model-that-tops-benchmarks-in-both-english-and-german/"
+        },
+        {
+          "title": "How to Train a Gen AI Kick Drum Model on Your Old Linux Desktop with 6GB VRAM",
+          "summary": "Latest AI discussion on Hacker News: How to Train a Gen AI Kick Drum Model on Your Old Linux Desktop with 6GB VRAM. Points: 157. (Source: Hacker News)",
+          "url": "https://www.zhinit.dev/blog/training-a-kick-drum-diffusion-model"
+        },
+        {
           "title": "Generative AI Is an Engineering Disaster",
-          "summary": "Latest AI discussion on Hacker News: Generative AI Is an Engineering Disaster. Points: 105. (Source: Hacker News)",
+          "summary": "Latest AI discussion on Hacker News: Generative AI Is an Engineering Disaster. Points: 109. (Source: Hacker News)",
           "url": "https://www.theatlantic.com/technology/2026/07/generative-ai-engineering-disaster/687901/"
-        },
-        {
-          "title": "Stop saying that AI is just a tool and it only matters how it is used",
-          "summary": "Latest AI discussion on Hacker News: Stop saying that AI is just a tool and it only matters how it is used. Points: 104. (Source: Hacker News)",
-          "url": "https://www.frank.computer/blog/2025/05/just-a-tool.html"
-        },
-        {
-          "title": "We don't use AI in any of our design or production processes",
-          "summary": "Latest AI discussion on Hacker News: We don't use AI in any of our design or production processes. Points: 107. (Source: Hacker News)",
-          "url": "https://mass-driver.com/article/from-human-hands"
-        },
-        {
-          "title": "Governments, companies, nonprofits should invest in free, open source AI [pdf]",
-          "summary": "Latest AI discussion on Hacker News: Governments, companies, nonprofits should invest in free, open source AI [pdf]. Points: 290. (Source: Hacker News)",
-          "url": "https://www.siegelendowment.org/wp-content/uploads/2026/07/fortune-david-siegel-open-source-ai.pdf"
-        },
-        {
-          "title": "The Three-Second Theft: Why AI Voice Fraud Outruns Every Defence",
-          "summary": "Latest AI discussion on Hacker News: The Three-Second Theft: Why AI Voice Fraud Outruns Every Defence. Points: 188. (Source: Hacker News)",
-          "url": "https://smarterarticles.co.uk/the-three-second-theft-why-ai-voice-fraud-outruns-every-defence"
         }
       ]
     },
