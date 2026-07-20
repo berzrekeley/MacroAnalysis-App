@@ -1,26 +1,26 @@
 {
-  "lastUpdated": "July 19, 2026",
+  "lastUpdated": "July 20, 2026",
   "executiveSummary": [
-    "As of July 19, 2026, the U.S. macroeconomic environment is navigating a complex period of high interest rates and shifting labor market dynamics. With the Fed Funds Rate holding at 3.63% and CPI inflation tracking at 3.46%, the central bank continues its \"higher-for-longer\" stance to anchor inflation expectations. Recent headlines such as \"Dave Ramsey says you can save money by raising your car insurance deductible. We did the math to see if it works\" suggest that market participants remain hypersensitive to every data print, particularly around corporate earnings and consumer spending resilience.",
-    "The labor market, a key pillar of support, shows 208,000 initial jobless claims, reflecting a relatively stable but cooling employment landscape. Geopolitically, events like \"Mortgage and refinance interest rates today, Saturday, July 18, 2026: Rates lower to start the weekend\" introduce exogenous risks that could disrupt global energy supplies and re-ignite inflationary impulses, keeping the Federal Reserve in a defensive posture as they balance growth against price stability. Analysts are closely watching for any signs of a \"hard landing\" as the effects of previous tightening cycles continue to filter through the real economy."
+    "As of July 20, 2026, the U.S. macroeconomic environment is navigating a complex period of high interest rates and shifting labor market dynamics. With the Fed Funds Rate holding at 3.63% and CPI inflation tracking at 3.46%, the central bank continues its \"higher-for-longer\" stance to anchor inflation expectations. Recent headlines such as \"Earnings live: Google, Tesla to kick off 'Magnificent Seven' quarterly results\" suggest that market participants remain hypersensitive to every data print, particularly around corporate earnings and consumer spending resilience.",
+    "The labor market, a key pillar of support, shows 208,000 initial jobless claims, reflecting a relatively stable but cooling employment landscape. Geopolitically, events like \"Dollar drifts as US-Iran conflict intensifies; sterling inches higher\" introduce exogenous risks that could disrupt global energy supplies and re-ignite inflationary impulses, keeping the Federal Reserve in a defensive posture as they balance growth against price stability. Analysts are closely watching for any signs of a \"hard landing\" as the effects of previous tightening cycles continue to filter through the real economy."
   ],
   "dailyHeadlines": [
     {
-      "title": "Dave Ramsey says you can save money by raising your car insurance deductible. We did the math to see if it works",
+      "title": "Earnings live: Google, Tesla to kick off 'Magnificent Seven' quarterly results",
       "summary": "",
-      "url": "https://finance.yahoo.com/markets/articles/dave-ramsey-says-save-money-100000037.html",
+      "url": "https://finance.yahoo.com/markets/live/earnings-live-second-quarter-results-tesla-google-july-115324842.html",
       "type": "extreme"
     },
     {
-      "title": "Mortgage and refinance interest rates today, Saturday, July 18, 2026: Rates lower to start the weekend",
+      "title": "Dollar drifts as US-Iran conflict intensifies; sterling inches higher",
       "summary": "",
-      "url": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-and-refinance-interest-rates-today-saturday-july-18-2026-rates-lower-to-start-the-weekend-100000896.html",
+      "url": "https://finance.yahoo.com/markets/currencies/articles/dollar-drifts-us-iran-conflict-052226780.html",
       "type": "warning"
     },
     {
-      "title": "A $36T Great Wealth Transfer is coming — but not everyone will score a payday. How to make a modest inheritance count",
+      "title": "At 50, she quit her career to retire to Mexico — then spent 'year one' making endless mistakes. Here's what she learned",
       "summary": "",
-      "url": "https://finance.yahoo.com/small-business/articles/36t-great-wealth-transfer-coming-095000926.html",
+      "url": "https://finance.yahoo.com/small-business/articles/50-she-quit-her-career-113000952.html",
       "type": "info"
     }
   ],
@@ -299,29 +299,29 @@
       "category": "Frontier Model Race & Breakthroughs",
       "items": [
         {
-          "title": "AI Mania Is Eviscerating Global Decision-Making",
-          "summary": "Latest AI discussion on Hacker News: AI Mania Is Eviscerating Global Decision-Making. Points: 226. (Source: Hacker News)",
-          "url": "https://ludic.mataroa.blog/blog/ai-mania-is-eviscerating-global-decision-making/#fnref:3"
+          "title": "Airbus Takes Flight from AWS",
+          "summary": "Latest AI discussion on Hacker News: Airbus Takes Flight from AWS. Points: 75. (Source: Hacker News)",
+          "url": "https://www.theregister.com/columnists/2026/07/20/airbus-takes-flight-from-aws-what-happens-next-is-critical/5274109"
         },
         {
-          "title": "NYC may require landlords and realtors to disclose the use of AI in listings",
-          "summary": "Latest AI discussion on Hacker News: NYC may require landlords and realtors to disclose the use of AI in listings. Points: 482. (Source: Hacker News)",
-          "url": "https://petapixel.com/2026/07/16/mayor-mamdani-says-landlords-cant-secretly-use-ai-images-to-advertise-properties/"
+          "title": "EU Exempts Apple Watch and AirPods from Battery Removal Requirements",
+          "summary": "Latest AI discussion on Hacker News: EU Exempts Apple Watch and AirPods from Battery Removal Requirements. Points: 35. (Source: Hacker News)",
+          "url": "https://mjtsai.com/blog/2026/07/17/eu-exempts-apple-watch-and-airpods-from-battery-removal-requirement/"
         },
         {
-          "title": "What AI did to stackoverflow in a graph",
-          "summary": "Latest AI discussion on Hacker News: What AI did to stackoverflow in a graph. Points: 410. (Source: Hacker News)",
-          "url": "https://data.stackexchange.com/stackoverflow/query/1953768#graph"
+          "title": "Big tech needs to justify AI spending as investors dump stocks",
+          "summary": "Latest AI discussion on Hacker News: Big tech needs to justify AI spending as investors dump stocks. Points: 42. (Source: Hacker News)",
+          "url": "https://www.bloomberg.com/news/articles/2026-07-19/big-tech-needs-to-justify-ai-spending-as-investors-dump-stocks"
         },
         {
-          "title": "Why do AI company logos look like buttholes? (2025)",
-          "summary": "Latest AI discussion on Hacker News: Why do AI company logos look like buttholes? (2025). Points: 427. (Source: Hacker News)",
-          "url": "https://velvetshark.com/ai-company-logos-that-look-like-buttholes"
+          "title": "Ask HN: What are your favorite blogs not about AI?",
+          "summary": "Latest AI discussion on Hacker News: Ask HN: What are your favorite blogs not about AI?. Points: 82. (Source: Hacker News)",
+          "url": "https://news.ycombinator.com/item?id=48972858"
         },
         {
-          "title": "Kaiser nurses say AI, surveillance are making their jobs and patient care worse",
-          "summary": "Latest AI discussion on Hacker News: Kaiser nurses say AI, surveillance are making their jobs and patient care worse. Points: 551. (Source: Hacker News)",
-          "url": "https://localnewsmatters.org/2026/07/15/kaiser-nurses-say-ai-workplace-surveillance-are-making-their-jobs-and-patient-care-worse/"
+          "title": "AI advice made people less accurate but more confident – sudy",
+          "summary": "Latest AI discussion on Hacker News: AI advice made people less accurate but more confident – sudy. Points: 343. (Source: Hacker News)",
+          "url": "https://thenextweb.com/news/ai-advice-suppresses-critical-thinking-wrong-answers-study"
         }
       ]
     },
@@ -329,29 +329,29 @@
       "category": "Enterprise & Agentic AI",
       "items": [
         {
-          "title": "Everybody's Weirded Out by AI–Except the People Who Foist It on Us",
-          "summary": "Latest AI discussion on Hacker News: Everybody's Weirded Out by AI–Except the People Who Foist It on Us. Points: 67. (Source: Hacker News)",
-          "url": "https://newrepublic.com/article/213004/everybody-weirded-ai-except-people-foist-us"
+          "title": "Moonshot AI suspends new subscriptions due to Kimi K3 demand",
+          "summary": "Latest AI discussion on Hacker News: Moonshot AI suspends new subscriptions due to Kimi K3 demand. Points: 268. (Source: Hacker News)",
+          "url": "https://twitter.com/kimi_moonshot/status/2078855608565207130"
         },
         {
-          "title": "FAA lets Boeing sign off on 737 MAX, 787 airworthiness certificates again",
-          "summary": "Latest AI discussion on Hacker News: FAA lets Boeing sign off on 737 MAX, 787 airworthiness certificates again. Points: 195. (Source: Hacker News)",
-          "url": "https://www.cnbc.com/2026/07/17/faa-boeing-737-max-787.html"
+          "title": "Perforce charges $500 for training training videos.. and it's AI narrated",
+          "summary": "Latest AI discussion on Hacker News: Perforce charges $500 for training training videos.. and it's AI narrated. Points: 53. (Source: Hacker News)",
+          "url": "https://training.perforce.com/learn/courses/535/p4-helix-core-user-basic"
         },
         {
-          "title": "The state of open source AI",
-          "summary": "Latest AI discussion on Hacker News: The state of open source AI. Points: 479. (Source: Hacker News)",
-          "url": "https://stateofopensource.ai/"
+          "title": "AI Mania Is Eviscerating Global Decision-Making",
+          "summary": "Latest AI discussion on Hacker News: AI Mania Is Eviscerating Global Decision-Making. Points: 413. (Source: Hacker News)",
+          "url": "https://ludic.mataroa.blog/blog/ai-mania-is-eviscerating-global-decision-making/#fnref:3"
         },
         {
-          "title": "AI Meets Cryptography 2: What AI Found in OpenVM's ZkVM",
-          "summary": "Latest AI discussion on Hacker News: AI Meets Cryptography 2: What AI Found in OpenVM's ZkVM. Points: 99. (Source: Hacker News)",
-          "url": "https://blog.zksecurity.xyz/posts/openvm-bugs/"
+          "title": "NYC may require landlords and realtors to disclose the use of AI in listings",
+          "summary": "Latest AI discussion on Hacker News: NYC may require landlords and realtors to disclose the use of AI in listings. Points: 579. (Source: Hacker News)",
+          "url": "https://petapixel.com/2026/07/16/mayor-mamdani-says-landlords-cant-secretly-use-ai-images-to-advertise-properties/"
         },
         {
-          "title": "VulnHunter: Capital One's agentic AI code security tool",
-          "summary": "Latest AI discussion on Hacker News: VulnHunter: Capital One's agentic AI code security tool. Points: 77. (Source: Hacker News)",
-          "url": "https://www.capitalone.com/tech/open-source/announcing-vulnhunter/"
+          "title": "AI Mania Is Eviscerating Global Decision-Making",
+          "summary": "Latest AI discussion on Hacker News: AI Mania Is Eviscerating Global Decision-Making. Points: 39. (Source: Hacker News)",
+          "url": "https://hermit-tech.com/blog/ai-mania-is-eviscerating-global-decisionmaking"
         }
       ]
     },
