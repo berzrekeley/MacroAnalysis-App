@@ -1,26 +1,26 @@
 {
-  "lastUpdated": "July 20, 2026",
+  "lastUpdated": "July 21, 2026",
   "executiveSummary": [
-    "As of July 20, 2026, the U.S. macroeconomic environment is navigating a complex period of high interest rates and shifting labor market dynamics. With the Fed Funds Rate holding at 3.63% and CPI inflation tracking at 3.46%, the central bank continues its \"higher-for-longer\" stance to anchor inflation expectations. Recent headlines such as \"Earnings live: Google, Tesla to kick off 'Magnificent Seven' quarterly results\" suggest that market participants remain hypersensitive to every data print, particularly around corporate earnings and consumer spending resilience.",
-    "The labor market, a key pillar of support, shows 208,000 initial jobless claims, reflecting a relatively stable but cooling employment landscape. Geopolitically, events like \"Dollar drifts as US-Iran conflict intensifies; sterling inches higher\" introduce exogenous risks that could disrupt global energy supplies and re-ignite inflationary impulses, keeping the Federal Reserve in a defensive posture as they balance growth against price stability. Analysts are closely watching for any signs of a \"hard landing\" as the effects of previous tightening cycles continue to filter through the real economy."
+    "As of July 21, 2026, the U.S. macroeconomic environment is navigating a complex period of high interest rates and shifting labor market dynamics. With the Fed Funds Rate holding at 3.63% and CPI inflation tracking at 3.46%, the central bank continues its \"higher-for-longer\" stance to anchor inflation expectations. Recent headlines such as \"Novartis Q2 profits recover as revenue mantle passes to newer medicines\" suggest that market participants remain hypersensitive to every data print, particularly around corporate earnings and consumer spending resilience.",
+    "The labor market, a key pillar of support, shows 208,000 initial jobless claims, reflecting a relatively stable but cooling employment landscape. Geopolitically, events like \"$170,660 Invested In This Stock In January Is Now Worth $1 Million\" introduce exogenous risks that could disrupt global energy supplies and re-ignite inflationary impulses, keeping the Federal Reserve in a defensive posture as they balance growth against price stability. Analysts are closely watching for any signs of a \"hard landing\" as the effects of previous tightening cycles continue to filter through the real economy."
   ],
   "dailyHeadlines": [
     {
-      "title": "Earnings live: Google, Tesla to kick off 'Magnificent Seven' quarterly results",
+      "title": "Novartis Q2 profits recover as revenue mantle passes to newer medicines",
       "summary": "",
-      "url": "https://finance.yahoo.com/markets/live/earnings-live-second-quarter-results-tesla-google-july-115324842.html",
+      "url": "https://finance.yahoo.com/healthcare/articles/novartis-q2-profits-recover-revenue-113151573.html",
       "type": "extreme"
     },
     {
-      "title": "Dollar drifts as US-Iran conflict intensifies; sterling inches higher",
+      "title": "$170,660 Invested In This Stock In January Is Now Worth $1 Million",
       "summary": "",
-      "url": "https://finance.yahoo.com/markets/currencies/articles/dollar-drifts-us-iran-conflict-052226780.html",
+      "url": "https://www.investors.com/etfs-and-funds/sectors/sp500-just-investing-in-this-stock-in-january-made-you-a-million/?src=A00220&amp;yptr=yahoo",
       "type": "warning"
     },
     {
-      "title": "At 50, she quit her career to retire to Mexico — then spent 'year one' making endless mistakes. Here's what she learned",
+      "title": "Is AMC Entertainment’s (AMC) Record Revenue Proof That the Theater Recovery Is Finally Real?",
       "summary": "",
-      "url": "https://finance.yahoo.com/small-business/articles/50-she-quit-her-career-113000952.html",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/amc-entertainment-amc-record-revenue-111110279.html",
       "type": "info"
     }
   ],
@@ -39,19 +39,19 @@
     },
     {
       "title": "10Y - 2Y Spread",
-      "value": "0.37%",
+      "value": "0.39%",
       "status": "Steepening - slower growth",
       "type": "warning"
     },
     {
       "title": "10Y Treasury Rate",
-      "value": "4.57%",
+      "value": "4.55%",
       "status": "High - energy-driven inflation",
       "type": "warning"
     },
     {
       "title": "2Y Treasury Rate",
-      "value": "4.16%",
+      "value": "4.18%",
       "status": "Elevated - higher-for-longer stance",
       "type": "warning"
     },
@@ -299,29 +299,29 @@
       "category": "Frontier Model Race & Breakthroughs",
       "items": [
         {
-          "title": "Airbus Takes Flight from AWS",
-          "summary": "Latest AI discussion on Hacker News: Airbus Takes Flight from AWS. Points: 75. (Source: Hacker News)",
-          "url": "https://www.theregister.com/columnists/2026/07/20/airbus-takes-flight-from-aws-what-happens-next-is-critical/5274109"
+          "title": "Five US tech giants' hidden debts soar to $1.65T on opaque AI funding",
+          "summary": "Latest AI discussion on Hacker News: Five US tech giants' hidden debts soar to $1.65T on opaque AI funding. Points: 295. (Source: Hacker News)",
+          "url": "https://asia.nikkei.com/business/technology/five-us-tech-giants-hidden-debts-soar-to-1.65tn-on-opaque-ai-funding"
         },
         {
-          "title": "EU Exempts Apple Watch and AirPods from Battery Removal Requirements",
-          "summary": "Latest AI discussion on Hacker News: EU Exempts Apple Watch and AirPods from Battery Removal Requirements. Points: 35. (Source: Hacker News)",
-          "url": "https://mjtsai.com/blog/2026/07/17/eu-exempts-apple-watch-and-airpods-from-battery-removal-requirement/"
+          "title": "How we measured AI writing across arXiv, and where the measurement breaks",
+          "summary": "Latest AI discussion on Hacker News: How we measured AI writing across arXiv, and where the measurement breaks. Points: 226. (Source: Hacker News)",
+          "url": "https://unslop.run/blog/measuring-ai-writing-on-arxiv"
         },
         {
-          "title": "Big tech needs to justify AI spending as investors dump stocks",
-          "summary": "Latest AI discussion on Hacker News: Big tech needs to justify AI spending as investors dump stocks. Points: 42. (Source: Hacker News)",
-          "url": "https://www.bloomberg.com/news/articles/2026-07-19/big-tech-needs-to-justify-ai-spending-as-investors-dump-stocks"
+          "title": "Launch HN: Bloomy (YC S26) – AI-powered mastery learning for K-12",
+          "summary": "Latest AI discussion on Hacker News: Launch HN: Bloomy (YC S26) – AI-powered mastery learning for K-12. Points: 89. (Source: Hacker News)",
+          "url": "https://news.ycombinator.com/item?id=48981136"
         },
         {
-          "title": "Ask HN: What are your favorite blogs not about AI?",
-          "summary": "Latest AI discussion on Hacker News: Ask HN: What are your favorite blogs not about AI?. Points: 82. (Source: Hacker News)",
-          "url": "https://news.ycombinator.com/item?id=48972858"
+          "title": "Mythologizing AI makes it more likely that we’ll fail to operate it well (2023)",
+          "summary": "Latest AI discussion on Hacker News: Mythologizing AI makes it more likely that we’ll fail to operate it well (2023). Points: 72. (Source: Hacker News)",
+          "url": "https://www.newyorker.com/science/annals-of-artificial-intelligence/there-is-no-ai"
         },
         {
-          "title": "AI advice made people less accurate but more confident – sudy",
-          "summary": "Latest AI discussion on Hacker News: AI advice made people less accurate but more confident – sudy. Points: 343. (Source: Hacker News)",
-          "url": "https://thenextweb.com/news/ai-advice-suppresses-critical-thinking-wrong-answers-study"
+          "title": "China’s open-weights AI strategy is winning",
+          "summary": "Latest AI discussion on Hacker News: China’s open-weights AI strategy is winning. Points: 1127. (Source: Hacker News)",
+          "url": "https://werd.io/american-ai-is-locked-down-and-proprietary-its-losing/"
         }
       ]
     },
@@ -329,29 +329,29 @@
       "category": "Enterprise & Agentic AI",
       "items": [
         {
+          "title": "Airport Simulator",
+          "summary": "Latest AI discussion on Hacker News: Airport Simulator. Points: 803. (Source: Hacker News)",
+          "url": "https://airport.apunen.com/"
+        },
+        {
+          "title": "Airbus Takes Flight from AWS",
+          "summary": "Latest AI discussion on Hacker News: Airbus Takes Flight from AWS. Points: 207. (Source: Hacker News)",
+          "url": "https://www.theregister.com/columnists/2026/07/20/airbus-takes-flight-from-aws-what-happens-next-is-critical/5274109"
+        },
+        {
+          "title": "Ask HN: What are your favorite blogs not about AI?",
+          "summary": "Latest AI discussion on Hacker News: Ask HN: What are your favorite blogs not about AI?. Points: 89. (Source: Hacker News)",
+          "url": "https://news.ycombinator.com/item?id=48972858"
+        },
+        {
+          "title": "AI advice made people less accurate but more confident – sudy",
+          "summary": "Latest AI discussion on Hacker News: AI advice made people less accurate but more confident – sudy. Points: 360. (Source: Hacker News)",
+          "url": "https://thenextweb.com/news/ai-advice-suppresses-critical-thinking-wrong-answers-study"
+        },
+        {
           "title": "Moonshot AI suspends new subscriptions due to Kimi K3 demand",
-          "summary": "Latest AI discussion on Hacker News: Moonshot AI suspends new subscriptions due to Kimi K3 demand. Points: 268. (Source: Hacker News)",
+          "summary": "Latest AI discussion on Hacker News: Moonshot AI suspends new subscriptions due to Kimi K3 demand. Points: 283. (Source: Hacker News)",
           "url": "https://twitter.com/kimi_moonshot/status/2078855608565207130"
-        },
-        {
-          "title": "Perforce charges $500 for training training videos.. and it's AI narrated",
-          "summary": "Latest AI discussion on Hacker News: Perforce charges $500 for training training videos.. and it's AI narrated. Points: 53. (Source: Hacker News)",
-          "url": "https://training.perforce.com/learn/courses/535/p4-helix-core-user-basic"
-        },
-        {
-          "title": "AI Mania Is Eviscerating Global Decision-Making",
-          "summary": "Latest AI discussion on Hacker News: AI Mania Is Eviscerating Global Decision-Making. Points: 413. (Source: Hacker News)",
-          "url": "https://ludic.mataroa.blog/blog/ai-mania-is-eviscerating-global-decision-making/#fnref:3"
-        },
-        {
-          "title": "NYC may require landlords and realtors to disclose the use of AI in listings",
-          "summary": "Latest AI discussion on Hacker News: NYC may require landlords and realtors to disclose the use of AI in listings. Points: 579. (Source: Hacker News)",
-          "url": "https://petapixel.com/2026/07/16/mayor-mamdani-says-landlords-cant-secretly-use-ai-images-to-advertise-properties/"
-        },
-        {
-          "title": "AI Mania Is Eviscerating Global Decision-Making",
-          "summary": "Latest AI discussion on Hacker News: AI Mania Is Eviscerating Global Decision-Making. Points: 39. (Source: Hacker News)",
-          "url": "https://hermit-tech.com/blog/ai-mania-is-eviscerating-global-decisionmaking"
         }
       ]
     },
