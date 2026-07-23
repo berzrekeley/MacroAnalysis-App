@@ -1,26 +1,26 @@
 {
-  "lastUpdated": "July 22, 2026",
+  "lastUpdated": "July 23, 2026",
   "executiveSummary": [
-    "As of July 22, 2026, the U.S. macroeconomic environment is navigating a complex period of high interest rates and shifting labor market dynamics. With the Fed Funds Rate holding at 3.63% and CPI inflation tracking at 3.46%, the central bank continues its \"higher-for-longer\" stance to anchor inflation expectations. Recent headlines such as \"Dow Jones Futures Fall As Oil Prices Jump; Two Big AI Earnings Movers With Google, Tesla Earnings Due\" suggest that market participants remain hypersensitive to every data print, particularly around corporate earnings and consumer spending resilience.",
-    "The labor market, a key pillar of support, shows 208,000 initial jobless claims, reflecting a relatively stable but cooling employment landscape. Geopolitically, events like \"Wall St futures edge lower as caution builds ahead of Big Tech earnings\" introduce exogenous risks that could disrupt global energy supplies and re-ignite inflationary impulses, keeping the Federal Reserve in a defensive posture as they balance growth against price stability. Analysts are closely watching for any signs of a \"hard landing\" as the effects of previous tightening cycles continue to filter through the real economy."
+    "As of July 23, 2026, the U.S. macroeconomic environment is navigating a complex period of high interest rates and shifting labor market dynamics. With the Fed Funds Rate holding at 3.63% and CPI inflation tracking at 3.46%, the central bank continues its \"higher-for-longer\" stance to anchor inflation expectations. Recent headlines such as \"Bloom Energy (BE) Soars 14.8% on Sharp PT Upgrade Ahead of Q2 Earnings\" suggest that market participants remain hypersensitive to every data print, particularly around corporate earnings and consumer spending resilience.",
+    "The labor market, a key pillar of support, shows 208,000 initial jobless claims, reflecting a relatively stable but cooling employment landscape. Geopolitically, events like \"Mid-Year Review &amp; Outlook:  A Resilient Economy Continues to Push Through Headwinds\" introduce exogenous risks that could disrupt global energy supplies and re-ignite inflationary impulses, keeping the Federal Reserve in a defensive posture as they balance growth against price stability. Analysts are closely watching for any signs of a \"hard landing\" as the effects of previous tightening cycles continue to filter through the real economy."
   ],
   "dailyHeadlines": [
     {
-      "title": "Dow Jones Futures Fall As Oil Prices Jump; Two Big AI Earnings Movers With Google, Tesla Earnings Due",
+      "title": "Bloom Energy (BE) Soars 14.8% on Sharp PT Upgrade Ahead of Q2 Earnings",
       "summary": "",
-      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-sp-500-sandisk-micron-google-tesla-earnings/?src=A00220&amp;yptr=yahoo",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/bloom-energy-soars-14-8-011716251.html",
       "type": "extreme"
     },
     {
-      "title": "Wall St futures edge lower as caution builds ahead of Big Tech earnings",
+      "title": "Mid-Year Review &amp; Outlook:  A Resilient Economy Continues to Push Through Headwinds",
       "summary": "",
-      "url": "https://finance.yahoo.com/news/wall-st-futures-edge-lower-095915371.html",
+      "url": "https://finance.yahoo.com/economy/articles/mid-review-outlook-resilient-economy-001650243.html",
       "type": "warning"
     },
     {
-      "title": "Bank of America CEO warns inflation will back Fed into a corner",
+      "title": "ETFs Just Set a Trading Volume Record",
       "summary": "",
-      "url": "https://finance.yahoo.com/economy/articles/bank-america-ceo-sobering-verdict-033300805.html",
+      "url": "https://finance.yahoo.com/markets/options/articles/etfs-just-set-trading-volume-000321661.html",
       "type": "info"
     }
   ],
@@ -39,19 +39,19 @@
     },
     {
       "title": "10Y - 2Y Spread",
-      "value": "0.37%",
+      "value": "0.36%",
       "status": "Steepening - slower growth",
       "type": "warning"
     },
     {
       "title": "10Y Treasury Rate",
-      "value": "4.60%",
+      "value": "4.63%",
       "status": "High - energy-driven inflation",
       "type": "warning"
     },
     {
       "title": "2Y Treasury Rate",
-      "value": "4.21%",
+      "value": "4.26%",
       "status": "Elevated - higher-for-longer stance",
       "type": "warning"
     },
@@ -299,29 +299,29 @@
       "category": "Frontier Model Race & Breakthroughs",
       "items": [
         {
-          "title": "Five tech giants are hiding $1.6T in AI debt, using the trick that toppled Enron",
-          "summary": "Latest AI discussion on Hacker News: Five tech giants are hiding $1.6T in AI debt, using the trick that toppled Enron. Points: 91. (Source: Hacker News)",
-          "url": "https://thenextweb.com/news/tech-giants-hidden-off-balance-sheet-debt-ai"
+          "title": "Are AI labs pelicanmaxxing?",
+          "summary": "Latest AI discussion on Hacker News: Are AI labs pelicanmaxxing?. Points: 569. (Source: Hacker News)",
+          "url": "https://dylancastillo.co/posts/pelicanmaxxing.html"
         },
         {
-          "title": "AI makes programming differently difficult",
-          "summary": "Latest AI discussion on Hacker News: AI makes programming differently difficult. Points: 153. (Source: Hacker News)",
-          "url": "https://cacm.acm.org/opinion/ai-didnt-make-programming-easier-it-just-made-it-differently-difficult/"
+          "title": "Most Americans say \"not in my backyard\" to AI data centers",
+          "summary": "Latest AI discussion on Hacker News: Most Americans say \"not in my backyard\" to AI data centers. Points: 138. (Source: Hacker News)",
+          "url": "https://www.redfin.com/news/ai-data-centers-opposition-education-benefit/"
         },
         {
-          "title": "Jack Dorsey launches Buzz to combine team chat, AI agents and Git hosting",
-          "summary": "Latest AI discussion on Hacker News: Jack Dorsey launches Buzz to combine team chat, AI agents and Git hosting. Points: 330. (Source: Hacker News)",
-          "url": "https://runtimewire.com/article/jack-dorsey-block-buzz-team-chat-ai-agents-git"
+          "title": "Quality non-fiction books are the antithesis of AI slop",
+          "summary": "Latest AI discussion on Hacker News: Quality non-fiction books are the antithesis of AI slop. Points: 393. (Source: Hacker News)",
+          "url": "https://resobscura.substack.com/p/quality-non-fiction-books-are-the"
         },
         {
-          "title": "Meta's AI models are powering the first wave of Genesis Mission projects",
-          "summary": "Latest AI discussion on Hacker News: Meta's AI models are powering the first wave of Genesis Mission projects. Points: 96. (Source: Hacker News)",
-          "url": "https://ai.meta.com/blog/genesis-mission-lawrence-berkeley-national-laboratory-segment-anything-dino/?_fb_noscript=1"
+          "title": "Businesses with ugly AI menu redesigns",
+          "summary": "Latest AI discussion on Hacker News: Businesses with ugly AI menu redesigns. Points: 319. (Source: Hacker News)",
+          "url": "https://blog.fiddery.com/businesses-with-ugly-ai-menu-redesigns/"
         },
         {
-          "title": "Five US tech giants' hidden debts soar to $1.65T on opaque AI funding",
-          "summary": "Latest AI discussion on Hacker News: Five US tech giants' hidden debts soar to $1.65T on opaque AI funding. Points: 361. (Source: Hacker News)",
-          "url": "https://asia.nikkei.com/business/technology/five-us-tech-giants-hidden-debts-soar-to-1.65tn-on-opaque-ai-funding"
+          "title": "OpenAI says its AI went rogue and launched 'unprecedented' cyber-attack",
+          "summary": "Latest AI discussion on Hacker News: OpenAI says its AI went rogue and launched 'unprecedented' cyber-attack. Points: 76. (Source: Hacker News)",
+          "url": "https://www.bbc.com/news/articles/c3ek3gvdnj3o"
         }
       ]
     },
@@ -329,29 +329,29 @@
       "category": "Enterprise & Agentic AI",
       "items": [
         {
-          "title": "Americans hate AI so much that politicians are losing their jobs over it",
-          "summary": "Latest AI discussion on Hacker News: Americans hate AI so much that politicians are losing their jobs over it. Points: 56. (Source: Hacker News)",
-          "url": "https://fortune.com/2026/07/14/voters-ai-backlash-politicians-lose-seats/"
+          "title": "Show HN: A new kind of FPS aim trainer",
+          "summary": "Latest AI discussion on Hacker News: Show HN: A new kind of FPS aim trainer. Points: 82. (Source: Hacker News)",
+          "url": "https://openaim.pramit.gg/"
         },
         {
-          "title": "How we measured AI writing across arXiv, and where the measurement breaks",
-          "summary": "Latest AI discussion on Hacker News: How we measured AI writing across arXiv, and where the measurement breaks. Points: 240. (Source: Hacker News)",
-          "url": "https://unslop.run/blog/measuring-ai-writing-on-arxiv"
+          "title": "Five tech giants are hiding $1.6T in AI debt, using the trick that toppled Enron",
+          "summary": "Latest AI discussion on Hacker News: Five tech giants are hiding $1.6T in AI debt, using the trick that toppled Enron. Points: 99. (Source: Hacker News)",
+          "url": "https://thenextweb.com/news/tech-giants-hidden-off-balance-sheet-debt-ai"
         },
         {
-          "title": "Launch HN: Bloomy (YC S26) – AI-powered mastery learning for K-12",
-          "summary": "Latest AI discussion on Hacker News: Launch HN: Bloomy (YC S26) – AI-powered mastery learning for K-12. Points: 98. (Source: Hacker News)",
-          "url": "https://news.ycombinator.com/item?id=48981136"
+          "title": "AI makes programming differently difficult",
+          "summary": "Latest AI discussion on Hacker News: AI makes programming differently difficult. Points: 162. (Source: Hacker News)",
+          "url": "https://cacm.acm.org/opinion/ai-didnt-make-programming-easier-it-just-made-it-differently-difficult/"
         },
         {
-          "title": "Mythologizing AI makes it more likely that we’ll fail to operate it well (2023)",
-          "summary": "Latest AI discussion on Hacker News: Mythologizing AI makes it more likely that we’ll fail to operate it well (2023). Points: 79. (Source: Hacker News)",
-          "url": "https://www.newyorker.com/science/annals-of-artificial-intelligence/there-is-no-ai"
+          "title": "Jack Dorsey launches Buzz to combine team chat, AI agents and Git hosting",
+          "summary": "Latest AI discussion on Hacker News: Jack Dorsey launches Buzz to combine team chat, AI agents and Git hosting. Points: 371. (Source: Hacker News)",
+          "url": "https://runtimewire.com/article/jack-dorsey-block-buzz-team-chat-ai-agents-git"
         },
         {
-          "title": "China’s open-weights AI strategy is winning",
-          "summary": "Latest AI discussion on Hacker News: China’s open-weights AI strategy is winning. Points: 1223. (Source: Hacker News)",
-          "url": "https://werd.io/american-ai-is-locked-down-and-proprietary-its-losing/"
+          "title": "Meta's AI models are powering the first wave of Genesis Mission projects",
+          "summary": "Latest AI discussion on Hacker News: Meta's AI models are powering the first wave of Genesis Mission projects. Points: 98. (Source: Hacker News)",
+          "url": "https://ai.meta.com/blog/genesis-mission-lawrence-berkeley-national-laboratory-segment-anything-dino/?_fb_noscript=1"
         }
       ]
     },
