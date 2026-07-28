@@ -1,26 +1,26 @@
 {
-  "lastUpdated": "July 27, 2026",
+  "lastUpdated": "July 28, 2026",
   "executiveSummary": [
-    "As of July 27, 2026, the U.S. macroeconomic environment is navigating a complex period of high interest rates and shifting labor market dynamics. With the Fed Funds Rate holding at 3.63% and CPI inflation tracking at 3.46%, the central bank continues its \"higher-for-longer\" stance to anchor inflation expectations. Recent headlines such as \"Why Microsoft, Meta, and Amazon earnings could crush the S&amp;P 500\" suggest that market participants remain hypersensitive to every data print, particularly around corporate earnings and consumer spending resilience.",
-    "The labor market, a key pillar of support, shows 187,000 initial jobless claims, reflecting a relatively stable but cooling employment landscape. Geopolitically, events like \"Gold prices today, Monday, July 27, 2026: Gold prices see positive traction as fighting with Iran has paused\" introduce exogenous risks that could disrupt global energy supplies and re-ignite inflationary impulses, keeping the Federal Reserve in a defensive posture as they balance growth against price stability. Analysts are closely watching for any signs of a \"hard landing\" as the effects of previous tightening cycles continue to filter through the real economy."
+    "As of July 28, 2026, the U.S. macroeconomic environment is navigating a complex period of high interest rates and shifting labor market dynamics. With the Fed Funds Rate holding at 3.63% and CPI inflation tracking at 3.46%, the central bank continues its \"higher-for-longer\" stance to anchor inflation expectations. Recent headlines such as \"Gold prices today, Tuesday, July 28, 2026: Gold remains below $4,100 ahead of Fed meeting\" suggest that market participants remain hypersensitive to every data print, particularly around corporate earnings and consumer spending resilience.",
+    "The labor market, a key pillar of support, shows 187,000 initial jobless claims, reflecting a relatively stable but cooling employment landscape. Geopolitically, events like \"Brookfield sees 6.5 GW of AI data-centre capacity coming online in India\" introduce exogenous risks that could disrupt global energy supplies and re-ignite inflationary impulses, keeping the Federal Reserve in a defensive posture as they balance growth against price stability. Analysts are closely watching for any signs of a \"hard landing\" as the effects of previous tightening cycles continue to filter through the real economy."
   ],
   "dailyHeadlines": [
     {
-      "title": "Why Microsoft, Meta, and Amazon earnings could crush the S&amp;P 500",
+      "title": "Gold prices today, Tuesday, July 28, 2026: Gold remains below $4,100 ahead of Fed meeting",
       "summary": "",
-      "url": "https://finance.yahoo.com/markets/article/why-microsoft-meta-and-amazon-earnings-could-crush-the-sp-500-123600155.html",
+      "url": "https://finance.yahoo.com/personal-finance/investing/article/gold-prices-today-tuesday-july-28-2026-gold-remains-below-4100-ahead-of-fed-meeting-114031587.html",
       "type": "extreme"
     },
     {
-      "title": "Gold prices today, Monday, July 27, 2026: Gold prices see positive traction as fighting with Iran has paused",
+      "title": "Brookfield sees 6.5 GW of AI data-centre capacity coming online in India",
       "summary": "",
-      "url": "https://finance.yahoo.com/personal-finance/investing/article/gold-prices-today-monday-july-27-2026-gold-prices-see-positive-traction-as-fighting-with-iran-has-paused-123327127.html",
+      "url": "https://finance.yahoo.com/technology/ai/articles/brookfield-sees-6-5-gw-113832545.html",
       "type": "warning"
     },
     {
-      "title": "Fidelity says retirees now face $185,500 in healthcare costs — up 7.5% from last year, and long-term care isn't included",
+      "title": "Stock market today: S&amp;P 500, Nasdaq futures slide as chip sell-off deepens, but Dow rises",
       "summary": "",
-      "url": "https://finance.yahoo.com/healthcare/articles/fidelity-says-retirees-now-face-123000749.html",
+      "url": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-july-28-dow-sp-500-nasdaq-082832371.html",
       "type": "info"
     }
   ],
@@ -39,19 +39,19 @@
     },
     {
       "title": "10Y - 2Y Spread",
-      "value": "0.36%",
+      "value": "0.34%",
       "status": "Steepening - slower growth",
       "type": "warning"
     },
     {
       "title": "10Y Treasury Rate",
-      "value": "4.71%",
+      "value": "4.69%",
       "status": "High - energy-driven inflation",
       "type": "warning"
     },
     {
       "title": "2Y Treasury Rate",
-      "value": "4.37%",
+      "value": "4.33%",
       "status": "Elevated - higher-for-longer stance",
       "type": "warning"
     },
@@ -299,29 +299,29 @@
       "category": "Frontier Model Race & Breakthroughs",
       "items": [
         {
-          "title": "US citizen charged after GrapheneOS phone wipes during airport search",
-          "summary": "Latest AI discussion on Hacker News: US citizen charged after GrapheneOS phone wipes during airport search. Points: 917. (Source: Hacker News)",
-          "url": "https://www.techspot.com/news/113236-us-prosecutors-charge-atlanta-man-after-grapheneos-phone.html"
+          "title": "Professor's invisible prompt trap catches 32/35 students cheating with AI",
+          "summary": "Latest AI discussion on Hacker News: Professor's invisible prompt trap catches 32/35 students cheating with AI. Points: 100. (Source: Hacker News)",
+          "url": "https://www.techspot.com/news/113243-professor-invisible-prompt-trap-catches-32-students-cheating.html"
         },
         {
-          "title": "London Gatwick has launched a robotic airport parking service",
-          "summary": "Latest AI discussion on Hacker News: London Gatwick has launched a robotic airport parking service. Points: 283. (Source: Hacker News)",
-          "url": "https://aerospaceglobalnews.com/news/gatwick-airport-robotic-parking-stanley-robotics/"
+          "title": "Jensen Huang's first post on Twitter is in defense of open access to AI models",
+          "summary": "Latest AI discussion on Hacker News: Jensen Huang's first post on Twitter is in defense of open access to AI models. Points: 49. (Source: Hacker News)",
+          "url": "https://www.pcgamer.com/software/ai/jensen-huangs-first-ever-post-on-x-is-in-defense-of-open-access-to-ai-models-alongside-google-openai-and-meta/"
         },
         {
-          "title": "The New AI Superpowers: Focus and Followthrough",
-          "summary": "Latest AI discussion on Hacker News: The New AI Superpowers: Focus and Followthrough. Points: 206. (Source: Hacker News)",
-          "url": "https://www.rickmanelius.com/p/the-new-ai-superpowers-focus-and"
+          "title": "Nvidia's $750B in Deals Reignite Circular AI Fears",
+          "summary": "Latest AI discussion on Hacker News: Nvidia's $750B in Deals Reignite Circular AI Fears. Points: 81. (Source: Hacker News)",
+          "url": "https://www.bloomberg.com/news/articles/2026-07-27/nvidia-s-750-billion-deals-revive-fear-of-ai-circular-financing"
         },
         {
-          "title": "Terence Tao: Mathematics in the Age of AI [pdf]",
-          "summary": "Latest AI discussion on Hacker News: Terence Tao: Mathematics in the Age of AI [pdf]. Points: 129. (Source: Hacker News)",
-          "url": "https://teorth.github.io/tao-web/slides/age-of-ai-icm-2026.pdf"
+          "title": "Apple Will 'Watch Everything Burn' When the AI Bubble Bursts",
+          "summary": "Latest AI discussion on Hacker News: Apple Will 'Watch Everything Burn' When the AI Bubble Bursts. Points: 241. (Source: Hacker News)",
+          "url": "https://www.macrumors.com/2026/07/27/ed-zitron-apple-watch-it-burn-ai-bubble-bursts/"
         },
         {
-          "title": "What is happening to jobs? Separating AI hype from reality",
-          "summary": "Latest AI discussion on Hacker News: What is happening to jobs? Separating AI hype from reality. Points: 267. (Source: Hacker News)",
-          "url": "https://siepr.stanford.edu/publications/policy-brief/what-really-happening-jobs-separating-ai-hype-reality"
+          "title": "AI companies spend record sums on Washington lobbying",
+          "summary": "Latest AI discussion on Hacker News: AI companies spend record sums on Washington lobbying. Points: 268. (Source: Hacker News)",
+          "url": "https://www.ft.com/content/d8a5f95e-3b6d-463a-a848-c9ef8e2394db"
         }
       ]
     },
@@ -329,29 +329,29 @@
       "category": "Enterprise & Agentic AI",
       "items": [
         {
-          "title": "Cloudflare's new AI traffic options for customers",
-          "summary": "Latest AI discussion on Hacker News: Cloudflare's new AI traffic options for customers. Points: 192. (Source: Hacker News)",
-          "url": "https://blog.cloudflare.com/content-independence-day-ai-options/"
+          "title": "AI companies are shredding rare books",
+          "summary": "Latest AI discussion on Hacker News: AI companies are shredding rare books. Points: 771. (Source: Hacker News)",
+          "url": "https://twitter.com/HedgieMarkets/status/2081534588485296565"
         },
         {
-          "title": "Politician reads AI prompt during assembly",
-          "summary": "Latest AI discussion on Hacker News: Politician reads AI prompt during assembly. Points: 69. (Source: Hacker News)",
-          "url": "https://www.youtube.com/watch?v=wlYa8NV5k-U"
+          "title": "US citizen charged after GrapheneOS phone wipes during airport search",
+          "summary": "Latest AI discussion on Hacker News: US citizen charged after GrapheneOS phone wipes during airport search. Points: 1291. (Source: Hacker News)",
+          "url": "https://www.techspot.com/news/113236-us-prosecutors-charge-atlanta-man-after-grapheneos-phone.html"
         },
         {
-          "title": "Open-weight AI is having its Kubernetes moment",
-          "summary": "Latest AI discussion on Hacker News: Open-weight AI is having its Kubernetes moment. Points: 406. (Source: Hacker News)",
-          "url": "https://tobi.knaup.me/2026-07-25-open-weight-ai-is-having-its-kubernetes-moment/"
+          "title": "This July I Was Fired from Simple AI (A Deeply YC Company)",
+          "summary": "Latest AI discussion on Hacker News: This July I Was Fired from Simple AI (A Deeply YC Company). Points: 54. (Source: Hacker News)",
+          "url": "https://andys.blog/this-july-i-was-fired-from-simple-ai/"
         },
         {
-          "title": "The AI Productivity Illusion",
-          "summary": "Latest AI discussion on Hacker News: The AI Productivity Illusion. Points: 69. (Source: Hacker News)",
-          "url": "https://www.hardresetmedia.com/p/the-ai-productivity-illusion"
+          "title": "London Gatwick has launched a robotic airport parking service",
+          "summary": "Latest AI discussion on Hacker News: London Gatwick has launched a robotic airport parking service. Points: 290. (Source: Hacker News)",
+          "url": "https://aerospaceglobalnews.com/news/gatwick-airport-robotic-parking-stanley-robotics/"
         },
         {
-          "title": "Corporate America Has Suddenly Decided to Stop Blowing Money on AI",
-          "summary": "Latest AI discussion on Hacker News: Corporate America Has Suddenly Decided to Stop Blowing Money on AI. Points: 63. (Source: Hacker News)",
-          "url": "https://www.wsj.com/business/china-us-ai-model-costs-53a12e96"
+          "title": "The New AI Superpowers: Focus and Followthrough",
+          "summary": "Latest AI discussion on Hacker News: The New AI Superpowers: Focus and Followthrough. Points: 214. (Source: Hacker News)",
+          "url": "https://www.rickmanelius.com/p/the-new-ai-superpowers-focus-and"
         }
       ]
     },
