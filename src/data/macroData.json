@@ -1,26 +1,26 @@
 {
-  "lastUpdated": "July 31, 2026",
+  "lastUpdated": "August 1, 2026",
   "executiveSummary": [
-    "As of July 31, 2026, the U.S. macroeconomic environment is navigating a complex period of high interest rates and shifting labor market dynamics. With the Fed Funds Rate holding at 3.63% and CPI inflation tracking at 3.46%, the central bank continues its \"higher-for-longer\" stance to anchor inflation expectations. Recent headlines such as \"Fed interest-rate decision rocks Wall Street's inflation fears\" suggest that market participants remain hypersensitive to every data print, particularly around corporate earnings and consumer spending resilience.",
-    "The labor market, a key pillar of support, shows 197,000 initial jobless claims, reflecting a relatively stable but cooling employment landscape. Geopolitically, events like \"Samsung sees chip shortage extending to 2028, touts long-term supply deals\" introduce exogenous risks that could disrupt global energy supplies and re-ignite inflationary impulses, keeping the Federal Reserve in a defensive posture as they balance growth against price stability. Analysts are closely watching for any signs of a \"hard landing\" as the effects of previous tightening cycles continue to filter through the real economy."
+    "As of August 1, 2026, the U.S. macroeconomic environment is navigating a complex period of high interest rates and shifting labor market dynamics. With the Fed Funds Rate holding at 3.63% and CPI inflation tracking at 3.46%, the central bank continues its \"higher-for-longer\" stance to anchor inflation expectations. Recent headlines such as \"Want to trade SpaceX for Apple? 1inch says skip the dollars\" suggest that market participants remain hypersensitive to every data print, particularly around corporate earnings and consumer spending resilience.",
+    "The labor market, a key pillar of support, shows 197,000 initial jobless claims, reflecting a relatively stable but cooling employment landscape. Geopolitically, events like \"This Chinese computer chip maker burned through $5 billion in a decade — then made it all back in a single quarter\" introduce exogenous risks that could disrupt global energy supplies and re-ignite inflationary impulses, keeping the Federal Reserve in a defensive posture as they balance growth against price stability. Analysts are closely watching for any signs of a \"hard landing\" as the effects of previous tightening cycles continue to filter through the real economy."
   ],
   "dailyHeadlines": [
     {
-      "title": "Fed interest-rate decision rocks Wall Street's inflation fears",
+      "title": "Want to trade SpaceX for Apple? 1inch says skip the dollars",
       "summary": "",
-      "url": "https://finance.yahoo.com/economy/policy/articles/fed-interest-rate-decision-rocks-163300252.html",
+      "url": "https://finance.yahoo.com/markets/crypto/articles/want-trade-spacex-apple-1inch-194500911.html",
       "type": "extreme"
     },
     {
-      "title": "Samsung sees chip shortage extending to 2028, touts long-term supply deals",
+      "title": "This Chinese computer chip maker burned through $5 billion in a decade — then made it all back in a single quarter",
       "summary": "",
-      "url": "https://finance.yahoo.com/technology/ai/articles/samsung-q2-profit-jumps-19-000321344.html",
+      "url": "https://finance.yahoo.com/technology/articles/chinese-computer-chip-maker-burned-093000866.html",
       "type": "warning"
     },
     {
-      "title": "A game of straits",
+      "title": "Amazon soars as cloud revenue surge allays fears over ballooning AI bets",
       "summary": "",
-      "url": "https://finance.yahoo.com/energy/articles/game-straits-000155105.html",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/amazon-jumps-aws-growth-soothes-091407416.html",
       "type": "info"
     }
   ],
@@ -39,25 +39,25 @@
     },
     {
       "title": "10Y - 2Y Spread",
-      "value": "0.45%",
+      "value": "0.47%",
       "status": "Steepening - slower growth",
       "type": "warning"
     },
     {
       "title": "10Y Treasury Rate",
-      "value": "4.67%",
+      "value": "4.68%",
       "status": "High - energy-driven inflation",
       "type": "warning"
     },
     {
       "title": "2Y Treasury Rate",
-      "value": "4.22%",
+      "value": "4.23%",
       "status": "Elevated - higher-for-longer stance",
       "type": "warning"
     },
     {
       "title": "Consumer Sentiment",
-      "value": "44.8",
+      "value": "49.5",
       "status": "Critical - record low",
       "type": "extreme"
     },
@@ -69,7 +69,7 @@
     },
     {
       "title": "Leading Index (LEI)",
-      "value": "44.8",
+      "value": "49.5",
       "status": "Weakening - persistent headwinds",
       "type": "warning"
     },
@@ -299,29 +299,29 @@
       "category": "Frontier Model Race & Breakthroughs",
       "items": [
         {
+          "title": "AI doesn't generate working products, that's still your job",
+          "summary": "Latest AI discussion on Hacker News: AI doesn't generate working products, that's still your job. Points: 110. (Source: Hacker News)",
+          "url": "https://weeraman.com/the-prototype-isnt-the-product/"
+        },
+        {
+          "title": "Flint: A Visualization Language for the AI Era",
+          "summary": "Latest AI discussion on Hacker News: Flint: A Visualization Language for the AI Era. Points: 132. (Source: Hacker News)",
+          "url": "https://microsoft.github.io/flint-chart/"
+        },
+        {
+          "title": "Is AI reasoning right for the wrong reasons?",
+          "summary": "Latest AI discussion on Hacker News: Is AI reasoning right for the wrong reasons?. Points: 167. (Source: Hacker News)",
+          "url": "https://www.quantamagazine.org/is-ai-reasoning-right-for-the-wrong-reasons-20260731/"
+        },
+        {
+          "title": "Situational Awareness down 67% in July in AI stock rout",
+          "summary": "Latest AI discussion on Hacker News: Situational Awareness down 67% in July in AI stock rout. Points: 148. (Source: Hacker News)",
+          "url": "https://www.wsj.com/finance/investing/situational-awareness-down-67-in-july-in-ai-stock-rout-cd19901f"
+        },
+        {
           "title": "Google fixed more Chrome bugs in June than over the past two years, thanks to AI",
-          "summary": "Latest AI discussion on Hacker News: Google fixed more Chrome bugs in June than over the past two years, thanks to AI. Points: 144. (Source: Hacker News)",
+          "summary": "Latest AI discussion on Hacker News: Google fixed more Chrome bugs in June than over the past two years, thanks to AI. Points: 529. (Source: Hacker News)",
           "url": "https://blog.google/security/chrome-stronger-with-every-update/"
-        },
-        {
-          "title": "Show HN: What should the GUI for AI agents look like?",
-          "summary": "Latest AI discussion on Hacker News: Show HN: What should the GUI for AI agents look like?. Points: 73. (Source: Hacker News)",
-          "url": "https://marbleos.com/demo"
-        },
-        {
-          "title": "The AI trade now runs on borrowed money, and the lenders are repricing it",
-          "summary": "Latest AI discussion on Hacker News: The AI trade now runs on borrowed money, and the lenders are repricing it. Points: 133. (Source: Hacker News)",
-          "url": "https://greyswansignals.com/?theme=dark"
-        },
-        {
-          "title": "The AI Aesthetic",
-          "summary": "Latest AI discussion on Hacker News: The AI Aesthetic. Points: 320. (Source: Hacker News)",
-          "url": "https://blog.jim-nielsen.com/2026/ai-aesthetic/"
-        },
-        {
-          "title": "OpenJDK Interim Policy on Generative AI",
-          "summary": "Latest AI discussion on Hacker News: OpenJDK Interim Policy on Generative AI. Points: 72. (Source: Hacker News)",
-          "url": "https://openjdk.org/legal/ai"
         }
       ]
     },
@@ -329,29 +329,29 @@
       "category": "Enterprise & Agentic AI",
       "items": [
         {
+          "title": "Show HN: What should the GUI for AI agents look like?",
+          "summary": "Latest AI discussion on Hacker News: Show HN: What should the GUI for AI agents look like?. Points: 117. (Source: Hacker News)",
+          "url": "https://marbleos.com/demo"
+        },
+        {
+          "title": "The AI trade now runs on borrowed money, and the lenders are repricing it",
+          "summary": "Latest AI discussion on Hacker News: The AI trade now runs on borrowed money, and the lenders are repricing it. Points: 141. (Source: Hacker News)",
+          "url": "https://greyswansignals.com/?theme=dark"
+        },
+        {
+          "title": "The AI Aesthetic",
+          "summary": "Latest AI discussion on Hacker News: The AI Aesthetic. Points: 367. (Source: Hacker News)",
+          "url": "https://blog.jim-nielsen.com/2026/ai-aesthetic/"
+        },
+        {
+          "title": "OpenJDK Interim Policy on Generative AI",
+          "summary": "Latest AI discussion on Hacker News: OpenJDK Interim Policy on Generative AI. Points: 73. (Source: Hacker News)",
+          "url": "https://openjdk.org/legal/ai"
+        },
+        {
           "title": "GCC steering committee announces AI policy",
-          "summary": "Latest AI discussion on Hacker News: GCC steering committee announces AI policy. Points: 307. (Source: Hacker News)",
+          "summary": "Latest AI discussion on Hacker News: GCC steering committee announces AI policy. Points: 348. (Source: Hacker News)",
           "url": "https://lwn.net/Articles/1086041/"
-        },
-        {
-          "title": "AI's top startups are barely publishing their research",
-          "summary": "Latest AI discussion on Hacker News: AI's top startups are barely publishing their research. Points: 604. (Source: Hacker News)",
-          "url": "https://www.science.org/content/article/ai-s-top-startups-are-barely-publishing-their-research"
-        },
-        {
-          "title": "Commodification of Intelligence: Good, Bad, and Ugly Circular AI Deals",
-          "summary": "Latest AI discussion on Hacker News: Commodification of Intelligence: Good, Bad, and Ugly Circular AI Deals. Points: 86. (Source: Hacker News)",
-          "url": "https://www.emergingtrajectories.com/lh/commodification-and-circularity/"
-        },
-        {
-          "title": "GPT-5.6 vs. Claude Fable 5 for Physical AI, which performs best?",
-          "summary": "Latest AI discussion on Hacker News: GPT-5.6 vs. Claude Fable 5 for Physical AI, which performs best?. Points: 98. (Source: Hacker News)",
-          "url": "https://juliahub.com/blog/frontier-models-physical-ai-evaluation"
-        },
-        {
-          "title": "After the AI Crash",
-          "summary": "Latest AI discussion on Hacker News: After the AI Crash. Points: 126. (Source: Hacker News)",
-          "url": "https://potsandpansbyccg.com/2026/07/29/after-the-ai-crash/"
         }
       ]
     },
