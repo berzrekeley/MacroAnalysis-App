@@ -1,26 +1,26 @@
 {
-  "lastUpdated": "August 1, 2026",
+  "lastUpdated": "August 2, 2026",
   "executiveSummary": [
-    "As of August 1, 2026, the U.S. macroeconomic environment is navigating a complex period of high interest rates and shifting labor market dynamics. With the Fed Funds Rate holding at 3.63% and CPI inflation tracking at 3.46%, the central bank continues its \"higher-for-longer\" stance to anchor inflation expectations. Recent headlines such as \"Want to trade SpaceX for Apple? 1inch says skip the dollars\" suggest that market participants remain hypersensitive to every data print, particularly around corporate earnings and consumer spending resilience.",
-    "The labor market, a key pillar of support, shows 197,000 initial jobless claims, reflecting a relatively stable but cooling employment landscape. Geopolitically, events like \"This Chinese computer chip maker burned through $5 billion in a decade — then made it all back in a single quarter\" introduce exogenous risks that could disrupt global energy supplies and re-ignite inflationary impulses, keeping the Federal Reserve in a defensive posture as they balance growth against price stability. Analysts are closely watching for any signs of a \"hard landing\" as the effects of previous tightening cycles continue to filter through the real economy."
+    "As of August 2, 2026, the U.S. macroeconomic environment is navigating a complex period of high interest rates and shifting labor market dynamics. With the Fed Funds Rate holding at 3.63% and CPI inflation tracking at 3.46%, the central bank continues its \"higher-for-longer\" stance to anchor inflation expectations. Recent headlines such as \"Early retirement is a reality for 56% of caregivers, with 34% holding less than $10,000 in savings, new report finds\" suggest that market participants remain hypersensitive to every data print, particularly around corporate earnings and consumer spending resilience.",
+    "The labor market, a key pillar of support, shows 197,000 initial jobless claims, reflecting a relatively stable but cooling employment landscape. Geopolitically, events like \"Will SpaceX paint its rocket pink? Investor questions go beyond Moon and Mars ahead of first results\" introduce exogenous risks that could disrupt global energy supplies and re-ignite inflationary impulses, keeping the Federal Reserve in a defensive posture as they balance growth against price stability. Analysts are closely watching for any signs of a \"hard landing\" as the effects of previous tightening cycles continue to filter through the real economy."
   ],
   "dailyHeadlines": [
     {
-      "title": "Want to trade SpaceX for Apple? 1inch says skip the dollars",
+      "title": "Early retirement is a reality for 56% of caregivers, with 34% holding less than $10,000 in savings, new report finds",
       "summary": "",
-      "url": "https://finance.yahoo.com/markets/crypto/articles/want-trade-spacex-apple-1inch-194500911.html",
+      "url": "https://finance.yahoo.com/healthcare/articles/early-retirement-reality-56-caregivers-101000442.html",
       "type": "extreme"
     },
     {
-      "title": "This Chinese computer chip maker burned through $5 billion in a decade — then made it all back in a single quarter",
+      "title": "Will SpaceX paint its rocket pink? Investor questions go beyond Moon and Mars ahead of first results",
       "summary": "",
-      "url": "https://finance.yahoo.com/technology/articles/chinese-computer-chip-maker-burned-093000866.html",
+      "url": "https://finance.yahoo.com/news/spacex-paint-rocket-pink-investor-100131917.html",
       "type": "warning"
     },
     {
-      "title": "Amazon soars as cloud revenue surge allays fears over ballooning AI bets",
+      "title": "Mortgage and refinance interest rates today, Saturday, August 1, 2026: Rates higher than Friday",
       "summary": "",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/amazon-jumps-aws-growth-soothes-091407416.html",
+      "url": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-and-refinance-interest-rates-today-saturday-august-1-2026-rates-higher-than-friday-100000052.html",
       "type": "info"
     }
   ],
@@ -299,29 +299,29 @@
       "category": "Frontier Model Race & Breakthroughs",
       "items": [
         {
-          "title": "AI doesn't generate working products, that's still your job",
-          "summary": "Latest AI discussion on Hacker News: AI doesn't generate working products, that's still your job. Points: 110. (Source: Hacker News)",
-          "url": "https://weeraman.com/the-prototype-isnt-the-product/"
+          "title": "Zitron: \"Everyone Has Been Sold a Lie\" on AI",
+          "summary": "Latest AI discussion on Hacker News: Zitron: \"Everyone Has Been Sold a Lie\" on AI. Points: 51. (Source: Hacker News)",
+          "url": "https://www.youtube.com/watch?v=pHcZpvIfho0"
         },
         {
-          "title": "Flint: A Visualization Language for the AI Era",
-          "summary": "Latest AI discussion on Hacker News: Flint: A Visualization Language for the AI Era. Points: 132. (Source: Hacker News)",
-          "url": "https://microsoft.github.io/flint-chart/"
+          "title": "AI financial advice is surprisingly good, especially if you ask right questions",
+          "summary": "Latest AI discussion on Hacker News: AI financial advice is surprisingly good, especially if you ask right questions. Points: 308. (Source: Hacker News)",
+          "url": "https://mitsloan.mit.edu/ideas-made-to-matter/ai-financial-advice-surprisingly-good-especially-if-you-ask-right-questions"
         },
         {
-          "title": "Is AI reasoning right for the wrong reasons?",
-          "summary": "Latest AI discussion on Hacker News: Is AI reasoning right for the wrong reasons?. Points: 167. (Source: Hacker News)",
-          "url": "https://www.quantamagazine.org/is-ai-reasoning-right-for-the-wrong-reasons-20260731/"
+          "title": "Google cancels AI Studio app after 800k preorders",
+          "summary": "Latest AI discussion on Hacker News: Google cancels AI Studio app after 800k preorders. Points: 47. (Source: Hacker News)",
+          "url": "https://twitter.com/GoogleAIStudio/status/2083274575769473092"
         },
         {
-          "title": "Situational Awareness down 67% in July in AI stock rout",
-          "summary": "Latest AI discussion on Hacker News: Situational Awareness down 67% in July in AI stock rout. Points: 148. (Source: Hacker News)",
-          "url": "https://www.wsj.com/finance/investing/situational-awareness-down-67-in-july-in-ai-stock-rout-cd19901f"
+          "title": "Google kills Earth AI generator after one day",
+          "summary": "Latest AI discussion on Hacker News: Google kills Earth AI generator after one day. Points: 62. (Source: Hacker News)",
+          "url": "https://twitter.com/newsfromgoogle/status/2083249962150760610"
         },
         {
-          "title": "Google fixed more Chrome bugs in June than over the past two years, thanks to AI",
-          "summary": "Latest AI discussion on Hacker News: Google fixed more Chrome bugs in June than over the past two years, thanks to AI. Points: 529. (Source: Hacker News)",
-          "url": "https://blog.google/security/chrome-stronger-with-every-update/"
+          "title": "On the non-use of AI in my writing process",
+          "summary": "Latest AI discussion on Hacker News: On the non-use of AI in my writing process. Points: 130. (Source: Hacker News)",
+          "url": "https://www.antipope.org/charlie/blog-static/2026/08/on-the-non-use-of-ai-in-my-wri.html"
         }
       ]
     },
@@ -329,29 +329,29 @@
       "category": "Enterprise & Agentic AI",
       "items": [
         {
-          "title": "Show HN: What should the GUI for AI agents look like?",
-          "summary": "Latest AI discussion on Hacker News: Show HN: What should the GUI for AI agents look like?. Points: 117. (Source: Hacker News)",
-          "url": "https://marbleos.com/demo"
+          "title": "EU will mandate labels on authentic-looking AI content starting August 2",
+          "summary": "Latest AI discussion on Hacker News: EU will mandate labels on authentic-looking AI content starting August 2. Points: 75. (Source: Hacker News)",
+          "url": "https://www.engadget.com/2227966/eu-mandate-labels-on-authentic-looking-ai-content/"
         },
         {
-          "title": "The AI trade now runs on borrowed money, and the lenders are repricing it",
-          "summary": "Latest AI discussion on Hacker News: The AI trade now runs on borrowed money, and the lenders are repricing it. Points: 141. (Source: Hacker News)",
-          "url": "https://greyswansignals.com/?theme=dark"
+          "title": "AI doesn't generate working products, that's still your job",
+          "summary": "Latest AI discussion on Hacker News: AI doesn't generate working products, that's still your job. Points: 255. (Source: Hacker News)",
+          "url": "https://weeraman.com/the-prototype-isnt-the-product/"
         },
         {
-          "title": "The AI Aesthetic",
-          "summary": "Latest AI discussion on Hacker News: The AI Aesthetic. Points: 367. (Source: Hacker News)",
-          "url": "https://blog.jim-nielsen.com/2026/ai-aesthetic/"
+          "title": "Flint: A Visualization Language for the AI Era",
+          "summary": "Latest AI discussion on Hacker News: Flint: A Visualization Language for the AI Era. Points: 262. (Source: Hacker News)",
+          "url": "https://microsoft.github.io/flint-chart/"
         },
         {
-          "title": "OpenJDK Interim Policy on Generative AI",
-          "summary": "Latest AI discussion on Hacker News: OpenJDK Interim Policy on Generative AI. Points: 73. (Source: Hacker News)",
-          "url": "https://openjdk.org/legal/ai"
+          "title": "Is AI reasoning right for the wrong reasons?",
+          "summary": "Latest AI discussion on Hacker News: Is AI reasoning right for the wrong reasons?. Points: 207. (Source: Hacker News)",
+          "url": "https://www.quantamagazine.org/is-ai-reasoning-right-for-the-wrong-reasons-20260731/"
         },
         {
-          "title": "GCC steering committee announces AI policy",
-          "summary": "Latest AI discussion on Hacker News: GCC steering committee announces AI policy. Points: 348. (Source: Hacker News)",
-          "url": "https://lwn.net/Articles/1086041/"
+          "title": "Situational Awareness down 67% in July in AI stock rout",
+          "summary": "Latest AI discussion on Hacker News: Situational Awareness down 67% in July in AI stock rout. Points: 155. (Source: Hacker News)",
+          "url": "https://www.wsj.com/finance/investing/situational-awareness-down-67-in-july-in-ai-stock-rout-cd19901f"
         }
       ]
     },
