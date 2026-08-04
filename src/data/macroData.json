@@ -1,26 +1,26 @@
 {
-  "lastUpdated": "August 3, 2026",
+  "lastUpdated": "August 4, 2026",
   "executiveSummary": [
-    "As of August 3, 2026, the U.S. macroeconomic environment is navigating a complex period of high interest rates and shifting labor market dynamics. With the Fed Funds Rate holding at 3.63% and CPI inflation tracking at 3.46%, the central bank continues its \"higher-for-longer\" stance to anchor inflation expectations. Recent headlines such as \"Silver prices today, Monday, August 3, 2026: Silver prices open higher thanks to paused airstrikes\" suggest that market participants remain hypersensitive to every data print, particularly around corporate earnings and consumer spending resilience.",
-    "The labor market, a key pillar of support, shows 197,000 initial jobless claims, reflecting a relatively stable but cooling employment landscape. Geopolitically, events like \"Palantir stock jumps ahead of quarterly results\" introduce exogenous risks that could disrupt global energy supplies and re-ignite inflationary impulses, keeping the Federal Reserve in a defensive posture as they balance growth against price stability. Analysts are closely watching for any signs of a \"hard landing\" as the effects of previous tightening cycles continue to filter through the real economy."
+    "As of August 4, 2026, the U.S. macroeconomic environment is navigating a complex period of high interest rates and shifting labor market dynamics. With the Fed Funds Rate holding at 3.63% and CPI inflation tracking at 3.46%, the central bank continues its \"higher-for-longer\" stance to anchor inflation expectations. Recent headlines such as \"Oil pares gains after Qatar says US-Iran diplomatic efforts continue\" suggest that market participants remain hypersensitive to every data print, particularly around corporate earnings and consumer spending resilience.",
+    "The labor market, a key pillar of support, shows 197,000 initial jobless claims, reflecting a relatively stable but cooling employment landscape. Geopolitically, events like \"Stocks rise despite higher oil prices as Iran tensions persist\" introduce exogenous risks that could disrupt global energy supplies and re-ignite inflationary impulses, keeping the Federal Reserve in a defensive posture as they balance growth against price stability. Analysts are closely watching for any signs of a \"hard landing\" as the effects of previous tightening cycles continue to filter through the real economy."
   ],
   "dailyHeadlines": [
     {
-      "title": "Silver prices today, Monday, August 3, 2026: Silver prices open higher thanks to paused airstrikes",
+      "title": "Oil pares gains after Qatar says US-Iran diplomatic efforts continue",
       "summary": "",
-      "url": "https://finance.yahoo.com/personal-finance/investing/article/silver-prices-today-monday-august-3-2026-silver-prices-open-higher-thanks-to-paused-airstrikes-123103873.html",
+      "url": "https://finance.yahoo.com/news/oil-ticks-selloff-talks-end-010226582.html",
       "type": "extreme"
     },
     {
-      "title": "Palantir stock jumps ahead of quarterly results",
+      "title": "Stocks rise despite higher oil prices as Iran tensions persist",
       "summary": "",
-      "url": "https://finance.yahoo.com/markets/article/palantir-stock-jumps-ahead-of-quarterly-results-122817775.html",
+      "url": "https://finance.yahoo.com/markets/world-indices/articles/asia-stocks-move-higher-wall-003819857.html",
       "type": "warning"
     },
     {
-      "title": "Here’s Why Fundsmith Equity Fund Sold Intuit (INTU) in Q2",
+      "title": "Stock market today: Dow, S&amp;P 500, Nasdaq futures rise as earnings roll in, Palantir and Caterpillar stocks jump",
       "summary": "",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/why-fundsmith-equity-fund-sold-122323918.html",
+      "url": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-august-4-dow-sp-500-nasdaq-100140227.html",
       "type": "info"
     }
   ],
@@ -39,19 +39,19 @@
     },
     {
       "title": "10Y - 2Y Spread",
-      "value": "0.47%",
+      "value": "0.45%",
       "status": "Steepening - slower growth",
       "type": "warning"
     },
     {
       "title": "10Y Treasury Rate",
-      "value": "4.68%",
+      "value": "4.75%",
       "status": "High - energy-driven inflation",
       "type": "warning"
     },
     {
       "title": "2Y Treasury Rate",
-      "value": "4.23%",
+      "value": "4.28%",
       "status": "Elevated - higher-for-longer stance",
       "type": "warning"
     },
@@ -299,29 +299,29 @@
       "category": "Frontier Model Race & Breakthroughs",
       "items": [
         {
+          "title": "AI's debt binge can't last, hidden borrowing reaches $1.65T",
+          "summary": "Latest AI discussion on Hacker News: AI's debt binge can't last, hidden borrowing reaches $1.65T. Points: 132. (Source: Hacker News)",
+          "url": "https://fortune.com/2026/07/31/ai-debt-hypescalers-capex-capital-spending-hidden-borrowing-bond-issuance/"
+        },
+        {
+          "title": "What's the largest software project AI can complete on its own?",
+          "summary": "Latest AI discussion on Hacker News: What's the largest software project AI can complete on its own?. Points: 93. (Source: Hacker News)",
+          "url": "https://epoch.ai/MirrorCode"
+        },
+        {
+          "title": "AirLLM 70B inference with single 4GB GPU",
+          "summary": "Latest AI discussion on Hacker News: AirLLM 70B inference with single 4GB GPU. Points: 222. (Source: Hacker News)",
+          "url": "https://github.com/lyogavin/airllm"
+        },
+        {
+          "title": "Show HN: Nightcrawler – A local AI pentesting agent running on a smartphone",
+          "summary": "Latest AI discussion on Hacker News: Show HN: Nightcrawler – A local AI pentesting agent running on a smartphone. Points: 111. (Source: Hacker News)",
+          "url": "https://github.com/garagehq/nightcrawler/"
+        },
+        {
           "title": "The AI Productivity Gap",
-          "summary": "Latest AI discussion on Hacker News: The AI Productivity Gap. Points: 64. (Source: Hacker News)",
+          "summary": "Latest AI discussion on Hacker News: The AI Productivity Gap. Points: 125. (Source: Hacker News)",
           "url": "https://bjorg.bjornroche.com/management/ai-productivity-gap/"
-        },
-        {
-          "title": "AI migrated legacy COBOL programs to Java, bugs included",
-          "summary": "Latest AI discussion on Hacker News: AI migrated legacy COBOL programs to Java, bugs included. Points: 74. (Source: Hacker News)",
-          "url": "https://arxiv.org/abs/2607.28271"
-        },
-        {
-          "title": "OpenAI's super PAC is funding AI-generated news site attacking industry critics",
-          "summary": "Latest AI discussion on Hacker News: OpenAI's super PAC is funding AI-generated news site attacking industry critics. Points: 187. (Source: Hacker News)",
-          "url": "https://www.modelrepublic.org/articles/the-reporters-at-this-news-site-are-ai-bots.-openai%E2%80%99s-super-pac-appears-to-be-using-it-to-advance-its-political-agenda"
-        },
-        {
-          "title": "AI poster wins Ohio State Fair contest",
-          "summary": "Latest AI discussion on Hacker News: AI poster wins Ohio State Fair contest. Points: 133. (Source: Hacker News)",
-          "url": "https://www.ohiostatefair.com/p/get-involved/arts/poster-contest"
-        },
-        {
-          "title": "Flock – Chilling Effects: Long Island's Emerging Open-Air Prison",
-          "summary": "Latest AI discussion on Hacker News: Flock – Chilling Effects: Long Island's Emerging Open-Air Prison. Points: 66. (Source: Hacker News)",
-          "url": "https://www.11971.com/"
         }
       ]
     },
@@ -329,29 +329,29 @@
       "category": "Enterprise & Agentic AI",
       "items": [
         {
+          "title": "AI migrated legacy COBOL programs to Java, bugs included",
+          "summary": "Latest AI discussion on Hacker News: AI migrated legacy COBOL programs to Java, bugs included. Points: 91. (Source: Hacker News)",
+          "url": "https://arxiv.org/abs/2607.28271"
+        },
+        {
+          "title": "OpenAI's super PAC is funding AI-generated news site attacking industry critics",
+          "summary": "Latest AI discussion on Hacker News: OpenAI's super PAC is funding AI-generated news site attacking industry critics. Points: 206. (Source: Hacker News)",
+          "url": "https://www.modelrepublic.org/articles/the-reporters-at-this-news-site-are-ai-bots.-openai%E2%80%99s-super-pac-appears-to-be-using-it-to-advance-its-political-agenda"
+        },
+        {
+          "title": "AI poster wins Ohio State Fair contest",
+          "summary": "Latest AI discussion on Hacker News: AI poster wins Ohio State Fair contest. Points: 141. (Source: Hacker News)",
+          "url": "https://www.ohiostatefair.com/p/get-involved/arts/poster-contest"
+        },
+        {
           "title": "My personal AI benchmark: “Generate an SVG of a frog with a Habsburg jaw”",
-          "summary": "Latest AI discussion on Hacker News: My personal AI benchmark: “Generate an SVG of a frog with a Habsburg jaw”. Points: 143. (Source: Hacker News)",
+          "summary": "Latest AI discussion on Hacker News: My personal AI benchmark: “Generate an SVG of a frog with a Habsburg jaw”. Points: 153. (Source: Hacker News)",
           "url": "https://frogs.vaguespac.es/"
         },
         {
           "title": "Show HN: Sprocket – The Best AI Agent for Hardware and Software Development",
-          "summary": "Latest AI discussion on Hacker News: Show HN: Sprocket – The Best AI Agent for Hardware and Software Development. Points: 123. (Source: Hacker News)",
+          "summary": "Latest AI discussion on Hacker News: Show HN: Sprocket – The Best AI Agent for Hardware and Software Development. Points: 124. (Source: Hacker News)",
           "url": "https://sprocket-demo.spikonado.com"
-        },
-        {
-          "title": "AI financial advice is surprisingly good, especially if you ask right questions",
-          "summary": "Latest AI discussion on Hacker News: AI financial advice is surprisingly good, especially if you ask right questions. Points: 342. (Source: Hacker News)",
-          "url": "https://mitsloan.mit.edu/ideas-made-to-matter/ai-financial-advice-surprisingly-good-especially-if-you-ask-right-questions"
-        },
-        {
-          "title": "Google kills Earth AI generator after one day",
-          "summary": "Latest AI discussion on Hacker News: Google kills Earth AI generator after one day. Points: 64. (Source: Hacker News)",
-          "url": "https://twitter.com/newsfromgoogle/status/2083249962150760610"
-        },
-        {
-          "title": "On the non-use of AI in my writing process",
-          "summary": "Latest AI discussion on Hacker News: On the non-use of AI in my writing process. Points: 130. (Source: Hacker News)",
-          "url": "https://www.antipope.org/charlie/blog-static/2026/08/on-the-non-use-of-ai-in-my-wri.html"
         }
       ]
     },
