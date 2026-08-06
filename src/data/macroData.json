@@ -1,26 +1,26 @@
 {
-  "lastUpdated": "August 5, 2026",
+  "lastUpdated": "August 6, 2026",
   "executiveSummary": [
-    "As of August 5, 2026, the U.S. macroeconomic environment is navigating a complex period of high interest rates and shifting labor market dynamics. With the Fed Funds Rate holding at 3.63% and CPI inflation tracking at 3.46%, the central bank continues its \"higher-for-longer\" stance to anchor inflation expectations. Recent headlines such as \"Glencore's energy trading profits soar on Iran war\" suggest that market participants remain hypersensitive to every data print, particularly around corporate earnings and consumer spending resilience.",
-    "The labor market, a key pillar of support, shows 197,000 initial jobless claims, reflecting a relatively stable but cooling employment landscape. Geopolitically, events like \"SpaceX And Tesla Earnings Have A Similar Theme: Capex Spending\" introduce exogenous risks that could disrupt global energy supplies and re-ignite inflationary impulses, keeping the Federal Reserve in a defensive posture as they balance growth against price stability. Analysts are closely watching for any signs of a \"hard landing\" as the effects of previous tightening cycles continue to filter through the real economy."
+    "As of August 6, 2026, the U.S. macroeconomic environment is navigating a complex period of high interest rates and shifting labor market dynamics. With the Fed Funds Rate holding at 3.63% and CPI inflation tracking at 3.46%, the central bank continues its \"higher-for-longer\" stance to anchor inflation expectations. Recent headlines such as \"Certara, Inc. Q2 2026 Earnings Call Summary\" suggest that market participants remain hypersensitive to every data print, particularly around corporate earnings and consumer spending resilience.",
+    "The labor market, a key pillar of support, shows 197,000 initial jobless claims, reflecting a relatively stable but cooling employment landscape. Geopolitically, events like \"Pamt Corp. books another net loss, 110.6% adjusted TL OR\" introduce exogenous risks that could disrupt global energy supplies and re-ignite inflationary impulses, keeping the Federal Reserve in a defensive posture as they balance growth against price stability. Analysts are closely watching for any signs of a \"hard landing\" as the effects of previous tightening cycles continue to filter through the real economy."
   ],
   "dailyHeadlines": [
     {
-      "title": "Glencore's energy trading profits soar on Iran war",
+      "title": "Certara, Inc. Q2 2026 Earnings Call Summary",
       "summary": "",
-      "url": "https://finance.yahoo.com/energy/articles/glencores-energy-trading-profits-soar-114012391.html",
+      "url": "https://finance.yahoo.com/healthcare/articles/certara-inc-q2-2026-earnings-005930221.html",
       "type": "extreme"
     },
     {
-      "title": "SpaceX And Tesla Earnings Have A Similar Theme: Capex Spending",
+      "title": "Pamt Corp. books another net loss, 110.6% adjusted TL OR",
       "summary": "",
-      "url": "https://www.investors.com/news/spacex-earnings-tesla-elon-musk-tech-space/?src=A00220&amp;yptr=yahoo",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/pamt-corp-books-another-net-005318025.html",
       "type": "warning"
     },
     {
-      "title": "9 Stocks' Cash Flow Seen Blowing The Doors Off The S&amp;P 500",
+      "title": "SpaceX's mobile ambitions jolt US telecom market, analysts debate threat",
       "summary": "",
-      "url": "https://www.investors.com/etfs-and-funds/sectors/sp500-stocks-cash-flow-seen-blowing-the-doors-off/?src=A00220&amp;yptr=yahoo",
+      "url": "https://finance.yahoo.com/technology/articles/spacexs-mobile-ambitions-jolt-us-004930948.html",
       "type": "info"
     }
   ],
@@ -39,19 +39,19 @@
     },
     {
       "title": "10Y - 2Y Spread",
-      "value": "0.43%",
+      "value": "0.45%",
       "status": "Steepening - slower growth",
       "type": "warning"
     },
     {
       "title": "10Y Treasury Rate",
-      "value": "4.70%",
+      "value": "4.63%",
       "status": "High - energy-driven inflation",
       "type": "warning"
     },
     {
       "title": "2Y Treasury Rate",
-      "value": "4.25%",
+      "value": "4.20%",
       "status": "Elevated - higher-for-longer stance",
       "type": "warning"
     },
@@ -87,7 +87,7 @@
     },
     {
       "title": "Monthly ADP Employment",
-      "value": "+98,000",
+      "value": "+44,000",
       "status": "Stable - private sector resilience",
       "type": "neutral"
     },
@@ -299,8 +299,38 @@
       "category": "Frontier Model Race & Breakthroughs",
       "items": [
         {
+          "title": "Meta Ran Ads That Contained AI-Generated Child Sexual Abuse Imagery",
+          "summary": "Latest AI discussion on Hacker News: Meta Ran Ads That Contained AI-Generated Child Sexual Abuse Imagery. Points: 300. (Source: Hacker News)",
+          "url": "https://www.wired.com/story/meta-ran-ads-that-contained-ai-generated-child-sexual-abuse-imagery/"
+        },
+        {
+          "title": "Microsoft's AI Sales Mostly Come from OpenAI, Disclosures Show",
+          "summary": "Latest AI discussion on Hacker News: Microsoft's AI Sales Mostly Come from OpenAI, Disclosures Show. Points: 67. (Source: Hacker News)",
+          "url": "https://www.bloomberg.com/news/articles/2026-08-05/microsoft-s-ai-sales-mostly-come-from-openai-disclosures-show"
+        },
+        {
+          "title": "Sycophantic AI Decreases Prosocial Intentions and Promotes Dependence (2025)",
+          "summary": "Latest AI discussion on Hacker News: Sycophantic AI Decreases Prosocial Intentions and Promotes Dependence (2025). Points: 132. (Source: Hacker News)",
+          "url": "https://arxiv.org/abs/2510.01395"
+        },
+        {
+          "title": "TIME Is Serving AI Bots a Different Website, with Ads Built In",
+          "summary": "Latest AI discussion on Hacker News: TIME Is Serving AI Bots a Different Website, with Ads Built In. Points: 248. (Source: Hacker News)",
+          "url": "https://www.vincentschmalbach.com/time-serves-ai-bots-a-different-website/"
+        },
+        {
+          "title": "Why Erdős Problems Are Falling to AI",
+          "summary": "Latest AI discussion on Hacker News: Why Erdős Problems Are Falling to AI. Points: 140. (Source: Hacker News)",
+          "url": "https://www.quantamagazine.org/why-the-legendary-erdos-problems-are-falling-to-ai-20260803/"
+        }
+      ]
+    },
+    {
+      "category": "Enterprise & Agentic AI",
+      "items": [
+        {
           "title": "AI fuels more than half of cybercrime in Africa as scams surge – Interpol",
-          "summary": "Latest AI discussion on Hacker News: AI fuels more than half of cybercrime in Africa as scams surge – Interpol. Points: 261. (Source: Hacker News)",
+          "summary": "Latest AI discussion on Hacker News: AI fuels more than half of cybercrime in Africa as scams surge – Interpol. Points: 292. (Source: Hacker News)",
           "url": "https://www.africanews.com/2026/08/04/ai-fuels-more-than-half-of-cybercrime-in-africa-as-digital-scams-surge-interpol/"
         },
         {
@@ -310,48 +340,18 @@
         },
         {
           "title": "When AI Benchmarks Plateau: A Systematic Study of Benchmark Saturation",
-          "summary": "Latest AI discussion on Hacker News: When AI Benchmarks Plateau: A Systematic Study of Benchmark Saturation. Points: 101. (Source: Hacker News)",
+          "summary": "Latest AI discussion on Hacker News: When AI Benchmarks Plateau: A Systematic Study of Benchmark Saturation. Points: 103. (Source: Hacker News)",
           "url": "https://arxiv.org/abs/2602.16763"
         },
         {
           "title": "The AI Demand Bubble",
-          "summary": "Latest AI discussion on Hacker News: The AI Demand Bubble. Points: 106. (Source: Hacker News)",
+          "summary": "Latest AI discussion on Hacker News: The AI Demand Bubble. Points: 110. (Source: Hacker News)",
           "url": "https://www.wheresyoured.at/the-ai-demand-bubble/"
         },
         {
           "title": "It's not a fear of \"AI communism\"; it's a fear of competitive market capitalism",
-          "summary": "Latest AI discussion on Hacker News: It's not a fear of \"AI communism\"; it's a fear of competitive market capitalism. Points: 90. (Source: Hacker News)",
+          "summary": "Latest AI discussion on Hacker News: It's not a fear of \"AI communism\"; it's a fear of competitive market capitalism. Points: 97. (Source: Hacker News)",
           "url": "http://observationalepidemiology.blogspot.com/2026/07/its-not-fear-of-ai-communism-its-fear.html"
-        }
-      ]
-    },
-    {
-      "category": "Enterprise & Agentic AI",
-      "items": [
-        {
-          "title": "AI-Generated Images Discourage Me from Reading Your Blog",
-          "summary": "Latest AI discussion on Hacker News: AI-Generated Images Discourage Me from Reading Your Blog. Points: 766. (Source: Hacker News)",
-          "url": "https://nelson.cloud/ai-generated-images-discourage-me-from-reading-your-blog/"
-        },
-        {
-          "title": "Bending Spoons makes first post-IPO acquisition with $1.3B Airtable deal",
-          "summary": "Latest AI discussion on Hacker News: Bending Spoons makes first post-IPO acquisition with $1.3B Airtable deal. Points: 104. (Source: Hacker News)",
-          "url": "https://live.euronext.com/en/financial-news/bending-spoons-makes-first-post-ipo-acquisition-13-billion-airtable-deal"
-        },
-        {
-          "title": "AI's debt binge can't last, hidden borrowing reaches $1.65T",
-          "summary": "Latest AI discussion on Hacker News: AI's debt binge can't last, hidden borrowing reaches $1.65T. Points: 144. (Source: Hacker News)",
-          "url": "https://fortune.com/2026/07/31/ai-debt-hypescalers-capex-capital-spending-hidden-borrowing-bond-issuance/"
-        },
-        {
-          "title": "What's the largest software project AI can complete on its own?",
-          "summary": "Latest AI discussion on Hacker News: What's the largest software project AI can complete on its own?. Points: 102. (Source: Hacker News)",
-          "url": "https://epoch.ai/MirrorCode"
-        },
-        {
-          "title": "The AI bubble is popping; we just don't know it yet",
-          "summary": "Latest AI discussion on Hacker News: The AI bubble is popping; we just don't know it yet. Points: 81. (Source: Hacker News)",
-          "url": "https://www.theregister.com/ai-and-ml/2026/08/03/the-ai-bubble-is-already-popping-we-just-dont-know-it-yet/5282004"
         }
       ]
     },
