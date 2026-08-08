@@ -1,26 +1,26 @@
 {
-  "lastUpdated": "August 7, 2026",
+  "lastUpdated": "August 8, 2026",
   "executiveSummary": [
-    "As of August 7, 2026, the U.S. macroeconomic environment is navigating a complex period of high interest rates and shifting labor market dynamics. With the Fed Funds Rate holding at 3.63% and CPI inflation tracking at 3.46%, the central bank continues its \"higher-for-longer\" stance to anchor inflation expectations. Recent headlines such as \"Stocks mixed with Nasdaq down; US oil eases on Iran talks\" suggest that market participants remain hypersensitive to every data print, particularly around corporate earnings and consumer spending resilience.",
-    "The labor market, a key pillar of support, shows 199,000 initial jobless claims, reflecting a relatively stable but cooling employment landscape. Geopolitically, events like \"GXO Vows to Close Margin Gap With Rivals After Earnings Selloff\" introduce exogenous risks that could disrupt global energy supplies and re-ignite inflationary impulses, keeping the Federal Reserve in a defensive posture as they balance growth against price stability. Analysts are closely watching for any signs of a \"hard landing\" as the effects of previous tightening cycles continue to filter through the real economy."
+    "As of August 8, 2026, the U.S. macroeconomic environment is navigating a complex period of high interest rates and shifting labor market dynamics. With the Fed Funds Rate holding at 3.63% and CPI inflation tracking at 3.46%, the central bank continues its \"higher-for-longer\" stance to anchor inflation expectations. Recent headlines such as \"Palantir CEO drops 11-word bombshell for stock market investors\" suggest that market participants remain hypersensitive to every data print, particularly around corporate earnings and consumer spending resilience.",
+    "The labor market, a key pillar of support, shows 199,000 initial jobless claims, reflecting a relatively stable but cooling employment landscape. Geopolitically, events like \"I'm 58 With $1.7 Million in My 401(k). Should I Convert 10% Annually to a Roth to Reduce Taxes and RMDs?\" introduce exogenous risks that could disrupt global energy supplies and re-ignite inflationary impulses, keeping the Federal Reserve in a defensive posture as they balance growth against price stability. Analysts are closely watching for any signs of a \"hard landing\" as the effects of previous tightening cycles continue to filter through the real economy."
   ],
   "dailyHeadlines": [
     {
-      "title": "Stocks mixed with Nasdaq down; US oil eases on Iran talks",
+      "title": "Palantir CEO drops 11-word bombshell for stock market investors",
       "summary": "",
-      "url": "https://finance.yahoo.com/markets/world-indices/articles/asia-shares-surge-tech-mood-014132859.html",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/palantir-ceo-drops-11-word-160300224.html",
       "type": "extreme"
     },
     {
-      "title": "GXO Vows to Close Margin Gap With Rivals After Earnings Selloff",
+      "title": "I'm 58 With $1.7 Million in My 401(k). Should I Convert 10% Annually to a Roth to Reduce Taxes and RMDs?",
       "summary": "",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/gxo-vows-close-margin-gap-224540852.html",
+      "url": "https://finance.yahoo.com/markets/options/articles/im-58-1-7-million-145319148.html",
       "type": "warning"
     },
     {
-      "title": "Perrigo Company plc Q2 2026 Earnings Call Summary",
+      "title": "US Dollar Price Forecast: NFP Countdown Keeps DXY, EUR/USD and GBP/USD in Focus",
       "summary": "",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/perrigo-company-plc-q2-2026-224518274.html",
+      "url": "https://finance.yahoo.com/markets/currencies/articles/us-dollar-price-forecast-nfp-081652466.html",
       "type": "info"
     }
   ],
@@ -39,19 +39,19 @@
     },
     {
       "title": "10Y - 2Y Spread",
-      "value": "0.44%",
+      "value": "0.46%",
       "status": "Steepening - slower growth",
       "type": "warning"
     },
     {
       "title": "10Y Treasury Rate",
-      "value": "4.63%",
+      "value": "4.69%",
       "status": "High - energy-driven inflation",
       "type": "warning"
     },
     {
       "title": "2Y Treasury Rate",
-      "value": "4.18%",
+      "value": "4.25%",
       "status": "Elevated - higher-for-longer stance",
       "type": "warning"
     },
@@ -299,29 +299,29 @@
       "category": "Frontier Model Race & Breakthroughs",
       "items": [
         {
-          "title": "New Orleans is testing Carbyne’s AI-powered Emergency Call Triage software",
-          "summary": "Latest AI discussion on Hacker News: New Orleans is testing Carbyne’s AI-powered Emergency Call Triage software. Points: 60. (Source: Hacker News)",
-          "url": "https://www.shreveporttimes.com/story/news/local/louisiana/2026/07/28/is-new-orleans-using-ai-to-answer-911-calls-instead-of-human-dispatchers-impacts-emergencies-crime/91065014007/"
+          "title": "Mythos social engineering AISI INC-2026-07-28-01",
+          "summary": "Latest AI discussion on Hacker News: Mythos social engineering AISI INC-2026-07-28-01. Points: 64. (Source: Hacker News)",
+          "url": "https://web.archive.org/web/20260731053721/http://github.com/ancaferro/myNetwork/pull/3"
         },
         {
-          "title": "xAI, SpaceX, and the Race for AI Buildout",
-          "summary": "Latest AI discussion on Hacker News: xAI, SpaceX, and the Race for AI Buildout. Points: 139. (Source: Hacker News)",
-          "url": "https://illegal.solutions/posts/xai_pollution"
+          "title": "Should AI labs be treated like the owners of dangerous animals?",
+          "summary": "Latest AI discussion on Hacker News: Should AI labs be treated like the owners of dangerous animals?. Points: 46. (Source: Hacker News)",
+          "url": "https://www.economist.com/science-and-technology/2026/08/06/should-ai-labs-be-treated-like-the-owners-of-dangerous-animals"
         },
         {
-          "title": "Software development with AI is starting to feel like cooking steak",
-          "summary": "Latest AI discussion on Hacker News: Software development with AI is starting to feel like cooking steak. Points: 369. (Source: Hacker News)",
-          "url": "https://blog.sydorets.com/en/posts/almost-no-skill-required-to-cook-a-steak/"
+          "title": "Managing AI Coding Costs at Scale",
+          "summary": "Latest AI discussion on Hacker News: Managing AI Coding Costs at Scale. Points: 238. (Source: Hacker News)",
+          "url": "https://www.databricks.com/blog/managing-ai-coding-costs-scale"
         },
         {
-          "title": "Humans missed 1 in 3 threats approving AI agent commands across 40k game runs",
-          "summary": "Latest AI discussion on Hacker News: Humans missed 1 in 3 threats approving AI agent commands across 40k game runs. Points: 304. (Source: Hacker News)",
-          "url": "https://scalex.dev/blog/ai-agent-permissions-stats/"
+          "title": "Oracle bans AI-generated code from OpenJDK",
+          "summary": "Latest AI discussion on Hacker News: Oracle bans AI-generated code from OpenJDK. Points: 474. (Source: Hacker News)",
+          "url": "https://app.dealroom.co/news/feed/oracle-bans-ai-generated-code-from-openjdk-despite-ellison-s-claim-oracle-isn-t-writing-its-own-code"
         },
         {
-          "title": "When online commenters detect my art as AI",
-          "summary": "Latest AI discussion on Hacker News: When online commenters detect my art as AI. Points: 107. (Source: Hacker News)",
-          "url": "https://www.davidrevoy.com/article1164/when-online-commenters-detect-my-art-as-ai"
+          "title": "AI psychosis is the new leadership blind spot",
+          "summary": "Latest AI discussion on Hacker News: AI psychosis is the new leadership blind spot. Points: 169. (Source: Hacker News)",
+          "url": "https://www.fastcompany.com/91576086/ai-psychosis-is-the-new-leadership-blind-spot-ai-leadership-blind-spots"
         }
       ]
     },
@@ -329,29 +329,29 @@
       "category": "Enterprise & Agentic AI",
       "items": [
         {
-          "title": "Meta Ran Ads That Contained AI-Generated Child Sexual Abuse Imagery",
-          "summary": "Latest AI discussion on Hacker News: Meta Ran Ads That Contained AI-Generated Child Sexual Abuse Imagery. Points: 319. (Source: Hacker News)",
-          "url": "https://www.wired.com/story/meta-ran-ads-that-contained-ai-generated-child-sexual-abuse-imagery/"
+          "title": "New Orleans is testing Carbyne’s AI-powered Emergency Call Triage software",
+          "summary": "Latest AI discussion on Hacker News: New Orleans is testing Carbyne’s AI-powered Emergency Call Triage software. Points: 72. (Source: Hacker News)",
+          "url": "https://www.shreveporttimes.com/story/news/local/louisiana/2026/07/28/is-new-orleans-using-ai-to-answer-911-calls-instead-of-human-dispatchers-impacts-emergencies-crime/91065014007/"
         },
         {
-          "title": "Microsoft's AI Sales Mostly Come from OpenAI, Disclosures Show",
-          "summary": "Latest AI discussion on Hacker News: Microsoft's AI Sales Mostly Come from OpenAI, Disclosures Show. Points: 70. (Source: Hacker News)",
-          "url": "https://www.bloomberg.com/news/articles/2026-08-05/microsoft-s-ai-sales-mostly-come-from-openai-disclosures-show"
+          "title": "xAI, SpaceX, and the Race for AI Buildout",
+          "summary": "Latest AI discussion on Hacker News: xAI, SpaceX, and the Race for AI Buildout. Points: 145. (Source: Hacker News)",
+          "url": "https://illegal.solutions/posts/xai_pollution"
         },
         {
-          "title": "Sycophantic AI Decreases Prosocial Intentions and Promotes Dependence (2025)",
-          "summary": "Latest AI discussion on Hacker News: Sycophantic AI Decreases Prosocial Intentions and Promotes Dependence (2025). Points: 168. (Source: Hacker News)",
-          "url": "https://arxiv.org/abs/2510.01395"
+          "title": "Microsoft filings suggest \"around 70%\" of its AI revenue is on OpenAI",
+          "summary": "Latest AI discussion on Hacker News: Microsoft filings suggest \"around 70%\" of its AI revenue is on OpenAI. Points: 49. (Source: Hacker News)",
+          "url": "https://www.windowscentral.com/artificial-intelligence/microsoft-filings-suggest-around-70-percent-of-its-ai-revenue-is-concentrated-entirely-on-openai"
         },
         {
-          "title": "TIME Is Serving AI Bots a Different Website, with Ads Built In",
-          "summary": "Latest AI discussion on Hacker News: TIME Is Serving AI Bots a Different Website, with Ads Built In. Points: 260. (Source: Hacker News)",
-          "url": "https://www.vincentschmalbach.com/time-serves-ai-bots-a-different-website/"
+          "title": "Software development with AI is starting to feel like cooking steak",
+          "summary": "Latest AI discussion on Hacker News: Software development with AI is starting to feel like cooking steak. Points: 410. (Source: Hacker News)",
+          "url": "https://blog.sydorets.com/en/posts/almost-no-skill-required-to-cook-a-steak/"
         },
         {
-          "title": "Why Erdős Problems Are Falling to AI",
-          "summary": "Latest AI discussion on Hacker News: Why Erdős Problems Are Falling to AI. Points: 148. (Source: Hacker News)",
-          "url": "https://www.quantamagazine.org/why-the-legendary-erdos-problems-are-falling-to-ai-20260803/"
+          "title": "Humans missed 1 in 3 threats approving AI agent commands across 40k game runs",
+          "summary": "Latest AI discussion on Hacker News: Humans missed 1 in 3 threats approving AI agent commands across 40k game runs. Points: 332. (Source: Hacker News)",
+          "url": "https://scalex.dev/blog/ai-agent-permissions-stats/"
         }
       ]
     },
