@@ -1,26 +1,26 @@
 {
-  "lastUpdated": "August 8, 2026",
+  "lastUpdated": "August 9, 2026",
   "executiveSummary": [
-    "As of August 8, 2026, the U.S. macroeconomic environment is navigating a complex period of high interest rates and shifting labor market dynamics. With the Fed Funds Rate holding at 3.63% and CPI inflation tracking at 3.46%, the central bank continues its \"higher-for-longer\" stance to anchor inflation expectations. Recent headlines such as \"Palantir CEO drops 11-word bombshell for stock market investors\" suggest that market participants remain hypersensitive to every data print, particularly around corporate earnings and consumer spending resilience.",
-    "The labor market, a key pillar of support, shows 199,000 initial jobless claims, reflecting a relatively stable but cooling employment landscape. Geopolitically, events like \"I'm 58 With $1.7 Million in My 401(k). Should I Convert 10% Annually to a Roth to Reduce Taxes and RMDs?\" introduce exogenous risks that could disrupt global energy supplies and re-ignite inflationary impulses, keeping the Federal Reserve in a defensive posture as they balance growth against price stability. Analysts are closely watching for any signs of a \"hard landing\" as the effects of previous tightening cycles continue to filter through the real economy."
+    "As of August 9, 2026, the U.S. macroeconomic environment is navigating a complex period of high interest rates and shifting labor market dynamics. With the Fed Funds Rate holding at 3.63% and CPI inflation tracking at 3.46%, the central bank continues its \"higher-for-longer\" stance to anchor inflation expectations. Recent headlines such as \"US wages plummet to 43% of national income — lowest since the Great Depression. Did Nixon’s gold breakup kill paychecks?\" suggest that market participants remain hypersensitive to every data print, particularly around corporate earnings and consumer spending resilience.",
+    "The labor market, a key pillar of support, shows 199,000 initial jobless claims, reflecting a relatively stable but cooling employment landscape. Geopolitically, events like \"‘Tariffs have been incredible’: Trump says America’s ‘rocking’ as Toyota, giants pour billions into US. Was he right?\" introduce exogenous risks that could disrupt global energy supplies and re-ignite inflationary impulses, keeping the Federal Reserve in a defensive posture as they balance growth against price stability. Analysts are closely watching for any signs of a \"hard landing\" as the effects of previous tightening cycles continue to filter through the real economy."
   ],
   "dailyHeadlines": [
     {
-      "title": "Palantir CEO drops 11-word bombshell for stock market investors",
+      "title": "US wages plummet to 43% of national income — lowest since the Great Depression. Did Nixon’s gold breakup kill paychecks?",
       "summary": "",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/palantir-ceo-drops-11-word-160300224.html",
+      "url": "https://finance.yahoo.com/economy/articles/us-wages-plummet-43-national-104500200.html",
       "type": "extreme"
     },
     {
-      "title": "I'm 58 With $1.7 Million in My 401(k). Should I Convert 10% Annually to a Roth to Reduce Taxes and RMDs?",
+      "title": "‘Tariffs have been incredible’: Trump says America’s ‘rocking’ as Toyota, giants pour billions into US. Was he right?",
       "summary": "",
-      "url": "https://finance.yahoo.com/markets/options/articles/im-58-1-7-million-145319148.html",
+      "url": "https://finance.yahoo.com/economy/policy/articles/tariffs-incredible-trump-says-america-101500758.html",
       "type": "warning"
     },
     {
-      "title": "US Dollar Price Forecast: NFP Countdown Keeps DXY, EUR/USD and GBP/USD in Focus",
+      "title": "Best CD rates today, Saturday, August 8, 2026: Best CD account earns 4.15% APY",
       "summary": "",
-      "url": "https://finance.yahoo.com/markets/currencies/articles/us-dollar-price-forecast-nfp-081652466.html",
+      "url": "https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-saturday-august-8-2026-best-cd-account-earns-415-apy-100000008.html",
       "type": "info"
     }
   ],
@@ -299,29 +299,29 @@
       "category": "Frontier Model Race & Breakthroughs",
       "items": [
         {
+          "title": "Software Giant SAP Stops Most Travel and Hiring Because of AI's Soaring Cost",
+          "summary": "Latest AI discussion on Hacker News: Software Giant SAP Stops Most Travel and Hiring Because of AI's Soaring Cost. Points: 27. (Source: Hacker News)",
+          "url": "https://www.404media.co/software-giant-sap-stops-most-travel-and-hiring-because-of-ais-soaring-cost/"
+        },
+        {
+          "title": "The AI Apocalypse Is Here",
+          "summary": "Latest AI discussion on Hacker News: The AI Apocalypse Is Here. Points: 45. (Source: Hacker News)",
+          "url": "https://www.compactmag.com/article/the-ai-apocalypse-is-already-here/"
+        },
+        {
+          "title": "Gentoo bugzilla closed due AI bot scraper overload",
+          "summary": "Latest AI discussion on Hacker News: Gentoo bugzilla closed due AI bot scraper overload. Points: 165. (Source: Hacker News)",
+          "url": "https://social.treehouse.systems/@mgorny/117058483039362779"
+        },
+        {
+          "title": "Making an AI bid writer refuse to lie",
+          "summary": "Latest AI discussion on Hacker News: Making an AI bid writer refuse to lie. Points: 62. (Source: Hacker News)",
+          "url": "https://ailucius.com/blog/making-an-ai-bid-writer-refuse-to-lie"
+        },
+        {
           "title": "Mythos social engineering AISI INC-2026-07-28-01",
-          "summary": "Latest AI discussion on Hacker News: Mythos social engineering AISI INC-2026-07-28-01. Points: 64. (Source: Hacker News)",
+          "summary": "Latest AI discussion on Hacker News: Mythos social engineering AISI INC-2026-07-28-01. Points: 81. (Source: Hacker News)",
           "url": "https://web.archive.org/web/20260731053721/http://github.com/ancaferro/myNetwork/pull/3"
-        },
-        {
-          "title": "Should AI labs be treated like the owners of dangerous animals?",
-          "summary": "Latest AI discussion on Hacker News: Should AI labs be treated like the owners of dangerous animals?. Points: 46. (Source: Hacker News)",
-          "url": "https://www.economist.com/science-and-technology/2026/08/06/should-ai-labs-be-treated-like-the-owners-of-dangerous-animals"
-        },
-        {
-          "title": "Managing AI Coding Costs at Scale",
-          "summary": "Latest AI discussion on Hacker News: Managing AI Coding Costs at Scale. Points: 238. (Source: Hacker News)",
-          "url": "https://www.databricks.com/blog/managing-ai-coding-costs-scale"
-        },
-        {
-          "title": "Oracle bans AI-generated code from OpenJDK",
-          "summary": "Latest AI discussion on Hacker News: Oracle bans AI-generated code from OpenJDK. Points: 474. (Source: Hacker News)",
-          "url": "https://app.dealroom.co/news/feed/oracle-bans-ai-generated-code-from-openjdk-despite-ellison-s-claim-oracle-isn-t-writing-its-own-code"
-        },
-        {
-          "title": "AI psychosis is the new leadership blind spot",
-          "summary": "Latest AI discussion on Hacker News: AI psychosis is the new leadership blind spot. Points: 169. (Source: Hacker News)",
-          "url": "https://www.fastcompany.com/91576086/ai-psychosis-is-the-new-leadership-blind-spot-ai-leadership-blind-spots"
         }
       ]
     },
@@ -329,29 +329,29 @@
       "category": "Enterprise & Agentic AI",
       "items": [
         {
-          "title": "New Orleans is testing Carbyne’s AI-powered Emergency Call Triage software",
-          "summary": "Latest AI discussion on Hacker News: New Orleans is testing Carbyne’s AI-powered Emergency Call Triage software. Points: 72. (Source: Hacker News)",
-          "url": "https://www.shreveporttimes.com/story/news/local/louisiana/2026/07/28/is-new-orleans-using-ai-to-answer-911-calls-instead-of-human-dispatchers-impacts-emergencies-crime/91065014007/"
+          "title": "Should AI labs be treated like the owners of dangerous animals?",
+          "summary": "Latest AI discussion on Hacker News: Should AI labs be treated like the owners of dangerous animals?. Points: 51. (Source: Hacker News)",
+          "url": "https://www.economist.com/science-and-technology/2026/08/06/should-ai-labs-be-treated-like-the-owners-of-dangerous-animals"
         },
         {
-          "title": "xAI, SpaceX, and the Race for AI Buildout",
-          "summary": "Latest AI discussion on Hacker News: xAI, SpaceX, and the Race for AI Buildout. Points: 145. (Source: Hacker News)",
-          "url": "https://illegal.solutions/posts/xai_pollution"
+          "title": "Managing AI Coding Costs at Scale",
+          "summary": "Latest AI discussion on Hacker News: Managing AI Coding Costs at Scale. Points: 303. (Source: Hacker News)",
+          "url": "https://www.databricks.com/blog/managing-ai-coding-costs-scale"
         },
         {
-          "title": "Microsoft filings suggest \"around 70%\" of its AI revenue is on OpenAI",
-          "summary": "Latest AI discussion on Hacker News: Microsoft filings suggest \"around 70%\" of its AI revenue is on OpenAI. Points: 49. (Source: Hacker News)",
-          "url": "https://www.windowscentral.com/artificial-intelligence/microsoft-filings-suggest-around-70-percent-of-its-ai-revenue-is-concentrated-entirely-on-openai"
+          "title": "Oracle bans AI-generated code from OpenJDK",
+          "summary": "Latest AI discussion on Hacker News: Oracle bans AI-generated code from OpenJDK. Points: 528. (Source: Hacker News)",
+          "url": "https://app.dealroom.co/news/feed/oracle-bans-ai-generated-code-from-openjdk-despite-ellison-s-claim-oracle-isn-t-writing-its-own-code"
         },
         {
-          "title": "Software development with AI is starting to feel like cooking steak",
-          "summary": "Latest AI discussion on Hacker News: Software development with AI is starting to feel like cooking steak. Points: 410. (Source: Hacker News)",
-          "url": "https://blog.sydorets.com/en/posts/almost-no-skill-required-to-cook-a-steak/"
+          "title": "The AI Billboards Are Killing SF",
+          "summary": "Latest AI discussion on Hacker News: The AI Billboards Are Killing SF. Points: 32. (Source: Hacker News)",
+          "url": "https://sfstandard.com/pacific-standard-time/2026/08/07/sf-ai-billboards-dystopian-not-funny/"
         },
         {
-          "title": "Humans missed 1 in 3 threats approving AI agent commands across 40k game runs",
-          "summary": "Latest AI discussion on Hacker News: Humans missed 1 in 3 threats approving AI agent commands across 40k game runs. Points: 332. (Source: Hacker News)",
-          "url": "https://scalex.dev/blog/ai-agent-permissions-stats/"
+          "title": "AI psychosis is the new leadership blind spot",
+          "summary": "Latest AI discussion on Hacker News: AI psychosis is the new leadership blind spot. Points: 174. (Source: Hacker News)",
+          "url": "https://www.fastcompany.com/91576086/ai-psychosis-is-the-new-leadership-blind-spot-ai-leadership-blind-spots"
         }
       ]
     },
