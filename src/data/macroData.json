@@ -1,26 +1,26 @@
 {
-  "lastUpdated": "August 9, 2026",
+  "lastUpdated": "August 10, 2026",
   "executiveSummary": [
-    "As of August 9, 2026, the U.S. macroeconomic environment is navigating a complex period of high interest rates and shifting labor market dynamics. With the Fed Funds Rate holding at 3.63% and CPI inflation tracking at 3.46%, the central bank continues its \"higher-for-longer\" stance to anchor inflation expectations. Recent headlines such as \"US wages plummet to 43% of national income — lowest since the Great Depression. Did Nixon’s gold breakup kill paychecks?\" suggest that market participants remain hypersensitive to every data print, particularly around corporate earnings and consumer spending resilience.",
-    "The labor market, a key pillar of support, shows 199,000 initial jobless claims, reflecting a relatively stable but cooling employment landscape. Geopolitically, events like \"‘Tariffs have been incredible’: Trump says America’s ‘rocking’ as Toyota, giants pour billions into US. Was he right?\" introduce exogenous risks that could disrupt global energy supplies and re-ignite inflationary impulses, keeping the Federal Reserve in a defensive posture as they balance growth against price stability. Analysts are closely watching for any signs of a \"hard landing\" as the effects of previous tightening cycles continue to filter through the real economy."
+    "As of August 10, 2026, the U.S. macroeconomic environment is navigating a complex period of high interest rates and shifting labor market dynamics. With the Fed Funds Rate holding at 3.63% and CPI inflation tracking at 3.46%, the central bank continues its \"higher-for-longer\" stance to anchor inflation expectations. Recent headlines such as \"1 Reason Lowe's May Be a Smarter Buy Than Home Depot Before Aug. 19\" suggest that market participants remain hypersensitive to every data print, particularly around corporate earnings and consumer spending resilience.",
+    "The labor market, a key pillar of support, shows 199,000 initial jobless claims, reflecting a relatively stable but cooling employment landscape. Geopolitically, events like \"Stock market today: Dow, S&amp;P 500, Nasdaq futures little changed in wait for key inflation data\" introduce exogenous risks that could disrupt global energy supplies and re-ignite inflationary impulses, keeping the Federal Reserve in a defensive posture as they balance growth against price stability. Analysts are closely watching for any signs of a \"hard landing\" as the effects of previous tightening cycles continue to filter through the real economy."
   ],
   "dailyHeadlines": [
     {
-      "title": "US wages plummet to 43% of national income — lowest since the Great Depression. Did Nixon’s gold breakup kill paychecks?",
+      "title": "1 Reason Lowe's May Be a Smarter Buy Than Home Depot Before Aug. 19",
       "summary": "",
-      "url": "https://finance.yahoo.com/economy/articles/us-wages-plummet-43-national-104500200.html",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/1-reason-lowes-may-smarter-105000135.html",
       "type": "extreme"
     },
     {
-      "title": "‘Tariffs have been incredible’: Trump says America’s ‘rocking’ as Toyota, giants pour billions into US. Was he right?",
+      "title": "Stock market today: Dow, S&amp;P 500, Nasdaq futures little changed in wait for key inflation data",
       "summary": "",
-      "url": "https://finance.yahoo.com/economy/policy/articles/tariffs-incredible-trump-says-america-101500758.html",
+      "url": "https://finance.yahoo.com/markets/live/stock-market-today-monday-august-10-dow-sp-500-nasdaq-104358890.html",
       "type": "warning"
     },
     {
-      "title": "Best CD rates today, Saturday, August 8, 2026: Best CD account earns 4.15% APY",
+      "title": "Morning Bid: Fed's Cook grilled again",
       "summary": "",
-      "url": "https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-saturday-august-8-2026-best-cd-account-earns-415-apy-100000008.html",
+      "url": "https://finance.yahoo.com/economy/policy/articles/morning-bid-feds-cook-grilled-103813938.html",
       "type": "info"
     }
   ],
@@ -299,29 +299,29 @@
       "category": "Frontier Model Race & Breakthroughs",
       "items": [
         {
-          "title": "Software Giant SAP Stops Most Travel and Hiring Because of AI's Soaring Cost",
-          "summary": "Latest AI discussion on Hacker News: Software Giant SAP Stops Most Travel and Hiring Because of AI's Soaring Cost. Points: 27. (Source: Hacker News)",
-          "url": "https://www.404media.co/software-giant-sap-stops-most-travel-and-hiring-because-of-ais-soaring-cost/"
+          "title": "Docker Sandboxes – Disposable, isolated sandboxes for AI agents",
+          "summary": "Latest AI discussion on Hacker News: Docker Sandboxes – Disposable, isolated sandboxes for AI agents. Points: 247. (Source: Hacker News)",
+          "url": "https://www.docker.com/products/docker-sandboxes/"
         },
         {
-          "title": "The AI Apocalypse Is Here",
-          "summary": "Latest AI discussion on Hacker News: The AI Apocalypse Is Here. Points: 45. (Source: Hacker News)",
-          "url": "https://www.compactmag.com/article/the-ai-apocalypse-is-already-here/"
+          "title": "Show HN: Voice driven murder mystery, Interview AI suspects with your voice",
+          "summary": "Latest AI discussion on Hacker News: Show HN: Voice driven murder mystery, Interview AI suspects with your voice. Points: 102. (Source: Hacker News)",
+          "url": "https://www.whodunnitai.com/"
         },
         {
-          "title": "Gentoo bugzilla closed due AI bot scraper overload",
-          "summary": "Latest AI discussion on Hacker News: Gentoo bugzilla closed due AI bot scraper overload. Points: 165. (Source: Hacker News)",
-          "url": "https://social.treehouse.systems/@mgorny/117058483039362779"
+          "title": "AI assistant hacks gym website in first known Australian autonomous cyber attack",
+          "summary": "Latest AI discussion on Hacker News: AI assistant hacks gym website in first known Australian autonomous cyber attack. Points: 64. (Source: Hacker News)",
+          "url": "https://www.abc.net.au/news/2026-08-10/ai-assistant-hacks-gym-website-aus-cyber-attack/107007986"
         },
         {
-          "title": "Making an AI bid writer refuse to lie",
-          "summary": "Latest AI discussion on Hacker News: Making an AI bid writer refuse to lie. Points: 62. (Source: Hacker News)",
-          "url": "https://ailucius.com/blog/making-an-ai-bid-writer-refuse-to-lie"
+          "title": "The tragedy of the commons, AI edition",
+          "summary": "Latest AI discussion on Hacker News: The tragedy of the commons, AI edition. Points: 128. (Source: Hacker News)",
+          "url": "https://www.economist.com/britain/2026/08/06/the-tragedy-of-the-commons-ai-edition"
         },
         {
-          "title": "Mythos social engineering AISI INC-2026-07-28-01",
-          "summary": "Latest AI discussion on Hacker News: Mythos social engineering AISI INC-2026-07-28-01. Points: 81. (Source: Hacker News)",
-          "url": "https://web.archive.org/web/20260731053721/http://github.com/ancaferro/myNetwork/pull/3"
+          "title": "An OpenAI Strategist Says AI Labs Should Rival Government Power",
+          "summary": "Latest AI discussion on Hacker News: An OpenAI Strategist Says AI Labs Should Rival Government Power. Points: 61. (Source: Hacker News)",
+          "url": "https://ai-updates.net/an-openai-strategist-says-ai-labs-should-rival-government-power/"
         }
       ]
     },
@@ -329,29 +329,29 @@
       "category": "Enterprise & Agentic AI",
       "items": [
         {
-          "title": "Should AI labs be treated like the owners of dangerous animals?",
-          "summary": "Latest AI discussion on Hacker News: Should AI labs be treated like the owners of dangerous animals?. Points: 51. (Source: Hacker News)",
-          "url": "https://www.economist.com/science-and-technology/2026/08/06/should-ai-labs-be-treated-like-the-owners-of-dangerous-animals"
+          "title": "Amazon circumvents Gilroy community vote for AI data center",
+          "summary": "Latest AI discussion on Hacker News: Amazon circumvents Gilroy community vote for AI data center. Points: 60. (Source: Hacker News)",
+          "url": "https://www.tomshardware.com/tech-industry/data-centers/amazon-secretly-circumvents-community-vote-for-massive-ai-data-center-45-year-old-rules-lock-gilroy-residents-out-of-public-comment-window"
         },
         {
-          "title": "Managing AI Coding Costs at Scale",
-          "summary": "Latest AI discussion on Hacker News: Managing AI Coding Costs at Scale. Points: 303. (Source: Hacker News)",
-          "url": "https://www.databricks.com/blog/managing-ai-coding-costs-scale"
+          "title": "70% of AI revenue comes from OpenAI and Anthropic [video]",
+          "summary": "Latest AI discussion on Hacker News: 70% of AI revenue comes from OpenAI and Anthropic [video]. Points: 73. (Source: Hacker News)",
+          "url": "https://www.youtube.com/watch?v=68X8yEatepQ"
         },
         {
-          "title": "Oracle bans AI-generated code from OpenJDK",
-          "summary": "Latest AI discussion on Hacker News: Oracle bans AI-generated code from OpenJDK. Points: 528. (Source: Hacker News)",
-          "url": "https://app.dealroom.co/news/feed/oracle-bans-ai-generated-code-from-openjdk-despite-ellison-s-claim-oracle-isn-t-writing-its-own-code"
+          "title": "Switching to electric stoves can dramatically cut indoor air pollution (2025)",
+          "summary": "Latest AI discussion on Hacker News: Switching to electric stoves can dramatically cut indoor air pollution (2025). Points: 66. (Source: Hacker News)",
+          "url": "https://news.stanford.edu/stories/2025/12/gas-propane-stoves-nitrogen-dioxide-exposure-health-risks-switching-electric"
         },
         {
-          "title": "The AI Billboards Are Killing SF",
-          "summary": "Latest AI discussion on Hacker News: The AI Billboards Are Killing SF. Points: 32. (Source: Hacker News)",
-          "url": "https://sfstandard.com/pacific-standard-time/2026/08/07/sf-ai-billboards-dystopian-not-funny/"
+          "title": "SAP stops most travel and hiring because of AI's soaring cost",
+          "summary": "Latest AI discussion on Hacker News: SAP stops most travel and hiring because of AI's soaring cost. Points: 97. (Source: Hacker News)",
+          "url": "https://www.404media.co/software-giant-sap-stops-most-travel-and-hiring-because-of-ais-soaring-cost/"
         },
         {
-          "title": "AI psychosis is the new leadership blind spot",
-          "summary": "Latest AI discussion on Hacker News: AI psychosis is the new leadership blind spot. Points: 174. (Source: Hacker News)",
-          "url": "https://www.fastcompany.com/91576086/ai-psychosis-is-the-new-leadership-blind-spot-ai-leadership-blind-spots"
+          "title": "Gentoo bugzilla closed due AI bot scraper overload",
+          "summary": "Latest AI discussion on Hacker News: Gentoo bugzilla closed due AI bot scraper overload. Points: 170. (Source: Hacker News)",
+          "url": "https://social.treehouse.systems/@mgorny/117058483039362779"
         }
       ]
     },
