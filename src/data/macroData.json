@@ -1,26 +1,26 @@
 {
-  "lastUpdated": "August 12, 2026",
+  "lastUpdated": "August 13, 2026",
   "executiveSummary": [
-    "As of August 12, 2026, the U.S. macroeconomic environment is navigating a complex period of high interest rates and shifting labor market dynamics. With the Fed Funds Rate holding at 3.63% and CPI inflation tracking at 3.46%, the central bank continues its \"higher-for-longer\" stance to anchor inflation expectations. Recent headlines such as \"Experts say putting every dollar toward $35,000 in credit card debt could backfire — here's another approach\" suggest that market participants remain hypersensitive to every data print, particularly around corporate earnings and consumer spending resilience.",
-    "The labor market, a key pillar of support, shows 199,000 initial jobless claims, reflecting a relatively stable but cooling employment landscape. Geopolitically, events like \"Dow Jones Futures Rise With CPI Inflation Due; AI Stocks Rally As 3 Nvidia Partners Lead Earnings Movers\" introduce exogenous risks that could disrupt global energy supplies and re-ignite inflationary impulses, keeping the Federal Reserve in a defensive posture as they balance growth against price stability. Analysts are closely watching for any signs of a \"hard landing\" as the effects of previous tightening cycles continue to filter through the real economy."
+    "As of August 13, 2026, the U.S. macroeconomic environment is navigating a complex period of high interest rates and shifting labor market dynamics. With the Fed Funds Rate holding at 3.63% and CPI inflation tracking at 3.30%, the central bank continues its \"higher-for-longer\" stance to anchor inflation expectations. Recent headlines such as \"Bank of America sends blunt message to Nvidia stock investors\" suggest that market participants remain hypersensitive to every data print, particularly around corporate earnings and consumer spending resilience.",
+    "The labor market, a key pillar of support, shows 199,000 initial jobless claims, reflecting a relatively stable but cooling employment landscape. Geopolitically, events like \"Are you saving enough for retirement? Here's how to tell.\" introduce exogenous risks that could disrupt global energy supplies and re-ignite inflationary impulses, keeping the Federal Reserve in a defensive posture as they balance growth against price stability. Analysts are closely watching for any signs of a \"hard landing\" as the effects of previous tightening cycles continue to filter through the real economy."
   ],
   "dailyHeadlines": [
     {
-      "title": "Experts say putting every dollar toward $35,000 in credit card debt could backfire — here's another approach",
+      "title": "Bank of America sends blunt message to Nvidia stock investors",
       "summary": "",
-      "url": "https://finance.yahoo.com/markets/articles/experts-putting-every-dollar-toward-103500069.html",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/bank-america-sends-blunt-message-174700491.html",
       "type": "extreme"
     },
     {
-      "title": "Dow Jones Futures Rise With CPI Inflation Due; AI Stocks Rally As 3 Nvidia Partners Lead Earnings Movers",
+      "title": "Are you saving enough for retirement? Here's how to tell.",
       "summary": "",
-      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-cpi-inflation-nvidia-partners-super-micro-earnings/?src=A00220&amp;yptr=yahoo",
+      "url": "https://finance.yahoo.com/personal-finance/investing/article/are-you-saving-enough-for-retirement-heres-how-to-tell-184639709.html",
       "type": "warning"
     },
     {
-      "title": "S&amp;P 500 dividend yield hits record low near 1% and it has some retirees rethinking their strategies",
+      "title": "Options trading vs. stock trading: Key differences explained",
       "summary": "",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/p-500-dividend-yield-hits-103000153.html",
+      "url": "https://finance.yahoo.com/personal-finance/investing/article/options-trading-vs-stock-trading-170741990.html",
       "type": "info"
     }
   ],
@@ -45,13 +45,13 @@
     },
     {
       "title": "10Y Treasury Rate",
-      "value": "4.72%",
+      "value": "4.70%",
       "status": "High - energy-driven inflation",
       "type": "warning"
     },
     {
       "title": "2Y Treasury Rate",
-      "value": "4.25%",
+      "value": "4.22%",
       "status": "Elevated - higher-for-longer stance",
       "type": "warning"
     },
@@ -93,7 +93,7 @@
     },
     {
       "title": "CPI (YoY)",
-      "value": "3.46%",
+      "value": "3.30%",
       "status": "Stable - tracking within range",
       "type": "neutral"
     }
@@ -299,29 +299,29 @@
       "category": "Frontier Model Race & Breakthroughs",
       "items": [
         {
-          "title": "Company Offering '100% Human-Written, Never AI' Medical Research Is 100% AI",
-          "summary": "Latest AI discussion on Hacker News: Company Offering '100% Human-Written, Never AI' Medical Research Is 100% AI. Points: 180. (Source: Hacker News)",
-          "url": "https://www.404media.co/company-offering-100-human-written-never-ai-peer-review-is-entirely-ai/"
+          "title": "Anthropic in Talks to Buy World Model AI Startup Decart for $6B",
+          "summary": "Latest AI discussion on Hacker News: Anthropic in Talks to Buy World Model AI Startup Decart for $6B. Points: 32. (Source: Hacker News)",
+          "url": "https://www.bloomberg.com/news/articles/2026-08-13/anthropic-said-in-talks-to-buy-ai-startup-decart-for-6-billion"
         },
         {
-          "title": "US hires over 2k video gamers as air traffic controllers",
-          "summary": "Latest AI discussion on Hacker News: US hires over 2k video gamers as air traffic controllers. Points: 118. (Source: Hacker News)",
-          "url": "https://www.cbsnews.com/news/video-gamer-air-traffic-controllers-faa-recruitment-sean-duffy/"
+          "title": "German advocacy group lodges criminal complaint over Meta AI glasses",
+          "summary": "Latest AI discussion on Hacker News: German advocacy group lodges criminal complaint over Meta AI glasses. Points: 115. (Source: Hacker News)",
+          "url": "https://www.reuters.com/legal/government/german-advocacy-group-lodges-criminal-complaint-over-meta-ai-glasses-2026-08-12/"
         },
         {
-          "title": "Go is an ideal language for AI-assisted software engineering",
-          "summary": "Latest AI discussion on Hacker News: Go is an ideal language for AI-assisted software engineering. Points: 386. (Source: Hacker News)",
-          "url": "https://developers.googleblog.com/why-go-is-an-ideal-language-for-ai-assisted-software-engineering/"
+          "title": "Someone is running mass vulnerability scans, spoofing AI bots like ClaudeBot",
+          "summary": "Latest AI discussion on Hacker News: Someone is running mass vulnerability scans, spoofing AI bots like ClaudeBot. Points: 278. (Source: Hacker News)",
+          "url": "https://knownagents.com/insights"
         },
         {
-          "title": "Zuckerberg's superyacht ignored emergency channel, failed to aid stranded boat",
-          "summary": "Latest AI discussion on Hacker News: Zuckerberg's superyacht ignored emergency channel, failed to aid stranded boat. Points: 59. (Source: Hacker News)",
-          "url": "https://arstechnica.com/gadgets/2026/08/zuckerbergs-super-yacht-stood-by-while-stranded-boaters-looked-for-help/"
+          "title": "AI is removing the middle class of software engineering?",
+          "summary": "Latest AI discussion on Hacker News: AI is removing the middle class of software engineering?. Points: 891. (Source: Hacker News)",
+          "url": "https://blog.florianherrengt.com/ai-removing-middle-class-software-engineering.html"
         },
         {
-          "title": "As AI eats the web, the internet’s collective memory is disappearing",
-          "summary": "Latest AI discussion on Hacker News: As AI eats the web, the internet’s collective memory is disappearing. Points: 904. (Source: Hacker News)",
-          "url": "https://thewalrus.ca/google-search-is-dying/"
+          "title": "Launch HN: Discovered Materials (YC P26) – AI agents to discover new materials",
+          "summary": "Latest AI discussion on Hacker News: Launch HN: Discovered Materials (YC P26) – AI agents to discover new materials. Points: 138. (Source: Hacker News)",
+          "url": "https://discoveredmaterials.com/research/"
         }
       ]
     },
@@ -329,29 +329,29 @@
       "category": "Enterprise & Agentic AI",
       "items": [
         {
-          "title": "How Claude marks AI-generated content",
-          "summary": "Latest AI discussion on Hacker News: How Claude marks AI-generated content. Points: 434. (Source: Hacker News)",
-          "url": "https://support.claude.com/en/articles/16266773-how-claude-marks-ai-generated-content"
+          "title": "AI agent hacks gym to get its user a spot in pilates class",
+          "summary": "Latest AI discussion on Hacker News: AI agent hacks gym to get its user a spot in pilates class. Points: 36. (Source: Hacker News)",
+          "url": "https://www.bbc.com/news/articles/cn0nww2qlp7o"
         },
         {
-          "title": "Launch HN: Stoa Markets (YC S26) – A Marketplace for GPUs and AI Servers",
-          "summary": "Latest AI discussion on Hacker News: Launch HN: Stoa Markets (YC S26) – A Marketplace for GPUs and AI Servers. Points: 77. (Source: Hacker News)",
-          "url": "https://www.stoaexchange.com"
+          "title": "Company Offering '100% Human-Written, Never AI' Medical Research Is 100% AI",
+          "summary": "Latest AI discussion on Hacker News: Company Offering '100% Human-Written, Never AI' Medical Research Is 100% AI. Points: 195. (Source: Hacker News)",
+          "url": "https://www.404media.co/company-offering-100-human-written-never-ai-peer-review-is-entirely-ai/"
         },
         {
-          "title": "Kinney Drugs pulls back AI phone assistant after hundreds of customer complaints",
-          "summary": "Latest AI discussion on Hacker News: Kinney Drugs pulls back AI phone assistant after hundreds of customer complaints. Points: 153. (Source: Hacker News)",
-          "url": "https://www.wcax.com/2026/08/07/kinney-drugs-pulls-back-ai-phone-assistant-after-hundreds-customer-complaints/"
+          "title": "US hires over 2k video gamers as air traffic controllers",
+          "summary": "Latest AI discussion on Hacker News: US hires over 2k video gamers as air traffic controllers. Points: 201. (Source: Hacker News)",
+          "url": "https://www.cbsnews.com/news/video-gamer-air-traffic-controllers-faa-recruitment-sean-duffy/"
         },
         {
-          "title": "Letter to Governor Abbott on responsible AI infrastructure in Texas",
-          "summary": "Latest AI discussion on Hacker News: Letter to Governor Abbott on responsible AI infrastructure in Texas. Points: 124. (Source: Hacker News)",
-          "url": "https://openai.com/index/responsible-ai-infrastructure-texas/"
+          "title": "Suzanne: AI tool for designing and manufacturing physical products",
+          "summary": "Latest AI discussion on Hacker News: Suzanne: AI tool for designing and manufacturing physical products. Points: 51. (Source: Hacker News)",
+          "url": "https://www.suzanne3d.com/"
         },
         {
-          "title": "Mark Zuckerberg attacks 'closed' AI rivals as Meta returns to open models",
-          "summary": "Latest AI discussion on Hacker News: Mark Zuckerberg attacks 'closed' AI rivals as Meta returns to open models. Points: 635. (Source: Hacker News)",
-          "url": "https://www.ft.com/content/4e3957f8-ea7c-4c46-a3de-cdce8e526878"
+          "title": "Go is an ideal language for AI-assisted software engineering",
+          "summary": "Latest AI discussion on Hacker News: Go is an ideal language for AI-assisted software engineering. Points: 430. (Source: Hacker News)",
+          "url": "https://developers.googleblog.com/why-go-is-an-ideal-language-for-ai-assisted-software-engineering/"
         }
       ]
     },
