@@ -1,26 +1,26 @@
 {
-  "lastUpdated": "August 15, 2026",
+  "lastUpdated": "August 16, 2026",
   "executiveSummary": [
-    "As of August 15, 2026, the U.S. macroeconomic environment is navigating a complex period of high interest rates and shifting labor market dynamics. With the Fed Funds Rate holding at 3.63% and CPI inflation tracking at 3.30%, the central bank continues its \"higher-for-longer\" stance to anchor inflation expectations. Recent headlines such as \"e.l.f. Beauty (ELF) Just Logged Its 30th Growth Quarter. Can The Streak Hold?\" suggest that market participants remain hypersensitive to every data print, particularly around corporate earnings and consumer spending resilience.",
-    "The labor market, a key pillar of support, shows 209,000 initial jobless claims, reflecting a relatively stable but cooling employment landscape. Geopolitically, events like \"Why Is Nutrien (NTR) Raising Guidance While Nitrogen Volumes Slide?\" introduce exogenous risks that could disrupt global energy supplies and re-ignite inflationary impulses, keeping the Federal Reserve in a defensive posture as they balance growth against price stability. Analysts are closely watching for any signs of a \"hard landing\" as the effects of previous tightening cycles continue to filter through the real economy."
+    "As of August 16, 2026, the U.S. macroeconomic environment is navigating a complex period of high interest rates and shifting labor market dynamics. With the Fed Funds Rate holding at 3.63% and CPI inflation tracking at 3.30%, the central bank continues its \"higher-for-longer\" stance to anchor inflation expectations. Recent headlines such as \"Best CD rates today, Saturday, August 15, 2026: Best CD account earns 4.30% APY\" suggest that market participants remain hypersensitive to every data print, particularly around corporate earnings and consumer spending resilience.",
+    "The labor market, a key pillar of support, shows 209,000 initial jobless claims, reflecting a relatively stable but cooling employment landscape. Geopolitically, events like \"Mortgage and refinance interest rates today, Saturday, August 15, 2026: Rates falling this weekend\" introduce exogenous risks that could disrupt global energy supplies and re-ignite inflationary impulses, keeping the Federal Reserve in a defensive posture as they balance growth against price stability. Analysts are closely watching for any signs of a \"hard landing\" as the effects of previous tightening cycles continue to filter through the real economy."
   ],
   "dailyHeadlines": [
     {
-      "title": "e.l.f. Beauty (ELF) Just Logged Its 30th Growth Quarter. Can The Streak Hold?",
+      "title": "Best CD rates today, Saturday, August 15, 2026: Best CD account earns 4.30% APY",
       "summary": "",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/e-l-f-beauty-elf-084557866.html",
+      "url": "https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-saturday-august-15-2026-best-cd-account-earns-430-apy-100000412.html",
       "type": "extreme"
     },
     {
-      "title": "Why Is Nutrien (NTR) Raising Guidance While Nitrogen Volumes Slide?",
+      "title": "Mortgage and refinance interest rates today, Saturday, August 15, 2026: Rates falling this weekend",
       "summary": "",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/why-nutrien-ntr-raising-guidance-083605403.html",
+      "url": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-and-refinance-interest-rates-today-saturday-august-15-2026-rates-falling-this-weekend-100000735.html",
       "type": "warning"
     },
     {
-      "title": "Jim Cramer Wondered Whether Sandisk Is No Longer Cyclical &amp; Expected Western Digital To Raise Guidance More",
+      "title": "'You have absolutely no expenses': Suze Orman says the perks your job quietly covers could blow up your retirement math",
       "summary": "",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-wondered-whether-sandisk-074434590.html",
+      "url": "https://finance.yahoo.com/small-business/articles/absolutely-no-expenses-suze-orman-093000555.html",
       "type": "info"
     }
   ],
@@ -299,29 +299,29 @@
       "category": "Frontier Model Race & Breakthroughs",
       "items": [
         {
-          "title": "AI by Hand",
-          "summary": "Latest AI discussion on Hacker News: AI by Hand. Points: 306. (Source: Hacker News)",
-          "url": "https://www.byhand.ai/"
+          "title": "AI in drug discovery – what it is, where we stand and the path forward",
+          "summary": "Latest AI discussion on Hacker News: AI in drug discovery – what it is, where we stand and the path forward. Points: 140. (Source: Hacker News)",
+          "url": "https://www.science.org/content/blog-post/so-how-ai-drug-discovery-doing-really"
         },
         {
-          "title": "Google is making private AI practical with homomorphic encryption",
-          "summary": "Latest AI discussion on Hacker News: Google is making private AI practical with homomorphic encryption. Points: 391. (Source: Hacker News)",
-          "url": "https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption/"
+          "title": "AI has access to a vastly larger working memory than the human brain",
+          "summary": "Latest AI discussion on Hacker News: AI has access to a vastly larger working memory than the human brain. Points: 501. (Source: Hacker News)",
+          "url": "https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians"
         },
         {
-          "title": "When Genius Fails: The Intellectual Arrogance of the AI Labs",
-          "summary": "Latest AI discussion on Hacker News: When Genius Fails: The Intellectual Arrogance of the AI Labs. Points: 172. (Source: Hacker News)",
-          "url": "https://weightythoughts.com/p/when-genius-failsthe-intellectual"
+          "title": "Secondhand book sales are booming. Is it because of AI?",
+          "summary": "Latest AI discussion on Hacker News: Secondhand book sales are booming. Is it because of AI?. Points: 68. (Source: Hacker News)",
+          "url": "https://www.bbc.co.uk/news/articles/cp3rprx2wl4o"
         },
         {
-          "title": "Dear people who work at the airport",
-          "summary": "Latest AI discussion on Hacker News: Dear people who work at the airport. Points: 200. (Source: Hacker News)",
-          "url": "https://life-after-ssri.bearblog.dev/dear-people-who-work-at-the-airport/"
+          "title": "Cloudflare's AI Psychosis",
+          "summary": "Latest AI discussion on Hacker News: Cloudflare's AI Psychosis. Points: 109. (Source: Hacker News)",
+          "url": "https://opensauce.it/cloudflare-ai-psychosis/"
         },
         {
-          "title": "How AI text watermarking works",
-          "summary": "Latest AI discussion on Hacker News: How AI text watermarking works. Points: 132. (Source: Hacker News)",
-          "url": "https://declaude.org/watermarking/"
+          "title": "Working with AI feels more like leadership than coding",
+          "summary": "Latest AI discussion on Hacker News: Working with AI feels more like leadership than coding. Points: 301. (Source: Hacker News)",
+          "url": "https://allen.bargi.org/notes/working-with-ai-feels-like-leadership/"
         }
       ]
     },
@@ -329,29 +329,29 @@
       "category": "Enterprise & Agentic AI",
       "items": [
         {
-          "title": "AI At Home Part 1: A Box Of Scraps",
-          "summary": "Latest AI discussion on Hacker News: AI At Home Part 1: A Box Of Scraps. Points: 125. (Source: Hacker News)",
-          "url": "https://jdagostino.github.io/ai-pt1-box-o-scraps/index.html"
+          "title": "Suspecting court of using AI, man injected prompts in filings to try to win case",
+          "summary": "Latest AI discussion on Hacker News: Suspecting court of using AI, man injected prompts in filings to try to win case. Points: 76. (Source: Hacker News)",
+          "url": "https://arstechnica.com/tech-policy/2026/08/suspecting-court-of-using-ai-man-injected-prompts-in-filings-to-try-to-win-case/"
         },
         {
-          "title": "Text AI watermarks will always be trivial to remove",
-          "summary": "Latest AI discussion on Hacker News: Text AI watermarks will always be trivial to remove. Points: 143. (Source: Hacker News)",
-          "url": "https://www.seangoedecke.com/text-ai-watermarks/"
+          "title": "AI by Hand",
+          "summary": "Latest AI discussion on Hacker News: AI by Hand. Points: 357. (Source: Hacker News)",
+          "url": "https://www.byhand.ai/"
         },
         {
-          "title": "Heart aerospace completes first flight of largest electric aircraft",
-          "summary": "Latest AI discussion on Hacker News: Heart aerospace completes first flight of largest electric aircraft. Points: 143. (Source: Hacker News)",
-          "url": "https://www.heartaerospace.com/newsroom/heart-aerospace-completes-first-flight-of-world-s-largest-electric-aircraft"
+          "title": "Google is making private AI practical with homomorphic encryption",
+          "summary": "Latest AI discussion on Hacker News: Google is making private AI practical with homomorphic encryption. Points: 486. (Source: Hacker News)",
+          "url": "https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption/"
         },
         {
-          "title": "AI agents lie, cheat and steal. That is putting off users",
-          "summary": "Latest AI discussion on Hacker News: AI agents lie, cheat and steal. That is putting off users. Points: 164. (Source: Hacker News)",
-          "url": "https://www.economist.com/business/2026/08/12/ai-agents-lie-cheat-and-steal-that-is-putting-off-users"
+          "title": "When Genius Fails: The Intellectual Arrogance of the AI Labs",
+          "summary": "Latest AI discussion on Hacker News: When Genius Fails: The Intellectual Arrogance of the AI Labs. Points: 175. (Source: Hacker News)",
+          "url": "https://weightythoughts.com/p/when-genius-failsthe-intellectual"
         },
         {
-          "title": "Choosing an AI model: one prompt, 11 models, different results",
-          "summary": "Latest AI discussion on Hacker News: Choosing an AI model: one prompt, 11 models, different results. Points: 216. (Source: Hacker News)",
-          "url": "https://www.netlify.com/blog/one-prompt-11-models-very-different-results/"
+          "title": "Dear people who work at the airport",
+          "summary": "Latest AI discussion on Hacker News: Dear people who work at the airport. Points: 209. (Source: Hacker News)",
+          "url": "https://life-after-ssri.bearblog.dev/dear-people-who-work-at-the-airport/"
         }
       ]
     },
