@@ -1,26 +1,26 @@
 {
-  "lastUpdated": "August 16, 2026",
+  "lastUpdated": "August 17, 2026",
   "executiveSummary": [
-    "As of August 16, 2026, the U.S. macroeconomic environment is navigating a complex period of high interest rates and shifting labor market dynamics. With the Fed Funds Rate holding at 3.63% and CPI inflation tracking at 3.30%, the central bank continues its \"higher-for-longer\" stance to anchor inflation expectations. Recent headlines such as \"Best CD rates today, Saturday, August 15, 2026: Best CD account earns 4.30% APY\" suggest that market participants remain hypersensitive to every data print, particularly around corporate earnings and consumer spending resilience.",
-    "The labor market, a key pillar of support, shows 209,000 initial jobless claims, reflecting a relatively stable but cooling employment landscape. Geopolitically, events like \"Mortgage and refinance interest rates today, Saturday, August 15, 2026: Rates falling this weekend\" introduce exogenous risks that could disrupt global energy supplies and re-ignite inflationary impulses, keeping the Federal Reserve in a defensive posture as they balance growth against price stability. Analysts are closely watching for any signs of a \"hard landing\" as the effects of previous tightening cycles continue to filter through the real economy."
+    "As of August 17, 2026, the U.S. macroeconomic environment is navigating a complex period of high interest rates and shifting labor market dynamics. With the Fed Funds Rate holding at 3.63% and CPI inflation tracking at 3.30%, the central bank continues its \"higher-for-longer\" stance to anchor inflation expectations. Recent headlines such as \"Bill Ackman lost $400M dumping Netflix — now says it ‘won the streaming wars.’ Should you rebuy a stock that burned you?\" suggest that market participants remain hypersensitive to every data print, particularly around corporate earnings and consumer spending resilience.",
+    "The labor market, a key pillar of support, shows 209,000 initial jobless claims, reflecting a relatively stable but cooling employment landscape. Geopolitically, events like \"HELOC and home equity loan rates today, Monday, August 17, 2026: A 19-basis-point differential\" introduce exogenous risks that could disrupt global energy supplies and re-ignite inflationary impulses, keeping the Federal Reserve in a defensive posture as they balance growth against price stability. Analysts are closely watching for any signs of a \"hard landing\" as the effects of previous tightening cycles continue to filter through the real economy."
   ],
   "dailyHeadlines": [
     {
-      "title": "Best CD rates today, Saturday, August 15, 2026: Best CD account earns 4.30% APY",
+      "title": "Bill Ackman lost $400M dumping Netflix — now says it ‘won the streaming wars.’ Should you rebuy a stock that burned you?",
       "summary": "",
-      "url": "https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-saturday-august-15-2026-best-cd-account-earns-430-apy-100000412.html",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/bill-ackman-lost-400m-dumping-101500398.html",
       "type": "extreme"
     },
     {
-      "title": "Mortgage and refinance interest rates today, Saturday, August 15, 2026: Rates falling this weekend",
+      "title": "HELOC and home equity loan rates today, Monday, August 17, 2026: A 19-basis-point differential",
       "summary": "",
-      "url": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-and-refinance-interest-rates-today-saturday-august-15-2026-rates-falling-this-weekend-100000735.html",
+      "url": "https://finance.yahoo.com/personal-finance/mortgages/article/heloc-and-home-equity-loan-rates-today-monday-august-17-2026-a-19-basis-point-differential-100000113.html",
       "type": "warning"
     },
     {
-      "title": "'You have absolutely no expenses': Suze Orman says the perks your job quietly covers could blow up your retirement math",
+      "title": "Health insurers are dropping Medicare Advantage plans — and nearly 3 million older Americans will be affected",
       "summary": "",
-      "url": "https://finance.yahoo.com/small-business/articles/absolutely-no-expenses-suze-orman-093000555.html",
+      "url": "https://finance.yahoo.com/healthcare/articles/health-insurers-dropping-medicare-advantage-100000446.html",
       "type": "info"
     }
   ],
@@ -299,29 +299,29 @@
       "category": "Frontier Model Race & Breakthroughs",
       "items": [
         {
+          "title": "Young People Hate AI CEOs So Passionately That It's Almost Hard to Believe",
+          "summary": "Latest AI discussion on Hacker News: Young People Hate AI CEOs So Passionately That It's Almost Hard to Believe. Points: 117. (Source: Hacker News)",
+          "url": "https://futurism.com/artificial-intelligence/young-people-ai-ceos-executives-poll"
+        },
+        {
+          "title": "The AI Credit Resale Economy",
+          "summary": "Latest AI discussion on Hacker News: The AI Credit Resale Economy. Points: 292. (Source: Hacker News)",
+          "url": "https://vectoral.com/blog/who-are-the-token-brokers"
+        },
+        {
+          "title": "Show HN: A public AI whose memory is shared across all users",
+          "summary": "Latest AI discussion on Hacker News: Show HN: A public AI whose memory is shared across all users. Points: 72. (Source: Hacker News)",
+          "url": "https://wildstatic.com/"
+        },
+        {
+          "title": "AI Coding Without the Vibes",
+          "summary": "Latest AI discussion on Hacker News: AI Coding Without the Vibes. Points: 87. (Source: Hacker News)",
+          "url": "https://peterbloem.nl/blog/craft-coding"
+        },
+        {
           "title": "AI in drug discovery – what it is, where we stand and the path forward",
-          "summary": "Latest AI discussion on Hacker News: AI in drug discovery – what it is, where we stand and the path forward. Points: 140. (Source: Hacker News)",
+          "summary": "Latest AI discussion on Hacker News: AI in drug discovery – what it is, where we stand and the path forward. Points: 184. (Source: Hacker News)",
           "url": "https://www.science.org/content/blog-post/so-how-ai-drug-discovery-doing-really"
-        },
-        {
-          "title": "AI has access to a vastly larger working memory than the human brain",
-          "summary": "Latest AI discussion on Hacker News: AI has access to a vastly larger working memory than the human brain. Points: 501. (Source: Hacker News)",
-          "url": "https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians"
-        },
-        {
-          "title": "Secondhand book sales are booming. Is it because of AI?",
-          "summary": "Latest AI discussion on Hacker News: Secondhand book sales are booming. Is it because of AI?. Points: 68. (Source: Hacker News)",
-          "url": "https://www.bbc.co.uk/news/articles/cp3rprx2wl4o"
-        },
-        {
-          "title": "Cloudflare's AI Psychosis",
-          "summary": "Latest AI discussion on Hacker News: Cloudflare's AI Psychosis. Points: 109. (Source: Hacker News)",
-          "url": "https://opensauce.it/cloudflare-ai-psychosis/"
-        },
-        {
-          "title": "Working with AI feels more like leadership than coding",
-          "summary": "Latest AI discussion on Hacker News: Working with AI feels more like leadership than coding. Points: 301. (Source: Hacker News)",
-          "url": "https://allen.bargi.org/notes/working-with-ai-feels-like-leadership/"
         }
       ]
     },
@@ -329,29 +329,29 @@
       "category": "Enterprise & Agentic AI",
       "items": [
         {
-          "title": "Suspecting court of using AI, man injected prompts in filings to try to win case",
-          "summary": "Latest AI discussion on Hacker News: Suspecting court of using AI, man injected prompts in filings to try to win case. Points: 76. (Source: Hacker News)",
-          "url": "https://arstechnica.com/tech-policy/2026/08/suspecting-court-of-using-ai-man-injected-prompts-in-filings-to-try-to-win-case/"
+          "title": "AI isn’t outthinking mathematicians, it’s out-remembering them",
+          "summary": "Latest AI discussion on Hacker News: AI isn’t outthinking mathematicians, it’s out-remembering them. Points: 618. (Source: Hacker News)",
+          "url": "https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians"
         },
         {
-          "title": "AI by Hand",
-          "summary": "Latest AI discussion on Hacker News: AI by Hand. Points: 357. (Source: Hacker News)",
-          "url": "https://www.byhand.ai/"
+          "title": "Secondhand book sales are booming. Is it because of AI?",
+          "summary": "Latest AI discussion on Hacker News: Secondhand book sales are booming. Is it because of AI?. Points: 69. (Source: Hacker News)",
+          "url": "https://www.bbc.co.uk/news/articles/cp3rprx2wl4o"
         },
         {
-          "title": "Google is making private AI practical with homomorphic encryption",
-          "summary": "Latest AI discussion on Hacker News: Google is making private AI practical with homomorphic encryption. Points: 486. (Source: Hacker News)",
-          "url": "https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption/"
+          "title": "Cloudflare's AI Psychosis",
+          "summary": "Latest AI discussion on Hacker News: Cloudflare's AI Psychosis. Points: 117. (Source: Hacker News)",
+          "url": "https://opensauce.it/cloudflare-ai-psychosis/"
         },
         {
-          "title": "When Genius Fails: The Intellectual Arrogance of the AI Labs",
-          "summary": "Latest AI discussion on Hacker News: When Genius Fails: The Intellectual Arrogance of the AI Labs. Points: 175. (Source: Hacker News)",
-          "url": "https://weightythoughts.com/p/when-genius-failsthe-intellectual"
+          "title": "Yadda 3.0.0: BDD in the Age of AI Agents",
+          "summary": "Latest AI discussion on Hacker News: Yadda 3.0.0: BDD in the Age of AI Agents. Points: 64. (Source: Hacker News)",
+          "url": "http://www.stephen-cresswell.com/2026/08/15/Yadda-3.0.0-BDD-in-the-Age-of-AI-Agents.html"
         },
         {
-          "title": "Dear people who work at the airport",
-          "summary": "Latest AI discussion on Hacker News: Dear people who work at the airport. Points: 209. (Source: Hacker News)",
-          "url": "https://life-after-ssri.bearblog.dev/dear-people-who-work-at-the-airport/"
+          "title": "Working with AI feels more like leadership than coding",
+          "summary": "Latest AI discussion on Hacker News: Working with AI feels more like leadership than coding. Points: 327. (Source: Hacker News)",
+          "url": "https://allen.bargi.org/notes/working-with-ai-feels-like-leadership/"
         }
       ]
     },
