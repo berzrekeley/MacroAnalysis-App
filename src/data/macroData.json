@@ -1,26 +1,26 @@
 {
-  "lastUpdated": "August 19, 2026",
+  "lastUpdated": "August 20, 2026",
   "executiveSummary": [
-    "As of August 19, 2026, the U.S. macroeconomic environment is navigating a complex period of high interest rates and shifting labor market dynamics. With the Fed Funds Rate holding at 3.63% and CPI inflation tracking at 3.30%, the central bank continues its \"higher-for-longer\" stance to anchor inflation expectations. Recent headlines such as \"Mortgage and refinance interest rates today, Wednesday, August 19, 2026:  Surprisingly calm amid bond market volatility\" suggest that market participants remain hypersensitive to every data print, particularly around corporate earnings and consumer spending resilience.",
-    "The labor market, a key pillar of support, shows 209,000 initial jobless claims, reflecting a relatively stable but cooling employment landscape. Geopolitically, events like \"Stock market today: Dow, S&amp;P 500, Nasdaq futures stall after Trump pauses tariffs on Canada\" introduce exogenous risks that could disrupt global energy supplies and re-ignite inflationary impulses, keeping the Federal Reserve in a defensive posture as they balance growth against price stability. Analysts are closely watching for any signs of a \"hard landing\" as the effects of previous tightening cycles continue to filter through the real economy."
+    "As of August 20, 2026, the U.S. macroeconomic environment is navigating a complex period of high interest rates and shifting labor market dynamics. With the Fed Funds Rate holding at 3.63% and CPI inflation tracking at 3.30%, the central bank continues its \"higher-for-longer\" stance to anchor inflation expectations. Recent headlines such as \"Jim Cramer drops stunning take on the economy\" suggest that market participants remain hypersensitive to every data print, particularly around corporate earnings and consumer spending resilience.",
+    "The labor market, a key pillar of support, shows 209,000 initial jobless claims, reflecting a relatively stable but cooling employment landscape. Geopolitically, events like \"The New Economics of AI Infrastructure: Why Tax Strategy Is Now Part of Energy Strategy\" introduce exogenous risks that could disrupt global energy supplies and re-ignite inflationary impulses, keeping the Federal Reserve in a defensive posture as they balance growth against price stability. Analysts are closely watching for any signs of a \"hard landing\" as the effects of previous tightening cycles continue to filter through the real economy."
   ],
   "dailyHeadlines": [
     {
-      "title": "Mortgage and refinance interest rates today, Wednesday, August 19, 2026:  Surprisingly calm amid bond market volatility",
+      "title": "Jim Cramer drops stunning take on the economy",
       "summary": "",
-      "url": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-and-refinance-interest-rates-today-wednesday-august-19-2026-surprisingly-calm-amid-bond-market-volatility-100000804.html",
+      "url": "https://finance.yahoo.com/economy/articles/jim-cramer-drops-stunning-economy-230000219.html",
       "type": "extreme"
     },
     {
-      "title": "Stock market today: Dow, S&amp;P 500, Nasdaq futures stall after Trump pauses tariffs on Canada",
+      "title": "The New Economics of AI Infrastructure: Why Tax Strategy Is Now Part of Energy Strategy",
       "summary": "",
-      "url": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-august-19-dow-sp-500-nasdaq-081116064.html",
+      "url": "https://finance.yahoo.com/energy/articles/economics-ai-infrastructure-why-tax-222535556.html",
       "type": "warning"
     },
     {
-      "title": "Costco launching Medicare Advantage plans with SCAN Group",
+      "title": "Life insurance rates: Average costs by age and policy",
       "summary": "",
-      "url": "https://finance.yahoo.com/healthcare/articles/costco-launching-medicare-advantage-plans-171035001.html",
+      "url": "https://finance.yahoo.com/personal-finance/insurance/article/life-insurance-rates-184834481.html",
       "type": "info"
     }
   ],
@@ -39,13 +39,13 @@
     },
     {
       "title": "10Y - 2Y Spread",
-      "value": "0.52%",
+      "value": "0.46%",
       "status": "Steepening - slower growth",
       "type": "warning"
     },
     {
       "title": "10Y Treasury Rate",
-      "value": "4.72%",
+      "value": "4.71%",
       "status": "High - energy-driven inflation",
       "type": "warning"
     },
@@ -299,29 +299,29 @@
       "category": "Frontier Model Race & Breakthroughs",
       "items": [
         {
+          "title": "Don't Paste the AI, please",
+          "summary": "Latest AI discussion on Hacker News: Don't Paste the AI, please. Points: 259. (Source: Hacker News)",
+          "url": "https://dontpastetheai.com/"
+        },
+        {
+          "title": "Mathematics in the age of AI",
+          "summary": "Latest AI discussion on Hacker News: Mathematics in the age of AI. Points: 172. (Source: Hacker News)",
+          "url": "https://arxiv.org/abs/2608.16753"
+        },
+        {
+          "title": "AI Has Plunged the Book Publishing Industry into Utter Chaos",
+          "summary": "Latest AI discussion on Hacker News: AI Has Plunged the Book Publishing Industry into Utter Chaos. Points: 21. (Source: Hacker News)",
+          "url": "https://www.wsj.com/arts-culture/books/generative-ai-book-publishing-be79a287"
+        },
+        {
+          "title": "Air Theremin – A browser theremin you play by waving at your webcam",
+          "summary": "Latest AI discussion on Hacker News: Air Theremin – A browser theremin you play by waving at your webcam. Points: 275. (Source: Hacker News)",
+          "url": "https://theremin.bizibah.com/"
+        },
+        {
           "title": "Pacing comes to the AI frontier",
           "summary": "PLUS: Build, test, and publish an app without leaving Codex...",
           "url": "https://www.therundown.ai/articles/pacing-comes-to-the-ai-frontier"
-        },
-        {
-          "title": "AI usage patterns in software teams",
-          "summary": "Latest AI discussion on Hacker News: AI usage patterns in software teams. Points: 140. (Source: Hacker News)",
-          "url": "https://linear.app/data"
-        },
-        {
-          "title": "Field measurements of neighborhood-scale air temperature impacts of data centers",
-          "summary": "Latest AI discussion on Hacker News: Field measurements of neighborhood-scale air temperature impacts of data centers. Points: 301. (Source: Hacker News)",
-          "url": "https://asmedigitalcollection.asme.org/sustainablebuildings/article/7/2/024501/1233035/Data-Center-Waste-Heat-as-an-Emerging-Urban"
-        },
-        {
-          "title": "The $1.4T case against Meta",
-          "summary": "First glimpse of Apple's camera-embedded AirPods...",
-          "url": "https://www.therundown.ai/articles/the-1-4t-case-against-meta"
-        },
-        {
-          "title": "Google has acquired the data of failed US airline Spirit",
-          "summary": "Latest AI discussion on Hacker News: Google has acquired the data of failed US airline Spirit. Points: 583. (Source: Hacker News)",
-          "url": "https://www.theregister.com/ai-and-ml/2026/08/18/google-buys-crashed-airline-spirits-data-at-auction-because-ai/5288962"
         }
       ]
     },
@@ -329,29 +329,29 @@
       "category": "Enterprise & Agentic AI",
       "items": [
         {
-          "title": "Cursor's Origin hits GitHub on its worst day",
-          "summary": "PLUS: How to set up ChatGPT to write in your voice...",
-          "url": "https://www.therundown.ai/articles/cursor-origin-hits-github-on-its-worst-day"
+          "title": "Does AI stop children from learning?",
+          "summary": "Latest AI discussion on Hacker News: Does AI stop children from learning?. Points: 25. (Source: Hacker News)",
+          "url": "https://www.economist.com/graphic-detail/2026/08/18/does-ai-stop-children-from-learning"
         },
         {
-          "title": "Israel creates fake think tank in likely attempt to dupe AI chatbots",
-          "summary": "Latest AI discussion on Hacker News: Israel creates fake think tank in likely attempt to dupe AI chatbots. Points: 1026. (Source: Hacker News)",
-          "url": "https://responsiblestatecraft.org/israel-influence-chatgpt/"
+          "title": "AI usage patterns in software teams",
+          "summary": "Latest AI discussion on Hacker News: AI usage patterns in software teams. Points: 189. (Source: Hacker News)",
+          "url": "https://linear.app/data"
         },
         {
-          "title": "AI;DR (AI; Didn't Read)",
-          "summary": "Latest AI discussion on Hacker News: AI;DR (AI; Didn't Read). Points: 1078. (Source: Hacker News)",
-          "url": "https://www.rickmanelius.com/p/aidr-ai-didnt-read"
+          "title": "Palantir Leads AI Data Deal with USA Today Sparking a Newsroom Revolt",
+          "summary": "Latest AI discussion on Hacker News: Palantir Leads AI Data Deal with USA Today Sparking a Newsroom Revolt. Points: 21. (Source: Hacker News)",
+          "url": "https://www.forbes.com/sites/sandycarter/2026/08/15/palantir-leads-ai-data-deal-with-usa-today-sparking-a-newsroom-revolt/"
         },
         {
-          "title": "AirTag reveals Amazon is trashing rare books to train AI",
-          "summary": "Latest AI discussion on Hacker News: AirTag reveals Amazon is trashing rare books to train AI. Points: 129. (Source: Hacker News)",
-          "url": "https://arstechnica.com/tech-policy/2026/08/hidden-airtag-reveals-amazon-is-trashing-rare-books-to-train-ai/"
+          "title": "Field measurements of neighborhood-scale air temperature impacts of data centers",
+          "summary": "Latest AI discussion on Hacker News: Field measurements of neighborhood-scale air temperature impacts of data centers. Points: 311. (Source: Hacker News)",
+          "url": "https://asmedigitalcollection.asme.org/sustainablebuildings/article/7/2/024501/1233035/Data-Center-Waste-Heat-as-an-Emerging-Urban"
         },
         {
-          "title": "Anthropic's War on open source AI",
-          "summary": "Latest AI discussion on Hacker News: Anthropic's War on open source AI. Points: 151. (Source: Hacker News)",
-          "url": "https://twitter.com/TheAhmadOsman/status/2065307070044234186"
+          "title": "AI won't solve the work-theater problem",
+          "summary": "Latest AI discussion on Hacker News: AI won't solve the work-theater problem. Points: 42. (Source: Hacker News)",
+          "url": "https://think-twice.me/?p=102"
         }
       ]
     },
