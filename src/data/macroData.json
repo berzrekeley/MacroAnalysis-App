@@ -1,26 +1,26 @@
 {
-  "lastUpdated": "August 21, 2026",
+  "lastUpdated": "August 22, 2026",
   "executiveSummary": [
-    "As of August 21, 2026, the U.S. macroeconomic environment is navigating a complex period of high interest rates and shifting labor market dynamics. With the Fed Funds Rate holding at 3.63% and CPI inflation tracking at 3.30%, the central bank continues its \"higher-for-longer\" stance to anchor inflation expectations. Recent headlines such as \"Bank of America sends message on Capital One stock\" suggest that market participants remain hypersensitive to every data print, particularly around corporate earnings and consumer spending resilience.",
-    "The labor market, a key pillar of support, shows 206,000 initial jobless claims, reflecting a relatively stable but cooling employment landscape. Geopolitically, events like \"Best dining credit cards (August 2026)\" introduce exogenous risks that could disrupt global energy supplies and re-ignite inflationary impulses, keeping the Federal Reserve in a defensive posture as they balance growth against price stability. Analysts are closely watching for any signs of a \"hard landing\" as the effects of previous tightening cycles continue to filter through the real economy."
+    "As of August 22, 2026, the U.S. macroeconomic environment is navigating a complex period of high interest rates and shifting labor market dynamics. With the Fed Funds Rate holding at 3.63% and CPI inflation tracking at 3.30%, the central bank continues its \"higher-for-longer\" stance to anchor inflation expectations. Recent headlines such as \"Hyundai considers Georgia Metaplant expansion to 800,000 units\" suggest that market participants remain hypersensitive to every data print, particularly around corporate earnings and consumer spending resilience.",
+    "The labor market, a key pillar of support, shows 206,000 initial jobless claims, reflecting a relatively stable but cooling employment landscape. Geopolitically, events like \"Micron (MU) Just Made a $10B Bet on Its Future\" introduce exogenous risks that could disrupt global energy supplies and re-ignite inflationary impulses, keeping the Federal Reserve in a defensive posture as they balance growth against price stability. Analysts are closely watching for any signs of a \"hard landing\" as the effects of previous tightening cycles continue to filter through the real economy."
   ],
   "dailyHeadlines": [
     {
-      "title": "Bank of America sends message on Capital One stock",
+      "title": "Hyundai considers Georgia Metaplant expansion to 800,000 units",
       "summary": "",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/bank-america-sends-message-capital-090300253.html",
+      "url": "https://finance.yahoo.com/economy/policy/articles/hyundai-considers-georgia-metaplant-expansion-112106415.html",
       "type": "extreme"
     },
     {
-      "title": "Best dining credit cards (August 2026)",
+      "title": "Micron (MU) Just Made a $10B Bet on Its Future",
       "summary": "",
-      "url": "https://finance.yahoo.com/personal-finance/credit-cards/article/dining-credit-cards-193453435.html",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/micron-mu-just-made-10b-084444893.html",
       "type": "warning"
     },
     {
-      "title": "Does renters insurance cover pets, dog bites, and pet damage?",
+      "title": "A China Chip Denial Lands Before Nvidia’s (NVDA) Big Week",
       "summary": "",
-      "url": "https://finance.yahoo.com/personal-finance/insurance/article/does-renters-insurance-cover-pets-180714978.html",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/china-chip-denial-lands-nvidia-082114198.html",
       "type": "info"
     }
   ],
@@ -45,7 +45,7 @@
     },
     {
       "title": "10Y Treasury Rate",
-      "value": "4.65%",
+      "value": "4.69%",
       "status": "High - energy-driven inflation",
       "type": "warning"
     },
@@ -299,29 +299,29 @@
       "category": "Frontier Model Race & Breakthroughs",
       "items": [
         {
+          "title": "AI boosted homework scores, then exam scores dropped: Study",
+          "summary": "Latest AI discussion on Hacker News: AI boosted homework scores, then exam scores dropped: Study. Points: 165. (Source: Hacker News)",
+          "url": "https://canews24.online/?p=71"
+        },
+        {
+          "title": "I'm becoming AI-blind",
+          "summary": "Latest AI discussion on Hacker News: I'm becoming AI-blind. Points: 372. (Source: Hacker News)",
+          "url": "https://cymerys.com/w/im-becoming-ai-blind"
+        },
+        {
           "title": "AI companies destroy physical books – let's scan rare books before it's too late",
-          "summary": "Latest AI discussion on Hacker News: AI companies destroy physical books – let's scan rare books before it's too late. Points: 335. (Source: Hacker News)",
+          "summary": "Latest AI discussion on Hacker News: AI companies destroy physical books – let's scan rare books before it's too late. Points: 703. (Source: Hacker News)",
+          "url": "https://annas-archive.pk/blog/physical-destruction.html"
+        },
+        {
+          "title": "Young Americans increasingly fear AI will take their jobs",
+          "summary": "Latest AI discussion on Hacker News: Young Americans increasingly fear AI will take their jobs. Points: 28. (Source: Hacker News)",
+          "url": "https://www.pewresearch.org/short-reads/2026/08/18/young-adults-in-the-us-are-increasingly-wary-of-ai-concerned-it-will-take-jobs/"
+        },
+        {
+          "title": "AI companies destroy physical books – let's scan rare books before it's too late",
+          "summary": "Latest AI discussion on Hacker News: AI companies destroy physical books – let's scan rare books before it's too late. Points: 565. (Source: Hacker News)",
           "url": "https://annas-archive.gl/blog/physical-destruction.html"
-        },
-        {
-          "title": "Copyright does not protect AI-generated content in EU",
-          "summary": "Latest AI discussion on Hacker News: Copyright does not protect AI-generated content in EU. Points: 174. (Source: Hacker News)",
-          "url": "https://mathstodon.xyz/@maxpool/117128107757895678"
-        },
-        {
-          "title": "Introducing AI Futures",
-          "summary": "Latest AI discussion on Hacker News: Introducing AI Futures. Points: 28. (Source: Hacker News)",
-          "url": "https://openai.com/index/introducing-ai-futures/"
-        },
-        {
-          "title": "Show HN: Huzzah – a novel approach to coding with AI",
-          "summary": "Latest AI discussion on Hacker News: Show HN: Huzzah – a novel approach to coding with AI. Points: 314. (Source: Hacker News)",
-          "url": "https://www.danielvaughn.dev/posts/huzzah/"
-        },
-        {
-          "title": "AI at Home Part 2: Multi-GPU Drifting",
-          "summary": "Latest AI discussion on Hacker News: AI at Home Part 2: Multi-GPU Drifting. Points: 26. (Source: Hacker News)",
-          "url": "https://jdagostino.github.io/ai-pt2-multi-gpu-drifting/index.html"
         }
       ]
     },
@@ -329,29 +329,29 @@
       "category": "Enterprise & Agentic AI",
       "items": [
         {
+          "title": "Copyright does not protect AI-generated content in EU",
+          "summary": "Latest AI discussion on Hacker News: Copyright does not protect AI-generated content in EU. Points: 186. (Source: Hacker News)",
+          "url": "https://mathstodon.xyz/@maxpool/117128107757895678"
+        },
+        {
+          "title": "Introducing AI Futures",
+          "summary": "Latest AI discussion on Hacker News: Introducing AI Futures. Points: 31. (Source: Hacker News)",
+          "url": "https://openai.com/index/introducing-ai-futures/"
+        },
+        {
+          "title": "Show HN: Huzzah – a novel approach to coding with AI",
+          "summary": "Latest AI discussion on Hacker News: Show HN: Huzzah – a novel approach to coding with AI. Points: 369. (Source: Hacker News)",
+          "url": "https://www.danielvaughn.dev/posts/huzzah/"
+        },
+        {
           "title": "Anti-AI fonts are useless and harmful",
-          "summary": "Latest AI discussion on Hacker News: Anti-AI fonts are useless and harmful. Points: 170. (Source: Hacker News)",
+          "summary": "Latest AI discussion on Hacker News: Anti-AI fonts are useless and harmful. Points: 208. (Source: Hacker News)",
           "url": "https://blog.yaros.ae/anti-ai-fonts-are-useless-and-harmful/"
         },
         {
           "title": "AI didn't erase the junior engineer's value, it increased it it",
-          "summary": "Latest AI discussion on Hacker News: AI didn't erase the junior engineer's value, it increased it it. Points: 84. (Source: Hacker News)",
+          "summary": "Latest AI discussion on Hacker News: AI didn't erase the junior engineer's value, it increased it it. Points: 89. (Source: Hacker News)",
           "url": "https://franciscotrindade.me/blog/the-kids-are-really-alright/"
-        },
-        {
-          "title": "Claude adds protein design to its resume",
-          "summary": "PLUS: Use the Loop Method for better ChatGPT results...",
-          "url": "https://www.therundown.ai/articles/claude-adds-protein-design-to-its-resume"
-        },
-        {
-          "title": "Don't paste the AI, please",
-          "summary": "Latest AI discussion on Hacker News: Don't paste the AI, please. Points: 1013. (Source: Hacker News)",
-          "url": "https://dontpastetheai.com/"
-        },
-        {
-          "title": "Flock Has a Powerful New AI Tool for Police. We Got Its Code",
-          "summary": "Latest AI discussion on Hacker News: Flock Has a Powerful New AI Tool for Police. We Got Its Code. Points: 27. (Source: Hacker News)",
-          "url": "https://www.wired.com/story/flock-safety-os-investigate/"
         }
       ]
     },
