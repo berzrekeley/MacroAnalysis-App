@@ -1,26 +1,26 @@
 {
-  "lastUpdated": "August 24, 2026",
+  "lastUpdated": "August 25, 2026",
   "executiveSummary": [
-    "As of August 24, 2026, the U.S. macroeconomic environment is navigating a complex period of high interest rates and shifting labor market dynamics. With the Fed Funds Rate holding at 3.63% and CPI inflation tracking at 3.30%, the central bank continues its \"higher-for-longer\" stance to anchor inflation expectations. Recent headlines such as \"Best CD rates today, Monday, August 24, 2026: Lock in up to 4.35% APY\" suggest that market participants remain hypersensitive to every data print, particularly around corporate earnings and consumer spending resilience.",
-    "The labor market, a key pillar of support, shows 206,000 initial jobless claims, reflecting a relatively stable but cooling employment landscape. Geopolitically, events like \"Mortgage and refinance rates today, Monday, August 24, 2026: Purchase and refi rates prove shopping matters\" introduce exogenous risks that could disrupt global energy supplies and re-ignite inflationary impulses, keeping the Federal Reserve in a defensive posture as they balance growth against price stability. Analysts are closely watching for any signs of a \"hard landing\" as the effects of previous tightening cycles continue to filter through the real economy."
+    "As of August 25, 2026, the U.S. macroeconomic environment is navigating a complex period of high interest rates and shifting labor market dynamics. With the Fed Funds Rate holding at 3.63% and CPI inflation tracking at 3.30%, the central bank continues its \"higher-for-longer\" stance to anchor inflation expectations. Recent headlines such as \"Nvidia faces growth test as Rubin debut meets AI financing scrutiny\" suggest that market participants remain hypersensitive to every data print, particularly around corporate earnings and consumer spending resilience.",
+    "The labor market, a key pillar of support, shows 206,000 initial jobless claims, reflecting a relatively stable but cooling employment landscape. Geopolitically, events like \"Heidelberger Druckmaschinen Bets on Defense and Energy as Q1 Sales Slide\" introduce exogenous risks that could disrupt global energy supplies and re-ignite inflationary impulses, keeping the Federal Reserve in a defensive posture as they balance growth against price stability. Analysts are closely watching for any signs of a \"hard landing\" as the effects of previous tightening cycles continue to filter through the real economy."
   ],
   "dailyHeadlines": [
     {
-      "title": "Best CD rates today, Monday, August 24, 2026: Lock in up to 4.35% APY",
+      "title": "Nvidia faces growth test as Rubin debut meets AI financing scrutiny",
       "summary": "",
-      "url": "https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-monday-august-24-2026-lock-in-up-to-435-apy-100000203.html",
+      "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-faces-growth-test-rubin-100234535.html",
       "type": "extreme"
     },
     {
-      "title": "Mortgage and refinance rates today, Monday, August 24, 2026: Purchase and refi rates prove shopping matters",
+      "title": "Heidelberger Druckmaschinen Bets on Defense and Energy as Q1 Sales Slide",
       "summary": "",
-      "url": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-and-refinance-rates-today-monday-august-24-2026-purchase-and-refi-rates-prove-shopping-matters-100000358.html",
+      "url": "https://finance.yahoo.com/energy/articles/heidelberger-druckmaschinen-bets-defense-energy-100216000.html",
       "type": "warning"
     },
     {
-      "title": "Best high-yield savings interest rates today, Monday, August 24, 2026: Earn up to 4.15% APY",
+      "title": "Mortgage and refinance rates today, Tuesday, August 25, 2026: Rates mixed this morning",
       "summary": "",
-      "url": "https://finance.yahoo.com/personal-finance/banking/article/best-high-yield-savings-interest-rates-today-monday-august-24-2026-earn-up-to-415-apy-100000361.html",
+      "url": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-and-refinance-rates-today-tuesday-august-25-2026-rates-mixed-this-morning-100000955.html",
       "type": "info"
     }
   ],
@@ -39,19 +39,19 @@
     },
     {
       "title": "10Y - 2Y Spread",
-      "value": "0.50%",
+      "value": "0.46%",
       "status": "Steepening - slower growth",
       "type": "warning"
     },
     {
       "title": "10Y Treasury Rate",
-      "value": "4.69%",
+      "value": "4.74%",
       "status": "High - energy-driven inflation",
       "type": "warning"
     },
     {
       "title": "2Y Treasury Rate",
-      "value": "4.19%",
+      "value": "4.24%",
       "status": "Elevated - higher-for-longer stance",
       "type": "warning"
     },
@@ -299,29 +299,29 @@
       "category": "Frontier Model Race & Breakthroughs",
       "items": [
         {
-          "title": "Andrew Ng: \"AI Engineering Skills Map: Building and Deploying AI Applications\"",
-          "summary": "Latest AI discussion on Hacker News: Andrew Ng: \"AI Engineering Skills Map: Building and Deploying AI Applications\". Points: 15. (Source: Hacker News)",
-          "url": "https://twitter.com/AndrewYNg/status/2090840747738374568"
+          "title": "Coding expertise is going to collapse from AI reliance",
+          "summary": "Latest AI discussion on Hacker News: Coding expertise is going to collapse from AI reliance. Points: 514. (Source: Hacker News)",
+          "url": "https://larsfaye.com/articles/ai-coding-will-prevent-expertise"
         },
         {
-          "title": "'AI refuser' quit her dream job, and hopes others follow",
-          "summary": "Latest AI discussion on Hacker News: 'AI refuser' quit her dream job, and hopes others follow. Points: 34. (Source: Hacker News)",
-          "url": "https://www.smh.com.au/technology/this-ai-refuser-quit-her-dream-job-and-hopes-others-follow-20260818-p60pdu.html"
+          "title": "Humanoids beat Usain Bolt’s 100m record",
+          "summary": "PLUS: Waymo builds a robotaxi brain...",
+          "url": "https://www.therundown.ai/articles/humanoids-beat-usain-bolt-100m-record"
         },
         {
-          "title": "Palantir's Karp – frontier AI labs that are 'trying to drug addict us'",
-          "summary": "Latest AI discussion on Hacker News: Palantir's Karp – frontier AI labs that are 'trying to drug addict us'. Points: 19. (Source: Hacker News)",
-          "url": "https://www.cnbc.com/2026/08/03/palantir-karp-open-ai-anthropic-open-weight.html"
+          "title": "A mystery challenger at the AI frontier",
+          "summary": "PLUS: Use Gemini Canvas to visualize Google Sheets...",
+          "url": "https://www.therundown.ai/articles/a-mystery-challenger-at-the-ai-frontier"
         },
         {
-          "title": "In 2000, Ted Kaczynski advised against math career due to future AI progress",
-          "summary": "Latest AI discussion on Hacker News: In 2000, Ted Kaczynski advised against math career due to future AI progress. Points: 11. (Source: Hacker News)",
-          "url": "https://twitter.com/subcountability/status/2091164267827327042"
+          "title": "We never use AI. For anything",
+          "summary": "Latest AI discussion on Hacker News: We never use AI. For anything. Points: 82. (Source: Hacker News)",
+          "url": "https://corkmac.app/our-ai-stance/"
         },
         {
-          "title": "Why can AI generate Super Mario but not a wedge ramp for my robot vacuum?",
-          "summary": "Latest AI discussion on Hacker News: Why can AI generate Super Mario but not a wedge ramp for my robot vacuum?. Points: 11. (Source: Hacker News)",
-          "url": "https://news.ycombinator.com/item?id=49405520"
+          "title": "FDA clears blood test to aid evaluation for Alzheimer's disease",
+          "summary": "Latest AI discussion on Hacker News: FDA clears blood test to aid evaluation for Alzheimer's disease. Points: 185. (Source: Hacker News)",
+          "url": "https://medicine.washu.edu/news/fda-clears-blood-test-to-aid-evaluation-for-alzheimers-disease/"
         }
       ]
     },
@@ -329,29 +329,29 @@
       "category": "Enterprise & Agentic AI",
       "items": [
         {
-          "title": "AI has failed to win people's trust. Its makers? less trusted",
-          "summary": "Latest AI discussion on Hacker News: AI has failed to win people's trust. Its makers? less trusted. Points: 28. (Source: Hacker News)",
-          "url": "https://www.euronews.com/next/2026/08/20/ai-has-failed-to-win-peoples-trust-its-makers-even-less-trusted"
+          "title": "I built a low-latency AI companion that plays Skyrim with me",
+          "summary": "Latest AI discussion on Hacker News: I built a low-latency AI companion that plays Skyrim with me. Points: 363. (Source: Hacker News)",
+          "url": "https://pantel.is/projects/ai-gaming-companion/"
         },
         {
-          "title": "Anthropic IPO filing will show AI backlash as a risk factor, sources say",
-          "summary": "Latest AI discussion on Hacker News: Anthropic IPO filing will show AI backlash as a risk factor, sources say. Points: 37. (Source: Hacker News)",
-          "url": "https://www.cnbc.com/2026/08/21/-anthropic-ipo-filing-will-show-ai-backlash-as-risk-sources-say.html"
+          "title": "Training AI to Paint with Code",
+          "summary": "Latest AI discussion on Hacker News: Training AI to Paint with Code. Points: 97. (Source: Hacker News)",
+          "url": "https://surya.website/rling-qwen-to-paint-with-code"
         },
         {
-          "title": "80% of developers find AI coding more addictive than helpful",
-          "summary": "Latest AI discussion on Hacker News: 80% of developers find AI coding more addictive than helpful. Points: 13. (Source: Hacker News)",
-          "url": "https://www.zdnet.com/article/80-of-developers-find-ai-coding-more-addictive-than-helpful/"
+          "title": "Anthropic's best AI model struggles to attract users as cheaper tools thrive",
+          "summary": "Latest AI discussion on Hacker News: Anthropic's best AI model struggles to attract users as cheaper tools thrive. Points: 785. (Source: Hacker News)",
+          "url": "https://www.ft.com/content/5ee49718-c258-4f01-aa32-7e5b76ae5245"
         },
         {
-          "title": "Digging the grave of my skills: Hollywood creatives training AI to do their jobs",
-          "summary": "Latest AI discussion on Hacker News: Digging the grave of my skills: Hollywood creatives training AI to do their jobs. Points: 55. (Source: Hacker News)",
-          "url": "https://www.theguardian.com/technology/2026/aug/22/the-hollywood-creatives-training-ai-to-do-their-jobs"
+          "title": "AI and Infrastructure Engineering",
+          "summary": "Latest AI discussion on Hacker News: AI and Infrastructure Engineering. Points: 71. (Source: Hacker News)",
+          "url": "https://omegion.dev/2026/08/ai-and-infrastructure-engineering/"
         },
         {
-          "title": "Dutch regulator fines Uber €825M for letting AI deactivate driver accounts",
-          "summary": "Latest AI discussion on Hacker News: Dutch regulator fines Uber €825M for letting AI deactivate driver accounts. Points: 21. (Source: Hacker News)",
-          "url": "https://nltimes.nl/2026/08/21/dutch-regulator-fines-uber-eu825-mil-letting-algorithm-deactivate-drivers-accounts"
+          "title": "We must not grant AI agents legal personhood",
+          "summary": "Latest AI discussion on Hacker News: We must not grant AI agents legal personhood. Points: 62. (Source: Hacker News)",
+          "url": "https://www.ft.com/content/b8cc4bf4-6d3c-4974-8428-9a091983c473"
         }
       ]
     },
