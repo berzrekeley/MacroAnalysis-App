@@ -1,26 +1,26 @@
 {
-  "lastUpdated": "August 25, 2026",
+  "lastUpdated": "August 26, 2026",
   "executiveSummary": [
-    "As of August 25, 2026, the U.S. macroeconomic environment is navigating a complex period of high interest rates and shifting labor market dynamics. With the Fed Funds Rate holding at 3.63% and CPI inflation tracking at 3.30%, the central bank continues its \"higher-for-longer\" stance to anchor inflation expectations. Recent headlines such as \"Nvidia faces growth test as Rubin debut meets AI financing scrutiny\" suggest that market participants remain hypersensitive to every data print, particularly around corporate earnings and consumer spending resilience.",
-    "The labor market, a key pillar of support, shows 206,000 initial jobless claims, reflecting a relatively stable but cooling employment landscape. Geopolitically, events like \"Heidelberger Druckmaschinen Bets on Defense and Energy as Q1 Sales Slide\" introduce exogenous risks that could disrupt global energy supplies and re-ignite inflationary impulses, keeping the Federal Reserve in a defensive posture as they balance growth against price stability. Analysts are closely watching for any signs of a \"hard landing\" as the effects of previous tightening cycles continue to filter through the real economy."
+    "As of August 26, 2026, the U.S. macroeconomic environment is navigating a complex period of high interest rates and shifting labor market dynamics. With the Fed Funds Rate holding at 3.63% and CPI inflation tracking at 3.30%, the central bank continues its \"higher-for-longer\" stance to anchor inflation expectations. Recent headlines such as \"As Cook case smolders, Trump has other paths to shape Fed policy team\" suggest that market participants remain hypersensitive to every data print, particularly around corporate earnings and consumer spending resilience.",
+    "The labor market, a key pillar of support, shows 206,000 initial jobless claims, reflecting a relatively stable but cooling employment landscape. Geopolitically, events like \"Mortgage and refinance interest rates today, Wednesday, August 26, 2026: Rates down across the board\" introduce exogenous risks that could disrupt global energy supplies and re-ignite inflationary impulses, keeping the Federal Reserve in a defensive posture as they balance growth against price stability. Analysts are closely watching for any signs of a \"hard landing\" as the effects of previous tightening cycles continue to filter through the real economy."
   ],
   "dailyHeadlines": [
     {
-      "title": "Nvidia faces growth test as Rubin debut meets AI financing scrutiny",
+      "title": "As Cook case smolders, Trump has other paths to shape Fed policy team",
       "summary": "",
-      "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-faces-growth-test-rubin-100234535.html",
+      "url": "https://finance.yahoo.com/economy/policy/articles/cook-case-smolders-trump-other-100347841.html",
       "type": "extreme"
     },
     {
-      "title": "Heidelberger Druckmaschinen Bets on Defense and Energy as Q1 Sales Slide",
+      "title": "Mortgage and refinance interest rates today, Wednesday, August 26, 2026: Rates down across the board",
       "summary": "",
-      "url": "https://finance.yahoo.com/energy/articles/heidelberger-druckmaschinen-bets-defense-energy-100216000.html",
+      "url": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-and-refinance-interest-rates-today-wednesday-august-26-2026-rates-down-across-the-board-100000670.html",
       "type": "warning"
     },
     {
-      "title": "Mortgage and refinance rates today, Tuesday, August 25, 2026: Rates mixed this morning",
+      "title": "Stock market today: Dow, S&amp;P 500, Nasdaq futures hold steady ahead of inflation data, Nvidia earnings",
       "summary": "",
-      "url": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-and-refinance-rates-today-tuesday-august-25-2026-rates-mixed-this-morning-100000955.html",
+      "url": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-august-26-dow-sp-500-nasdaq-081834782.html",
       "type": "info"
     }
   ],
@@ -39,13 +39,13 @@
     },
     {
       "title": "10Y - 2Y Spread",
-      "value": "0.46%",
+      "value": "0.47%",
       "status": "Steepening - slower growth",
       "type": "warning"
     },
     {
       "title": "10Y Treasury Rate",
-      "value": "4.74%",
+      "value": "4.70%",
       "status": "High - energy-driven inflation",
       "type": "warning"
     },
@@ -75,7 +75,7 @@
     },
     {
       "title": "Building Permits",
-      "value": "1.443M",
+      "value": "1.433M",
       "status": "Soft - cooling residential activity",
       "type": "warning"
     },
@@ -299,29 +299,29 @@
       "category": "Frontier Model Race & Breakthroughs",
       "items": [
         {
-          "title": "Coding expertise is going to collapse from AI reliance",
-          "summary": "Latest AI discussion on Hacker News: Coding expertise is going to collapse from AI reliance. Points: 514. (Source: Hacker News)",
-          "url": "https://larsfaye.com/articles/ai-coding-will-prevent-expertise"
+          "title": "Analyzing student votes across AI models for college essay help",
+          "summary": "Latest AI discussion on Hacker News: Analyzing student votes across AI models for college essay help. Points: 40. (Source: Hacker News)",
+          "url": "https://studyarena.com/blog/chatgpt-vs-claude-vs-gemini-college-essays-2026"
         },
         {
-          "title": "Humanoids beat Usain Bolt’s 100m record",
-          "summary": "PLUS: Waymo builds a robotaxi brain...",
-          "url": "https://www.therundown.ai/articles/humanoids-beat-usain-bolt-100m-record"
+          "title": "Big Tech's Frantic Race to Quell the Growing Backlash to AI",
+          "summary": "Latest AI discussion on Hacker News: Big Tech's Frantic Race to Quell the Growing Backlash to AI. Points: 23. (Source: Hacker News)",
+          "url": "https://www.wsj.com/tech/inside-big-techs-frantic-race-to-quell-the-growing-backlash-to-ai-2a717339"
         },
         {
-          "title": "A mystery challenger at the AI frontier",
-          "summary": "PLUS: Use Gemini Canvas to visualize Google Sheets...",
-          "url": "https://www.therundown.ai/articles/a-mystery-challenger-at-the-ai-frontier"
+          "title": "Ripping Off the Hey.com Band-Aid",
+          "summary": "Latest AI discussion on Hacker News: Ripping Off the Hey.com Band-Aid. Points: 33. (Source: Hacker News)",
+          "url": "https://kylemcgough.com/blogs/ripping-off-the-heycom-band-aid"
         },
         {
-          "title": "We never use AI. For anything",
-          "summary": "Latest AI discussion on Hacker News: We never use AI. For anything. Points: 82. (Source: Hacker News)",
-          "url": "https://corkmac.app/our-ai-stance/"
+          "title": "How much of HN is AI?",
+          "summary": "Latest AI discussion on Hacker News: How much of HN is AI?. Points: 267. (Source: Hacker News)",
+          "url": "https://blog.coredump.cx/p/how-much-of-hn-is-ai"
         },
         {
-          "title": "FDA clears blood test to aid evaluation for Alzheimer's disease",
-          "summary": "Latest AI discussion on Hacker News: FDA clears blood test to aid evaluation for Alzheimer's disease. Points: 185. (Source: Hacker News)",
-          "url": "https://medicine.washu.edu/news/fda-clears-blood-test-to-aid-evaluation-for-alzheimers-disease/"
+          "title": "Show HN: I made a Raspberry with Qwen my local car AI",
+          "summary": "Latest AI discussion on Hacker News: Show HN: I made a Raspberry with Qwen my local car AI. Points: 141. (Source: Hacker News)",
+          "url": "https://github.com/ThinkOffApp/CarWatch"
         }
       ]
     },
@@ -329,29 +329,29 @@
       "category": "Enterprise & Agentic AI",
       "items": [
         {
-          "title": "I built a low-latency AI companion that plays Skyrim with me",
-          "summary": "Latest AI discussion on Hacker News: I built a low-latency AI companion that plays Skyrim with me. Points: 363. (Source: Hacker News)",
-          "url": "https://pantel.is/projects/ai-gaming-companion/"
+          "title": "AI is hitting entry-level jobs hardest, Stanford study finds",
+          "summary": "Latest AI discussion on Hacker News: AI is hitting entry-level jobs hardest, Stanford study finds. Points: 141. (Source: Hacker News)",
+          "url": "https://arstechnica.com/ai/2026/08/ai-is-hitting-entry-level-jobs-hardest-stanford-study-finds/"
         },
         {
-          "title": "Training AI to Paint with Code",
-          "summary": "Latest AI discussion on Hacker News: Training AI to Paint with Code. Points: 97. (Source: Hacker News)",
-          "url": "https://surya.website/rling-qwen-to-paint-with-code"
+          "title": "The state of AI in 2026: On the road to ROI",
+          "summary": "Latest AI discussion on Hacker News: The state of AI in 2026: On the road to ROI. Points: 27. (Source: Hacker News)",
+          "url": "https://www.mckinsey.com/capabilities/quantumblack/our-insights/the-state-of-ai"
         },
         {
-          "title": "Anthropic's best AI model struggles to attract users as cheaper tools thrive",
-          "summary": "Latest AI discussion on Hacker News: Anthropic's best AI model struggles to attract users as cheaper tools thrive. Points: 785. (Source: Hacker News)",
-          "url": "https://www.ft.com/content/5ee49718-c258-4f01-aa32-7e5b76ae5245"
+          "title": "The SpaceX-Nvidia partnership heads for orbit",
+          "summary": "PLUS: Build a reusable AI design system with Open Design...",
+          "url": "https://www.therundown.ai/articles/the-spacex-nvidia-partnership-heads-for-orbit"
         },
         {
-          "title": "AI and Infrastructure Engineering",
-          "summary": "Latest AI discussion on Hacker News: AI and Infrastructure Engineering. Points: 71. (Source: Hacker News)",
-          "url": "https://omegion.dev/2026/08/ai-and-infrastructure-engineering/"
+          "title": "80% of developers find AI coding more addictive than helpful",
+          "summary": "Latest AI discussion on Hacker News: 80% of developers find AI coding more addictive than helpful. Points: 38. (Source: Hacker News)",
+          "url": "https://www.zdnet.com/article/i-cant-stop-80-of-developers-find-ai-coding-more-addictive-than-helpful/"
         },
         {
-          "title": "We must not grant AI agents legal personhood",
-          "summary": "Latest AI discussion on Hacker News: We must not grant AI agents legal personhood. Points: 62. (Source: Hacker News)",
-          "url": "https://www.ft.com/content/b8cc4bf4-6d3c-4974-8428-9a091983c473"
+          "title": "Em Dash Is Fine – It Is AI That Sucks",
+          "summary": "Latest AI discussion on Hacker News: Em Dash Is Fine – It Is AI That Sucks. Points: 27. (Source: Hacker News)",
+          "url": "https://blog.torh.net/2026/08/24/em-dash-is-fine-it-is-ai-that-sucks/"
         }
       ]
     },
