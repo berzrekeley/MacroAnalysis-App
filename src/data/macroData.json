@@ -1,26 +1,26 @@
 {
-  "lastUpdated": "August 26, 2026",
+  "lastUpdated": "August 27, 2026",
   "executiveSummary": [
-    "As of August 26, 2026, the U.S. macroeconomic environment is navigating a complex period of high interest rates and shifting labor market dynamics. With the Fed Funds Rate holding at 3.63% and CPI inflation tracking at 3.30%, the central bank continues its \"higher-for-longer\" stance to anchor inflation expectations. Recent headlines such as \"As Cook case smolders, Trump has other paths to shape Fed policy team\" suggest that market participants remain hypersensitive to every data print, particularly around corporate earnings and consumer spending resilience.",
-    "The labor market, a key pillar of support, shows 206,000 initial jobless claims, reflecting a relatively stable but cooling employment landscape. Geopolitically, events like \"Mortgage and refinance interest rates today, Wednesday, August 26, 2026: Rates down across the board\" introduce exogenous risks that could disrupt global energy supplies and re-ignite inflationary impulses, keeping the Federal Reserve in a defensive posture as they balance growth against price stability. Analysts are closely watching for any signs of a \"hard landing\" as the effects of previous tightening cycles continue to filter through the real economy."
+    "As of August 27, 2026, the U.S. macroeconomic environment is navigating a complex period of high interest rates and shifting labor market dynamics. With the Fed Funds Rate holding at 3.63% and CPI inflation tracking at 3.30%, the central bank continues its \"higher-for-longer\" stance to anchor inflation expectations. Recent headlines such as \"Retire while Trump is president if you can answer ‘yes’ to these 5 questions — you're closer to freedom than you think\" suggest that market participants remain hypersensitive to every data print, particularly around corporate earnings and consumer spending resilience.",
+    "The labor market, a key pillar of support, shows 203,000 initial jobless claims, reflecting a relatively stable but cooling employment landscape. Geopolitically, events like \"Meta, states discuss mid-trial settlement in teen addiction case\" introduce exogenous risks that could disrupt global energy supplies and re-ignite inflationary impulses, keeping the Federal Reserve in a defensive posture as they balance growth against price stability. Analysts are closely watching for any signs of a \"hard landing\" as the effects of previous tightening cycles continue to filter through the real economy."
   ],
   "dailyHeadlines": [
     {
-      "title": "As Cook case smolders, Trump has other paths to shape Fed policy team",
+      "title": "Retire while Trump is president if you can answer ‘yes’ to these 5 questions — you're closer to freedom than you think",
       "summary": "",
-      "url": "https://finance.yahoo.com/economy/policy/articles/cook-case-smolders-trump-other-100347841.html",
+      "url": "https://finance.yahoo.com/economy/policy/articles/retire-while-trump-president-answer-112500157.html",
       "type": "extreme"
     },
     {
-      "title": "Mortgage and refinance interest rates today, Wednesday, August 26, 2026: Rates down across the board",
+      "title": "Meta, states discuss mid-trial settlement in teen addiction case",
       "summary": "",
-      "url": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-and-refinance-interest-rates-today-wednesday-august-26-2026-rates-down-across-the-board-100000670.html",
+      "url": "https://finance.yahoo.com/media-advertising/articles/meta-states-discuss-mid-trial-111938416.html",
       "type": "warning"
     },
     {
-      "title": "Stock market today: Dow, S&amp;P 500, Nasdaq futures hold steady ahead of inflation data, Nvidia earnings",
+      "title": "Nearly $4.9T sits in target-date funds — Suze Orman warns you may be ‘far better off’ on your own. Diversify your mix",
       "summary": "",
-      "url": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-august-26-dow-sp-500-nasdaq-081834782.html",
+      "url": "https://finance.yahoo.com/markets/articles/nearly-4-9t-sits-target-101500674.html",
       "type": "info"
     }
   ],
@@ -45,13 +45,13 @@
     },
     {
       "title": "10Y Treasury Rate",
-      "value": "4.70%",
+      "value": "4.64%",
       "status": "High - energy-driven inflation",
       "type": "warning"
     },
     {
       "title": "2Y Treasury Rate",
-      "value": "4.24%",
+      "value": "4.17%",
       "status": "Elevated - higher-for-longer stance",
       "type": "warning"
     },
@@ -81,7 +81,7 @@
     },
     {
       "title": "Initial Jobless Claims",
-      "value": "206,000",
+      "value": "203,000",
       "status": "Stable - primary pillar of support",
       "type": "neutral"
     },
@@ -100,11 +100,18 @@
   ],
   "adpWeeklyData": [
     {
+      "week": "Aug 22",
+      "fullDate": "Aug 22, 2026",
+      "number": 203000,
+      "delta": -4000,
+      "deltaPct": -1.93
+    },
+    {
       "week": "Aug 15",
       "fullDate": "Aug 15, 2026",
-      "number": 206000,
-      "delta": -6000,
-      "deltaPct": -2.83
+      "number": 207000,
+      "delta": -5000,
+      "deltaPct": -2.36
     },
     {
       "week": "Aug 8",
@@ -201,13 +208,6 @@
       "week": "May 9",
       "fullDate": "May 9, 2026",
       "number": 212000,
-      "delta": 13000,
-      "deltaPct": 6.53
-    },
-    {
-      "week": "May 2",
-      "fullDate": "May 2, 2026",
-      "number": 199000,
       "delta": 0,
       "deltaPct": 0
     }
@@ -299,29 +299,29 @@
       "category": "Frontier Model Race & Breakthroughs",
       "items": [
         {
-          "title": "Analyzing student votes across AI models for college essay help",
-          "summary": "Latest AI discussion on Hacker News: Analyzing student votes across AI models for college essay help. Points: 40. (Source: Hacker News)",
-          "url": "https://studyarena.com/blog/chatgpt-vs-claude-vs-gemini-college-essays-2026"
+          "title": "Two German airport workers die of malaria after 'mosquito arrives on plane'",
+          "summary": "Latest AI discussion on Hacker News: Two German airport workers die of malaria after 'mosquito arrives on plane'. Points: 123. (Source: Hacker News)",
+          "url": "https://www.bbc.com/news/articles/cz6zwgg9y8go"
         },
         {
-          "title": "Big Tech's Frantic Race to Quell the Growing Backlash to AI",
-          "summary": "Latest AI discussion on Hacker News: Big Tech's Frantic Race to Quell the Growing Backlash to AI. Points: 23. (Source: Hacker News)",
-          "url": "https://www.wsj.com/tech/inside-big-techs-frantic-race-to-quell-the-growing-backlash-to-ai-2a717339"
+          "title": "Air Conditioning Is Not a Luxury, It Is a Necessity",
+          "summary": "Latest AI discussion on Hacker News: Air Conditioning Is Not a Luxury, It Is a Necessity. Points: 114. (Source: Hacker News)",
+          "url": "https://humanprogress.org/ac-is-not-a-luxury-it-is-a-necessity/"
         },
         {
-          "title": "Ripping Off the Hey.com Band-Aid",
-          "summary": "Latest AI discussion on Hacker News: Ripping Off the Hey.com Band-Aid. Points: 33. (Source: Hacker News)",
-          "url": "https://kylemcgough.com/blogs/ripping-off-the-heycom-band-aid"
+          "title": "The Ox Alpha mystery ends with Z.ai",
+          "summary": "PLUS: A beginner’s guide to ChatGPT Work...",
+          "url": "https://www.therundown.ai/articles/the-ox-alpha-mystery-ends-with-z-ai"
         },
         {
-          "title": "How much of HN is AI?",
-          "summary": "Latest AI discussion on Hacker News: How much of HN is AI?. Points: 267. (Source: Hacker News)",
-          "url": "https://blog.coredump.cx/p/how-much-of-hn-is-ai"
+          "title": "CEO fired developers to make room for AI. Developers create open source AI CEO",
+          "summary": "Latest AI discussion on Hacker News: CEO fired developers to make room for AI. Developers create open source AI CEO. Points: 903. (Source: Hacker News)",
+          "url": "https://github.com/SenteLabsAI/OpenExecutive"
         },
         {
-          "title": "Show HN: I made a Raspberry with Qwen my local car AI",
-          "summary": "Latest AI discussion on Hacker News: Show HN: I made a Raspberry with Qwen my local car AI. Points: 141. (Source: Hacker News)",
-          "url": "https://github.com/ThinkOffApp/CarWatch"
+          "title": "Serve Markdown to AI Agents with Accept Headers",
+          "summary": "Latest AI discussion on Hacker News: Serve Markdown to AI Agents with Accept Headers. Points: 172. (Source: Hacker News)",
+          "url": "https://acceptmarkdown.com/"
         }
       ]
     },
@@ -329,29 +329,29 @@
       "category": "Enterprise & Agentic AI",
       "items": [
         {
-          "title": "AI is hitting entry-level jobs hardest, Stanford study finds",
-          "summary": "Latest AI discussion on Hacker News: AI is hitting entry-level jobs hardest, Stanford study finds. Points: 141. (Source: Hacker News)",
-          "url": "https://arstechnica.com/ai/2026/08/ai-is-hitting-entry-level-jobs-hardest-stanford-study-finds/"
+          "title": "The turbulent AI era is here",
+          "summary": "Latest AI discussion on Hacker News: The turbulent AI era is here. Points: 339. (Source: Hacker News)",
+          "url": "https://www.gatesnotes.com/a-turbulent-ai-era-and-critical-choices-to-make"
         },
         {
-          "title": "The state of AI in 2026: On the road to ROI",
-          "summary": "Latest AI discussion on Hacker News: The state of AI in 2026: On the road to ROI. Points: 27. (Source: Hacker News)",
-          "url": "https://www.mckinsey.com/capabilities/quantumblack/our-insights/the-state-of-ai"
+          "title": "It’s so hard to finish an idea that is not yours and is just suggested by AI",
+          "summary": "Latest AI discussion on Hacker News: It’s so hard to finish an idea that is not yours and is just suggested by AI. Points: 245. (Source: Hacker News)",
+          "url": "https://www.ssp.sh/brain/using-obsidian-with-ai/"
         },
         {
-          "title": "The SpaceX-Nvidia partnership heads for orbit",
-          "summary": "PLUS: Build a reusable AI design system with Open Design...",
-          "url": "https://www.therundown.ai/articles/the-spacex-nvidia-partnership-heads-for-orbit"
+          "title": "The turbulent AI era is here",
+          "summary": "Latest AI discussion on Hacker News: The turbulent AI era is here. Points: 189. (Source: Hacker News)",
+          "url": "https://www.gatesnotes.com/work/make-ai-work-for-everyone/reader/a-turbulent-ai-era-and-critical-choices-to-make"
         },
         {
-          "title": "80% of developers find AI coding more addictive than helpful",
-          "summary": "Latest AI discussion on Hacker News: 80% of developers find AI coding more addictive than helpful. Points: 38. (Source: Hacker News)",
-          "url": "https://www.zdnet.com/article/i-cant-stop-80-of-developers-find-ai-coding-more-addictive-than-helpful/"
+          "title": "Fake US thinktank set up and funded by Israel sought to game AI for propaganda",
+          "summary": "Latest AI discussion on Hacker News: Fake US thinktank set up and funded by Israel sought to game AI for propaganda. Points: 243. (Source: Hacker News)",
+          "url": "https://www.theguardian.com/world/2026/aug/26/fake-thinktank-israel-ai-propaganda"
         },
         {
-          "title": "Em Dash Is Fine – It Is AI That Sucks",
-          "summary": "Latest AI discussion on Hacker News: Em Dash Is Fine – It Is AI That Sucks. Points: 27. (Source: Hacker News)",
-          "url": "https://blog.torh.net/2026/08/24/em-dash-is-fine-it-is-ai-that-sucks/"
+          "title": "The turbulent AI era is here",
+          "summary": "Latest AI discussion on Hacker News: The turbulent AI era is here. Points: 103. (Source: Hacker News)",
+          "url": "https://www.gatesnotes.com/work/make-ai-work-for-everyone/reader/a-turbulent-ai-era-and-critical-choices-to-make?WT.mc_id=20260826_ai-overture-2026-med-med"
         }
       ]
     },
