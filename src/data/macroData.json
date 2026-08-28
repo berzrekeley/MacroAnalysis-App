@@ -1,26 +1,26 @@
 {
-  "lastUpdated": "August 27, 2026",
+  "lastUpdated": "August 28, 2026",
   "executiveSummary": [
-    "As of August 27, 2026, the U.S. macroeconomic environment is navigating a complex period of high interest rates and shifting labor market dynamics. With the Fed Funds Rate holding at 3.63% and CPI inflation tracking at 3.30%, the central bank continues its \"higher-for-longer\" stance to anchor inflation expectations. Recent headlines such as \"Retire while Trump is president if you can answer ‘yes’ to these 5 questions — you're closer to freedom than you think\" suggest that market participants remain hypersensitive to every data print, particularly around corporate earnings and consumer spending resilience.",
-    "The labor market, a key pillar of support, shows 203,000 initial jobless claims, reflecting a relatively stable but cooling employment landscape. Geopolitically, events like \"Meta, states discuss mid-trial settlement in teen addiction case\" introduce exogenous risks that could disrupt global energy supplies and re-ignite inflationary impulses, keeping the Federal Reserve in a defensive posture as they balance growth against price stability. Analysts are closely watching for any signs of a \"hard landing\" as the effects of previous tightening cycles continue to filter through the real economy."
+    "As of August 28, 2026, the U.S. macroeconomic environment is navigating a complex period of high interest rates and shifting labor market dynamics. With the Fed Funds Rate holding at 3.63% and CPI inflation tracking at 3.30%, the central bank continues its \"higher-for-longer\" stance to anchor inflation expectations. Recent headlines such as \"Bank of America doubles down on Nvidia stock\" suggest that market participants remain hypersensitive to every data print, particularly around corporate earnings and consumer spending resilience.",
+    "The labor market, a key pillar of support, shows 203,000 initial jobless claims, reflecting a relatively stable but cooling employment landscape. Geopolitically, events like \"Deere &amp; Company (DE): Farm Equipment Giant Finds Growth In Unlikely Corners\" introduce exogenous risks that could disrupt global energy supplies and re-ignite inflationary impulses, keeping the Federal Reserve in a defensive posture as they balance growth against price stability. Analysts are closely watching for any signs of a \"hard landing\" as the effects of previous tightening cycles continue to filter through the real economy."
   ],
   "dailyHeadlines": [
     {
-      "title": "Retire while Trump is president if you can answer ‘yes’ to these 5 questions — you're closer to freedom than you think",
+      "title": "Bank of America doubles down on Nvidia stock",
       "summary": "",
-      "url": "https://finance.yahoo.com/economy/policy/articles/retire-while-trump-president-answer-112500157.html",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/bank-america-doubles-down-nvidia-153054071.html",
       "type": "extreme"
     },
     {
-      "title": "Meta, states discuss mid-trial settlement in teen addiction case",
+      "title": "Deere &amp; Company (DE): Farm Equipment Giant Finds Growth In Unlikely Corners",
       "summary": "",
-      "url": "https://finance.yahoo.com/media-advertising/articles/meta-states-discuss-mid-trial-111938416.html",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/deere-company-farm-equipment-giant-112806428.html",
       "type": "warning"
     },
     {
-      "title": "Nearly $4.9T sits in target-date funds — Suze Orman warns you may be ‘far better off’ on your own. Diversify your mix",
+      "title": "Buckle’s (BKE) Women’s Business Is Quietly Outrunning The Rest Of The Store",
       "summary": "",
-      "url": "https://finance.yahoo.com/markets/articles/nearly-4-9t-sits-target-101500674.html",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/buckle-bke-women-business-quietly-111849742.html",
       "type": "info"
     }
   ],
@@ -39,25 +39,25 @@
     },
     {
       "title": "10Y - 2Y Spread",
-      "value": "0.47%",
+      "value": "0.39%",
       "status": "Steepening - slower growth",
       "type": "warning"
     },
     {
       "title": "10Y Treasury Rate",
-      "value": "4.64%",
+      "value": "4.67%",
       "status": "High - energy-driven inflation",
       "type": "warning"
     },
     {
       "title": "2Y Treasury Rate",
-      "value": "4.17%",
+      "value": "4.20%",
       "status": "Elevated - higher-for-longer stance",
       "type": "warning"
     },
     {
       "title": "Consumer Sentiment",
-      "value": "49.5",
+      "value": "55.2",
       "status": "Critical - record low",
       "type": "extreme"
     },
@@ -69,7 +69,7 @@
     },
     {
       "title": "Leading Index (LEI)",
-      "value": "49.5",
+      "value": "55.2",
       "status": "Weakening - persistent headwinds",
       "type": "warning"
     },
@@ -299,29 +299,29 @@
       "category": "Frontier Model Race & Breakthroughs",
       "items": [
         {
-          "title": "Two German airport workers die of malaria after 'mosquito arrives on plane'",
-          "summary": "Latest AI discussion on Hacker News: Two German airport workers die of malaria after 'mosquito arrives on plane'. Points: 123. (Source: Hacker News)",
-          "url": "https://www.bbc.com/news/articles/cz6zwgg9y8go"
+          "title": "Every machine is about to speak Claude",
+          "summary": "PLUS: Use these AI skills to make better decisions quickly...",
+          "url": "https://www.therundown.ai/articles/every-machine-is-about-to-speak-claude"
         },
         {
-          "title": "Air Conditioning Is Not a Luxury, It Is a Necessity",
-          "summary": "Latest AI discussion on Hacker News: Air Conditioning Is Not a Luxury, It Is a Necessity. Points: 114. (Source: Hacker News)",
-          "url": "https://humanprogress.org/ac-is-not-a-luxury-it-is-a-necessity/"
+          "title": "Luanti removed from Google Play due to baseless AI copyright notice",
+          "summary": "Latest AI discussion on Hacker News: Luanti removed from Google Play due to baseless AI copyright notice. Points: 364. (Source: Hacker News)",
+          "url": "https://blog.luanti.org/2026/08/27/luanti-dmca-tracer-ai/"
         },
         {
-          "title": "The Ox Alpha mystery ends with Z.ai",
-          "summary": "PLUS: A beginner’s guide to ChatGPT Work...",
-          "url": "https://www.therundown.ai/articles/the-ox-alpha-mystery-ends-with-z-ai"
+          "title": "Please stop flooding our projects with AI slop to furnish your CV",
+          "summary": "Latest AI discussion on Hacker News: Please stop flooding our projects with AI slop to furnish your CV. Points: 204. (Source: Hacker News)",
+          "url": "https://neilalexander.dev/2026/06/30/flooding-contributions"
         },
         {
-          "title": "CEO fired developers to make room for AI. Developers create open source AI CEO",
-          "summary": "Latest AI discussion on Hacker News: CEO fired developers to make room for AI. Developers create open source AI CEO. Points: 903. (Source: Hacker News)",
-          "url": "https://github.com/SenteLabsAI/OpenExecutive"
+          "title": "Terminal-Bench-Science: Evaluating AI agents on scientific research workflows",
+          "summary": "Latest AI discussion on Hacker News: Terminal-Bench-Science: Evaluating AI agents on scientific research workflows. Points: 110. (Source: Hacker News)",
+          "url": "https://www.terminal-bench-science.ai/announcement"
         },
         {
-          "title": "Serve Markdown to AI Agents with Accept Headers",
-          "summary": "Latest AI discussion on Hacker News: Serve Markdown to AI Agents with Accept Headers. Points: 172. (Source: Hacker News)",
-          "url": "https://acceptmarkdown.com/"
+          "title": "AI Engineer Notebooks – free, framework-free RAG/agents/evals on Colab",
+          "summary": "Latest AI discussion on Hacker News: AI Engineer Notebooks – free, framework-free RAG/agents/evals on Colab. Points: 111. (Source: Hacker News)",
+          "url": "https://github.com/calmrocks/ai-engineer-notebooks"
         }
       ]
     },
@@ -329,29 +329,29 @@
       "category": "Enterprise & Agentic AI",
       "items": [
         {
-          "title": "The turbulent AI era is here",
-          "summary": "Latest AI discussion on Hacker News: The turbulent AI era is here. Points: 339. (Source: Hacker News)",
-          "url": "https://www.gatesnotes.com/a-turbulent-ai-era-and-critical-choices-to-make"
+          "title": "Two German airport workers die of malaria after 'mosquito arrives on plane'",
+          "summary": "Latest AI discussion on Hacker News: Two German airport workers die of malaria after 'mosquito arrives on plane'. Points: 186. (Source: Hacker News)",
+          "url": "https://www.bbc.com/news/articles/cz6zwgg9y8go"
         },
         {
-          "title": "It’s so hard to finish an idea that is not yours and is just suggested by AI",
-          "summary": "Latest AI discussion on Hacker News: It’s so hard to finish an idea that is not yours and is just suggested by AI. Points: 245. (Source: Hacker News)",
-          "url": "https://www.ssp.sh/brain/using-obsidian-with-ai/"
+          "title": "Nvidia projects $673B in sales as AI demand widens",
+          "summary": "Latest AI discussion on Hacker News: Nvidia projects $673B in sales as AI demand widens. Points: 111. (Source: Hacker News)",
+          "url": "https://forgeeks.net/nvidia-673-billion-ai-growth-forecast/"
         },
         {
-          "title": "The turbulent AI era is here",
-          "summary": "Latest AI discussion on Hacker News: The turbulent AI era is here. Points: 189. (Source: Hacker News)",
-          "url": "https://www.gatesnotes.com/work/make-ai-work-for-everyone/reader/a-turbulent-ai-era-and-critical-choices-to-make"
+          "title": "Cyborg roaches become tiny paramedics",
+          "summary": "PLUS: Softbank eyes 1X in $6B deal...",
+          "url": "https://www.therundown.ai/articles/cyborg-roaches-become-tiny-paramedics"
         },
         {
-          "title": "Fake US thinktank set up and funded by Israel sought to game AI for propaganda",
-          "summary": "Latest AI discussion on Hacker News: Fake US thinktank set up and funded by Israel sought to game AI for propaganda. Points: 243. (Source: Hacker News)",
-          "url": "https://www.theguardian.com/world/2026/aug/26/fake-thinktank-israel-ai-propaganda"
+          "title": "MIT's Ad Hoc Committee on AI Use in Teaching, Learning, and Research Training",
+          "summary": "Latest AI discussion on Hacker News: MIT's Ad Hoc Committee on AI Use in Teaching, Learning, and Research Training. Points: 140. (Source: Hacker News)",
+          "url": "https://aiandeducation.mit.edu/report/"
         },
         {
-          "title": "The turbulent AI era is here",
-          "summary": "Latest AI discussion on Hacker News: The turbulent AI era is here. Points: 103. (Source: Hacker News)",
-          "url": "https://www.gatesnotes.com/work/make-ai-work-for-everyone/reader/a-turbulent-ai-era-and-critical-choices-to-make?WT.mc_id=20260826_ai-overture-2026-med-med"
+          "title": "Air Conditioning Is Not a Luxury, It Is a Necessity",
+          "summary": "Latest AI discussion on Hacker News: Air Conditioning Is Not a Luxury, It Is a Necessity. Points: 120. (Source: Hacker News)",
+          "url": "https://humanprogress.org/ac-is-not-a-luxury-it-is-a-necessity/"
         }
       ]
     },
