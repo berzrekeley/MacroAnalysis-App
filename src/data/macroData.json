@@ -1,26 +1,26 @@
 {
-  "lastUpdated": "August 29, 2026",
+  "lastUpdated": "August 30, 2026",
   "executiveSummary": [
-    "As of August 29, 2026, the U.S. macroeconomic environment is navigating a complex period of high interest rates and shifting labor market dynamics. With the Fed Funds Rate holding at 3.63% and CPI inflation tracking at 3.30%, the central bank continues its \"higher-for-longer\" stance to anchor inflation expectations. Recent headlines such as \"Fed Chairman Warsh shows courage with Jackson Hole speech, defying political pressure, says Harvard's Rogoff\" suggest that market participants remain hypersensitive to every data print, particularly around corporate earnings and consumer spending resilience.",
-    "The labor market, a key pillar of support, shows 203,000 initial jobless claims, reflecting a relatively stable but cooling employment landscape. Geopolitically, events like \"Suze Orman says your annuity guarantee is 'only as good as' the insurer's balance sheet — here's why\" introduce exogenous risks that could disrupt global energy supplies and re-ignite inflationary impulses, keeping the Federal Reserve in a defensive posture as they balance growth against price stability. Analysts are closely watching for any signs of a \"hard landing\" as the effects of previous tightening cycles continue to filter through the real economy."
+    "As of August 30, 2026, the U.S. macroeconomic environment is navigating a complex period of high interest rates and shifting labor market dynamics. With the Fed Funds Rate holding at 3.63% and CPI inflation tracking at 3.30%, the central bank continues its \"higher-for-longer\" stance to anchor inflation expectations. Recent headlines such as \"Stock Market Week Ahead: Chips, Cybersecurity And Jobs\" suggest that market participants remain hypersensitive to every data print, particularly around corporate earnings and consumer spending resilience.",
+    "The labor market, a key pillar of support, shows 203,000 initial jobless claims, reflecting a relatively stable but cooling employment landscape. Geopolitically, events like \"Project Tetromino Likely to Drive Operational Efficiency and Margin Expansion for Amazon Stock\" introduce exogenous risks that could disrupt global energy supplies and re-ignite inflationary impulses, keeping the Federal Reserve in a defensive posture as they balance growth against price stability. Analysts are closely watching for any signs of a \"hard landing\" as the effects of previous tightening cycles continue to filter through the real economy."
   ],
   "dailyHeadlines": [
-    {
-      "title": "Fed Chairman Warsh shows courage with Jackson Hole speech, defying political pressure, says Harvard's Rogoff",
-      "summary": "",
-      "url": "https://finance.yahoo.com/economy/article/fed-chairman-warsh-shows-courage-with-jackson-hole-speech-defying-political-pressure-says-harvards-rogoff-140951926.html",
-      "type": "extreme"
-    },
-    {
-      "title": "Suze Orman says your annuity guarantee is 'only as good as' the insurer's balance sheet — here's why",
-      "summary": "",
-      "url": "https://finance.yahoo.com/markets/options/articles/suze-orman-says-annuity-guarantee-133000171.html",
-      "type": "warning"
-    },
     {
       "title": "Stock Market Week Ahead: Chips, Cybersecurity And Jobs",
       "summary": "",
       "url": "https://www.investors.com/research/investing-action-plan/stock-market-week-ahead-chips-cybersecurity-and-jobs/?src=A00220&amp;yptr=yahoo",
+      "type": "extreme"
+    },
+    {
+      "title": "Project Tetromino Likely to Drive Operational Efficiency and Margin Expansion for Amazon Stock",
+      "summary": "",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/project-tetromino-likely-drive-operational-130002737.html",
+      "type": "warning"
+    },
+    {
+      "title": "First Phosphate eyes feasibility study after resource update and NASDAQ uplisting - ICYMI",
+      "summary": "",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/first-phosphate-eyes-feasibility-study-130000248.html",
       "type": "info"
     }
   ],
@@ -299,29 +299,29 @@
       "category": "Frontier Model Race & Breakthroughs",
       "items": [
         {
-          "title": "Debian votes to allow \"responsible use of generative AI\"",
-          "summary": "Latest AI discussion on Hacker News: Debian votes to allow \"responsible use of generative AI\". Points: 76. (Source: Hacker News)",
-          "url": "https://lwn.net/Articles/1091231/"
+          "title": "No AI Fridays",
+          "summary": "Latest AI discussion on Hacker News: No AI Fridays. Points: 45. (Source: Hacker News)",
+          "url": "https://noaifridays.com/"
         },
         {
-          "title": "StemDeck, a free, open-source and local AI stem separator",
-          "summary": "Latest AI discussion on Hacker News: StemDeck, a free, open-source and local AI stem separator. Points: 157. (Source: Hacker News)",
-          "url": "https://github.com/stemdeckapp/stemdeck"
+          "title": "Fair Work Commission condemns 'plain wrong' AI legal advice",
+          "summary": "Latest AI discussion on Hacker News: Fair Work Commission condemns 'plain wrong' AI legal advice. Points: 41. (Source: Hacker News)",
+          "url": "https://www.abc.net.au/news/2026-08-29/fair-work-commission-condemns-ai-legal-advice/107089766"
         },
         {
-          "title": "Identifying fake cosmetics using AI",
-          "summary": "Latest AI discussion on Hacker News: Identifying fake cosmetics using AI. Points: 57. (Source: Hacker News)",
-          "url": "https://groverlab.org/hnbfpr/2026-08-26-ai-counterfeit-cosmetics.html"
+          "title": "Open Oscar Server: open-source server compatible with AIM and ICQ clients",
+          "summary": "Latest AI discussion on Hacker News: Open Oscar Server: open-source server compatible with AIM and ICQ clients. Points: 51. (Source: Hacker News)",
+          "url": "https://github.com/mk6i/open-oscar-server"
         },
         {
-          "title": "Inside Meta's $18B teen crackdown",
-          "summary": "PLUS: Scientists make cookies out of plastic...",
-          "url": "https://www.therundown.ai/articles/inside-meta-s-18b-teen-crackdown"
+          "title": "Good Culture Is the Biggest Productivity Hack, Not AI",
+          "summary": "Latest AI discussion on Hacker News: Good Culture Is the Biggest Productivity Hack, Not AI. Points: 417. (Source: Hacker News)",
+          "url": "https://newsletter.eng-leadership.com/p/good-culture-is-the-biggest-productivity"
         },
         {
-          "title": "Every machine is about to speak Claude",
-          "summary": "PLUS: Use these AI skills to make better decisions quickly...",
-          "url": "https://www.therundown.ai/articles/every-machine-is-about-to-speak-claude"
+          "title": "The growing divide between AI hype and software engineering reality",
+          "summary": "Latest AI discussion on Hacker News: The growing divide between AI hype and software engineering reality. Points: 64. (Source: Hacker News)",
+          "url": "https://optimizedbyotto.com/post/why-open-source-projects-ban-ai/"
         }
       ]
     },
@@ -329,29 +329,29 @@
       "category": "Enterprise & Agentic AI",
       "items": [
         {
-          "title": "Luanti removed from Google Play due to baseless AI copyright notice",
-          "summary": "Latest AI discussion on Hacker News: Luanti removed from Google Play due to baseless AI copyright notice. Points: 495. (Source: Hacker News)",
-          "url": "https://blog.luanti.org/2026/08/27/luanti-dmca-tracer-ai/"
+          "title": "Debian votes to allow \"responsible use of generative AI\"",
+          "summary": "Latest AI discussion on Hacker News: Debian votes to allow \"responsible use of generative AI\". Points: 490. (Source: Hacker News)",
+          "url": "https://lwn.net/Articles/1091231/"
         },
         {
-          "title": "Please stop flooding our projects with AI slop to furnish your CV",
-          "summary": "Latest AI discussion on Hacker News: Please stop flooding our projects with AI slop to furnish your CV. Points: 212. (Source: Hacker News)",
-          "url": "https://neilalexander.dev/2026/06/30/flooding-contributions"
+          "title": "StemDeck, a free, open-source and local AI stem separator",
+          "summary": "Latest AI discussion on Hacker News: StemDeck, a free, open-source and local AI stem separator. Points: 231. (Source: Hacker News)",
+          "url": "https://github.com/stemdeckapp/stemdeck"
         },
         {
-          "title": "Terminal-Bench-Science: Evaluating AI agents on scientific research workflows",
-          "summary": "Latest AI discussion on Hacker News: Terminal-Bench-Science: Evaluating AI agents on scientific research workflows. Points: 115. (Source: Hacker News)",
-          "url": "https://www.terminal-bench-science.ai/announcement"
+          "title": "Identifying fake cosmetics using AI",
+          "summary": "Latest AI discussion on Hacker News: Identifying fake cosmetics using AI. Points: 60. (Source: Hacker News)",
+          "url": "https://groverlab.org/hnbfpr/2026-08-26-ai-counterfeit-cosmetics.html"
         },
         {
-          "title": "AI Engineer Notebooks – free, framework-free RAG/agents/evals on Colab",
-          "summary": "Latest AI discussion on Hacker News: AI Engineer Notebooks – free, framework-free RAG/agents/evals on Colab. Points: 111. (Source: Hacker News)",
-          "url": "https://github.com/calmrocks/ai-engineer-notebooks"
+          "title": "The Analytical AI Handbook",
+          "summary": "Latest AI discussion on Hacker News: The Analytical AI Handbook. Points: 48. (Source: Hacker News)",
+          "url": "https://handbook.sutro.sh"
         },
         {
-          "title": "Nvidia Starts Pac as AI Chip Maker Builds DC Influence Force",
-          "summary": "Latest AI discussion on Hacker News: Nvidia Starts Pac as AI Chip Maker Builds DC Influence Force. Points: 91. (Source: Hacker News)",
-          "url": "https://news.bgov.com/bloomberg-government-news/nvidia-starts-a-pac-as-ai-chip-maker-buids-influence-force-in-dc"
+          "title": "Nvidia Insists It Can Keep Printing Money to Fund the AI Boom",
+          "summary": "Latest AI discussion on Hacker News: Nvidia Insists It Can Keep Printing Money to Fund the AI Boom. Points: 46. (Source: Hacker News)",
+          "url": "https://www.wsj.com/tech/ai/nvidia-insists-it-can-keep-printing-money-to-fund-the-ai-boom-195e7d5e"
         }
       ]
     },
