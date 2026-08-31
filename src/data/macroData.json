@@ -1,26 +1,26 @@
 {
-  "lastUpdated": "August 30, 2026",
+  "lastUpdated": "August 31, 2026",
   "executiveSummary": [
-    "As of August 30, 2026, the U.S. macroeconomic environment is navigating a complex period of high interest rates and shifting labor market dynamics. With the Fed Funds Rate holding at 3.63% and CPI inflation tracking at 3.30%, the central bank continues its \"higher-for-longer\" stance to anchor inflation expectations. Recent headlines such as \"Stock Market Week Ahead: Chips, Cybersecurity And Jobs\" suggest that market participants remain hypersensitive to every data print, particularly around corporate earnings and consumer spending resilience.",
-    "The labor market, a key pillar of support, shows 203,000 initial jobless claims, reflecting a relatively stable but cooling employment landscape. Geopolitically, events like \"Project Tetromino Likely to Drive Operational Efficiency and Margin Expansion for Amazon Stock\" introduce exogenous risks that could disrupt global energy supplies and re-ignite inflationary impulses, keeping the Federal Reserve in a defensive posture as they balance growth against price stability. Analysts are closely watching for any signs of a \"hard landing\" as the effects of previous tightening cycles continue to filter through the real economy."
+    "As of August 31, 2026, the U.S. macroeconomic environment is navigating a complex period of high interest rates and shifting labor market dynamics. With the Fed Funds Rate holding at 3.63% and CPI inflation tracking at 3.30%, the central bank continues its \"higher-for-longer\" stance to anchor inflation expectations. Recent headlines such as \"Here comes the AI capex shocker, Goldman Sachs says\" suggest that market participants remain hypersensitive to every data print, particularly around corporate earnings and consumer spending resilience.",
+    "The labor market, a key pillar of support, shows 203,000 initial jobless claims, reflecting a relatively stable but cooling employment landscape. Geopolitically, events like \"Warsh's 'quieter Fed' now includes a smidgen of guidance\" introduce exogenous risks that could disrupt global energy supplies and re-ignite inflationary impulses, keeping the Federal Reserve in a defensive posture as they balance growth against price stability. Analysts are closely watching for any signs of a \"hard landing\" as the effects of previous tightening cycles continue to filter through the real economy."
   ],
   "dailyHeadlines": [
     {
-      "title": "Stock Market Week Ahead: Chips, Cybersecurity And Jobs",
+      "title": "Here comes the AI capex shocker, Goldman Sachs says",
       "summary": "",
-      "url": "https://www.investors.com/research/investing-action-plan/stock-market-week-ahead-chips-cybersecurity-and-jobs/?src=A00220&amp;yptr=yahoo",
+      "url": "https://finance.yahoo.com/markets/article/here-comes-the-ai-capex-shocker-goldman-sachs-says-171026577.html",
       "type": "extreme"
     },
     {
-      "title": "Project Tetromino Likely to Drive Operational Efficiency and Margin Expansion for Amazon Stock",
+      "title": "Warsh's 'quieter Fed' now includes a smidgen of guidance",
       "summary": "",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/project-tetromino-likely-drive-operational-130002737.html",
+      "url": "https://finance.yahoo.com/economy/policy/articles/analysis-warshs-quieter-fed-now-193420692.html",
       "type": "warning"
     },
     {
-      "title": "First Phosphate eyes feasibility study after resource update and NASDAQ uplisting - ICYMI",
+      "title": "Gold on pace for best month since February despite investor concerns over rate hikes",
       "summary": "",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/first-phosphate-eyes-feasibility-study-130000248.html",
+      "url": "https://finance.yahoo.com/markets/article/gold-on-pace-for-best-month-since-february-despite-investor-concerns-over-rate-hikes-165315959.html",
       "type": "info"
     }
   ],
@@ -299,29 +299,29 @@
       "category": "Frontier Model Race & Breakthroughs",
       "items": [
         {
-          "title": "No AI Fridays",
-          "summary": "Latest AI discussion on Hacker News: No AI Fridays. Points: 45. (Source: Hacker News)",
-          "url": "https://noaifridays.com/"
+          "title": "Marx, Keynes, and AI",
+          "summary": "Latest AI discussion on Hacker News: Marx, Keynes, and AI. Points: 46. (Source: Hacker News)",
+          "url": "https://www.unpopularfront.news/p/marx-keynes-and-ai"
         },
         {
-          "title": "Fair Work Commission condemns 'plain wrong' AI legal advice",
-          "summary": "Latest AI discussion on Hacker News: Fair Work Commission condemns 'plain wrong' AI legal advice. Points: 41. (Source: Hacker News)",
-          "url": "https://www.abc.net.au/news/2026-08-29/fair-work-commission-condemns-ai-legal-advice/107089766"
+          "title": "Apple Caught Off Guard by AI Demand for Mac Mini and Mac Studio",
+          "summary": "Latest AI discussion on Hacker News: Apple Caught Off Guard by AI Demand for Mac Mini and Mac Studio. Points: 65. (Source: Hacker News)",
+          "url": "https://www.macrumors.com/2026/08/30/apple-unexpected-mac-mini-and-studio-demand/"
         },
         {
-          "title": "Open Oscar Server: open-source server compatible with AIM and ICQ clients",
-          "summary": "Latest AI discussion on Hacker News: Open Oscar Server: open-source server compatible with AIM and ICQ clients. Points: 51. (Source: Hacker News)",
-          "url": "https://github.com/mk6i/open-oscar-server"
+          "title": "AI-Written Code Is Still *Your* Code. Are You OK with That?",
+          "summary": "Latest AI discussion on Hacker News: AI-Written Code Is Still *Your* Code. Are You OK with That?. Points: 53. (Source: Hacker News)",
+          "url": "https://martiansoftware.com/articles/ai-written-code-is-still-yours"
         },
         {
-          "title": "Good Culture Is the Biggest Productivity Hack, Not AI",
-          "summary": "Latest AI discussion on Hacker News: Good Culture Is the Biggest Productivity Hack, Not AI. Points: 417. (Source: Hacker News)",
-          "url": "https://newsletter.eng-leadership.com/p/good-culture-is-the-biggest-productivity"
+          "title": "What I Learned About AI Trust from Reconciling over 100B Transactions",
+          "summary": "Latest AI discussion on Hacker News: What I Learned About AI Trust from Reconciling over 100B Transactions. Points: 25. (Source: Hacker News)",
+          "url": "https://engineering.moniepoint.com/what-i-learned-about-ai-trust-from-reconciling"
         },
         {
-          "title": "The growing divide between AI hype and software engineering reality",
-          "summary": "Latest AI discussion on Hacker News: The growing divide between AI hype and software engineering reality. Points: 64. (Source: Hacker News)",
-          "url": "https://optimizedbyotto.com/post/why-open-source-projects-ban-ai/"
+          "title": "OpenAI cuts out SpaceX-owned Cursor",
+          "summary": "PLUS: Submit your iOS app to the App Store with Codex...",
+          "url": "https://www.therundown.ai/articles/openai-cuts-out-spacex-owned-cursor"
         }
       ]
     },
@@ -329,29 +329,29 @@
       "category": "Enterprise & Agentic AI",
       "items": [
         {
-          "title": "Debian votes to allow \"responsible use of generative AI\"",
-          "summary": "Latest AI discussion on Hacker News: Debian votes to allow \"responsible use of generative AI\". Points: 490. (Source: Hacker News)",
-          "url": "https://lwn.net/Articles/1091231/"
+          "title": "Meta Security Researcher's AI Agent Accidentally Deleted Her Emails",
+          "summary": "Latest AI discussion on Hacker News: Meta Security Researcher's AI Agent Accidentally Deleted Her Emails. Points: 57. (Source: Hacker News)",
+          "url": "https://au.pcmag.com/ai/116091/meta-security-researchers-ai-agent-accidentally-deleted-her-emails"
         },
         {
-          "title": "StemDeck, a free, open-source and local AI stem separator",
-          "summary": "Latest AI discussion on Hacker News: StemDeck, a free, open-source and local AI stem separator. Points: 231. (Source: Hacker News)",
-          "url": "https://github.com/stemdeckapp/stemdeck"
+          "title": "The EU has begun enforcing the AI Act: first RFIs to model providers",
+          "summary": "Latest AI discussion on Hacker News: The EU has begun enforcing the AI Act: first RFIs to model providers. Points: 46. (Source: Hacker News)",
+          "url": "https://tokenstead.ai/guides/eu-ai-act-first-enforcement-security-rfis"
         },
         {
-          "title": "Identifying fake cosmetics using AI",
-          "summary": "Latest AI discussion on Hacker News: Identifying fake cosmetics using AI. Points: 60. (Source: Hacker News)",
-          "url": "https://groverlab.org/hnbfpr/2026-08-26-ai-counterfeit-cosmetics.html"
+          "title": "No AI Fridays",
+          "summary": "Latest AI discussion on Hacker News: No AI Fridays. Points: 282. (Source: Hacker News)",
+          "url": "https://noaifridays.com/"
         },
         {
-          "title": "The Analytical AI Handbook",
-          "summary": "Latest AI discussion on Hacker News: The Analytical AI Handbook. Points: 48. (Source: Hacker News)",
-          "url": "https://handbook.sutro.sh"
+          "title": "Fair Work Commission condemns 'plain wrong' AI legal advice",
+          "summary": "Latest AI discussion on Hacker News: Fair Work Commission condemns 'plain wrong' AI legal advice. Points: 60. (Source: Hacker News)",
+          "url": "https://www.abc.net.au/news/2026-08-29/fair-work-commission-condemns-ai-legal-advice/107089766"
         },
         {
-          "title": "Nvidia Insists It Can Keep Printing Money to Fund the AI Boom",
-          "summary": "Latest AI discussion on Hacker News: Nvidia Insists It Can Keep Printing Money to Fund the AI Boom. Points: 46. (Source: Hacker News)",
-          "url": "https://www.wsj.com/tech/ai/nvidia-insists-it-can-keep-printing-money-to-fund-the-ai-boom-195e7d5e"
+          "title": "What We Tell AI",
+          "summary": "Latest AI discussion on Hacker News: What We Tell AI. Points: 49. (Source: Hacker News)",
+          "url": "https://www.whatwetellai.com/"
         }
       ]
     },
