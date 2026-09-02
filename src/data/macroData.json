@@ -1,26 +1,26 @@
 {
-  "lastUpdated": "September 1, 2026",
+  "lastUpdated": "September 2, 2026",
   "executiveSummary": [
-    "As of September 1, 2026, the U.S. macroeconomic environment is navigating a complex period of high interest rates and shifting labor market dynamics. With the Fed Funds Rate holding at 3.63% and CPI inflation tracking at 3.30%, the central bank continues its \"higher-for-longer\" stance to anchor inflation expectations. Recent headlines such as \"Medtronic's Diabetes Spinoff Just Surged. What To Look For In Its Earnings.\" suggest that market participants remain hypersensitive to every data print, particularly around corporate earnings and consumer spending resilience.",
-    "The labor market, a key pillar of support, shows 203,000 initial jobless claims, reflecting a relatively stable but cooling employment landscape. Geopolitically, events like \"Stock Market Today: Dow Falls As Oil Prices Climb; This Medical Technology Name Hits A Buy Point (Live Coverage)\" introduce exogenous risks that could disrupt global energy supplies and re-ignite inflationary impulses, keeping the Federal Reserve in a defensive posture as they balance growth against price stability. Analysts are closely watching for any signs of a \"hard landing\" as the effects of previous tightening cycles continue to filter through the real economy."
+    "As of September 2, 2026, the U.S. macroeconomic environment is navigating a complex period of high interest rates and shifting labor market dynamics. With the Fed Funds Rate holding at 3.63% and CPI inflation tracking at 3.30%, the central bank continues its \"higher-for-longer\" stance to anchor inflation expectations. Recent headlines such as \"Bond yields still high as investors weigh rate hike risk: AlphaCheck\" suggest that market participants remain hypersensitive to every data print, particularly around corporate earnings and consumer spending resilience.",
+    "The labor market, a key pillar of support, shows 203,000 initial jobless claims, reflecting a relatively stable but cooling employment landscape. Geopolitically, events like \"10-year treasury touches highest level since 2023 as oil prices stay elevated\" introduce exogenous risks that could disrupt global energy supplies and re-ignite inflationary impulses, keeping the Federal Reserve in a defensive posture as they balance growth against price stability. Analysts are closely watching for any signs of a \"hard landing\" as the effects of previous tightening cycles continue to filter through the real economy."
   ],
   "dailyHeadlines": [
     {
-      "title": "Medtronic's Diabetes Spinoff Just Surged. What To Look For In Its Earnings.",
+      "title": "Bond yields still high as investors weigh rate hike risk: AlphaCheck",
       "summary": "",
-      "url": "https://www.investors.com/news/technology/medtronic-minimed-earnings-q1-2027/?src=A00220&amp;yptr=yahoo",
+      "url": "https://finance.yahoo.com/markets/article/bond-yields-still-high-as-investors-weigh-rate-hike-risk-alphacheck-135357686.html",
       "type": "extreme"
     },
     {
-      "title": "Stock Market Today: Dow Falls As Oil Prices Climb; This Medical Technology Name Hits A Buy Point (Live Coverage)",
+      "title": "10-year treasury touches highest level since 2023 as oil prices stay elevated",
       "summary": "",
-      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-oil-prices-treasury-yields-nvidia-stock-micron-stock/?src=A00220&amp;yptr=yahoo",
+      "url": "https://finance.yahoo.com/markets/article/10-year-treasury-touches-highest-level-since-2023-as-oil-prices-stay-elevated-134238599.html",
       "type": "warning"
     },
     {
-      "title": "United Kingdom To Bring Stocks Onchain",
+      "title": "Your grocery bill could rise even faster next year — here's why",
       "summary": "",
-      "url": "https://finance.yahoo.com/markets/crypto/articles/united-kingdom-bring-stocks-onchain-141300465.html",
+      "url": "https://finance.yahoo.com/markets/article/your-grocery-bill-could-rise-even-faster-next-year--heres-why-134148018.html",
       "type": "info"
     }
   ],
@@ -39,13 +39,13 @@
     },
     {
       "title": "10Y - 2Y Spread",
-      "value": "0.41%",
+      "value": "0.40%",
       "status": "Steepening - slower growth",
       "type": "warning"
     },
     {
       "title": "10Y Treasury Rate",
-      "value": "4.73%",
+      "value": "4.75%",
       "status": "High - energy-driven inflation",
       "type": "warning"
     },
@@ -299,8 +299,48 @@
       "category": "Frontier Model Race & Breakthroughs",
       "items": [
         {
+          "title": "Quasar 438B: Europe's Leading AI Model",
+          "summary": "Latest AI discussion on Hacker News: Quasar 438B: Europe's Leading AI Model. Points: 81. (Source: Hacker News)",
+          "url": "https://multiversecomputing.com/resources/introducing-quasar-438b-europe-s-leading-ai-model"
+        },
+        {
+          "title": "Fable 5.1 kicks off launch week at the frontier",
+          "summary": "PLUS: How to pick a dedicated AI device...",
+          "url": "https://www.therundown.ai/articles/fable-5-1-kicks-off-launch-week-at-the-frontier"
+        },
+        {
+          "title": "Show HN: Weedout – Safari extension that hides YouTube AI-labeled videos",
+          "summary": "Latest AI discussion on Hacker News: Show HN: Weedout – Safari extension that hides YouTube AI-labeled videos. Points: 166. (Source: Hacker News)",
+          "url": "https://masteranza.github.io/weedout/"
+        },
+        {
+          "title": "How accurate have Ed Zitron's AI skeptic predictions been?",
+          "summary": "Latest AI discussion on Hacker News: How accurate have Ed Zitron's AI skeptic predictions been?. Points: 798. (Source: Hacker News)",
+          "url": "https://danluu.com/zitron/"
+        },
+        {
+          "title": "Dwarf Fortress' creator says the industry's in shambles over AI",
+          "summary": "Latest AI discussion on Hacker News: Dwarf Fortress' creator says the industry's in shambles over AI. Points: 229. (Source: Hacker News)",
+          "url": "https://www.pcgamer.com/gaming-industry/dwarf-fortress-creator-says-the-industrys-in-shambles-over-ai-and-layoff-happy-ceos-everyone-i-know-their-bosses-are-slowly-getting-psychosis/"
+        }
+      ]
+    },
+    {
+      "category": "Enterprise & Agentic AI",
+      "items": [
+        {
+          "title": "Dyson puts AI in a $499 toothbrush",
+          "summary": "PLUS: Apple enters its John Ternus era...",
+          "url": "https://www.therundown.ai/articles/dyson-puts-ai-in-a-499-toothbrush"
+        },
+        {
+          "title": "Saab has unveiled its A3 collaborative combat aircraft concept",
+          "summary": "Latest AI discussion on Hacker News: Saab has unveiled its A3 collaborative combat aircraft concept. Points: 99. (Source: Hacker News)",
+          "url": "https://aviationweek.com/defense/aircraft-propulsion/saab-enters-collaborative-combat-aircraft-race-high-end-concept"
+        },
+        {
           "title": "EFF to Courts: Don't Rewrite Copyright over AI Hype",
-          "summary": "Latest AI discussion on Hacker News: EFF to Courts: Don't Rewrite Copyright over AI Hype. Points: 90. (Source: Hacker News)",
+          "summary": "Latest AI discussion on Hacker News: EFF to Courts: Don't Rewrite Copyright over AI Hype. Points: 163. (Source: Hacker News)",
           "url": "https://www.eff.org/deeplinks/2026/08/eff-courts-dont-rewrite-copyright-over-ai-hype"
         },
         {
@@ -310,48 +350,8 @@
         },
         {
           "title": "AI Can Make You Suck Faster Too",
-          "summary": "Latest AI discussion on Hacker News: AI Can Make You Suck Faster Too. Points: 112. (Source: Hacker News)",
+          "summary": "Latest AI discussion on Hacker News: AI Can Make You Suck Faster Too. Points: 179. (Source: Hacker News)",
           "url": "https://www.hermit-tech.com/blog/ai-can-make-you-suck-faster-too"
-        },
-        {
-          "title": "The safest job from AI may be writing",
-          "summary": "Latest AI discussion on Hacker News: The safest job from AI may be writing. Points: 140. (Source: Hacker News)",
-          "url": "http://muratbuffalo.blogspot.com/2026/08/the-safest-job-from-ai-may-be-writing.html"
-        },
-        {
-          "title": "Apple Is Suddenly an AI Infra Stock as OpenAI Buys 10k+ Macs",
-          "summary": "Latest AI discussion on Hacker News: Apple Is Suddenly an AI Infra Stock as OpenAI Buys 10k+ Macs. Points: 37. (Source: Hacker News)",
-          "url": "https://247wallst.com/investing/2026/08/31/apple-is-suddenly-an-ai-infrastructure-stock-as-openai-buys-macs-by-the-tens-of-thousands/"
-        }
-      ]
-    },
-    {
-      "category": "Enterprise & Agentic AI",
-      "items": [
-        {
-          "title": "Launch HN: Almanac (YC S26) – AI that knows your company",
-          "summary": "Latest AI discussion on Hacker News: Launch HN: Almanac (YC S26) – AI that knows your company. Points: 56. (Source: Hacker News)",
-          "url": "https://usealmanac.com/"
-        },
-        {
-          "title": "Marx, Keynes, and AI",
-          "summary": "Latest AI discussion on Hacker News: Marx, Keynes, and AI. Points: 56. (Source: Hacker News)",
-          "url": "https://www.unpopularfront.news/p/marx-keynes-and-ai"
-        },
-        {
-          "title": "Hugging Face’s robot duck is already a hit",
-          "summary": "PLUS: ICE to spend $2M on robot dogs...",
-          "url": "https://www.therundown.ai/articles/hugging-face-robot-duck-is-already-a-hit"
-        },
-        {
-          "title": "Apple caught off guard by AI demand for Mac Mini and Mac Studio",
-          "summary": "Latest AI discussion on Hacker News: Apple caught off guard by AI demand for Mac Mini and Mac Studio. Points: 456. (Source: Hacker News)",
-          "url": "https://www.macrumors.com/2026/08/30/apple-unexpected-mac-mini-and-studio-demand/"
-        },
-        {
-          "title": "AI-written code is still your code",
-          "summary": "Latest AI discussion on Hacker News: AI-written code is still your code. Points: 57. (Source: Hacker News)",
-          "url": "https://martiansoftware.com/articles/ai-written-code-is-still-yours"
         }
       ]
     },
