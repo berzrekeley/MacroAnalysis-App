@@ -1,26 +1,26 @@
 {
-  "lastUpdated": "September 3, 2026",
+  "lastUpdated": "September 4, 2026",
   "executiveSummary": [
-    "As of September 3, 2026, the U.S. macroeconomic environment is navigating a complex period of high interest rates and shifting labor market dynamics. With the Fed Funds Rate holding at 3.63% and CPI inflation tracking at 3.30%, the central bank continues its \"higher-for-longer\" stance to anchor inflation expectations. Recent headlines such as \"Vox Royalty Australia to acquire 2% NSR royalty on White Dam gold mine\" suggest that market participants remain hypersensitive to every data print, particularly around corporate earnings and consumer spending resilience.",
-    "The labor market, a key pillar of support, shows 206,000 initial jobless claims, reflecting a relatively stable but cooling employment landscape. Geopolitically, events like \"How Micron Technology (MU) is Shaping the AI Landscape\" introduce exogenous risks that could disrupt global energy supplies and re-ignite inflationary impulses, keeping the Federal Reserve in a defensive posture as they balance growth against price stability. Analysts are closely watching for any signs of a \"hard landing\" as the effects of previous tightening cycles continue to filter through the real economy."
+    "As of September 4, 2026, the U.S. macroeconomic environment is navigating a complex period of high interest rates and shifting labor market dynamics. With the Fed Funds Rate holding at 3.63% and CPI inflation tracking at 3.30%, the central bank continues its \"higher-for-longer\" stance to anchor inflation expectations. Recent headlines such as \"Altria Group (MO) Challenges FDA Review System as Smoke-Free Strategy Takes Center Stage\" suggest that market participants remain hypersensitive to every data print, particularly around corporate earnings and consumer spending resilience.",
+    "The labor market, a key pillar of support, shows 206,000 initial jobless claims, reflecting a relatively stable but cooling employment landscape. Geopolitically, events like \"Brown-Forman (BF-B) Struggles with Weak Spirits Demand and Canada Headwinds\" introduce exogenous risks that could disrupt global energy supplies and re-ignite inflationary impulses, keeping the Federal Reserve in a defensive posture as they balance growth against price stability. Analysts are closely watching for any signs of a \"hard landing\" as the effects of previous tightening cycles continue to filter through the real economy."
   ],
   "dailyHeadlines": [
     {
-      "title": "Vox Royalty Australia to acquire 2% NSR royalty on White Dam gold mine",
+      "title": "Altria Group (MO) Challenges FDA Review System as Smoke-Free Strategy Takes Center Stage",
       "summary": "",
-      "url": "https://finance.yahoo.com/markets/commodities/articles/vox-royalty-australia-acquire-2-134851366.html",
+      "url": "https://finance.yahoo.com/healthcare/articles/altria-group-mo-challenges-fda-015246498.html",
       "type": "extreme"
     },
     {
-      "title": "How Micron Technology (MU) is Shaping the AI Landscape",
+      "title": "Brown-Forman (BF-B) Struggles with Weak Spirits Demand and Canada Headwinds",
       "summary": "",
-      "url": "https://finance.yahoo.com/technology/ai/articles/micron-technology-mu-shaping-ai-133716803.html",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/brown-forman-bf-b-struggles-015117197.html",
       "type": "warning"
     },
     {
-      "title": "Himax (HIMX) Turns Palm Veins Into Its Next Growth Bet",
+      "title": "PG&amp;E (PCG)’s $2 Billion Spending Deferral Raises Questions Over its Growth Outlook",
       "summary": "",
-      "url": "https://finance.yahoo.com/technology/ai/articles/himax-himx-turns-palm-veins-133441032.html",
+      "url": "https://finance.yahoo.com/energy/articles/pg-e-pcg-2-billion-014952917.html",
       "type": "info"
     }
   ],
@@ -39,7 +39,7 @@
     },
     {
       "title": "10Y - 2Y Spread",
-      "value": "0.40%",
+      "value": "0.43%",
       "status": "Steepening - slower growth",
       "type": "warning"
     },
@@ -299,29 +299,29 @@
       "category": "Frontier Model Race & Breakthroughs",
       "items": [
         {
-          "title": "Meta, Google join the AI launch party",
-          "summary": "PLUS: Nail job interviews with the “Proof Project” method...",
-          "url": "https://www.therundown.ai/articles/meta-google-join-the-ai-launch-party"
+          "title": "OpenAI agents hijacked German website in previously undisclosed AI breakout",
+          "summary": "Latest AI discussion on Hacker News: OpenAI agents hijacked German website in previously undisclosed AI breakout. Points: 78. (Source: Hacker News)",
+          "url": "https://www.reuters.com/world/europe/openai-agents-hijacked-german-website-previously-undisclosed-ai-breakout-this-2026-09-04/"
         },
         {
-          "title": "Mamdani Bans AI in NYC Schools",
-          "summary": "Latest AI discussion on Hacker News: Mamdani Bans AI in NYC Schools. Points: 188. (Source: Hacker News)",
-          "url": "https://www.nytimes.com/2026/09/01/nyregion/ai-ban-schools-nyc.html"
+          "title": "OpenAI’s “generational leap” with GPT-6 Astra",
+          "summary": "PLUS: Where the future of content is headed...",
+          "url": "https://www.therundown.ai/articles/openai-generational-leap-with-gpt-6-astra"
         },
         {
-          "title": "The Post-AI Internet Doesn't Look Great",
-          "summary": "Latest AI discussion on Hacker News: The Post-AI Internet Doesn't Look Great. Points: 74. (Source: Hacker News)",
-          "url": "https://www.jordangoodman.xyz/the-post-ai-internet-doesnt-look-great/"
+          "title": "Sanders introduces bill to ban artificial superintelligence and pause AI",
+          "summary": "Latest AI discussion on Hacker News: Sanders introduces bill to ban artificial superintelligence and pause AI. Points: 60. (Source: Hacker News)",
+          "url": "https://www.sanders.senate.gov/press-releases/news-sanders-casar-introduce-legislation-to-ban-artificial-superintelligence-and-temporarily-pause-advanced-ai-development/"
         },
         {
-          "title": "Qantas Airbus A380 engine failure in 2010 (2023)",
-          "summary": "Latest AI discussion on Hacker News: Qantas Airbus A380 engine failure in 2010 (2023). Points: 163. (Source: Hacker News)",
-          "url": "https://admiralcloudberg.medium.com/a-matter-of-millimeters-the-story-of-qantas-flight-32-bdaa62dc98e7"
+          "title": "Uber beats Waymo to London",
+          "summary": "PLUS: OpenAI 'will definitely' build humanoids...",
+          "url": "https://www.therundown.ai/articles/uber-beats-waymo-to-london"
         },
         {
-          "title": "AI Policy",
-          "summary": "Latest AI discussion on Hacker News: AI Policy. Points: 51. (Source: Hacker News)",
-          "url": "https://dbushell.com/ai/"
+          "title": "A dark horse enters China's AI race: StartLux",
+          "summary": "Latest AI discussion on Hacker News: A dark horse enters China's AI race: StartLux. Points: 54. (Source: Hacker News)",
+          "url": "https://chinaonchina.com/article/chen-dawei-returns-enters-the-large-model-sector"
         }
       ]
     },
@@ -329,29 +329,29 @@
       "category": "Enterprise & Agentic AI",
       "items": [
         {
-          "title": "Three sites made 215,128 “best software” pages for AI. Perplexity cites them",
-          "summary": "Latest AI discussion on Hacker News: Three sites made 215,128 “best software” pages for AI. Perplexity cites them. Points: 473. (Source: Hacker News)",
-          "url": "https://trellner.com/reports/manufactured-sources-behind-ai-recommendations/"
+          "title": "Meta, Google join the AI launch party",
+          "summary": "PLUS: Nail job interviews with the “Proof Project” method...",
+          "url": "https://www.therundown.ai/articles/meta-google-join-the-ai-launch-party"
         },
         {
-          "title": "Quasar 438B: Europe's Leading AI Model",
-          "summary": "Latest AI discussion on Hacker News: Quasar 438B: Europe's Leading AI Model. Points: 185. (Source: Hacker News)",
-          "url": "https://multiversecomputing.com/resources/introducing-quasar-438b-europe-s-leading-ai-model"
+          "title": "Go grandmaster Shin defeats AI KataGo with a two-stone handicap",
+          "summary": "Latest AI discussion on Hacker News: Go grandmaster Shin defeats AI KataGo with a two-stone handicap. Points: 386. (Source: Hacker News)",
+          "url": "https://www.kedglobal.com/artificial-intelligence/newsView/ked202607210007"
         },
         {
-          "title": "Fable 5.1 kicks off launch week at the frontier",
-          "summary": "PLUS: How to pick a dedicated AI device...",
-          "url": "https://www.therundown.ai/articles/fable-5-1-kicks-off-launch-week-at-the-frontier"
+          "title": "Mamdani bans AI in NYC schools",
+          "summary": "Latest AI discussion on Hacker News: Mamdani bans AI in NYC schools. Points: 213. (Source: Hacker News)",
+          "url": "https://www.nytimes.com/2026/09/01/nyregion/ai-ban-schools-nyc.html"
         },
         {
-          "title": "Show HN: Weedout – Safari extension that hides YouTube AI-labeled videos",
-          "summary": "Latest AI discussion on Hacker News: Show HN: Weedout – Safari extension that hides YouTube AI-labeled videos. Points: 178. (Source: Hacker News)",
-          "url": "https://masteranza.github.io/weedout/"
+          "title": "AI Agents and the Refactoring That Never Happens",
+          "summary": "Latest AI discussion on Hacker News: AI Agents and the Refactoring That Never Happens. Points: 49. (Source: Hacker News)",
+          "url": "https://www.rosenfeld.page/articles/programming/2026_09_02_ai_agents_and_the_refactoring_that_never_happens/"
         },
         {
-          "title": "How accurate have Ed Zitron's AI skeptic predictions been?",
-          "summary": "Latest AI discussion on Hacker News: How accurate have Ed Zitron's AI skeptic predictions been?. Points: 855. (Source: Hacker News)",
-          "url": "https://danluu.com/zitron/"
+          "title": "The Post-AI Internet Doesn't Look Great",
+          "summary": "Latest AI discussion on Hacker News: The Post-AI Internet Doesn't Look Great. Points: 74. (Source: Hacker News)",
+          "url": "https://www.jordangoodman.xyz/the-post-ai-internet-doesnt-look-great/"
         }
       ]
     },
