@@ -1,26 +1,26 @@
 {
-  "lastUpdated": "September 4, 2026",
+  "lastUpdated": "September 5, 2026",
   "executiveSummary": [
-    "As of September 4, 2026, the U.S. macroeconomic environment is navigating a complex period of high interest rates and shifting labor market dynamics. With the Fed Funds Rate holding at 3.63% and CPI inflation tracking at 3.30%, the central bank continues its \"higher-for-longer\" stance to anchor inflation expectations. Recent headlines such as \"Altria Group (MO) Challenges FDA Review System as Smoke-Free Strategy Takes Center Stage\" suggest that market participants remain hypersensitive to every data print, particularly around corporate earnings and consumer spending resilience.",
-    "The labor market, a key pillar of support, shows 206,000 initial jobless claims, reflecting a relatively stable but cooling employment landscape. Geopolitically, events like \"Brown-Forman (BF-B) Struggles with Weak Spirits Demand and Canada Headwinds\" introduce exogenous risks that could disrupt global energy supplies and re-ignite inflationary impulses, keeping the Federal Reserve in a defensive posture as they balance growth against price stability. Analysts are closely watching for any signs of a \"hard landing\" as the effects of previous tightening cycles continue to filter through the real economy."
+    "As of September 5, 2026, the U.S. macroeconomic environment is navigating a complex period of high interest rates and shifting labor market dynamics. With the Fed Funds Rate holding at 3.63% and CPI inflation tracking at 3.30%, the central bank continues its \"higher-for-longer\" stance to anchor inflation expectations. Recent headlines such as \"Documents You’ll Need to Get Approved for a Mortgage\" suggest that market participants remain hypersensitive to every data print, particularly around corporate earnings and consumer spending resilience.",
+    "The labor market, a key pillar of support, shows 206,000 initial jobless claims, reflecting a relatively stable but cooling employment landscape. Geopolitically, events like \"Acquisitive Strategy Offers Long-Term Prospects for QXO Inc. (QXO) Despite Dilution and Integration Risks\" introduce exogenous risks that could disrupt global energy supplies and re-ignite inflationary impulses, keeping the Federal Reserve in a defensive posture as they balance growth against price stability. Analysts are closely watching for any signs of a \"hard landing\" as the effects of previous tightening cycles continue to filter through the real economy."
   ],
   "dailyHeadlines": [
     {
-      "title": "Altria Group (MO) Challenges FDA Review System as Smoke-Free Strategy Takes Center Stage",
+      "title": "Documents You’ll Need to Get Approved for a Mortgage",
       "summary": "",
-      "url": "https://finance.yahoo.com/healthcare/articles/altria-group-mo-challenges-fda-015246498.html",
+      "url": "https://finance.yahoo.com/real-estate/articles/documents-ll-approved-mortgage-130051473.html",
       "type": "extreme"
     },
     {
-      "title": "Brown-Forman (BF-B) Struggles with Weak Spirits Demand and Canada Headwinds",
+      "title": "Acquisitive Strategy Offers Long-Term Prospects for QXO Inc. (QXO) Despite Dilution and Integration Risks",
       "summary": "",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/brown-forman-bf-b-struggles-015117197.html",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/acquisitive-strategy-offers-long-term-125906273.html",
       "type": "warning"
     },
     {
-      "title": "PG&amp;E (PCG)’s $2 Billion Spending Deferral Raises Questions Over its Growth Outlook",
+      "title": "‘Wow, wow, wow!’: CNBC host clearly shocked after US economy adds 162,000 jobs — 3X expectations. Bet on America now",
       "summary": "",
-      "url": "https://finance.yahoo.com/energy/articles/pg-e-pcg-2-billion-014952917.html",
+      "url": "https://finance.yahoo.com/economy/articles/wow-wow-wow-cnbc-host-124500252.html",
       "type": "info"
     }
   ],
@@ -39,19 +39,19 @@
     },
     {
       "title": "10Y - 2Y Spread",
-      "value": "0.43%",
+      "value": "0.41%",
       "status": "Steepening - slower growth",
       "type": "warning"
     },
     {
       "title": "10Y Treasury Rate",
-      "value": "4.79%",
+      "value": "4.77%",
       "status": "High - energy-driven inflation",
       "type": "warning"
     },
     {
       "title": "2Y Treasury Rate",
-      "value": "4.39%",
+      "value": "4.34%",
       "status": "Elevated - higher-for-longer stance",
       "type": "warning"
     },
@@ -299,8 +299,38 @@
       "category": "Frontier Model Race & Breakthroughs",
       "items": [
         {
+          "title": "AI handles incidents, engineers lose touch with their systems",
+          "summary": "Latest AI discussion on Hacker News: AI handles incidents, engineers lose touch with their systems. Points: 214. (Source: Hacker News)",
+          "url": "https://www.sylvainkalache.com/blog/ai-handles-incidents-engineers-lose-touch-with-their-systems"
+        },
+        {
+          "title": "Can AI design circuit boards yet?",
+          "summary": "Latest AI discussion on Hacker News: Can AI design circuit boards yet?. Points: 289. (Source: Hacker News)",
+          "url": "https://eebench.org/blog/can-ai-design-circuit-boards-yet/"
+        },
+        {
+          "title": "Corporate America is getting hooked on open-source AI",
+          "summary": "Latest AI discussion on Hacker News: Corporate America is getting hooked on open-source AI. Points: 302. (Source: Hacker News)",
+          "url": "https://www.nytimes.com/2026/09/04/technology/open-source-ai-anthropic-openai.html"
+        },
+        {
+          "title": "Apple Vision Pro scrubs into surgery",
+          "summary": "PLUS: AI futurist Ray Kurzweil joins neurotech startup Subsense...",
+          "url": "https://www.therundown.ai/articles/apple-vision-pro-scrubs-into-surgery"
+        },
+        {
+          "title": "Google AI Mode shows same products 21.6% more expensive than traditional search",
+          "summary": "Latest AI discussion on Hacker News: Google AI Mode shows same products 21.6% more expensive than traditional search. Points: 387. (Source: Hacker News)",
+          "url": "https://productrise.app/blog/google-ai-mode-prefers-more-expensive-products"
+        }
+      ]
+    },
+    {
+      "category": "Enterprise & Agentic AI",
+      "items": [
+        {
           "title": "OpenAI agents hijacked German website in previously undisclosed AI breakout",
-          "summary": "Latest AI discussion on Hacker News: OpenAI agents hijacked German website in previously undisclosed AI breakout. Points: 78. (Source: Hacker News)",
+          "summary": "Latest AI discussion on Hacker News: OpenAI agents hijacked German website in previously undisclosed AI breakout. Points: 93. (Source: Hacker News)",
           "url": "https://www.reuters.com/world/europe/openai-agents-hijacked-german-website-previously-undisclosed-ai-breakout-this-2026-09-04/"
         },
         {
@@ -309,49 +339,19 @@
           "url": "https://www.therundown.ai/articles/openai-generational-leap-with-gpt-6-astra"
         },
         {
+          "title": "NYC mayor Mamdani imposes 1 year ban on AI for schools through 8th grade",
+          "summary": "Latest AI discussion on Hacker News: NYC mayor Mamdani imposes 1 year ban on AI for schools through 8th grade. Points: 46. (Source: Hacker News)",
+          "url": "https://www.nyc.gov/mayors-office/news/2026/09/mayor-mamdani-and-chancellor-samuels-put-students-first-with-nat"
+        },
+        {
+          "title": "Protecting Engineers' Skills in the AI Era",
+          "summary": "Latest AI discussion on Hacker News: Protecting Engineers' Skills in the AI Era. Points: 35. (Source: Hacker News)",
+          "url": "https://spectrum.ieee.org/ai-engineer-skills"
+        },
+        {
           "title": "Sanders introduces bill to ban artificial superintelligence and pause AI",
-          "summary": "Latest AI discussion on Hacker News: Sanders introduces bill to ban artificial superintelligence and pause AI. Points: 60. (Source: Hacker News)",
+          "summary": "Latest AI discussion on Hacker News: Sanders introduces bill to ban artificial superintelligence and pause AI. Points: 61. (Source: Hacker News)",
           "url": "https://www.sanders.senate.gov/press-releases/news-sanders-casar-introduce-legislation-to-ban-artificial-superintelligence-and-temporarily-pause-advanced-ai-development/"
-        },
-        {
-          "title": "Uber beats Waymo to London",
-          "summary": "PLUS: OpenAI 'will definitely' build humanoids...",
-          "url": "https://www.therundown.ai/articles/uber-beats-waymo-to-london"
-        },
-        {
-          "title": "A dark horse enters China's AI race: StartLux",
-          "summary": "Latest AI discussion on Hacker News: A dark horse enters China's AI race: StartLux. Points: 54. (Source: Hacker News)",
-          "url": "https://chinaonchina.com/article/chen-dawei-returns-enters-the-large-model-sector"
-        }
-      ]
-    },
-    {
-      "category": "Enterprise & Agentic AI",
-      "items": [
-        {
-          "title": "Meta, Google join the AI launch party",
-          "summary": "PLUS: Nail job interviews with the “Proof Project” method...",
-          "url": "https://www.therundown.ai/articles/meta-google-join-the-ai-launch-party"
-        },
-        {
-          "title": "Go grandmaster Shin defeats AI KataGo with a two-stone handicap",
-          "summary": "Latest AI discussion on Hacker News: Go grandmaster Shin defeats AI KataGo with a two-stone handicap. Points: 386. (Source: Hacker News)",
-          "url": "https://www.kedglobal.com/artificial-intelligence/newsView/ked202607210007"
-        },
-        {
-          "title": "Mamdani bans AI in NYC schools",
-          "summary": "Latest AI discussion on Hacker News: Mamdani bans AI in NYC schools. Points: 213. (Source: Hacker News)",
-          "url": "https://www.nytimes.com/2026/09/01/nyregion/ai-ban-schools-nyc.html"
-        },
-        {
-          "title": "AI Agents and the Refactoring That Never Happens",
-          "summary": "Latest AI discussion on Hacker News: AI Agents and the Refactoring That Never Happens. Points: 49. (Source: Hacker News)",
-          "url": "https://www.rosenfeld.page/articles/programming/2026_09_02_ai_agents_and_the_refactoring_that_never_happens/"
-        },
-        {
-          "title": "The Post-AI Internet Doesn't Look Great",
-          "summary": "Latest AI discussion on Hacker News: The Post-AI Internet Doesn't Look Great. Points: 74. (Source: Hacker News)",
-          "url": "https://www.jordangoodman.xyz/the-post-ai-internet-doesnt-look-great/"
         }
       ]
     },
