@@ -1,26 +1,26 @@
 {
-  "lastUpdated": "September 8, 2026",
+  "lastUpdated": "September 9, 2026",
   "executiveSummary": [
-    "As of September 8, 2026, the U.S. macroeconomic environment is navigating a complex period of high interest rates and shifting labor market dynamics. With the Fed Funds Rate holding at 3.63% and CPI inflation tracking at 3.30%, the central bank continues its \"higher-for-longer\" stance to anchor inflation expectations. Recent headlines such as \"Bond yield worries persist as oil edges higher : AlphaCheck\" suggest that market participants remain hypersensitive to every data print, particularly around corporate earnings and consumer spending resilience.",
-    "The labor market, a key pillar of support, shows 206,000 initial jobless claims, reflecting a relatively stable but cooling employment landscape. Geopolitically, events like \"Stock Market Today: Dow Sells Off 500 Points On U.S.-Iran Attacks; SK Hynix Breaks Out (Live Coverage)\" introduce exogenous risks that could disrupt global energy supplies and re-ignite inflationary impulses, keeping the Federal Reserve in a defensive posture as they balance growth against price stability. Analysts are closely watching for any signs of a \"hard landing\" as the effects of previous tightening cycles continue to filter through the real economy."
+    "As of September 9, 2026, the U.S. macroeconomic environment is navigating a complex period of high interest rates and shifting labor market dynamics. With the Fed Funds Rate holding at 3.63% and CPI inflation tracking at 3.30%, the central bank continues its \"higher-for-longer\" stance to anchor inflation expectations. Recent headlines such as \"Andersen Global adds new member practice to French network\" suggest that market participants remain hypersensitive to every data print, particularly around corporate earnings and consumer spending resilience.",
+    "The labor market, a key pillar of support, shows 206,000 initial jobless claims, reflecting a relatively stable but cooling employment landscape. Geopolitically, events like \"Oil Prices Jump, Treasury Yields Firm With Bessent Set To Calm 'Fever'\" introduce exogenous risks that could disrupt global energy supplies and re-ignite inflationary impulses, keeping the Federal Reserve in a defensive posture as they balance growth against price stability. Analysts are closely watching for any signs of a \"hard landing\" as the effects of previous tightening cycles continue to filter through the real economy."
   ],
   "dailyHeadlines": [
     {
-      "title": "Bond yield worries persist as oil edges higher : AlphaCheck",
+      "title": "Andersen Global adds new member practice to French network",
       "summary": "",
-      "url": "https://finance.yahoo.com/markets/article/bond-yield-worries-persist-as-oil-edges-higher--alphacheck-135158227.html",
+      "url": "https://finance.yahoo.com/small-business/articles/andersen-global-adds-member-practice-135312383.html",
       "type": "extreme"
     },
     {
-      "title": "Stock Market Today: Dow Sells Off 500 Points On U.S.-Iran Attacks; SK Hynix Breaks Out (Live Coverage)",
+      "title": "Oil Prices Jump, Treasury Yields Firm With Bessent Set To Calm 'Fever'",
       "summary": "",
-      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-us-iran-attacks-oil-prices-jump-brent-crude/?src=A00220&amp;yptr=yahoo",
+      "url": "https://www.investors.com/news/treasury-yields-bessent-buyback-sp-500-gold-oil-prices/?src=A00220&amp;yptr=yahoo",
       "type": "warning"
     },
     {
-      "title": "GE Aerospace To Buy Key Industry Castings Supplier CPP For Nearly $12 Billion",
+      "title": "Premium Flattening Hits Kinsale Capital Group (KNSL) Stock Performance",
       "summary": "",
-      "url": "https://www.investors.com/news/ge-aerospace-acquisition-precision-products-castings-capacity-deal-ge-stock/?src=A00220&amp;yptr=yahoo",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/premium-flattening-hits-kinsale-capital-134443876.html",
       "type": "info"
     }
   ],
@@ -45,13 +45,13 @@
     },
     {
       "title": "10Y Treasury Rate",
-      "value": "4.77%",
+      "value": "4.78%",
       "status": "High - energy-driven inflation",
       "type": "warning"
     },
     {
       "title": "2Y Treasury Rate",
-      "value": "4.34%",
+      "value": "4.37%",
       "status": "Elevated - higher-for-longer stance",
       "type": "warning"
     },
@@ -299,29 +299,29 @@
       "category": "Frontier Model Race & Breakthroughs",
       "items": [
         {
-          "title": "Inside OpenAI's agent-powered research boom",
-          "summary": "PLUS: Turn a family scheduler idea into an app with Astra...",
-          "url": "https://www.therundown.ai/articles/inside-openai-agent-powered-research-boom"
+          "title": "How An AI math breakthrough ignited a controversy",
+          "summary": "Latest AI discussion on Hacker News: How An AI math breakthrough ignited a controversy. Points: 162. (Source: Hacker News)",
+          "url": "https://www.science.org/content/article/how-ai-math-breakthrough-ignited-controversy"
         },
         {
-          "title": "Arm Mali G2-Ultra NX GPU: desktop-class mobile gameplay with AI-native graphics",
-          "summary": "Latest AI discussion on Hacker News: Arm Mali G2-Ultra NX GPU: desktop-class mobile gameplay with AI-native graphics. Points: 67. (Source: Hacker News)",
-          "url": "https://newsroom.arm.com/blog/arm-mali-g2-ultra-nx-ai-native-mobile-graphics"
+          "title": "OpenAI's secret model settles a $1M math problem",
+          "summary": "PLUS: Find out where your brand appears in AI search...",
+          "url": "https://www.therundown.ai/articles/openai-secret-model-settles-a-1m-math-problem"
         },
         {
-          "title": "AI Cold Showers",
-          "summary": "Latest AI discussion on Hacker News: AI Cold Showers. Points: 75. (Source: Hacker News)",
-          "url": "https://allan.reyes.sh/posts/ai-cold-showers/"
+          "title": "AI Responsibility – OpenAI and Anthropic",
+          "summary": "Latest AI discussion on Hacker News: AI Responsibility – OpenAI and Anthropic. Points: 84. (Source: Hacker News)",
+          "url": "https://twitter.com/hilbertspaess/status/2097476196791709843"
         },
         {
-          "title": "AI models ran real businesses: They sent $12,431 in fake invoices, lost $3,200",
-          "summary": "Latest AI discussion on Hacker News: AI models ran real businesses: They sent $12,431 in fake invoices, lost $3,200. Points: 100. (Source: Hacker News)",
-          "url": "https://www.bottlenecklabs.com/blog/benchmarking-7-autonomous-businesses"
+          "title": "Tao: Open math problems being non-renewably mined by AI",
+          "summary": "Latest AI discussion on Hacker News: Tao: Open math problems being non-renewably mined by AI. Points: 427. (Source: Hacker News)",
+          "url": "https://mathstodon.xyz/@tao/117237320796901560"
         },
         {
-          "title": "A catwalk at IFA, but for robots",
-          "summary": "PLUS: Figure's humanoid play gets a compute boost...",
-          "url": "https://www.therundown.ai/articles/a-catwalk-at-ifa-but-for-robots"
+          "title": "Muse – Meta’s personal AI agent",
+          "summary": "Latest AI discussion on Hacker News: Muse – Meta’s personal AI agent. Points: 570. (Source: Hacker News)",
+          "url": "https://ai.meta.com/muse/"
         }
       ]
     },
@@ -329,29 +329,29 @@
       "category": "Enterprise & Agentic AI",
       "items": [
         {
-          "title": "Initial effects of AI technology on employment look positive",
-          "summary": "Latest AI discussion on Hacker News: Initial effects of AI technology on employment look positive. Points: 91. (Source: Hacker News)",
-          "url": "https://www.economist.com/finance-and-economics/2026/09/04/the-jobs-apocalypse-is-postponed-an-ai-jobs-boom-is-here"
+          "title": "Flights cancelled at UK airports due to ATC issue",
+          "summary": "Latest AI discussion on Hacker News: Flights cancelled at UK airports due to ATC issue. Points: 125. (Source: Hacker News)",
+          "url": "https://www.bbc.com/news/live/c6x2z0yy32ejt"
         },
         {
-          "title": "Another OpenAI agent swarm surfaces",
-          "summary": "PLUS: Build a Lindy Agent that never drops a follow-up...",
-          "url": "https://www.therundown.ai/articles/another-openai-agent-swarm-surfaces"
+          "title": "Apple unfolds its decade-long iPhone",
+          "summary": "PLUS: Australia wants algorithms to be optional...",
+          "url": "https://www.therundown.ai/articles/apple-unfolds-its-decade-long-iphone"
         },
         {
-          "title": "Show HN: Engrim – A universal, local-first SQLite memory engine for AI CLIs",
-          "summary": "Latest AI discussion on Hacker News: Show HN: Engrim – A universal, local-first SQLite memory engine for AI CLIs. Points: 89. (Source: Hacker News)",
-          "url": "https://github.com/timgordontg/engrim"
+          "title": "LibreOffice breaks download records after declaring it has no AI features",
+          "summary": "Latest AI discussion on Hacker News: LibreOffice breaks download records after declaring it has no AI features. Points: 691. (Source: Hacker News)",
+          "url": "https://manualdousuario.net/en/libreoffice-download-record-no-ai/"
         },
         {
-          "title": "I refused to train the AI that could replace me",
-          "summary": "Latest AI discussion on Hacker News: I refused to train the AI that could replace me. Points: 95. (Source: Hacker News)",
-          "url": "https://restofworld.org/2026/ai-training-jobs-expert-replacement/"
+          "title": "We Must Return to the Office to Use AI in Person",
+          "summary": "Latest AI discussion on Hacker News: We Must Return to the Office to Use AI in Person. Points: 381. (Source: Hacker News)",
+          "url": "https://www.mcsweeneys.net/articles/why-we-must-return-to-the-office-to-use-ai-in-person"
         },
         {
-          "title": "'RAMageddon' hits consumer electronics as AI drains chip supply",
-          "summary": "Latest AI discussion on Hacker News: 'RAMageddon' hits consumer electronics as AI drains chip supply. Points: 27. (Source: Hacker News)",
-          "url": "https://www.ft.com/content/ea9a9dcc-b1df-49b0-b80c-f320161b9efa"
+          "title": "Inside OpenAI's agent-powered research boom",
+          "summary": "PLUS: Turn a family scheduler idea into an app with Astra...",
+          "url": "https://www.therundown.ai/articles/inside-openai-agent-powered-research-boom"
         }
       ]
     },
