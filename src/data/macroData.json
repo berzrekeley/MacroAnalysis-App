@@ -1,26 +1,26 @@
 {
-  "lastUpdated": "September 9, 2026",
+  "lastUpdated": "September 10, 2026",
   "executiveSummary": [
-    "As of September 9, 2026, the U.S. macroeconomic environment is navigating a complex period of high interest rates and shifting labor market dynamics. With the Fed Funds Rate holding at 3.63% and CPI inflation tracking at 3.30%, the central bank continues its \"higher-for-longer\" stance to anchor inflation expectations. Recent headlines such as \"Andersen Global adds new member practice to French network\" suggest that market participants remain hypersensitive to every data print, particularly around corporate earnings and consumer spending resilience.",
-    "The labor market, a key pillar of support, shows 206,000 initial jobless claims, reflecting a relatively stable but cooling employment landscape. Geopolitically, events like \"Oil Prices Jump, Treasury Yields Firm With Bessent Set To Calm 'Fever'\" introduce exogenous risks that could disrupt global energy supplies and re-ignite inflationary impulses, keeping the Federal Reserve in a defensive posture as they balance growth against price stability. Analysts are closely watching for any signs of a \"hard landing\" as the effects of previous tightening cycles continue to filter through the real economy."
+    "As of September 10, 2026, the U.S. macroeconomic environment is navigating a complex period of high interest rates and shifting labor market dynamics. With the Fed Funds Rate holding at 3.63% and CPI inflation tracking at 3.30%, the central bank continues its \"higher-for-longer\" stance to anchor inflation expectations. Recent headlines such as \"US “clear protein” drinks firm Protein2o names new CEO\" suggest that market participants remain hypersensitive to every data print, particularly around corporate earnings and consumer spending resilience.",
+    "The labor market, a key pillar of support, shows 206,000 initial jobless claims, reflecting a relatively stable but cooling employment landscape. Geopolitically, events like \"10-year treasury at highest level since 2023 as oil prices jump to $105: Chart of the Day\" introduce exogenous risks that could disrupt global energy supplies and re-ignite inflationary impulses, keeping the Federal Reserve in a defensive posture as they balance growth against price stability. Analysts are closely watching for any signs of a \"hard landing\" as the effects of previous tightening cycles continue to filter through the real economy."
   ],
   "dailyHeadlines": [
     {
-      "title": "Andersen Global adds new member practice to French network",
+      "title": "US “clear protein” drinks firm Protein2o names new CEO",
       "summary": "",
-      "url": "https://finance.yahoo.com/small-business/articles/andersen-global-adds-member-practice-135312383.html",
+      "url": "https://finance.yahoo.com/small-business/articles/us-clear-protein-drinks-firm-135611225.html",
       "type": "extreme"
     },
     {
-      "title": "Oil Prices Jump, Treasury Yields Firm With Bessent Set To Calm 'Fever'",
+      "title": "10-year treasury at highest level since 2023 as oil prices jump to $105: Chart of the Day",
       "summary": "",
-      "url": "https://www.investors.com/news/treasury-yields-bessent-buyback-sp-500-gold-oil-prices/?src=A00220&amp;yptr=yahoo",
+      "url": "https://finance.yahoo.com/markets/article/10-year-treasury-at-highest-level-since-2023-as-oil-prices-jump-to-105-chart-of-the-day-134740387.html",
       "type": "warning"
     },
     {
-      "title": "Premium Flattening Hits Kinsale Capital Group (KNSL) Stock Performance",
+      "title": "How The Elmet Group Co. (ELMT) Is Bolstering the Military Supply Chain",
       "summary": "",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/premium-flattening-hits-kinsale-capital-134443876.html",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/elmet-group-co-elmt-bolstering-134707702.html",
       "type": "info"
     }
   ],
@@ -39,19 +39,19 @@
     },
     {
       "title": "10Y - 2Y Spread",
-      "value": "0.41%",
+      "value": "0.40%",
       "status": "Steepening - slower growth",
       "type": "warning"
     },
     {
       "title": "10Y Treasury Rate",
-      "value": "4.78%",
+      "value": "4.80%",
       "status": "High - energy-driven inflation",
       "type": "warning"
     },
     {
       "title": "2Y Treasury Rate",
-      "value": "4.37%",
+      "value": "4.39%",
       "status": "Elevated - higher-for-longer stance",
       "type": "warning"
     },
@@ -299,29 +299,29 @@
       "category": "Frontier Model Race & Breakthroughs",
       "items": [
         {
+          "title": "An Anthropic exit becomes an extinction debate",
+          "summary": "PLUS: Make your website easier for AI to find and cite pt. 2...",
+          "url": "https://www.therundown.ai/articles/an-anthropic-exit-becomes-an-extinction-debate"
+        },
+        {
+          "title": "A Stupid Idea for AI Alignment We Came with by Looking at Specification Gaming",
+          "summary": "Latest AI discussion on Hacker News: A Stupid Idea for AI Alignment We Came with by Looking at Specification Gaming. Points: 85. (Source: Hacker News)",
+          "url": "https://slimemoldtimemold.com/2026/08/05/a-stupid-idea-for-ai-alignment-we-came-up-with-by-looking-at-the-list-of-specification-gaming-behaviours/"
+        },
+        {
+          "title": "Muse, the band, lost its social media handles to Muse, Meta's new AI agent",
+          "summary": "Latest AI discussion on Hacker News: Muse, the band, lost its social media handles to Muse, Meta's new AI agent. Points: 183. (Source: Hacker News)",
+          "url": "https://www.engadget.com/2254419/muse-the-band-lost-its-social-media-handles-to-muse-meta-s-new-ai-agent/"
+        },
+        {
+          "title": "AirPods 5",
+          "summary": "Latest AI discussion on Hacker News: AirPods 5. Points: 486. (Source: Hacker News)",
+          "url": "https://www.apple.com/newsroom/2026/09/apple-introduces-airpods-5-with-best-in-class-open-ear-active-noise-cancellation/"
+        },
+        {
           "title": "How An AI math breakthrough ignited a controversy",
-          "summary": "Latest AI discussion on Hacker News: How An AI math breakthrough ignited a controversy. Points: 162. (Source: Hacker News)",
+          "summary": "Latest AI discussion on Hacker News: How An AI math breakthrough ignited a controversy. Points: 219. (Source: Hacker News)",
           "url": "https://www.science.org/content/article/how-ai-math-breakthrough-ignited-controversy"
-        },
-        {
-          "title": "OpenAI's secret model settles a $1M math problem",
-          "summary": "PLUS: Find out where your brand appears in AI search...",
-          "url": "https://www.therundown.ai/articles/openai-secret-model-settles-a-1m-math-problem"
-        },
-        {
-          "title": "AI Responsibility – OpenAI and Anthropic",
-          "summary": "Latest AI discussion on Hacker News: AI Responsibility – OpenAI and Anthropic. Points: 84. (Source: Hacker News)",
-          "url": "https://twitter.com/hilbertspaess/status/2097476196791709843"
-        },
-        {
-          "title": "Tao: Open math problems being non-renewably mined by AI",
-          "summary": "Latest AI discussion on Hacker News: Tao: Open math problems being non-renewably mined by AI. Points: 427. (Source: Hacker News)",
-          "url": "https://mathstodon.xyz/@tao/117237320796901560"
-        },
-        {
-          "title": "Muse – Meta’s personal AI agent",
-          "summary": "Latest AI discussion on Hacker News: Muse – Meta’s personal AI agent. Points: 570. (Source: Hacker News)",
-          "url": "https://ai.meta.com/muse/"
         }
       ]
     },
@@ -329,29 +329,29 @@
       "category": "Enterprise & Agentic AI",
       "items": [
         {
-          "title": "Flights cancelled at UK airports due to ATC issue",
-          "summary": "Latest AI discussion on Hacker News: Flights cancelled at UK airports due to ATC issue. Points: 125. (Source: Hacker News)",
-          "url": "https://www.bbc.com/news/live/c6x2z0yy32ejt"
+          "title": "OpenAI's secret model settles a $1M math problem",
+          "summary": "PLUS: Find out where your brand appears in AI search...",
+          "url": "https://www.therundown.ai/articles/openai-secret-model-settles-a-1m-math-problem"
         },
         {
-          "title": "Apple unfolds its decade-long iPhone",
-          "summary": "PLUS: Australia wants algorithms to be optional...",
-          "url": "https://www.therundown.ai/articles/apple-unfolds-its-decade-long-iphone"
+          "title": "Gambling with our lives: AI researcher quits Anthropic with warning about safety",
+          "summary": "Latest AI discussion on Hacker News: Gambling with our lives: AI researcher quits Anthropic with warning about safety. Points: 81. (Source: Hacker News)",
+          "url": "https://www.politico.eu/article/anthropic-openai-researcher-jacob-coxon-warns-ai-could-kill-humans/"
         },
         {
-          "title": "LibreOffice breaks download records after declaring it has no AI features",
-          "summary": "Latest AI discussion on Hacker News: LibreOffice breaks download records after declaring it has no AI features. Points: 691. (Source: Hacker News)",
-          "url": "https://manualdousuario.net/en/libreoffice-download-record-no-ai/"
+          "title": "AI Responsibility – OpenAI and Anthropic",
+          "summary": "Latest AI discussion on Hacker News: AI Responsibility – OpenAI and Anthropic. Points: 89. (Source: Hacker News)",
+          "url": "https://twitter.com/hilbertspaess/status/2097476196791709843"
         },
         {
-          "title": "We Must Return to the Office to Use AI in Person",
-          "summary": "Latest AI discussion on Hacker News: We Must Return to the Office to Use AI in Person. Points: 381. (Source: Hacker News)",
-          "url": "https://www.mcsweeneys.net/articles/why-we-must-return-to-the-office-to-use-ai-in-person"
+          "title": "Tao: Open math problems being non-renewably mined by AI",
+          "summary": "Latest AI discussion on Hacker News: Tao: Open math problems being non-renewably mined by AI. Points: 476. (Source: Hacker News)",
+          "url": "https://mathstodon.xyz/@tao/117237320796901560"
         },
         {
-          "title": "Inside OpenAI's agent-powered research boom",
-          "summary": "PLUS: Turn a family scheduler idea into an app with Astra...",
-          "url": "https://www.therundown.ai/articles/inside-openai-agent-powered-research-boom"
+          "title": "Muse – Meta’s personal AI agent",
+          "summary": "Latest AI discussion on Hacker News: Muse – Meta’s personal AI agent. Points: 647. (Source: Hacker News)",
+          "url": "https://ai.meta.com/muse/"
         }
       ]
     },
