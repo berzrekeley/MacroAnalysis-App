@@ -1,26 +1,26 @@
 {
-  "lastUpdated": "September 10, 2026",
+  "lastUpdated": "September 11, 2026",
   "executiveSummary": [
-    "As of September 10, 2026, the U.S. macroeconomic environment is navigating a complex period of high interest rates and shifting labor market dynamics. With the Fed Funds Rate holding at 3.63% and CPI inflation tracking at 3.30%, the central bank continues its \"higher-for-longer\" stance to anchor inflation expectations. Recent headlines such as \"US “clear protein” drinks firm Protein2o names new CEO\" suggest that market participants remain hypersensitive to every data print, particularly around corporate earnings and consumer spending resilience.",
-    "The labor market, a key pillar of support, shows 206,000 initial jobless claims, reflecting a relatively stable but cooling employment landscape. Geopolitically, events like \"10-year treasury at highest level since 2023 as oil prices jump to $105: Chart of the Day\" introduce exogenous risks that could disrupt global energy supplies and re-ignite inflationary impulses, keeping the Federal Reserve in a defensive posture as they balance growth against price stability. Analysts are closely watching for any signs of a \"hard landing\" as the effects of previous tightening cycles continue to filter through the real economy."
+    "As of September 11, 2026, the U.S. macroeconomic environment is navigating a complex period of high interest rates and shifting labor market dynamics. With the Fed Funds Rate holding at 3.63% and CPI inflation tracking at 3.35%, the central bank continues its \"higher-for-longer\" stance to anchor inflation expectations. Recent headlines such as \"Popular women's clothing chain closes 177 stores\" suggest that market participants remain hypersensitive to every data print, particularly around corporate earnings and consumer spending resilience.",
+    "The labor market, a key pillar of support, shows 206,000 initial jobless claims, reflecting a relatively stable but cooling employment landscape. Geopolitically, events like \"NIO (NIO) Narrows Its Losses, But Can It Keep This Up?\" introduce exogenous risks that could disrupt global energy supplies and re-ignite inflationary impulses, keeping the Federal Reserve in a defensive posture as they balance growth against price stability. Analysts are closely watching for any signs of a \"hard landing\" as the effects of previous tightening cycles continue to filter through the real economy."
   ],
   "dailyHeadlines": [
     {
-      "title": "US “clear protein” drinks firm Protein2o names new CEO",
+      "title": "Popular women's clothing chain closes 177 stores",
       "summary": "",
-      "url": "https://finance.yahoo.com/small-business/articles/us-clear-protein-drinks-firm-135611225.html",
+      "url": "https://finance.yahoo.com/small-business/articles/popular-womens-clothing-chain-closes-231700943.html",
       "type": "extreme"
     },
     {
-      "title": "10-year treasury at highest level since 2023 as oil prices jump to $105: Chart of the Day",
+      "title": "NIO (NIO) Narrows Its Losses, But Can It Keep This Up?",
       "summary": "",
-      "url": "https://finance.yahoo.com/markets/article/10-year-treasury-at-highest-level-since-2023-as-oil-prices-jump-to-105-chart-of-the-day-134740387.html",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/nio-nio-narrows-losses-keep-022554180.html",
       "type": "warning"
     },
     {
-      "title": "How The Elmet Group Co. (ELMT) Is Bolstering the Military Supply Chain",
+      "title": "Medtronic’s (MDT) Heart Devices Are Suddenly Outgrowing The Rest Of Med-Tech",
       "summary": "",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/elmet-group-co-elmt-bolstering-134707702.html",
+      "url": "https://finance.yahoo.com/healthcare/articles/medtronic-mdt-heart-devices-suddenly-021839780.html",
       "type": "info"
     }
   ],
@@ -39,19 +39,19 @@
     },
     {
       "title": "10Y - 2Y Spread",
-      "value": "0.40%",
+      "value": "0.39%",
       "status": "Steepening - slower growth",
       "type": "warning"
     },
     {
       "title": "10Y Treasury Rate",
-      "value": "4.80%",
+      "value": "4.83%",
       "status": "High - energy-driven inflation",
       "type": "warning"
     },
     {
       "title": "2Y Treasury Rate",
-      "value": "4.39%",
+      "value": "4.43%",
       "status": "Elevated - higher-for-longer stance",
       "type": "warning"
     },
@@ -93,18 +93,25 @@
     },
     {
       "title": "CPI (YoY)",
-      "value": "3.30%",
+      "value": "3.35%",
       "status": "Stable - tracking within range",
       "type": "neutral"
     }
   ],
   "adpWeeklyData": [
     {
+      "week": "Sep 5",
+      "fullDate": "Sep 5, 2026",
+      "number": 206000,
+      "delta": -1000,
+      "deltaPct": -0.48
+    },
+    {
       "week": "Aug 29",
       "fullDate": "Aug 29, 2026",
-      "number": 206000,
-      "delta": 2000,
-      "deltaPct": 0.98
+      "number": 207000,
+      "delta": 3000,
+      "deltaPct": 1.47
     },
     {
       "week": "Aug 22",
@@ -201,13 +208,6 @@
       "week": "May 23",
       "fullDate": "May 23, 2026",
       "number": 212000,
-      "delta": 2000,
-      "deltaPct": 0.95
-    },
-    {
-      "week": "May 16",
-      "fullDate": "May 16, 2026",
-      "number": 210000,
       "delta": 0,
       "deltaPct": 0
     }
@@ -299,29 +299,29 @@
       "category": "Frontier Model Race & Breakthroughs",
       "items": [
         {
-          "title": "An Anthropic exit becomes an extinction debate",
-          "summary": "PLUS: Make your website easier for AI to find and cite pt. 2...",
-          "url": "https://www.therundown.ai/articles/an-anthropic-exit-becomes-an-extinction-debate"
+          "title": "Ask HN: Can we please limit the AI news flood?",
+          "summary": "Latest AI discussion on Hacker News: Ask HN: Can we please limit the AI news flood?. Points: 209. (Source: Hacker News)",
+          "url": "https://news.ycombinator.com/item?id=49657850"
         },
         {
-          "title": "A Stupid Idea for AI Alignment We Came with by Looking at Specification Gaming",
-          "summary": "Latest AI discussion on Hacker News: A Stupid Idea for AI Alignment We Came with by Looking at Specification Gaming. Points: 85. (Source: Hacker News)",
-          "url": "https://slimemoldtimemold.com/2026/08/05/a-stupid-idea-for-ai-alignment-we-came-up-with-by-looking-at-the-list-of-specification-gaming-behaviours/"
+          "title": "The Waymo effect: how AI is quietly making research less collaborative",
+          "summary": "Latest AI discussion on Hacker News: The Waymo effect: how AI is quietly making research less collaborative. Points: 196. (Source: Hacker News)",
+          "url": "https://www.researchagenda.news/articles/the-waymo-effect.html"
         },
         {
-          "title": "Muse, the band, lost its social media handles to Muse, Meta's new AI agent",
-          "summary": "Latest AI discussion on Hacker News: Muse, the band, lost its social media handles to Muse, Meta's new AI agent. Points: 183. (Source: Hacker News)",
-          "url": "https://www.engadget.com/2254419/muse-the-band-lost-its-social-media-handles-to-muse-meta-s-new-ai-agent/"
+          "title": "Anthropic opens the files on global Claude misuse",
+          "summary": "PLUS: How Rowan used Astra to redo his wardrobe...",
+          "url": "https://www.therundown.ai/articles/anthropic-opens-the-files-on-global-claude-misuse"
         },
         {
-          "title": "AirPods 5",
-          "summary": "Latest AI discussion on Hacker News: AirPods 5. Points: 486. (Source: Hacker News)",
-          "url": "https://www.apple.com/newsroom/2026/09/apple-introduces-airpods-5-with-best-in-class-open-ear-active-noise-cancellation/"
+          "title": "Thelio Mira AI Linux Workstation: 192 GB GPU Memory",
+          "summary": "Latest AI discussion on Hacker News: Thelio Mira AI Linux Workstation: 192 GB GPU Memory. Points: 116. (Source: Hacker News)",
+          "url": "https://system76.com/workstations/thelio-mira-ai"
         },
         {
-          "title": "How An AI math breakthrough ignited a controversy",
-          "summary": "Latest AI discussion on Hacker News: How An AI math breakthrough ignited a controversy. Points: 219. (Source: Hacker News)",
-          "url": "https://www.science.org/content/article/how-ai-math-breakthrough-ignited-controversy"
+          "title": "Detecting and countering misuse of AI: September 2026",
+          "summary": "Latest AI discussion on Hacker News: Detecting and countering misuse of AI: September 2026. Points: 151. (Source: Hacker News)",
+          "url": "https://www.anthropic.com/threat-intelligence-report-september-2026"
         }
       ]
     },
@@ -329,29 +329,29 @@
       "category": "Enterprise & Agentic AI",
       "items": [
         {
-          "title": "OpenAI's secret model settles a $1M math problem",
-          "summary": "PLUS: Find out where your brand appears in AI search...",
-          "url": "https://www.therundown.ai/articles/openai-secret-model-settles-a-1m-math-problem"
+          "title": "Tesla’s Cybercab is already getting weird",
+          "summary": "PLUS: A Boston Dynamics spinout emerges from stealth...",
+          "url": "https://www.therundown.ai/articles/tesla-cybercab-is-already-getting-weird"
         },
         {
-          "title": "Gambling with our lives: AI researcher quits Anthropic with warning about safety",
-          "summary": "Latest AI discussion on Hacker News: Gambling with our lives: AI researcher quits Anthropic with warning about safety. Points: 81. (Source: Hacker News)",
-          "url": "https://www.politico.eu/article/anthropic-openai-researcher-jacob-coxon-warns-ai-could-kill-humans/"
+          "title": "AI Is Breaking This Thing We Call Trust",
+          "summary": "Latest AI discussion on Hacker News: AI Is Breaking This Thing We Call Trust. Points: 99. (Source: Hacker News)",
+          "url": "https://terriblesoftware.org/2026/09/10/ai-is-breaking-this-thing-we-call-trust/"
         },
         {
-          "title": "AI Responsibility – OpenAI and Anthropic",
-          "summary": "Latest AI discussion on Hacker News: AI Responsibility – OpenAI and Anthropic. Points: 89. (Source: Hacker News)",
-          "url": "https://twitter.com/hilbertspaess/status/2097476196791709843"
+          "title": "An Anthropic exit becomes an extinction debate",
+          "summary": "PLUS: Make your website easier for AI to find and cite pt. 2...",
+          "url": "https://www.therundown.ai/articles/an-anthropic-exit-becomes-an-extinction-debate"
         },
         {
-          "title": "Tao: Open math problems being non-renewably mined by AI",
-          "summary": "Latest AI discussion on Hacker News: Tao: Open math problems being non-renewably mined by AI. Points: 476. (Source: Hacker News)",
-          "url": "https://mathstodon.xyz/@tao/117237320796901560"
+          "title": "A Stupid Idea for AI Alignment We Came with by Looking at Specification Gaming",
+          "summary": "Latest AI discussion on Hacker News: A Stupid Idea for AI Alignment We Came with by Looking at Specification Gaming. Points: 94. (Source: Hacker News)",
+          "url": "https://slimemoldtimemold.com/2026/08/05/a-stupid-idea-for-ai-alignment-we-came-up-with-by-looking-at-the-list-of-specification-gaming-behaviours/"
         },
         {
-          "title": "Muse – Meta’s personal AI agent",
-          "summary": "Latest AI discussion on Hacker News: Muse – Meta’s personal AI agent. Points: 647. (Source: Hacker News)",
-          "url": "https://ai.meta.com/muse/"
+          "title": "I'm sorry, you're not going to die from an AI-engineered supervirus",
+          "summary": "Latest AI discussion on Hacker News: I'm sorry, you're not going to die from an AI-engineered supervirus. Points: 84. (Source: Hacker News)",
+          "url": "https://blog.genesmindsmachines.com/p/im-sorry-youre-not-going-to-die-from"
         }
       ]
     },
