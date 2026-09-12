@@ -1,26 +1,26 @@
 {
-  "lastUpdated": "September 11, 2026",
+  "lastUpdated": "September 12, 2026",
   "executiveSummary": [
-    "As of September 11, 2026, the U.S. macroeconomic environment is navigating a complex period of high interest rates and shifting labor market dynamics. With the Fed Funds Rate holding at 3.63% and CPI inflation tracking at 3.35%, the central bank continues its \"higher-for-longer\" stance to anchor inflation expectations. Recent headlines such as \"Popular women's clothing chain closes 177 stores\" suggest that market participants remain hypersensitive to every data print, particularly around corporate earnings and consumer spending resilience.",
-    "The labor market, a key pillar of support, shows 206,000 initial jobless claims, reflecting a relatively stable but cooling employment landscape. Geopolitically, events like \"NIO (NIO) Narrows Its Losses, But Can It Keep This Up?\" introduce exogenous risks that could disrupt global energy supplies and re-ignite inflationary impulses, keeping the Federal Reserve in a defensive posture as they balance growth against price stability. Analysts are closely watching for any signs of a \"hard landing\" as the effects of previous tightening cycles continue to filter through the real economy."
+    "As of September 12, 2026, the U.S. macroeconomic environment is navigating a complex period of high interest rates and shifting labor market dynamics. With the Fed Funds Rate holding at 3.63% and CPI inflation tracking at 3.35%, the central bank continues its \"higher-for-longer\" stance to anchor inflation expectations. Recent headlines such as \"Ray Dalio and Bloomberg analysts reveal where to put $10,000 as stocks hit highs and bonds sell off in 2026\" suggest that market participants remain hypersensitive to every data print, particularly around corporate earnings and consumer spending resilience.",
+    "The labor market, a key pillar of support, shows 206,000 initial jobless claims, reflecting a relatively stable but cooling employment landscape. Geopolitically, events like \"Dow Jones Futures: Fed Rate Hike Seen As Oil, Yields Pressure Stocks; Apple, Moderna Are New Buys\" introduce exogenous risks that could disrupt global energy supplies and re-ignite inflationary impulses, keeping the Federal Reserve in a defensive posture as they balance growth against price stability. Analysts are closely watching for any signs of a \"hard landing\" as the effects of previous tightening cycles continue to filter through the real economy."
   ],
   "dailyHeadlines": [
     {
-      "title": "Popular women's clothing chain closes 177 stores",
+      "title": "Ray Dalio and Bloomberg analysts reveal where to put $10,000 as stocks hit highs and bonds sell off in 2026",
       "summary": "",
-      "url": "https://finance.yahoo.com/small-business/articles/popular-womens-clothing-chain-closes-231700943.html",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/ray-dalio-bloomberg-analysts-reveal-130000521.html",
       "type": "extreme"
     },
     {
-      "title": "NIO (NIO) Narrows Its Losses, But Can It Keep This Up?",
+      "title": "Dow Jones Futures: Fed Rate Hike Seen As Oil, Yields Pressure Stocks; Apple, Moderna Are New Buys",
       "summary": "",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/nio-nio-narrows-losses-keep-022554180.html",
+      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-100-oil-surging-yields-pressure-stocks-with-fed-rate-hike-seen-apple-leads-new-buys/?src=A00220&amp;yptr=yahoo",
       "type": "warning"
     },
     {
-      "title": "Medtronic’s (MDT) Heart Devices Are Suddenly Outgrowing The Rest Of Med-Tech",
+      "title": "5 easy ways US boomers fry their nest egg and retire poor (even with big savings) — are you making the same mistakes?",
       "summary": "",
-      "url": "https://finance.yahoo.com/healthcare/articles/medtronic-mdt-heart-devices-suddenly-021839780.html",
+      "url": "https://finance.yahoo.com/small-business/articles/5-easy-ways-us-boomers-124500767.html",
       "type": "info"
     }
   ],
@@ -39,19 +39,19 @@
     },
     {
       "title": "10Y - 2Y Spread",
-      "value": "0.39%",
+      "value": "0.33%",
       "status": "Steepening - slower growth",
       "type": "warning"
     },
     {
       "title": "10Y Treasury Rate",
-      "value": "4.83%",
+      "value": "4.95%",
       "status": "High - energy-driven inflation",
       "type": "warning"
     },
     {
       "title": "2Y Treasury Rate",
-      "value": "4.43%",
+      "value": "4.56%",
       "status": "Elevated - higher-for-longer stance",
       "type": "warning"
     },
@@ -299,13 +299,48 @@
       "category": "Frontier Model Race & Breakthroughs",
       "items": [
         {
+          "title": "A misalignment of AI in mathematics",
+          "summary": "Latest AI discussion on Hacker News: A misalignment of AI in mathematics. Points: 1028. (Source: Hacker News)",
+          "url": "https://mathandai.org/"
+        },
+        {
+          "title": "A Misalignment of AI in Mathematics",
+          "summary": "Latest AI discussion on Hacker News: A Misalignment of AI in Mathematics. Points: 147. (Source: Hacker News)",
+          "url": "https://terrytao.wordpress.com/2026/09/11/a-severe-misalignment-of-ai-in-mathematics/"
+        },
+        {
+          "title": "Feeling Sad about AI",
+          "summary": "Latest AI discussion on Hacker News: Feeling Sad about AI. Points: 174. (Source: Hacker News)",
+          "url": "https://artificialworlds.net/blog/2026/09/11/feeling-sad-about-ai/"
+        },
+        {
+          "title": "Show HN: Hacker News, Without AI",
+          "summary": "Latest AI discussion on Hacker News: Show HN: Hacker News, Without AI. Points: 187. (Source: Hacker News)",
+          "url": "https://www.unslop.news/"
+        },
+        {
+          "title": "Show HN: Hacker News, without AI",
+          "summary": "Latest AI discussion on Hacker News: Show HN: Hacker News, without AI. Points: 192. (Source: Hacker News)",
+          "url": "https://hcker.news/?ai=exclude"
+        }
+      ]
+    },
+    {
+      "category": "Enterprise & Agentic AI",
+      "items": [
+        {
+          "title": "Apple turns Watch into AI notetaker",
+          "summary": "PLUS: Air taxis take flight in Texas...",
+          "url": "https://www.therundown.ai/articles/apple-turns-watch-into-ai-notetaker"
+        },
+        {
           "title": "Ask HN: Can we please limit the AI news flood?",
-          "summary": "Latest AI discussion on Hacker News: Ask HN: Can we please limit the AI news flood?. Points: 209. (Source: Hacker News)",
+          "summary": "Latest AI discussion on Hacker News: Ask HN: Can we please limit the AI news flood?. Points: 803. (Source: Hacker News)",
           "url": "https://news.ycombinator.com/item?id=49657850"
         },
         {
           "title": "The Waymo effect: how AI is quietly making research less collaborative",
-          "summary": "Latest AI discussion on Hacker News: The Waymo effect: how AI is quietly making research less collaborative. Points: 196. (Source: Hacker News)",
+          "summary": "Latest AI discussion on Hacker News: The Waymo effect: how AI is quietly making research less collaborative. Points: 326. (Source: Hacker News)",
           "url": "https://www.researchagenda.news/articles/the-waymo-effect.html"
         },
         {
@@ -315,43 +350,8 @@
         },
         {
           "title": "Thelio Mira AI Linux Workstation: 192 GB GPU Memory",
-          "summary": "Latest AI discussion on Hacker News: Thelio Mira AI Linux Workstation: 192 GB GPU Memory. Points: 116. (Source: Hacker News)",
+          "summary": "Latest AI discussion on Hacker News: Thelio Mira AI Linux Workstation: 192 GB GPU Memory. Points: 120. (Source: Hacker News)",
           "url": "https://system76.com/workstations/thelio-mira-ai"
-        },
-        {
-          "title": "Detecting and countering misuse of AI: September 2026",
-          "summary": "Latest AI discussion on Hacker News: Detecting and countering misuse of AI: September 2026. Points: 151. (Source: Hacker News)",
-          "url": "https://www.anthropic.com/threat-intelligence-report-september-2026"
-        }
-      ]
-    },
-    {
-      "category": "Enterprise & Agentic AI",
-      "items": [
-        {
-          "title": "Tesla’s Cybercab is already getting weird",
-          "summary": "PLUS: A Boston Dynamics spinout emerges from stealth...",
-          "url": "https://www.therundown.ai/articles/tesla-cybercab-is-already-getting-weird"
-        },
-        {
-          "title": "AI Is Breaking This Thing We Call Trust",
-          "summary": "Latest AI discussion on Hacker News: AI Is Breaking This Thing We Call Trust. Points: 99. (Source: Hacker News)",
-          "url": "https://terriblesoftware.org/2026/09/10/ai-is-breaking-this-thing-we-call-trust/"
-        },
-        {
-          "title": "An Anthropic exit becomes an extinction debate",
-          "summary": "PLUS: Make your website easier for AI to find and cite pt. 2...",
-          "url": "https://www.therundown.ai/articles/an-anthropic-exit-becomes-an-extinction-debate"
-        },
-        {
-          "title": "A Stupid Idea for AI Alignment We Came with by Looking at Specification Gaming",
-          "summary": "Latest AI discussion on Hacker News: A Stupid Idea for AI Alignment We Came with by Looking at Specification Gaming. Points: 94. (Source: Hacker News)",
-          "url": "https://slimemoldtimemold.com/2026/08/05/a-stupid-idea-for-ai-alignment-we-came-up-with-by-looking-at-the-list-of-specification-gaming-behaviours/"
-        },
-        {
-          "title": "I'm sorry, you're not going to die from an AI-engineered supervirus",
-          "summary": "Latest AI discussion on Hacker News: I'm sorry, you're not going to die from an AI-engineered supervirus. Points: 84. (Source: Hacker News)",
-          "url": "https://blog.genesmindsmachines.com/p/im-sorry-youre-not-going-to-die-from"
         }
       ]
     },
