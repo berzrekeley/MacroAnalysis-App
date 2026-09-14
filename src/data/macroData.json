@@ -1,26 +1,26 @@
 {
-  "lastUpdated": "September 13, 2026",
+  "lastUpdated": "September 14, 2026",
   "executiveSummary": [
-    "As of September 13, 2026, the U.S. macroeconomic environment is navigating a complex period of high interest rates and shifting labor market dynamics. With the Fed Funds Rate holding at 3.63% and CPI inflation tracking at 3.35%, the central bank continues its \"higher-for-longer\" stance to anchor inflation expectations. Recent headlines such as \"Why stocks haven't tanked despite higher bond yields: Chart of the Day\" suggest that market participants remain hypersensitive to every data print, particularly around corporate earnings and consumer spending resilience.",
-    "The labor market, a key pillar of support, shows 206,000 initial jobless claims, reflecting a relatively stable but cooling employment landscape. Geopolitically, events like \"Why It’s Time to Buy the Dip in Affirm Stock\" introduce exogenous risks that could disrupt global energy supplies and re-ignite inflationary impulses, keeping the Federal Reserve in a defensive posture as they balance growth against price stability. Analysts are closely watching for any signs of a \"hard landing\" as the effects of previous tightening cycles continue to filter through the real economy."
+    "As of September 14, 2026, the U.S. macroeconomic environment is navigating a complex period of high interest rates and shifting labor market dynamics. With the Fed Funds Rate holding at 3.63% and CPI inflation tracking at 3.35%, the central bank continues its \"higher-for-longer\" stance to anchor inflation expectations. Recent headlines such as \"Producer Of Strategic Metal Soars 43% On Pentagon Deals\" suggest that market participants remain hypersensitive to every data print, particularly around corporate earnings and consumer spending resilience.",
+    "The labor market, a key pillar of support, shows 206,000 initial jobless claims, reflecting a relatively stable but cooling employment landscape. Geopolitically, events like \"Stocks could have a tough road ahead if the Fed hikes rates: Chart of the Day\" introduce exogenous risks that could disrupt global energy supplies and re-ignite inflationary impulses, keeping the Federal Reserve in a defensive posture as they balance growth against price stability. Analysts are closely watching for any signs of a \"hard landing\" as the effects of previous tightening cycles continue to filter through the real economy."
   ],
   "dailyHeadlines": [
     {
-      "title": "Why stocks haven't tanked despite higher bond yields: Chart of the Day",
+      "title": "Producer Of Strategic Metal Soars 43% On Pentagon Deals",
       "summary": "",
-      "url": "https://finance.yahoo.com/news/why-stocks-havent-tanked-despite-higher-bond-yields-chart-of-the-day-123346395.html",
+      "url": "https://www.investors.com/news/pentagon-department-of-war-elmet-group-elmt-stock-tungsten/?src=A00220&amp;yptr=yahoo",
       "type": "extreme"
     },
     {
-      "title": "Why It’s Time to Buy the Dip in Affirm Stock",
+      "title": "Stocks could have a tough road ahead if the Fed hikes rates: Chart of the Day",
       "summary": "",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/why-time-buy-dip-affirm-122742771.html",
+      "url": "https://finance.yahoo.com/markets/article/stocks-could-have-a-tough-road-ahead-if-the-fed-hikes-rates-chart-of-the-day-155218683.html",
       "type": "warning"
     },
     {
-      "title": "Nano-X (NNOX) Imaging Slashes Costs As Cash Clock Keeps Ticking",
+      "title": "Tech stocks today: AI warnings send shock through chip stocks",
       "summary": "",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/nano-x-nnox-imaging-slashes-120622496.html",
+      "url": "https://finance.yahoo.com/technology/live/tech-stocks-today-ai-warnings-send-shock-through-chip-stocks-140134624.html",
       "type": "info"
     }
   ],
@@ -299,29 +299,29 @@
       "category": "Frontier Model Race & Breakthroughs",
       "items": [
         {
-          "title": "Why are AI agents lying, cheating and coordinating?",
-          "summary": "Latest AI discussion on Hacker News: Why are AI agents lying, cheating and coordinating?. Points: 371. (Source: Hacker News)",
-          "url": "https://yoshuabengio.org/en/publication/why-are-ai-agents-lying-cheating-and-coordinating"
+          "title": "What a time to be alive – rouge AI agents attack RubyGems.org",
+          "summary": "Latest AI discussion on Hacker News: What a time to be alive – rouge AI agents attack RubyGems.org. Points: 102. (Source: Hacker News)",
+          "url": "https://tenderlovemaking.com/2026/09/11/what-a-time-to-be-alive/"
         },
         {
-          "title": "Everyone should slow down AI development except for me",
-          "summary": "Latest AI discussion on Hacker News: Everyone should slow down AI development except for me. Points: 611. (Source: Hacker News)",
-          "url": "https://xeiaso.net/notes/2026/everyone-slowdown-but-me/"
+          "title": "Apple's Siri AI Can Be Swapped Out for Claude, ChatGPT, Code Shows",
+          "summary": "Latest AI discussion on Hacker News: Apple's Siri AI Can Be Swapped Out for Claude, ChatGPT, Code Shows. Points: 179. (Source: Hacker News)",
+          "url": "https://www.macrumors.com/2026/09/14/siri-can-be-swapped-out-for-chatgpt-claude/"
         },
         {
-          "title": "Real-SWE: Benchmarking AI models on private, real-world, enterprise codebases",
-          "summary": "Latest AI discussion on Hacker News: Real-SWE: Benchmarking AI models on private, real-world, enterprise codebases. Points: 249. (Source: Hacker News)",
-          "url": "https://withspecific.com/benchmarks/real-swe"
+          "title": "Big AI sets out its terms for regulatory capture",
+          "summary": "Latest AI discussion on Hacker News: Big AI sets out its terms for regulatory capture. Points: 93. (Source: Hacker News)",
+          "url": "https://www.theregister.com/ai-and-ml/2026/09/14/big-ai-sets-out-its-terms-for-regulatory-capture-and-calls-it-pace-the-frontier/5296067"
         },
         {
-          "title": "Nvidia is the central bank of AI",
-          "summary": "Latest AI discussion on Hacker News: Nvidia is the central bank of AI. Points: 518. (Source: Hacker News)",
-          "url": "https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai"
+          "title": "Top AI labs want to pump the brakes",
+          "summary": "PLUS: Send a one-page proposal after sales calls...",
+          "url": "https://www.therundown.ai/articles/top-ai-labs-want-to-pump-the-brakes"
         },
         {
-          "title": "A misalignment of AI in mathematics",
-          "summary": "Latest AI discussion on Hacker News: A misalignment of AI in mathematics. Points: 1201. (Source: Hacker News)",
-          "url": "https://mathandai.org/"
+          "title": "Open-source AI and open models reading list",
+          "summary": "Latest AI discussion on Hacker News: Open-source AI and open models reading list. Points: 142. (Source: Hacker News)",
+          "url": "https://www.interconnects.ai/p/open-source-ai-reading-list"
         }
       ]
     },
@@ -329,29 +329,29 @@
       "category": "Enterprise & Agentic AI",
       "items": [
         {
-          "title": "A Misalignment of AI in Mathematics",
-          "summary": "Latest AI discussion on Hacker News: A Misalignment of AI in Mathematics. Points: 149. (Source: Hacker News)",
-          "url": "https://terrytao.wordpress.com/2026/09/11/a-severe-misalignment-of-ai-in-mathematics/"
+          "title": "There Is No AI (It's Just People) with Jaron Lanier",
+          "summary": "Latest AI discussion on Hacker News: There Is No AI (It's Just People) with Jaron Lanier. Points: 76. (Source: Hacker News)",
+          "url": "https://singjupost.com/startalk-there-is-no-ai-really-its-just-people-w-jaron-lanier-transcript/"
         },
         {
-          "title": "Feeling Sad about AI",
-          "summary": "Latest AI discussion on Hacker News: Feeling Sad about AI. Points: 177. (Source: Hacker News)",
-          "url": "https://artificialworlds.net/blog/2026/09/11/feeling-sad-about-ai/"
+          "title": "Garry Tan wants US open-weight AI labs to 'distill' frontier models, too",
+          "summary": "Latest AI discussion on Hacker News: Garry Tan wants US open-weight AI labs to 'distill' frontier models, too. Points: 401. (Source: Hacker News)",
+          "url": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/"
         },
         {
-          "title": "Show HN: Hacker News, Without AI",
-          "summary": "Latest AI discussion on Hacker News: Show HN: Hacker News, Without AI. Points: 193. (Source: Hacker News)",
-          "url": "https://www.unslop.news/"
+          "title": "Why are AI agents lying, cheating and coordinating?",
+          "summary": "Latest AI discussion on Hacker News: Why are AI agents lying, cheating and coordinating?. Points: 635. (Source: Hacker News)",
+          "url": "https://yoshuabengio.org/en/publication/why-are-ai-agents-lying-cheating-and-coordinating"
         },
         {
-          "title": "Hacker News with reduced priority for AI driven content",
-          "summary": "Latest AI discussion on Hacker News: Hacker News with reduced priority for AI driven content. Points: 120. (Source: Hacker News)",
-          "url": "https://sprinklz.io/public/pdwt4dve5uai"
+          "title": "Everyone should slow down AI development except for me",
+          "summary": "Latest AI discussion on Hacker News: Everyone should slow down AI development except for me. Points: 785. (Source: Hacker News)",
+          "url": "https://xeiaso.net/notes/2026/everyone-slowdown-but-me/"
         },
         {
-          "title": "Show HN: Hacker News, without AI",
-          "summary": "Latest AI discussion on Hacker News: Show HN: Hacker News, without AI. Points: 200. (Source: Hacker News)",
-          "url": "https://hcker.news/?ai=exclude"
+          "title": "AgentsDock: An IDE designed for agentic AI research",
+          "summary": "Latest AI discussion on Hacker News: AgentsDock: An IDE designed for agentic AI research. Points: 81. (Source: Hacker News)",
+          "url": "https://agentsdock.net/"
         }
       ]
     },
