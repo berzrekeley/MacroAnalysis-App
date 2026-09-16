@@ -1,26 +1,26 @@
 {
-  "lastUpdated": "September 15, 2026",
+  "lastUpdated": "September 16, 2026",
   "executiveSummary": [
-    "As of September 15, 2026, the U.S. macroeconomic environment is navigating a complex period of high interest rates and shifting labor market dynamics. With the Fed Funds Rate holding at 3.63% and CPI inflation tracking at 3.35%, the central bank continues its \"higher-for-longer\" stance to anchor inflation expectations. Recent headlines such as \"Apollo and J&amp;J Face a High-Stakes Orthopedics Deal\" suggest that market participants remain hypersensitive to every data print, particularly around corporate earnings and consumer spending resilience.",
-    "The labor market, a key pillar of support, shows 206,000 initial jobless claims, reflecting a relatively stable but cooling employment landscape. Geopolitically, events like \"Nvidia’s Anthropic Investment: Securing AI Demand Amid Rising Competition\" introduce exogenous risks that could disrupt global energy supplies and re-ignite inflationary impulses, keeping the Federal Reserve in a defensive posture as they balance growth against price stability. Analysts are closely watching for any signs of a \"hard landing\" as the effects of previous tightening cycles continue to filter through the real economy."
+    "As of September 16, 2026, the U.S. macroeconomic environment is navigating a complex period of high interest rates and shifting labor market dynamics. With the Fed Funds Rate holding at 3.63% and CPI inflation tracking at 3.35%, the central bank continues its \"higher-for-longer\" stance to anchor inflation expectations. Recent headlines such as \"American Battery Technology (ABAT) Turns A Profit, But Faces A New Export Threat\" suggest that market participants remain hypersensitive to every data print, particularly around corporate earnings and consumer spending resilience.",
+    "The labor market, a key pillar of support, shows 206,000 initial jobless claims, reflecting a relatively stable but cooling employment landscape. Geopolitically, events like \"Coda Octopus (CODA) Just Posted A First-Ever Profit Milestone\" introduce exogenous risks that could disrupt global energy supplies and re-ignite inflationary impulses, keeping the Federal Reserve in a defensive posture as they balance growth against price stability. Analysts are closely watching for any signs of a \"hard landing\" as the effects of previous tightening cycles continue to filter through the real economy."
   ],
   "dailyHeadlines": [
     {
-      "title": "Apollo and J&amp;J Face a High-Stakes Orthopedics Deal",
+      "title": "American Battery Technology (ABAT) Turns A Profit, But Faces A New Export Threat",
       "summary": "",
-      "url": "https://finance.yahoo.com/healthcare/articles/apollo-j-j-face-high-142856052.html",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/american-battery-technology-abat-turns-141323855.html",
       "type": "extreme"
     },
     {
-      "title": "Nvidia’s Anthropic Investment: Securing AI Demand Amid Rising Competition",
+      "title": "Coda Octopus (CODA) Just Posted A First-Ever Profit Milestone",
       "summary": "",
-      "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-anthropic-investment-securing-ai-142836122.html",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/coda-octopus-coda-just-posted-141014735.html",
       "type": "warning"
     },
     {
-      "title": "GSK Cuts 641 Jobs in Vaccine Manufacturing Restructuring",
+      "title": "Stock Market Today: Nasdaq, S&amp;P 500 Up Ahead Of Likely Fed Rate Increase; AI Leader Dell Jams (Live Coverage)",
       "summary": "",
-      "url": "https://finance.yahoo.com/healthcare/articles/gsk-cuts-641-jobs-vaccine-142359501.html",
+      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-fed-rate-hike-warsh-intel-sk-hynix/?src=A00220&amp;yptr=yahoo",
       "type": "info"
     }
   ],
@@ -39,19 +39,19 @@
     },
     {
       "title": "10Y - 2Y Spread",
-      "value": "0.32%",
+      "value": "0.33%",
       "status": "Steepening - slower growth",
       "type": "warning"
     },
     {
       "title": "10Y Treasury Rate",
-      "value": "4.96%",
+      "value": "4.97%",
       "status": "High - energy-driven inflation",
       "type": "warning"
     },
     {
       "title": "2Y Treasury Rate",
-      "value": "4.63%",
+      "value": "4.65%",
       "status": "Elevated - higher-for-longer stance",
       "type": "warning"
     },
@@ -63,7 +63,7 @@
     },
     {
       "title": "Retail Sales (MoM)",
-      "value": "-0.80%",
+      "value": "1.20%",
       "status": "Distorted - high gas prices",
       "type": "warning"
     },
@@ -299,29 +299,29 @@
       "category": "Frontier Model Race & Breakthroughs",
       "items": [
         {
-          "title": "Trump, China both shoot down the AI slowdown",
-          "summary": "PLUS: Make any complex topic click with an ELI5 skill...",
-          "url": "https://www.therundown.ai/articles/trump-china-both-shoot-down-the-ai-slowdown"
+          "title": "ChatGPT co-creator launches a new kind of AI",
+          "summary": "PLUS: How to add models to Codex, Claude Code...",
+          "url": "https://www.therundown.ai/articles/chatgpt-co-creator-launches-a-new-kind-of-ai"
         },
         {
-          "title": "Ex-FTC boss Khan: break out the handcuffs for AI CEOs, citing 1934 precedent",
-          "summary": "Latest AI discussion on Hacker News: Ex-FTC boss Khan: break out the handcuffs for AI CEOs, citing 1934 precedent. Points: 195. (Source: Hacker News)",
-          "url": "https://www.theregister.com/ai-and-ml/2026/09/14/ex-ftc-boss-khan-urges-uncle-sam-to-break-out-the-handcuffs-for-ai-ceos-citing-1934-precedent/5296325"
+          "title": "Mistral X Mozilla: Private, Multilingual AI Browsing",
+          "summary": "Latest AI discussion on Hacker News: Mistral X Mozilla: Private, Multilingual AI Browsing. Points: 250. (Source: Hacker News)",
+          "url": "https://mistral.ai/news/mistral-x-mozilla/"
         },
         {
-          "title": "For AI leaders Doom is a form of hype",
-          "summary": "Latest AI discussion on Hacker News: For AI leaders Doom is a form of hype. Points: 130. (Source: Hacker News)",
-          "url": "https://erkansaka.net/2026/09/10/ai-doom-rhetoric-safety-hype/"
+          "title": "Stay discoverable in search while disallowing AI training",
+          "summary": "Latest AI discussion on Hacker News: Stay discoverable in search while disallowing AI training. Points: 81. (Source: Hacker News)",
+          "url": "https://blog.cloudflare.com/accountable-mixed-use-ai-crawlers/"
         },
         {
-          "title": "Japan’s latest answer to home robots",
-          "summary": "PLUS: Foundation develops its war machine...",
-          "url": "https://www.therundown.ai/articles/japan-latest-answer-to-home-robots"
+          "title": "There's a 100% Chance AI Agents Are Ruining the Internet",
+          "summary": "Latest AI discussion on Hacker News: There's a 100% Chance AI Agents Are Ruining the Internet. Points: 225. (Source: Hacker News)",
+          "url": "https://www.404media.co/theres-a-100-chance-ai-agents-are-already-ruining-the-internet/"
         },
         {
-          "title": "Dropping eBPF CPU Cost by About 90% with Memoization (Not AI Gen)",
-          "summary": "Latest AI discussion on Hacker News: Dropping eBPF CPU Cost by About 90% with Memoization (Not AI Gen). Points: 143. (Source: Hacker News)",
-          "url": "https://nathannaveen.dev/posts/dropping-ebpf-cpu-cost-by-90/"
+          "title": "Cartesian – AI 3D Modeling for Design",
+          "summary": "Latest AI discussion on Hacker News: Cartesian – AI 3D Modeling for Design. Points: 110. (Source: Hacker News)",
+          "url": "https://www.formas.ai/cartesian"
         }
       ]
     },
@@ -329,29 +329,29 @@
       "category": "Enterprise & Agentic AI",
       "items": [
         {
-          "title": "Adversarial Fashion Makes a Statement on AI Panopticon",
-          "summary": "Latest AI discussion on Hacker News: Adversarial Fashion Makes a Statement on AI Panopticon. Points: 106. (Source: Hacker News)",
-          "url": "https://spectrum.ieee.org/adversarial-fashion"
+          "title": "Show HN: Pizza Bot – An inbox for AI agents that work in the background",
+          "summary": "Latest AI discussion on Hacker News: Show HN: Pizza Bot – An inbox for AI agents that work in the background. Points: 52. (Source: Hacker News)",
+          "url": "https://github.com/pizza-bot-app/pizza-bot"
         },
         {
-          "title": "Apple's Siri AI Can Be Swapped Out for Claude, ChatGPT, Code Shows",
-          "summary": "Latest AI discussion on Hacker News: Apple's Siri AI Can Be Swapped Out for Claude, ChatGPT, Code Shows. Points: 223. (Source: Hacker News)",
-          "url": "https://www.macrumors.com/2026/09/14/siri-can-be-swapped-out-for-chatgpt-claude/"
+          "title": "U.S. confirms weapons are in orbit",
+          "summary": "PLUS: A brain implant that decodes your body language...",
+          "url": "https://www.therundown.ai/articles/us-confirms-weapons-are-in-orbit"
         },
         {
-          "title": "Big AI sets out its terms for regulatory capture",
-          "summary": "Latest AI discussion on Hacker News: Big AI sets out its terms for regulatory capture. Points: 118. (Source: Hacker News)",
-          "url": "https://www.theregister.com/ai-and-ml/2026/09/14/big-ai-sets-out-its-terms-for-regulatory-capture-and-calls-it-pace-the-frontier/5296067"
+          "title": "AI is breaking our proxies for expertise",
+          "summary": "Latest AI discussion on Hacker News: AI is breaking our proxies for expertise. Points: 90. (Source: Hacker News)",
+          "url": "https://www.seangoedecke.com/ai-is-breaking-our-proxies-for-expertise/"
         },
         {
-          "title": "Top AI labs want to pump the brakes",
-          "summary": "PLUS: Send a one-page proposal after sales calls...",
-          "url": "https://www.therundown.ai/articles/top-ai-labs-want-to-pump-the-brakes"
+          "title": "AI 'kill switch' may need to be mandatory, Anthropic co-founder tells BBC",
+          "summary": "Latest AI discussion on Hacker News: AI 'kill switch' may need to be mandatory, Anthropic co-founder tells BBC. Points: 58. (Source: Hacker News)",
+          "url": "https://www.bbc.com/news/articles/cqgk5e2j0gg8o"
         },
         {
-          "title": "Open-source AI and open models reading list",
-          "summary": "Latest AI discussion on Hacker News: Open-source AI and open models reading list. Points: 155. (Source: Hacker News)",
-          "url": "https://www.interconnects.ai/p/open-source-ai-reading-list"
+          "title": "Trump, China both shoot down the AI slowdown",
+          "summary": "PLUS: Make any complex topic click with an ELI5 skill...",
+          "url": "https://www.therundown.ai/articles/trump-china-both-shoot-down-the-ai-slowdown"
         }
       ]
     },
