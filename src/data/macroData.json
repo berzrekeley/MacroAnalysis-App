@@ -1,26 +1,26 @@
 {
-  "lastUpdated": "September 16, 2026",
+  "lastUpdated": "September 17, 2026",
   "executiveSummary": [
-    "As of September 16, 2026, the U.S. macroeconomic environment is navigating a complex period of high interest rates and shifting labor market dynamics. With the Fed Funds Rate holding at 3.63% and CPI inflation tracking at 3.35%, the central bank continues its \"higher-for-longer\" stance to anchor inflation expectations. Recent headlines such as \"American Battery Technology (ABAT) Turns A Profit, But Faces A New Export Threat\" suggest that market participants remain hypersensitive to every data print, particularly around corporate earnings and consumer spending resilience.",
-    "The labor market, a key pillar of support, shows 206,000 initial jobless claims, reflecting a relatively stable but cooling employment landscape. Geopolitically, events like \"Coda Octopus (CODA) Just Posted A First-Ever Profit Milestone\" introduce exogenous risks that could disrupt global energy supplies and re-ignite inflationary impulses, keeping the Federal Reserve in a defensive posture as they balance growth against price stability. Analysts are closely watching for any signs of a \"hard landing\" as the effects of previous tightening cycles continue to filter through the real economy."
+    "As of September 17, 2026, the U.S. macroeconomic environment is navigating a complex period of high interest rates and shifting labor market dynamics. With the Fed Funds Rate holding at 3.63% and CPI inflation tracking at 3.35%, the central bank continues its \"higher-for-longer\" stance to anchor inflation expectations. Recent headlines such as \"Stock Market Today: Nasdaq Charges Higher On Amazon Deal; This Home Builder Misses Views (Live Coverage)\" suggest that market participants remain hypersensitive to every data print, particularly around corporate earnings and consumer spending resilience.",
+    "The labor market, a key pillar of support, shows 196,000 initial jobless claims, reflecting a relatively stable but cooling employment landscape. Geopolitically, events like \"Home contract signings drop 4.7% from last year amid higher mortgage rates\" introduce exogenous risks that could disrupt global energy supplies and re-ignite inflationary impulses, keeping the Federal Reserve in a defensive posture as they balance growth against price stability. Analysts are closely watching for any signs of a \"hard landing\" as the effects of previous tightening cycles continue to filter through the real economy."
   ],
   "dailyHeadlines": [
     {
-      "title": "American Battery Technology (ABAT) Turns A Profit, But Faces A New Export Threat",
+      "title": "Stock Market Today: Nasdaq Charges Higher On Amazon Deal; This Home Builder Misses Views (Live Coverage)",
       "summary": "",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/american-battery-technology-abat-turns-141323855.html",
+      "url": "https://www.investors.com/market-trend/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-fed-reaction-generac-nebius-bloom-energy-spacex/?src=A00220&amp;yptr=yahoo",
       "type": "extreme"
     },
     {
-      "title": "Coda Octopus (CODA) Just Posted A First-Ever Profit Milestone",
+      "title": "Home contract signings drop 4.7% from last year amid higher mortgage rates",
       "summary": "",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/coda-octopus-coda-just-posted-141014735.html",
+      "url": "https://finance.yahoo.com/real-estate/article/home-contract-signings-drop-47-from-last-year-amid-higher-mortgage-rates-141613199.html",
       "type": "warning"
     },
     {
-      "title": "Stock Market Today: Nasdaq, S&amp;P 500 Up Ahead Of Likely Fed Rate Increase; AI Leader Dell Jams (Live Coverage)",
+      "title": "Can you use a personal loan to buy a car?",
       "summary": "",
-      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-fed-rate-hike-warsh-intel-sk-hynix/?src=A00220&amp;yptr=yahoo",
+      "url": "https://finance.yahoo.com/markets/options/articles/personal-loan-buy-car-024352858.html",
       "type": "info"
     }
   ],
@@ -39,19 +39,19 @@
     },
     {
       "title": "10Y - 2Y Spread",
-      "value": "0.33%",
+      "value": "0.27%",
       "status": "Steepening - slower growth",
       "type": "warning"
     },
     {
       "title": "10Y Treasury Rate",
-      "value": "4.97%",
+      "value": "5.00%",
       "status": "High - energy-driven inflation",
       "type": "warning"
     },
     {
       "title": "2Y Treasury Rate",
-      "value": "4.65%",
+      "value": "4.67%",
       "status": "Elevated - higher-for-longer stance",
       "type": "warning"
     },
@@ -75,13 +75,13 @@
     },
     {
       "title": "Building Permits",
-      "value": "1.433M",
+      "value": "1.394M",
       "status": "Soft - cooling residential activity",
       "type": "warning"
     },
     {
       "title": "Initial Jobless Claims",
-      "value": "206,000",
+      "value": "196,000",
       "status": "Stable - primary pillar of support",
       "type": "neutral"
     },
@@ -99,6 +99,13 @@
     }
   ],
   "adpWeeklyData": [
+    {
+      "week": "Sep 12",
+      "fullDate": "Sep 12, 2026",
+      "number": 196000,
+      "delta": -10000,
+      "deltaPct": -4.85
+    },
     {
       "week": "Sep 5",
       "fullDate": "Sep 5, 2026",
@@ -201,13 +208,6 @@
       "week": "May 30",
       "fullDate": "May 30, 2026",
       "number": 225000,
-      "delta": 13000,
-      "deltaPct": 6.13
-    },
-    {
-      "week": "May 23",
-      "fullDate": "May 23, 2026",
-      "number": 212000,
       "delta": 0,
       "deltaPct": 0
     }
@@ -299,29 +299,29 @@
       "category": "Frontier Model Race & Breakthroughs",
       "items": [
         {
-          "title": "ChatGPT co-creator launches a new kind of AI",
-          "summary": "PLUS: How to add models to Codex, Claude Code...",
-          "url": "https://www.therundown.ai/articles/chatgpt-co-creator-launches-a-new-kind-of-ai"
+          "title": "Zuck sits out the AI slowdown",
+          "summary": "PLUS: A beginner’s guide to ChatGPT Work...",
+          "url": "https://www.therundown.ai/articles/zuck-sits-out-the-ai-slowdown"
         },
         {
-          "title": "Mistral X Mozilla: Private, Multilingual AI Browsing",
-          "summary": "Latest AI discussion on Hacker News: Mistral X Mozilla: Private, Multilingual AI Browsing. Points: 250. (Source: Hacker News)",
-          "url": "https://mistral.ai/news/mistral-x-mozilla/"
+          "title": "AI Safety Is Mostly a Sex Cult",
+          "summary": "Latest AI discussion on Hacker News: AI Safety Is Mostly a Sex Cult. Points: 157. (Source: Hacker News)",
+          "url": "https://skywriter.blue/@segyges.bsky.social/3mvom4b4dn22q"
         },
         {
-          "title": "Stay discoverable in search while disallowing AI training",
-          "summary": "Latest AI discussion on Hacker News: Stay discoverable in search while disallowing AI training. Points: 81. (Source: Hacker News)",
-          "url": "https://blog.cloudflare.com/accountable-mixed-use-ai-crawlers/"
+          "title": "OpenSpec – A lightweight and configurable AI spec framework",
+          "summary": "Latest AI discussion on Hacker News: OpenSpec – A lightweight and configurable AI spec framework. Points: 171. (Source: Hacker News)",
+          "url": "https://openspec.dev/"
         },
         {
-          "title": "There's a 100% Chance AI Agents Are Ruining the Internet",
-          "summary": "Latest AI discussion on Hacker News: There's a 100% Chance AI Agents Are Ruining the Internet. Points: 225. (Source: Hacker News)",
-          "url": "https://www.404media.co/theres-a-100-chance-ai-agents-are-already-ruining-the-internet/"
+          "title": "A coffee shop owner used AI to make a menu poster. Then came the angry DMs",
+          "summary": "Latest AI discussion on Hacker News: A coffee shop owner used AI to make a menu poster. Then came the angry DMs. Points: 74. (Source: Hacker News)",
+          "url": "https://www.businessinsider.com/coffee-shop-owner-ai-menu-backlash-2026-9"
         },
         {
-          "title": "Cartesian – AI 3D Modeling for Design",
-          "summary": "Latest AI discussion on Hacker News: Cartesian – AI 3D Modeling for Design. Points: 110. (Source: Hacker News)",
-          "url": "https://www.formas.ai/cartesian"
+          "title": "Microsoft says AI rival Anthropic could have 'disastrous impact' on humanity",
+          "summary": "Latest AI discussion on Hacker News: Microsoft says AI rival Anthropic could have 'disastrous impact' on humanity. Points: 40. (Source: Hacker News)",
+          "url": "https://www.bbc.co.uk/news/articles/c6n07ypqz8kzo"
         }
       ]
     },
@@ -329,29 +329,29 @@
       "category": "Enterprise & Agentic AI",
       "items": [
         {
-          "title": "Show HN: Pizza Bot – An inbox for AI agents that work in the background",
-          "summary": "Latest AI discussion on Hacker News: Show HN: Pizza Bot – An inbox for AI agents that work in the background. Points: 52. (Source: Hacker News)",
-          "url": "https://github.com/pizza-bot-app/pizza-bot"
+          "title": "Show HN: How Stale Is Your AI? Release age and training cutoff for 20 models",
+          "summary": "Latest AI discussion on Hacker News: Show HN: How Stale Is Your AI? Release age and training cutoff for 20 models. Points: 78. (Source: Hacker News)",
+          "url": "https://stale.jock.pl/"
         },
         {
-          "title": "U.S. confirms weapons are in orbit",
-          "summary": "PLUS: A brain implant that decodes your body language...",
-          "url": "https://www.therundown.ai/articles/us-confirms-weapons-are-in-orbit"
+          "title": "ChatGPT co-creator launches a new kind of AI",
+          "summary": "PLUS: How to add models to Codex, Claude Code...",
+          "url": "https://www.therundown.ai/articles/chatgpt-co-creator-launches-a-new-kind-of-ai"
         },
         {
-          "title": "AI is breaking our proxies for expertise",
-          "summary": "Latest AI discussion on Hacker News: AI is breaking our proxies for expertise. Points: 90. (Source: Hacker News)",
-          "url": "https://www.seangoedecke.com/ai-is-breaking-our-proxies-for-expertise/"
+          "title": "Mistral X Mozilla: Private, Multilingual AI Browsing",
+          "summary": "Latest AI discussion on Hacker News: Mistral X Mozilla: Private, Multilingual AI Browsing. Points: 574. (Source: Hacker News)",
+          "url": "https://mistral.ai/news/mistral-x-mozilla/"
         },
         {
-          "title": "AI 'kill switch' may need to be mandatory, Anthropic co-founder tells BBC",
-          "summary": "Latest AI discussion on Hacker News: AI 'kill switch' may need to be mandatory, Anthropic co-founder tells BBC. Points: 58. (Source: Hacker News)",
-          "url": "https://www.bbc.com/news/articles/cqgk5e2j0gg8o"
+          "title": "Stay discoverable in search while disallowing AI training",
+          "summary": "Latest AI discussion on Hacker News: Stay discoverable in search while disallowing AI training. Points: 85. (Source: Hacker News)",
+          "url": "https://blog.cloudflare.com/accountable-mixed-use-ai-crawlers/"
         },
         {
-          "title": "Trump, China both shoot down the AI slowdown",
-          "summary": "PLUS: Make any complex topic click with an ELI5 skill...",
-          "url": "https://www.therundown.ai/articles/trump-china-both-shoot-down-the-ai-slowdown"
+          "title": "There's a 100% Chance AI Agents Are Ruining the Internet",
+          "summary": "Latest AI discussion on Hacker News: There's a 100% Chance AI Agents Are Ruining the Internet. Points: 230. (Source: Hacker News)",
+          "url": "https://www.404media.co/theres-a-100-chance-ai-agents-are-already-ruining-the-internet/"
         }
       ]
     },
