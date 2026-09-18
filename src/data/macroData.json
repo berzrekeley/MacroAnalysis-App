@@ -1,26 +1,26 @@
 {
-  "lastUpdated": "September 17, 2026",
+  "lastUpdated": "September 18, 2026",
   "executiveSummary": [
-    "As of September 17, 2026, the U.S. macroeconomic environment is navigating a complex period of high interest rates and shifting labor market dynamics. With the Fed Funds Rate holding at 3.63% and CPI inflation tracking at 3.35%, the central bank continues its \"higher-for-longer\" stance to anchor inflation expectations. Recent headlines such as \"Stock Market Today: Nasdaq Charges Higher On Amazon Deal; This Home Builder Misses Views (Live Coverage)\" suggest that market participants remain hypersensitive to every data print, particularly around corporate earnings and consumer spending resilience.",
-    "The labor market, a key pillar of support, shows 196,000 initial jobless claims, reflecting a relatively stable but cooling employment landscape. Geopolitically, events like \"Home contract signings drop 4.7% from last year amid higher mortgage rates\" introduce exogenous risks that could disrupt global energy supplies and re-ignite inflationary impulses, keeping the Federal Reserve in a defensive posture as they balance growth against price stability. Analysts are closely watching for any signs of a \"hard landing\" as the effects of previous tightening cycles continue to filter through the real economy."
+    "As of September 18, 2026, the U.S. macroeconomic environment is navigating a complex period of high interest rates and shifting labor market dynamics. With the Fed Funds Rate holding at 3.63% and CPI inflation tracking at 3.35%, the central bank continues its \"higher-for-longer\" stance to anchor inflation expectations. Recent headlines such as \"AI Won’t Replace Advisors. It May Actually Add More\" suggest that market participants remain hypersensitive to every data print, particularly around corporate earnings and consumer spending resilience.",
+    "The labor market, a key pillar of support, shows 196,000 initial jobless claims, reflecting a relatively stable but cooling employment landscape. Geopolitically, events like \"Fed Raises Interest Rates for First Time in Three Years as Diesel, Gas Prices Surge\" introduce exogenous risks that could disrupt global energy supplies and re-ignite inflationary impulses, keeping the Federal Reserve in a defensive posture as they balance growth against price stability. Analysts are closely watching for any signs of a \"hard landing\" as the effects of previous tightening cycles continue to filter through the real economy."
   ],
   "dailyHeadlines": [
     {
-      "title": "Stock Market Today: Nasdaq Charges Higher On Amazon Deal; This Home Builder Misses Views (Live Coverage)",
+      "title": "AI Won’t Replace Advisors. It May Actually Add More",
       "summary": "",
-      "url": "https://www.investors.com/market-trend/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-fed-reaction-generac-nebius-bloom-energy-spacex/?src=A00220&amp;yptr=yahoo",
+      "url": "https://finance.yahoo.com/technology/ai/articles/ai-won-t-replace-advisors-040200789.html",
       "type": "extreme"
     },
     {
-      "title": "Home contract signings drop 4.7% from last year amid higher mortgage rates",
+      "title": "Fed Raises Interest Rates for First Time in Three Years as Diesel, Gas Prices Surge",
       "summary": "",
-      "url": "https://finance.yahoo.com/real-estate/article/home-contract-signings-drop-47-from-last-year-amid-higher-mortgage-rates-141613199.html",
+      "url": "https://finance.yahoo.com/economy/policy/articles/fed-raises-interest-rates-first-040100694.html",
       "type": "warning"
     },
     {
-      "title": "Can you use a personal loan to buy a car?",
+      "title": "Liberty Global (LBTYA): Can £600M of Proposed Virgin Media O2 Cuts Reduce Debt?",
       "summary": "",
-      "url": "https://finance.yahoo.com/markets/options/articles/personal-loan-buy-car-024352858.html",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/liberty-global-lbtya-600m-proposed-035730613.html",
       "type": "info"
     }
   ],
@@ -45,13 +45,13 @@
     },
     {
       "title": "10Y Treasury Rate",
-      "value": "5.00%",
+      "value": "5.01%",
       "status": "High - energy-driven inflation",
       "type": "warning"
     },
     {
       "title": "2Y Treasury Rate",
-      "value": "4.67%",
+      "value": "4.74%",
       "status": "Elevated - higher-for-longer stance",
       "type": "warning"
     },
@@ -299,29 +299,29 @@
       "category": "Frontier Model Race & Breakthroughs",
       "items": [
         {
-          "title": "Zuck sits out the AI slowdown",
-          "summary": "PLUS: A beginner’s guide to ChatGPT Work...",
-          "url": "https://www.therundown.ai/articles/zuck-sits-out-the-ai-slowdown"
+          "title": "Inside OpenAI's log of misbehaving models",
+          "summary": "PLUS: Test AI video object swaps with Higgsfield...",
+          "url": "https://www.therundown.ai/articles/inside-openai-log-of-misbehaving-models"
         },
         {
-          "title": "AI Safety Is Mostly a Sex Cult",
-          "summary": "Latest AI discussion on Hacker News: AI Safety Is Mostly a Sex Cult. Points: 157. (Source: Hacker News)",
-          "url": "https://skywriter.blue/@segyges.bsky.social/3mvom4b4dn22q"
+          "title": "Microsoft exec called AI scraping 'the largest theft of labor in human history'",
+          "summary": "Latest AI discussion on Hacker News: Microsoft exec called AI scraping 'the largest theft of labor in human history'. Points: 471. (Source: Hacker News)",
+          "url": "https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal/"
         },
         {
-          "title": "OpenSpec – A lightweight and configurable AI spec framework",
-          "summary": "Latest AI discussion on Hacker News: OpenSpec – A lightweight and configurable AI spec framework. Points: 171. (Source: Hacker News)",
-          "url": "https://openspec.dev/"
+          "title": "Sex, AI, and the Apocalypse",
+          "summary": "Latest AI discussion on Hacker News: Sex, AI, and the Apocalypse. Points: 213. (Source: Hacker News)",
+          "url": "https://www.iankduncan.com/personal/2026-09-16-sex-ai-and-the-apocalypse/"
         },
         {
-          "title": "A coffee shop owner used AI to make a menu poster. Then came the angry DMs",
-          "summary": "Latest AI discussion on Hacker News: A coffee shop owner used AI to make a menu poster. Then came the angry DMs. Points: 74. (Source: Hacker News)",
-          "url": "https://www.businessinsider.com/coffee-shop-owner-ai-menu-backlash-2026-9"
+          "title": "Bend – A language that blocks AI mistakes via proof, on CPU and GPU",
+          "summary": "Latest AI discussion on Hacker News: Bend – A language that blocks AI mistakes via proof, on CPU and GPU. Points: 532. (Source: Hacker News)",
+          "url": "https://bend-lang.com/"
         },
         {
-          "title": "Microsoft says AI rival Anthropic could have 'disastrous impact' on humanity",
-          "summary": "Latest AI discussion on Hacker News: Microsoft says AI rival Anthropic could have 'disastrous impact' on humanity. Points: 40. (Source: Hacker News)",
-          "url": "https://www.bbc.co.uk/news/articles/c6n07ypqz8kzo"
+          "title": "Launch HN: Skillsync (YC W26) – AI chat sessions made portable across agents",
+          "summary": "Latest AI discussion on Hacker News: Launch HN: Skillsync (YC W26) – AI chat sessions made portable across agents. Points: 58. (Source: Hacker News)",
+          "url": "https://news.ycombinator.com/item?id=49743049"
         }
       ]
     },
@@ -329,29 +329,29 @@
       "category": "Enterprise & Agentic AI",
       "items": [
         {
-          "title": "Show HN: How Stale Is Your AI? Release age and training cutoff for 20 models",
-          "summary": "Latest AI discussion on Hacker News: Show HN: How Stale Is Your AI? Release age and training cutoff for 20 models. Points: 78. (Source: Hacker News)",
-          "url": "https://stale.jock.pl/"
+          "title": "OpenAI's Misalignment Framework: A Tactical Bid to Preempt Global AI Governance",
+          "summary": "Latest AI discussion on Hacker News: OpenAI's Misalignment Framework: A Tactical Bid to Preempt Global AI Governance. Points: 40. (Source: Hacker News)",
+          "url": "https://asiaai.fyi/openai-misalignment-framework-global-governance/"
         },
         {
-          "title": "ChatGPT co-creator launches a new kind of AI",
-          "summary": "PLUS: How to add models to Codex, Claude Code...",
-          "url": "https://www.therundown.ai/articles/chatgpt-co-creator-launches-a-new-kind-of-ai"
+          "title": "Agility's new 'safer' humanoid",
+          "summary": "PLUS: Waymo's next stop is Tokyo...",
+          "url": "https://www.therundown.ai/articles/agility-new-safer-humanoid"
         },
         {
-          "title": "Mistral X Mozilla: Private, Multilingual AI Browsing",
-          "summary": "Latest AI discussion on Hacker News: Mistral X Mozilla: Private, Multilingual AI Browsing. Points: 574. (Source: Hacker News)",
-          "url": "https://mistral.ai/news/mistral-x-mozilla/"
+          "title": "Show HN: Share your AI Setup, Learn from others",
+          "summary": "Latest AI discussion on Hacker News: Show HN: Share your AI Setup, Learn from others. Points: 223. (Source: Hacker News)",
+          "url": "https://mysetup.ai/"
         },
         {
-          "title": "Stay discoverable in search while disallowing AI training",
-          "summary": "Latest AI discussion on Hacker News: Stay discoverable in search while disallowing AI training. Points: 85. (Source: Hacker News)",
-          "url": "https://blog.cloudflare.com/accountable-mixed-use-ai-crawlers/"
+          "title": "Zuck sits out the AI slowdown",
+          "summary": "PLUS: A beginner’s guide to ChatGPT Work...",
+          "url": "https://www.therundown.ai/articles/zuck-sits-out-the-ai-slowdown"
         },
         {
-          "title": "There's a 100% Chance AI Agents Are Ruining the Internet",
-          "summary": "Latest AI discussion on Hacker News: There's a 100% Chance AI Agents Are Ruining the Internet. Points: 230. (Source: Hacker News)",
-          "url": "https://www.404media.co/theres-a-100-chance-ai-agents-are-already-ruining-the-internet/"
+          "title": "AI safety is mostly a sex cult",
+          "summary": "Latest AI discussion on Hacker News: AI safety is mostly a sex cult. Points: 301. (Source: Hacker News)",
+          "url": "https://skywriter.blue/@segyges.bsky.social/3mvom4b4dn22q"
         }
       ]
     },
