@@ -1,26 +1,26 @@
 {
-  "lastUpdated": "September 18, 2026",
+  "lastUpdated": "September 19, 2026",
   "executiveSummary": [
-    "As of September 18, 2026, the U.S. macroeconomic environment is navigating a complex period of high interest rates and shifting labor market dynamics. With the Fed Funds Rate holding at 3.63% and CPI inflation tracking at 3.35%, the central bank continues its \"higher-for-longer\" stance to anchor inflation expectations. Recent headlines such as \"AI Won’t Replace Advisors. It May Actually Add More\" suggest that market participants remain hypersensitive to every data print, particularly around corporate earnings and consumer spending resilience.",
-    "The labor market, a key pillar of support, shows 196,000 initial jobless claims, reflecting a relatively stable but cooling employment landscape. Geopolitically, events like \"Fed Raises Interest Rates for First Time in Three Years as Diesel, Gas Prices Surge\" introduce exogenous risks that could disrupt global energy supplies and re-ignite inflationary impulses, keeping the Federal Reserve in a defensive posture as they balance growth against price stability. Analysts are closely watching for any signs of a \"hard landing\" as the effects of previous tightening cycles continue to filter through the real economy."
+    "As of September 19, 2026, the U.S. macroeconomic environment is navigating a complex period of high interest rates and shifting labor market dynamics. With the Fed Funds Rate holding at 3.63% and CPI inflation tracking at 3.35%, the central bank continues its \"higher-for-longer\" stance to anchor inflation expectations. Recent headlines such as \"Fed Chair Kevin Warsh and the FOMC Just Hiked Interest Rates, and 36 Years of History Make Clear What Comes Next for Stocks\" suggest that market participants remain hypersensitive to every data print, particularly around corporate earnings and consumer spending resilience.",
+    "The labor market, a key pillar of support, shows 196,000 initial jobless claims, reflecting a relatively stable but cooling employment landscape. Geopolitically, events like \"Dow Jones Futures: Will The Market Rally Take Flight? Robinhood, Sandisk, AMD, Moderna Surge Into Buy Areas\" introduce exogenous risks that could disrupt global energy supplies and re-ignite inflationary impulses, keeping the Federal Reserve in a defensive posture as they balance growth against price stability. Analysts are closely watching for any signs of a \"hard landing\" as the effects of previous tightening cycles continue to filter through the real economy."
   ],
   "dailyHeadlines": [
     {
-      "title": "AI Won’t Replace Advisors. It May Actually Add More",
+      "title": "Fed Chair Kevin Warsh and the FOMC Just Hiked Interest Rates, and 36 Years of History Make Clear What Comes Next for Stocks",
       "summary": "",
-      "url": "https://finance.yahoo.com/technology/ai/articles/ai-won-t-replace-advisors-040200789.html",
+      "url": "https://finance.yahoo.com/economy/policy/articles/fed-chair-kevin-warsh-fomc-132601621.html",
       "type": "extreme"
     },
     {
-      "title": "Fed Raises Interest Rates for First Time in Three Years as Diesel, Gas Prices Surge",
+      "title": "Dow Jones Futures: Will The Market Rally Take Flight? Robinhood, Sandisk, AMD, Moderna Surge Into Buy Areas",
       "summary": "",
-      "url": "https://finance.yahoo.com/economy/policy/articles/fed-raises-interest-rates-first-040100694.html",
+      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-robinhood-sandisk-amd-moderna-surge-buy-areas/?src=A00220&amp;yptr=yahoo",
       "type": "warning"
     },
     {
-      "title": "Liberty Global (LBTYA): Can £600M of Proposed Virgin Media O2 Cuts Reduce Debt?",
+      "title": "Aflac’s (AFL) Net Earnings Jumped 37.7%, Yet Adjusted Earnings Actually Fell",
       "summary": "",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/liberty-global-lbtya-600m-proposed-035730613.html",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/aflac-afl-net-earnings-jumped-124547627.html",
       "type": "info"
     }
   ],
@@ -39,19 +39,19 @@
     },
     {
       "title": "10Y - 2Y Spread",
-      "value": "0.27%",
+      "value": "0.25%",
       "status": "Steepening - slower growth",
       "type": "warning"
     },
     {
       "title": "10Y Treasury Rate",
-      "value": "5.01%",
+      "value": "4.94%",
       "status": "High - energy-driven inflation",
       "type": "warning"
     },
     {
       "title": "2Y Treasury Rate",
-      "value": "4.74%",
+      "value": "4.67%",
       "status": "Elevated - higher-for-longer stance",
       "type": "warning"
     },
@@ -299,29 +299,29 @@
       "category": "Frontier Model Race & Breakthroughs",
       "items": [
         {
-          "title": "Inside OpenAI's log of misbehaving models",
-          "summary": "PLUS: Test AI video object swaps with Higgsfield...",
-          "url": "https://www.therundown.ai/articles/inside-openai-log-of-misbehaving-models"
+          "title": "AI-generated posters don’t have to be horrible",
+          "summary": "Latest AI discussion on Hacker News: AI-generated posters don’t have to be horrible. Points: 437. (Source: Hacker News)",
+          "url": "https://john.hartnup.uk/2026/06/07/ai-event-posters.html"
         },
         {
-          "title": "Microsoft exec called AI scraping 'the largest theft of labor in human history'",
-          "summary": "Latest AI discussion on Hacker News: Microsoft exec called AI scraping 'the largest theft of labor in human history'. Points: 471. (Source: Hacker News)",
-          "url": "https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal/"
+          "title": "Gemini hacked three companies in first known breakout by Google's AI",
+          "summary": "Latest AI discussion on Hacker News: Gemini hacked three companies in first known breakout by Google's AI. Points: 64. (Source: Hacker News)",
+          "url": "https://www.reuters.com/business/gemini-hacked-three-companies-first-known-breakout-by-google-ai-wsj-reports-2026-09-18/"
         },
         {
-          "title": "Sex, AI, and the Apocalypse",
-          "summary": "Latest AI discussion on Hacker News: Sex, AI, and the Apocalypse. Points: 213. (Source: Hacker News)",
-          "url": "https://www.iankduncan.com/personal/2026-09-16-sex-ai-and-the-apocalypse/"
+          "title": "Alibaba open-sources AI model that can detect cancer and nearly 150 conditions",
+          "summary": "Latest AI discussion on Hacker News: Alibaba open-sources AI model that can detect cancer and nearly 150 conditions. Points: 133. (Source: Hacker News)",
+          "url": "https://www.scmp.com/tech/big-tech/article/3368055/alibaba-open-sources-medical-ai-model-can-detect-cancer-and-nearly-150-conditions"
         },
         {
-          "title": "Bend – A language that blocks AI mistakes via proof, on CPU and GPU",
-          "summary": "Latest AI discussion on Hacker News: Bend – A language that blocks AI mistakes via proof, on CPU and GPU. Points: 532. (Source: Hacker News)",
-          "url": "https://bend-lang.com/"
+          "title": "US Military had close call after using AI for hallucinated intelligence report",
+          "summary": "Latest AI discussion on Hacker News: US Military had close call after using AI for hallucinated intelligence report. Points: 469. (Source: Hacker News)",
+          "url": "https://www.cnn.com/2026/09/18/politics/us-military-ai-false-intelligence-china-ship"
         },
         {
-          "title": "Launch HN: Skillsync (YC W26) – AI chat sessions made portable across agents",
-          "summary": "Latest AI discussion on Hacker News: Launch HN: Skillsync (YC W26) – AI chat sessions made portable across agents. Points: 58. (Source: Hacker News)",
-          "url": "https://news.ycombinator.com/item?id=49743049"
+          "title": "AI is an elite crime spree",
+          "summary": "Latest AI discussion on Hacker News: AI is an elite crime spree. Points: 116. (Source: Hacker News)",
+          "url": "https://www.thebignewsletter.com/p/ai-is-an-elite-crime-spree"
         }
       ]
     },
@@ -329,29 +329,29 @@
       "category": "Enterprise & Agentic AI",
       "items": [
         {
-          "title": "OpenAI's Misalignment Framework: A Tactical Bid to Preempt Global AI Governance",
-          "summary": "Latest AI discussion on Hacker News: OpenAI's Misalignment Framework: A Tactical Bid to Preempt Global AI Governance. Points: 40. (Source: Hacker News)",
-          "url": "https://asiaai.fyi/openai-misalignment-framework-global-governance/"
+          "title": "Meta's less-creepy smart glasses",
+          "summary": "PLUS: OpenAI rescues biotech’s lost research...",
+          "url": "https://www.therundown.ai/articles/meta-less-creepy-smart-glasses"
         },
         {
-          "title": "Agility's new 'safer' humanoid",
-          "summary": "PLUS: Waymo's next stop is Tokyo...",
-          "url": "https://www.therundown.ai/articles/agility-new-safer-humanoid"
+          "title": "AI chatbots are becoming experts at changing people's minds",
+          "summary": "Latest AI discussion on Hacker News: AI chatbots are becoming experts at changing people's minds. Points: 110. (Source: Hacker News)",
+          "url": "https://www.science.org/content/article/ai-chatbots-are-becoming-experts-changing-people-s-minds-what-s-their-secret"
         },
         {
-          "title": "Show HN: Share your AI Setup, Learn from others",
-          "summary": "Latest AI discussion on Hacker News: Show HN: Share your AI Setup, Learn from others. Points: 223. (Source: Hacker News)",
-          "url": "https://mysetup.ai/"
+          "title": "Inside OpenAI's log of misbehaving models",
+          "summary": "PLUS: Test AI video object swaps with Higgsfield...",
+          "url": "https://www.therundown.ai/articles/inside-openai-log-of-misbehaving-models"
         },
         {
-          "title": "Zuck sits out the AI slowdown",
-          "summary": "PLUS: A beginner’s guide to ChatGPT Work...",
-          "url": "https://www.therundown.ai/articles/zuck-sits-out-the-ai-slowdown"
+          "title": "Microsoft exec called AI scraping 'the largest theft of labor in human history'",
+          "summary": "Latest AI discussion on Hacker News: Microsoft exec called AI scraping 'the largest theft of labor in human history'. Points: 899. (Source: Hacker News)",
+          "url": "https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal/"
         },
         {
-          "title": "AI safety is mostly a sex cult",
-          "summary": "Latest AI discussion on Hacker News: AI safety is mostly a sex cult. Points: 301. (Source: Hacker News)",
-          "url": "https://skywriter.blue/@segyges.bsky.social/3mvom4b4dn22q"
+          "title": "Sex, AI, and the Apocalypse",
+          "summary": "Latest AI discussion on Hacker News: Sex, AI, and the Apocalypse. Points: 221. (Source: Hacker News)",
+          "url": "https://www.iankduncan.com/personal/2026-09-16-sex-ai-and-the-apocalypse/"
         }
       ]
     },
