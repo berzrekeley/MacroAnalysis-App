@@ -1,26 +1,26 @@
 {
-  "lastUpdated": "September 19, 2026",
+  "lastUpdated": "September 20, 2026",
   "executiveSummary": [
-    "As of September 19, 2026, the U.S. macroeconomic environment is navigating a complex period of high interest rates and shifting labor market dynamics. With the Fed Funds Rate holding at 3.63% and CPI inflation tracking at 3.35%, the central bank continues its \"higher-for-longer\" stance to anchor inflation expectations. Recent headlines such as \"Fed Chair Kevin Warsh and the FOMC Just Hiked Interest Rates, and 36 Years of History Make Clear What Comes Next for Stocks\" suggest that market participants remain hypersensitive to every data print, particularly around corporate earnings and consumer spending resilience.",
-    "The labor market, a key pillar of support, shows 196,000 initial jobless claims, reflecting a relatively stable but cooling employment landscape. Geopolitically, events like \"Dow Jones Futures: Will The Market Rally Take Flight? Robinhood, Sandisk, AMD, Moderna Surge Into Buy Areas\" introduce exogenous risks that could disrupt global energy supplies and re-ignite inflationary impulses, keeping the Federal Reserve in a defensive posture as they balance growth against price stability. Analysts are closely watching for any signs of a \"hard landing\" as the effects of previous tightening cycles continue to filter through the real economy."
+    "As of September 20, 2026, the U.S. macroeconomic environment is navigating a complex period of high interest rates and shifting labor market dynamics. With the Fed Funds Rate holding at 3.63% and CPI inflation tracking at 3.35%, the central bank continues its \"higher-for-longer\" stance to anchor inflation expectations. Recent headlines such as \"YardFlow lands over 200-site yard automation deal\" suggest that market participants remain hypersensitive to every data print, particularly around corporate earnings and consumer spending resilience.",
+    "The labor market, a key pillar of support, shows 196,000 initial jobless claims, reflecting a relatively stable but cooling employment landscape. Geopolitically, events like \"Mark Cuban spent $125,000 on a lifetime American Airlines pass after a drunk dial — here's why the math worked\" introduce exogenous risks that could disrupt global energy supplies and re-ignite inflationary impulses, keeping the Federal Reserve in a defensive posture as they balance growth against price stability. Analysts are closely watching for any signs of a \"hard landing\" as the effects of previous tightening cycles continue to filter through the real economy."
   ],
   "dailyHeadlines": [
     {
-      "title": "Fed Chair Kevin Warsh and the FOMC Just Hiked Interest Rates, and 36 Years of History Make Clear What Comes Next for Stocks",
+      "title": "YardFlow lands over 200-site yard automation deal",
       "summary": "",
-      "url": "https://finance.yahoo.com/economy/policy/articles/fed-chair-kevin-warsh-fomc-132601621.html",
+      "url": "https://finance.yahoo.com/technology/articles/yardflow-lands-over-200-yard-120000605.html",
       "type": "extreme"
     },
     {
-      "title": "Dow Jones Futures: Will The Market Rally Take Flight? Robinhood, Sandisk, AMD, Moderna Surge Into Buy Areas",
+      "title": "Mark Cuban spent $125,000 on a lifetime American Airlines pass after a drunk dial — here's why the math worked",
       "summary": "",
-      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-robinhood-sandisk-amd-moderna-surge-buy-areas/?src=A00220&amp;yptr=yahoo",
+      "url": "https://finance.yahoo.com/markets/articles/mark-cuban-spent-125-000-120000383.html",
       "type": "warning"
     },
     {
-      "title": "Aflac’s (AFL) Net Earnings Jumped 37.7%, Yet Adjusted Earnings Actually Fell",
+      "title": "Bitcoin is back at $80,000 as rest of crypto joins the rally: Chart of the Day",
       "summary": "",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/aflac-afl-net-earnings-jumped-124547627.html",
+      "url": "https://finance.yahoo.com/markets/article/bitcoin-is-back-at-80000-as-rest-of-crypto-joins-the-rally-chart-of-the-day-115955499.html",
       "type": "info"
     }
   ],
@@ -299,29 +299,29 @@
       "category": "Frontier Model Race & Breakthroughs",
       "items": [
         {
-          "title": "AI-generated posters don’t have to be horrible",
-          "summary": "Latest AI discussion on Hacker News: AI-generated posters don’t have to be horrible. Points: 437. (Source: Hacker News)",
-          "url": "https://john.hartnup.uk/2026/06/07/ai-event-posters.html"
+          "title": "AI and the Destruction of the Creative Commons",
+          "summary": "Latest AI discussion on Hacker News: AI and the Destruction of the Creative Commons. Points: 169. (Source: Hacker News)",
+          "url": "https://www.chesterwisniewski.com/post/2026-09-13-ai-is-destroying-the-creative-commons/"
         },
         {
-          "title": "Gemini hacked three companies in first known breakout by Google's AI",
-          "summary": "Latest AI discussion on Hacker News: Gemini hacked three companies in first known breakout by Google's AI. Points: 64. (Source: Hacker News)",
-          "url": "https://www.reuters.com/business/gemini-hacked-three-companies-first-known-breakout-by-google-ai-wsj-reports-2026-09-18/"
+          "title": "Can you tell which images are AI-generated?",
+          "summary": "Latest AI discussion on Hacker News: Can you tell which images are AI-generated?. Points: 95. (Source: Hacker News)",
+          "url": "https://slop-sense.labtoagi.com/games/is-this-image-ai/"
         },
         {
-          "title": "Alibaba open-sources AI model that can detect cancer and nearly 150 conditions",
-          "summary": "Latest AI discussion on Hacker News: Alibaba open-sources AI model that can detect cancer and nearly 150 conditions. Points: 133. (Source: Hacker News)",
-          "url": "https://www.scmp.com/tech/big-tech/article/3368055/alibaba-open-sources-medical-ai-model-can-detect-cancer-and-nearly-150-conditions"
+          "title": "Microsoft director: AI scraping 'the largest theft of labor in human history'",
+          "summary": "Latest AI discussion on Hacker News: Microsoft director: AI scraping 'the largest theft of labor in human history'. Points: 172. (Source: Hacker News)",
+          "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/microsoft-director-called-ai-scraping-the-largest-theft-of-labor-in-human-history-while-openai-head-brands-chatgpt-an-existential-threat-to-publishers-revelations-come-from-legal-briefs-filed-in-nyt-lawsuit"
         },
         {
-          "title": "US Military had close call after using AI for hallucinated intelligence report",
-          "summary": "Latest AI discussion on Hacker News: US Military had close call after using AI for hallucinated intelligence report. Points: 469. (Source: Hacker News)",
-          "url": "https://www.cnn.com/2026/09/18/politics/us-military-ai-false-intelligence-china-ship"
+          "title": "I think you should almost never use AI to write",
+          "summary": "Latest AI discussion on Hacker News: I think you should almost never use AI to write. Points: 311. (Source: Hacker News)",
+          "url": "https://erichgrunewald.substack.com/p/why-you-should-almost-never-use-ai"
         },
         {
-          "title": "AI is an elite crime spree",
-          "summary": "Latest AI discussion on Hacker News: AI is an elite crime spree. Points: 116. (Source: Hacker News)",
-          "url": "https://www.thebignewsletter.com/p/ai-is-an-elite-crime-spree"
+          "title": "AI Safety Is Mostly a Sex Cult",
+          "summary": "Latest AI discussion on Hacker News: AI Safety Is Mostly a Sex Cult. Points: 71. (Source: Hacker News)",
+          "url": "https://bsky.app/profile/segyges.bsky.social/post/3mvom4b4dn22q"
         }
       ]
     },
@@ -329,29 +329,29 @@
       "category": "Enterprise & Agentic AI",
       "items": [
         {
-          "title": "Meta's less-creepy smart glasses",
-          "summary": "PLUS: OpenAI rescues biotech’s lost research...",
-          "url": "https://www.therundown.ai/articles/meta-less-creepy-smart-glasses"
+          "title": "AI-generated posters don’t have to be horrible",
+          "summary": "Latest AI discussion on Hacker News: AI-generated posters don’t have to be horrible. Points: 1667. (Source: Hacker News)",
+          "url": "https://john.hartnup.uk/2026/06/07/ai-event-posters.html"
         },
         {
-          "title": "AI chatbots are becoming experts at changing people's minds",
-          "summary": "Latest AI discussion on Hacker News: AI chatbots are becoming experts at changing people's minds. Points: 110. (Source: Hacker News)",
-          "url": "https://www.science.org/content/article/ai-chatbots-are-becoming-experts-changing-people-s-minds-what-s-their-secret"
+          "title": "Gemini hacked three companies in first known breakout by Google's AI",
+          "summary": "Latest AI discussion on Hacker News: Gemini hacked three companies in first known breakout by Google's AI. Points: 76. (Source: Hacker News)",
+          "url": "https://www.reuters.com/business/gemini-hacked-three-companies-first-known-breakout-by-google-ai-wsj-reports-2026-09-18/"
         },
         {
-          "title": "Inside OpenAI's log of misbehaving models",
-          "summary": "PLUS: Test AI video object swaps with Higgsfield...",
-          "url": "https://www.therundown.ai/articles/inside-openai-log-of-misbehaving-models"
+          "title": "Alibaba open-sources AI model that can detect cancer and nearly 150 conditions",
+          "summary": "Latest AI discussion on Hacker News: Alibaba open-sources AI model that can detect cancer and nearly 150 conditions. Points: 148. (Source: Hacker News)",
+          "url": "https://www.scmp.com/tech/big-tech/article/3368055/alibaba-open-sources-medical-ai-model-can-detect-cancer-and-nearly-150-conditions"
         },
         {
-          "title": "Microsoft exec called AI scraping 'the largest theft of labor in human history'",
-          "summary": "Latest AI discussion on Hacker News: Microsoft exec called AI scraping 'the largest theft of labor in human history'. Points: 899. (Source: Hacker News)",
-          "url": "https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal/"
+          "title": "US Military had close call after using AI for hallucinated intelligence report",
+          "summary": "Latest AI discussion on Hacker News: US Military had close call after using AI for hallucinated intelligence report. Points: 507. (Source: Hacker News)",
+          "url": "https://www.cnn.com/2026/09/18/politics/us-military-ai-false-intelligence-china-ship"
         },
         {
-          "title": "Sex, AI, and the Apocalypse",
-          "summary": "Latest AI discussion on Hacker News: Sex, AI, and the Apocalypse. Points: 221. (Source: Hacker News)",
-          "url": "https://www.iankduncan.com/personal/2026-09-16-sex-ai-and-the-apocalypse/"
+          "title": "AI is an elite crime spree",
+          "summary": "Latest AI discussion on Hacker News: AI is an elite crime spree. Points: 123. (Source: Hacker News)",
+          "url": "https://www.thebignewsletter.com/p/ai-is-an-elite-crime-spree"
         }
       ]
     },
