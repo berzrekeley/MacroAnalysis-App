@@ -1,26 +1,26 @@
 {
-  "lastUpdated": "September 21, 2026",
+  "lastUpdated": "September 22, 2026",
   "executiveSummary": [
-    "As of September 21, 2026, the U.S. macroeconomic environment is navigating a complex period of high interest rates and shifting labor market dynamics. With the Fed Funds Rate holding at 3.63% and CPI inflation tracking at 3.35%, the central bank continues its \"higher-for-longer\" stance to anchor inflation expectations. Recent headlines such as \"Neocloud Nscale, Rival Of CoreWeave And Nebius, Files For IPO\" suggest that market participants remain hypersensitive to every data print, particularly around corporate earnings and consumer spending resilience.",
-    "The labor market, a key pillar of support, shows 196,000 initial jobless claims, reflecting a relatively stable but cooling employment landscape. Geopolitically, events like \"Greenland Deal Fuels Critical Metals; Rare Earth Stocks Hinge On Trump-Xi\" introduce exogenous risks that could disrupt global energy supplies and re-ignite inflationary impulses, keeping the Federal Reserve in a defensive posture as they balance growth against price stability. Analysts are closely watching for any signs of a \"hard landing\" as the effects of previous tightening cycles continue to filter through the real economy."
+    "As of September 22, 2026, the U.S. macroeconomic environment is navigating a complex period of high interest rates and shifting labor market dynamics. With the Fed Funds Rate holding at 3.63% and CPI inflation tracking at 3.35%, the central bank continues its \"higher-for-longer\" stance to anchor inflation expectations. Recent headlines such as \"Viking Therapeutics Skyrockets On Obesity Drug Data. Eli Lilly, Novo Fall.\" suggest that market participants remain hypersensitive to every data print, particularly around corporate earnings and consumer spending resilience.",
+    "The labor market, a key pillar of support, shows 196,000 initial jobless claims, reflecting a relatively stable but cooling employment landscape. Geopolitically, events like \"Treasury yields ease, oil falls as Trump-Xi meeting looms: AlphaCheck\" introduce exogenous risks that could disrupt global energy supplies and re-ignite inflationary impulses, keeping the Federal Reserve in a defensive posture as they balance growth against price stability. Analysts are closely watching for any signs of a \"hard landing\" as the effects of previous tightening cycles continue to filter through the real economy."
   ],
   "dailyHeadlines": [
     {
-      "title": "Neocloud Nscale, Rival Of CoreWeave And Nebius, Files For IPO",
+      "title": "Viking Therapeutics Skyrockets On Obesity Drug Data. Eli Lilly, Novo Fall.",
       "summary": "",
-      "url": "https://www.investors.com/news/technology/nscale-rival-of-coreweave-nebius-files-for-ipo/?src=A00220&amp;yptr=yahoo",
+      "url": "https://www.investors.com/news/technology/viking-therapeutics-stock-skyrockets-obesity-drug-data-roche-eli-lilly-novo-fall/?src=A00220&amp;yptr=yahoo",
       "type": "extreme"
     },
     {
-      "title": "Greenland Deal Fuels Critical Metals; Rare Earth Stocks Hinge On Trump-Xi",
+      "title": "Treasury yields ease, oil falls as Trump-Xi meeting looms: AlphaCheck",
       "summary": "",
-      "url": "https://www.investors.com/news/critical-metals-crml-stock-rare-earth-us-denmark-greenland-trump-xi/?src=A00220&amp;yptr=yahoo",
+      "url": "https://finance.yahoo.com/markets/article/treasury-yields-ease-oil-falls-as-trump-xi-meeting-looms-alphacheck-134137146.html",
       "type": "warning"
     },
     {
-      "title": "Trump demands 1% rates because the US has the ‘Best Credit in the World’ — the Fed hiked rates anyway. So who’s right?",
+      "title": "Why Muse just added billions to Meta's market cap",
       "summary": "",
-      "url": "https://finance.yahoo.com/economy/policy/articles/trump-demands-1-rates-because-153000828.html",
+      "url": "https://finance.yahoo.com/markets/stocks/article/why-muse-just-added-billions-to-metas-market-cap-094853229.html",
       "type": "info"
     }
   ],
@@ -39,19 +39,19 @@
     },
     {
       "title": "10Y - 2Y Spread",
-      "value": "0.25%",
+      "value": "0.20%",
       "status": "Steepening - slower growth",
       "type": "warning"
     },
     {
       "title": "10Y Treasury Rate",
-      "value": "4.94%",
+      "value": "5.01%",
       "status": "High - energy-driven inflation",
       "type": "warning"
     },
     {
       "title": "2Y Treasury Rate",
-      "value": "4.67%",
+      "value": "4.76%",
       "status": "Elevated - higher-for-longer stance",
       "type": "warning"
     },
@@ -299,14 +299,49 @@
       "category": "Frontier Model Race & Breakthroughs",
       "items": [
         {
-          "title": "macOS 27: Workaround to avoid downloading AI models and save storage",
-          "summary": "Latest AI discussion on Hacker News: macOS 27: Workaround to avoid downloading AI models and save storage. Points: 63. (Source: Hacker News)",
-          "url": "https://www.reddit.com/r/MacOSBeta/comments/1vlnf13/workaround_to_avoid_downloading_ai_models_and/"
+          "title": "AI Has No Wisdom and Neither Will You",
+          "summary": "Latest AI discussion on Hacker News: AI Has No Wisdom and Neither Will You. Points: 235. (Source: Hacker News)",
+          "url": "https://alexn.org/blog/2026/09/22/ai-has-no-wisdom-and-neither-will-you/"
         },
         {
-          "title": "M5 Ultra Mac Studio Review: The Dream Mac for Local AI Agents",
-          "summary": "Latest AI discussion on Hacker News: M5 Ultra Mac Studio Review: The Dream Mac for Local AI Agents. Points: 89. (Source: Hacker News)",
-          "url": "https://www.macstories.net/stories/m5-ultra-mac-studio-review-the-dream-mac-for-local-ai-agents/"
+          "title": "Amazon shuts out Meta's Muse",
+          "summary": "PLUS: How to set up ChatGPT to write in your voice...",
+          "url": "https://www.therundown.ai/articles/amazon-shuts-out-meta-s-muse"
+        },
+        {
+          "title": "Robin Williams' Daughter to Fans Creating AI Videos: 'Have Some Shame'",
+          "summary": "Latest AI discussion on Hacker News: Robin Williams' Daughter to Fans Creating AI Videos: 'Have Some Shame'. Points: 92. (Source: Hacker News)",
+          "url": "https://variety.com/2026/film/news/robin-williams-daughter-ai-videos-1236871568/"
+        },
+        {
+          "title": "AI coding has made CI a bottleneck, so we reworked ours to keep up",
+          "summary": "Latest AI discussion on Hacker News: AI coding has made CI a bottleneck, so we reworked ours to keep up. Points: 282. (Source: Hacker News)",
+          "url": "https://linear.app/now/ci-bottleneck-reworked"
+        },
+        {
+          "title": "Frontier AI on Your Own Hardware",
+          "summary": "Latest AI discussion on Hacker News: Frontier AI on Your Own Hardware. Points: 172. (Source: Hacker News)",
+          "url": "https://timdettmers.com/2026/09/21/dlab-open-source-week/"
+        }
+      ]
+    },
+    {
+      "category": "Enterprise & Agentic AI",
+      "items": [
+        {
+          "title": "US halts flights at busy East Coast airports, says fiber line cut",
+          "summary": "Latest AI discussion on Hacker News: US halts flights at busy East Coast airports, says fiber line cut. Points: 228. (Source: Hacker News)",
+          "url": "https://www.reuters.com/world/us/faa-halts-some-us-east-coast-flights-due-communication-issues-2026-09-21/"
+        },
+        {
+          "title": "Amazon blocks Meta’s new Muse AI agent from shopping on amazon.com",
+          "summary": "Latest AI discussion on Hacker News: Amazon blocks Meta’s new Muse AI agent from shopping on amazon.com. Points: 150. (Source: Hacker News)",
+          "url": "https://www.forbes.com/sites/jonmarkman/2026/09/21/amazon-blocks-metas-new-muse-ai-agent-from-shopping-on-amazoncom/"
+        },
+        {
+          "title": "macOS 27: Workaround to avoid downloading AI models and save storage",
+          "summary": "Latest AI discussion on Hacker News: macOS 27: Workaround to avoid downloading AI models and save storage. Points: 234. (Source: Hacker News)",
+          "url": "https://www.reddit.com/r/MacOSBeta/comments/1vlnf13/workaround_to_avoid_downloading_ai_models_and/"
         },
         {
           "title": "OpenAI goes from hacker to hacked",
@@ -315,43 +350,8 @@
         },
         {
           "title": "Don't Use AI to Write",
-          "summary": "Latest AI discussion on Hacker News: Don't Use AI to Write. Points: 86. (Source: Hacker News)",
+          "summary": "Latest AI discussion on Hacker News: Don't Use AI to Write. Points: 142. (Source: Hacker News)",
           "url": "https://paulbakker.io/writing/no-ai-for-writing/"
-        },
-        {
-          "title": "AI chatbots give wrong answers to financial queries 'most of the time'",
-          "summary": "Latest AI discussion on Hacker News: AI chatbots give wrong answers to financial queries 'most of the time'. Points: 143. (Source: Hacker News)",
-          "url": "https://www.ft.com/content/c0cd359d-df84-4208-a789-ffa864b43666"
-        }
-      ]
-    },
-    {
-      "category": "Enterprise & Agentic AI",
-      "items": [
-        {
-          "title": "I stopped drinking the AI Kool-Aid",
-          "summary": "Latest AI discussion on Hacker News: I stopped drinking the AI Kool-Aid. Points: 63. (Source: Hacker News)",
-          "url": "https://joshtronic.com/2026/09/20/i-stopped-drinking-the-ai-kool-aid/"
-        },
-        {
-          "title": "If AI coding is lowering your code quality, you're not managing quality right",
-          "summary": "Latest AI discussion on Hacker News: If AI coding is lowering your code quality, you're not managing quality right. Points: 110. (Source: Hacker News)",
-          "url": "https://www.i-kh.net/p/if-ai-coding-is-lowering-your-code"
-        },
-        {
-          "title": "AI and the Destruction of the Creative Commons",
-          "summary": "Latest AI discussion on Hacker News: AI and the Destruction of the Creative Commons. Points: 232. (Source: Hacker News)",
-          "url": "https://www.chesterwisniewski.com/post/2026-09-13-ai-is-destroying-the-creative-commons/"
-        },
-        {
-          "title": "Can you tell which images are AI-generated?",
-          "summary": "Latest AI discussion on Hacker News: Can you tell which images are AI-generated?. Points: 109. (Source: Hacker News)",
-          "url": "https://slop-sense.labtoagi.com/games/is-this-image-ai/"
-        },
-        {
-          "title": "Microsoft director: AI scraping 'the largest theft of labor in human history'",
-          "summary": "Latest AI discussion on Hacker News: Microsoft director: AI scraping 'the largest theft of labor in human history'. Points: 187. (Source: Hacker News)",
-          "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/microsoft-director-called-ai-scraping-the-largest-theft-of-labor-in-human-history-while-openai-head-brands-chatgpt-an-existential-threat-to-publishers-revelations-come-from-legal-briefs-filed-in-nyt-lawsuit"
         }
       ]
     },
