@@ -1,26 +1,26 @@
 {
-  "lastUpdated": "September 23, 2026",
+  "lastUpdated": "September 24, 2026",
   "executiveSummary": [
-    "As of September 23, 2026, the U.S. macroeconomic environment is navigating a complex period of high interest rates and shifting labor market dynamics. With the Fed Funds Rate holding at 3.63% and CPI inflation tracking at 3.35%, the central bank continues its \"higher-for-longer\" stance to anchor inflation expectations. Recent headlines such as \"Nasdaq rally hasn't stopped these tech stocks from flashing warning signs\" suggest that market participants remain hypersensitive to every data print, particularly around corporate earnings and consumer spending resilience.",
-    "The labor market, a key pillar of support, shows 196,000 initial jobless claims, reflecting a relatively stable but cooling employment landscape. Geopolitically, events like \"Fed's Barr says further rate hikes will likely be needed\" introduce exogenous risks that could disrupt global energy supplies and re-ignite inflationary impulses, keeping the Federal Reserve in a defensive posture as they balance growth against price stability. Analysts are closely watching for any signs of a \"hard landing\" as the effects of previous tightening cycles continue to filter through the real economy."
+    "As of September 24, 2026, the U.S. macroeconomic environment is navigating a complex period of high interest rates and shifting labor market dynamics. With the Fed Funds Rate holding at 3.63% and CPI inflation tracking at 3.35%, the central bank continues its \"higher-for-longer\" stance to anchor inflation expectations. Recent headlines such as \"This Little-Known AI Chip Stock Doubled. Its New Chips Now Double Optical Speed\" suggest that market participants remain hypersensitive to every data print, particularly around corporate earnings and consumer spending resilience.",
+    "The labor market, a key pillar of support, shows 197,000 initial jobless claims, reflecting a relatively stable but cooling employment landscape. Geopolitically, events like \"Ennis (EBF) Grows Sales but Earns Less. Are Legal Items Hiding a Better Business?\" introduce exogenous risks that could disrupt global energy supplies and re-ignite inflationary impulses, keeping the Federal Reserve in a defensive posture as they balance growth against price stability. Analysts are closely watching for any signs of a \"hard landing\" as the effects of previous tightening cycles continue to filter through the real economy."
   ],
   "dailyHeadlines": [
     {
-      "title": "Nasdaq rally hasn't stopped these tech stocks from flashing warning signs",
+      "title": "This Little-Known AI Chip Stock Doubled. Its New Chips Now Double Optical Speed",
       "summary": "",
-      "url": "https://finance.yahoo.com/markets/article/nasdaq-rally-hasnt-stopped-these-tech-stocks-from-flashing-warning-signs-141710781.html",
+      "url": "https://finance.yahoo.com/technology/ai/articles/little-known-ai-chip-stock-042916921.html",
       "type": "extreme"
     },
     {
-      "title": "Fed's Barr says further rate hikes will likely be needed",
+      "title": "Ennis (EBF) Grows Sales but Earns Less. Are Legal Items Hiding a Better Business?",
       "summary": "",
-      "url": "https://finance.yahoo.com/economy/policy/articles/feds-barr-says-further-rate-140746063.html",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/ennis-ebf-grows-sales-earns-015226342.html",
       "type": "warning"
     },
     {
-      "title": "Stock market today: Dow, S&amp;P 500, Nasdaq slip as oil steadies, markets eye looming Trump-Xi meeting",
+      "title": "Strive CEO: Bitcoin Could ‘Go to Infinity' as Dollar Debt Crisis Breaks",
       "summary": "",
-      "url": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-september-23-dow-sp-500-nasdaq-080556640.html",
+      "url": "https://finance.yahoo.com/markets/crypto/articles/strive-ceo-bitcoin-could-infinity-015100441.html",
       "type": "info"
     }
   ],
@@ -39,7 +39,7 @@
     },
     {
       "title": "10Y - 2Y Spread",
-      "value": "0.25%",
+      "value": "0.26%",
       "status": "Steepening - slower growth",
       "type": "warning"
     },
@@ -51,7 +51,7 @@
     },
     {
       "title": "2Y Treasury Rate",
-      "value": "4.76%",
+      "value": "4.71%",
       "status": "Elevated - higher-for-longer stance",
       "type": "warning"
     },
@@ -75,13 +75,13 @@
     },
     {
       "title": "Building Permits",
-      "value": "1.394M",
+      "value": "1.403M",
       "status": "Soft - cooling residential activity",
       "type": "warning"
     },
     {
       "title": "Initial Jobless Claims",
-      "value": "196,000",
+      "value": "197,000",
       "status": "Stable - primary pillar of support",
       "type": "neutral"
     },
@@ -100,18 +100,25 @@
   ],
   "adpWeeklyData": [
     {
+      "week": "Sep 19",
+      "fullDate": "Sep 19, 2026",
+      "number": 197000,
+      "delta": -1000,
+      "deltaPct": -0.51
+    },
+    {
       "week": "Sep 12",
       "fullDate": "Sep 12, 2026",
-      "number": 196000,
-      "delta": -10000,
-      "deltaPct": -4.85
+      "number": 198000,
+      "delta": -9000,
+      "deltaPct": -4.35
     },
     {
       "week": "Sep 5",
       "fullDate": "Sep 5, 2026",
-      "number": 206000,
-      "delta": -1000,
-      "deltaPct": -0.48
+      "number": 207000,
+      "delta": 0,
+      "deltaPct": 0
     },
     {
       "week": "Aug 29",
@@ -201,13 +208,6 @@
       "week": "Jun 6",
       "fullDate": "Jun 6, 2026",
       "number": 230000,
-      "delta": 5000,
-      "deltaPct": 2.22
-    },
-    {
-      "week": "May 30",
-      "fullDate": "May 30, 2026",
-      "number": 225000,
       "delta": 0,
       "deltaPct": 0
     }
@@ -299,29 +299,29 @@
       "category": "Frontier Model Race & Breakthroughs",
       "items": [
         {
-          "title": "The pacing era's first launch day",
-          "summary": "PLUS: Build, test, and publish an app without leaving Codex...",
-          "url": "https://www.therundown.ai/articles/the-pacing-era-s-first-launch-day"
+          "title": "'That's so AI ' What gen Alpha's biggest insult tells us",
+          "summary": "Latest AI discussion on Hacker News: 'That's so AI ' What gen Alpha's biggest insult tells us. Points: 77. (Source: Hacker News)",
+          "url": "https://www.theguardian.com/society/2026/sep/24/thats-so-ai-what-gen-alphas-biggest-insult-tells-us"
         },
         {
-          "title": "Pentagon says overreliance on AI contributed to missile strike on Iran school",
-          "summary": "Latest AI discussion on Hacker News: Pentagon says overreliance on AI contributed to missile strike on Iran school. Points: 769. (Source: Hacker News)",
-          "url": "https://www.bloomberg.com/graphics/2026-iran-school-attack/"
+          "title": "Anthropic's AI biology lab makes its first find",
+          "summary": "PLUS: Your go-to guy lives in the browser...",
+          "url": "https://www.therundown.ai/articles/anthropic-ai-biology-lab-makes-its-first-find"
         },
         {
-          "title": "Stanford R&DE Uses AI to Race Swap Students for Advertising",
-          "summary": "Latest AI discussion on Hacker News: Stanford R&DE Uses AI to Race Swap Students for Advertising. Points: 84. (Source: Hacker News)",
-          "url": "https://stanfordreview.org/stanford-r-de-uses-ai-to-race-swap-students-for-advertising/"
+          "title": "Meta takes down a critical video about meta AI Glasses after filming at Meta",
+          "summary": "Latest AI discussion on Hacker News: Meta takes down a critical video about meta AI Glasses after filming at Meta. Points: 442. (Source: Hacker News)",
+          "url": "https://www.reddit.com/r/facebook/comments/1wotwrk/meta_takes_down_a_critical_video_about_meta_ai/"
         },
         {
-          "title": "People Training OpenAI's AI Fired for Using AI to Train the AI",
-          "summary": "Latest AI discussion on Hacker News: People Training OpenAI's AI Fired for Using AI to Train the AI. Points: 76. (Source: Hacker News)",
-          "url": "https://www.404media.co/people-training-openais-ai-fired-for-using-ai-to-train-the-ai/"
+          "title": "Early rogue AI agent activity and attempts to hack found on urlquery.net",
+          "summary": "Latest AI discussion on Hacker News: Early rogue AI agent activity and attempts to hack found on urlquery.net. Points: 185. (Source: Hacker News)",
+          "url": "https://transluce.org/agent-activity"
         },
         {
-          "title": "AI Has No Wisdom and Neither Will You",
-          "summary": "Latest AI discussion on Hacker News: AI Has No Wisdom and Neither Will You. Points: 381. (Source: Hacker News)",
-          "url": "https://alexn.org/blog/2026/09/22/ai-has-no-wisdom-and-neither-will-you/"
+          "title": "Feds Target AI Critics as \"Foreign Agents\"",
+          "summary": "Latest AI discussion on Hacker News: Feds Target AI Critics as \"Foreign Agents\". Points: 329. (Source: Hacker News)",
+          "url": "https://www.kenklippenstein.com/p/feds-think-ai-critics-are-foreign"
         }
       ]
     },
@@ -329,29 +329,29 @@
       "category": "Enterprise & Agentic AI",
       "items": [
         {
-          "title": "JetBrains Air: A System of Products for Agentic Software Development",
-          "summary": "Latest AI discussion on Hacker News: JetBrains Air: A System of Products for Agentic Software Development. Points: 72. (Source: Hacker News)",
-          "url": "https://blog.jetbrains.com/blog/2026/09/22/introducing-jetbrains-air/"
+          "title": "Cloud Agents Are Inevitable AI Prisons",
+          "summary": "Latest AI discussion on Hacker News: Cloud Agents Are Inevitable AI Prisons. Points: 63. (Source: Hacker News)",
+          "url": "https://normanponte.io/19df691f"
         },
         {
-          "title": "Amazon shuts out Meta's Muse",
-          "summary": "PLUS: How to set up ChatGPT to write in your voice...",
-          "url": "https://www.therundown.ai/articles/amazon-shuts-out-meta-s-muse"
+          "title": "Stripe's Knowledge AI Platform",
+          "summary": "Latest AI discussion on Hacker News: Stripe's Knowledge AI Platform. Points: 182. (Source: Hacker News)",
+          "url": "https://stripe.dev/blog/meet-stripes-knowledge-ai-platform"
         },
         {
-          "title": "Robin Williams' Daughter to Fans Creating AI Videos: 'Have Some Shame'",
-          "summary": "Latest AI discussion on Hacker News: Robin Williams' Daughter to Fans Creating AI Videos: 'Have Some Shame'. Points: 96. (Source: Hacker News)",
-          "url": "https://variety.com/2026/film/news/robin-williams-daughter-ai-videos-1236871568/"
+          "title": "The Download: why AI's latest breakthroughs and fears may be more hype than rea",
+          "summary": "Latest AI discussion on Hacker News: The Download: why AI's latest breakthroughs and fears may be more hype than rea. Points: 49. (Source: Hacker News)",
+          "url": "https://www.technologyreview.com/2026/09/22/1144910/the-download-dont-believe-ai-hype/"
         },
         {
-          "title": "AI coding has made CI a bottleneck, so we reworked ours to keep up",
-          "summary": "Latest AI discussion on Hacker News: AI coding has made CI a bottleneck, so we reworked ours to keep up. Points: 311. (Source: Hacker News)",
-          "url": "https://linear.app/now/ci-bottleneck-reworked"
+          "title": "The pacing era's first launch day",
+          "summary": "PLUS: Build, test, and publish an app without leaving Codex...",
+          "url": "https://www.therundown.ai/articles/the-pacing-era-s-first-launch-day"
         },
         {
-          "title": "Frontier AI on Your Own Hardware",
-          "summary": "Latest AI discussion on Hacker News: Frontier AI on Your Own Hardware. Points: 181. (Source: Hacker News)",
-          "url": "https://timdettmers.com/2026/09/21/dlab-open-source-week/"
+          "title": "The new CC, an AI agent built for families",
+          "summary": "Latest AI discussion on Hacker News: The new CC, an AI agent built for families. Points: 51. (Source: Hacker News)",
+          "url": "https://blog.google/innovation-and-ai/models-and-research/google-labs/cc-expanding-to-groups/"
         }
       ]
     },
