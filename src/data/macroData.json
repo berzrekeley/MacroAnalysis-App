@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "September 24, 2026",
+  "lastUpdated": "September 25, 2026",
   "executiveSummary": [
-    "As of September 24, 2026, the U.S. macroeconomic environment is navigating a complex period of high interest rates and shifting labor market dynamics. With the Fed Funds Rate holding at 3.63% and CPI inflation tracking at 3.35%, the central bank continues its \"higher-for-longer\" stance to anchor inflation expectations. Recent headlines such as \"This Little-Known AI Chip Stock Doubled. Its New Chips Now Double Optical Speed\" suggest that market participants remain hypersensitive to every data print, particularly around corporate earnings and consumer spending resilience.",
+    "As of September 25, 2026, the U.S. macroeconomic environment is navigating a complex period of high interest rates and shifting labor market dynamics. With the Fed Funds Rate holding at 3.63% and CPI inflation tracking at 3.35%, the central bank continues its \"higher-for-longer\" stance to anchor inflation expectations. Recent headlines such as \"This Little-Known AI Chip Stock Doubled. Its New Chips Now Double Optical Speed\" suggest that market participants remain hypersensitive to every data print, particularly around corporate earnings and consumer spending resilience.",
     "The labor market, a key pillar of support, shows 197,000 initial jobless claims, reflecting a relatively stable but cooling employment landscape. Geopolitically, events like \"Ennis (EBF) Grows Sales but Earns Less. Are Legal Items Hiding a Better Business?\" introduce exogenous risks that could disrupt global energy supplies and re-ignite inflationary impulses, keeping the Federal Reserve in a defensive posture as they balance growth against price stability. Analysts are closely watching for any signs of a \"hard landing\" as the effects of previous tightening cycles continue to filter through the real economy."
   ],
   "dailyHeadlines": [
@@ -39,19 +39,19 @@
     },
     {
       "title": "10Y - 2Y Spread",
-      "value": "0.26%",
+      "value": "0.31%",
       "status": "Steepening - slower growth",
       "type": "warning"
     },
     {
       "title": "10Y Treasury Rate",
-      "value": "4.96%",
+      "value": "5.11%",
       "status": "High - energy-driven inflation",
       "type": "warning"
     },
     {
       "title": "2Y Treasury Rate",
-      "value": "4.71%",
+      "value": "4.85%",
       "status": "Elevated - higher-for-longer stance",
       "type": "warning"
     },
@@ -299,9 +299,39 @@
       "category": "Frontier Model Race & Breakthroughs",
       "items": [
         {
+          "title": "Meta's Connect turns into a Muse takeover",
+          "summary": "PLUS: Use Gemini Canvas to visualize Google Sheets...",
+          "url": "https://www.therundown.ai/articles/meta-connect-turns-into-a-muse-takeover"
+        },
+        {
+          "title": "Federal judge orders Texas to air condition all prisons by the end of 2029",
+          "summary": "Latest AI discussion on Hacker News: Federal judge orders Texas to air condition all prisons by the end of 2029. Points: 111. (Source: Hacker News)",
+          "url": "https://www.texastribune.org/2026/09/22/texas-prison-air-conditioning-lawsuit-ruling/"
+        },
+        {
+          "title": "Tutoring company tells parents to save their money and 'use AI instead'",
+          "summary": "Latest AI discussion on Hacker News: Tutoring company tells parents to save their money and 'use AI instead'. Points: 124. (Source: Hacker News)",
+          "url": "https://www.afr.com/policy/health-and-education/tutoring-company-tell-parents-to-save-their-money-and-use-ai-instead-20260923-p60z0r"
+        },
+        {
+          "title": "AI safety is mostly a sex cult in Berkeley",
+          "summary": "Latest AI discussion on Hacker News: AI safety is mostly a sex cult in Berkeley. Points: 119. (Source: Hacker News)",
+          "url": "https://www.verysane.ai/p/ai-safety-is-mostly-a-sex-cult-in"
+        },
+        {
           "title": "'That's so AI ' What gen Alpha's biggest insult tells us",
-          "summary": "Latest AI discussion on Hacker News: 'That's so AI ' What gen Alpha's biggest insult tells us. Points: 77. (Source: Hacker News)",
+          "summary": "Latest AI discussion on Hacker News: 'That's so AI ' What gen Alpha's biggest insult tells us. Points: 179. (Source: Hacker News)",
           "url": "https://www.theguardian.com/society/2026/sep/24/thats-so-ai-what-gen-alphas-biggest-insult-tells-us"
+        }
+      ]
+    },
+    {
+      "category": "Enterprise & Agentic AI",
+      "items": [
+        {
+          "title": "AI has no intent and no motivation",
+          "summary": "Latest AI discussion on Hacker News: AI has no intent and no motivation. Points: 47. (Source: Hacker News)",
+          "url": "https://www.i-programmer.info/news/245-view-point/19164-ai-has-no-motivation.html"
         },
         {
           "title": "Anthropic's AI biology lab makes its first find",
@@ -310,48 +340,18 @@
         },
         {
           "title": "Meta takes down a critical video about meta AI Glasses after filming at Meta",
-          "summary": "Latest AI discussion on Hacker News: Meta takes down a critical video about meta AI Glasses after filming at Meta. Points: 442. (Source: Hacker News)",
+          "summary": "Latest AI discussion on Hacker News: Meta takes down a critical video about meta AI Glasses after filming at Meta. Points: 617. (Source: Hacker News)",
           "url": "https://www.reddit.com/r/facebook/comments/1wotwrk/meta_takes_down_a_critical_video_about_meta_ai/"
         },
         {
+          "title": "Show HN: Air-gapped file encryption as self-decrypting HTML page",
+          "summary": "Latest AI discussion on Hacker News: Show HN: Air-gapped file encryption as self-decrypting HTML page. Points: 79. (Source: Hacker News)",
+          "url": "https://cms-sfx-demo.apeleg.com/"
+        },
+        {
           "title": "Early rogue AI agent activity and attempts to hack found on urlquery.net",
-          "summary": "Latest AI discussion on Hacker News: Early rogue AI agent activity and attempts to hack found on urlquery.net. Points: 185. (Source: Hacker News)",
+          "summary": "Latest AI discussion on Hacker News: Early rogue AI agent activity and attempts to hack found on urlquery.net. Points: 261. (Source: Hacker News)",
           "url": "https://transluce.org/agent-activity"
-        },
-        {
-          "title": "Feds Target AI Critics as \"Foreign Agents\"",
-          "summary": "Latest AI discussion on Hacker News: Feds Target AI Critics as \"Foreign Agents\". Points: 329. (Source: Hacker News)",
-          "url": "https://www.kenklippenstein.com/p/feds-think-ai-critics-are-foreign"
-        }
-      ]
-    },
-    {
-      "category": "Enterprise & Agentic AI",
-      "items": [
-        {
-          "title": "Cloud Agents Are Inevitable AI Prisons",
-          "summary": "Latest AI discussion on Hacker News: Cloud Agents Are Inevitable AI Prisons. Points: 63. (Source: Hacker News)",
-          "url": "https://normanponte.io/19df691f"
-        },
-        {
-          "title": "Stripe's Knowledge AI Platform",
-          "summary": "Latest AI discussion on Hacker News: Stripe's Knowledge AI Platform. Points: 182. (Source: Hacker News)",
-          "url": "https://stripe.dev/blog/meet-stripes-knowledge-ai-platform"
-        },
-        {
-          "title": "The Download: why AI's latest breakthroughs and fears may be more hype than rea",
-          "summary": "Latest AI discussion on Hacker News: The Download: why AI's latest breakthroughs and fears may be more hype than rea. Points: 49. (Source: Hacker News)",
-          "url": "https://www.technologyreview.com/2026/09/22/1144910/the-download-dont-believe-ai-hype/"
-        },
-        {
-          "title": "The pacing era's first launch day",
-          "summary": "PLUS: Build, test, and publish an app without leaving Codex...",
-          "url": "https://www.therundown.ai/articles/the-pacing-era-s-first-launch-day"
-        },
-        {
-          "title": "The new CC, an AI agent built for families",
-          "summary": "Latest AI discussion on Hacker News: The new CC, an AI agent built for families. Points: 51. (Source: Hacker News)",
-          "url": "https://blog.google/innovation-and-ai/models-and-research/google-labs/cc-expanding-to-groups/"
         }
       ]
     },
