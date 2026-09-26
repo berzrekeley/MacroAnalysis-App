@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "September 25, 2026",
+  "lastUpdated": "September 26, 2026",
   "executiveSummary": [
-    "As of September 25, 2026, the U.S. macroeconomic environment is navigating a complex period of high interest rates and shifting labor market dynamics. With the Fed Funds Rate holding at 3.63% and CPI inflation tracking at 3.35%, the central bank continues its \"higher-for-longer\" stance to anchor inflation expectations. Recent headlines such as \"This Little-Known AI Chip Stock Doubled. Its New Chips Now Double Optical Speed\" suggest that market participants remain hypersensitive to every data print, particularly around corporate earnings and consumer spending resilience.",
+    "As of September 26, 2026, the U.S. macroeconomic environment is navigating a complex period of high interest rates and shifting labor market dynamics. With the Fed Funds Rate holding at 3.63% and CPI inflation tracking at 3.35%, the central bank continues its \"higher-for-longer\" stance to anchor inflation expectations. Recent headlines such as \"This Little-Known AI Chip Stock Doubled. Its New Chips Now Double Optical Speed\" suggest that market participants remain hypersensitive to every data print, particularly around corporate earnings and consumer spending resilience.",
     "The labor market, a key pillar of support, shows 197,000 initial jobless claims, reflecting a relatively stable but cooling employment landscape. Geopolitically, events like \"Ennis (EBF) Grows Sales but Earns Less. Are Legal Items Hiding a Better Business?\" introduce exogenous risks that could disrupt global energy supplies and re-ignite inflationary impulses, keeping the Federal Reserve in a defensive posture as they balance growth against price stability. Analysts are closely watching for any signs of a \"hard landing\" as the effects of previous tightening cycles continue to filter through the real economy."
   ],
   "dailyHeadlines": [
@@ -39,25 +39,25 @@
     },
     {
       "title": "10Y - 2Y Spread",
-      "value": "0.31%",
+      "value": "0.36%",
       "status": "Steepening - slower growth",
       "type": "warning"
     },
     {
       "title": "10Y Treasury Rate",
-      "value": "5.11%",
+      "value": "5.18%",
       "status": "High - energy-driven inflation",
       "type": "warning"
     },
     {
       "title": "2Y Treasury Rate",
-      "value": "4.85%",
+      "value": "4.87%",
       "status": "Elevated - higher-for-longer stance",
       "type": "warning"
     },
     {
       "title": "Consumer Sentiment",
-      "value": "55.2",
+      "value": "51.7",
       "status": "Critical - record low",
       "type": "extreme"
     },
@@ -69,7 +69,7 @@
     },
     {
       "title": "Leading Index (LEI)",
-      "value": "55.2",
+      "value": "51.7",
       "status": "Weakening - persistent headwinds",
       "type": "warning"
     },
@@ -299,29 +299,29 @@
       "category": "Frontier Model Race & Breakthroughs",
       "items": [
         {
-          "title": "Meta's Connect turns into a Muse takeover",
-          "summary": "PLUS: Use Gemini Canvas to visualize Google Sheets...",
-          "url": "https://www.therundown.ai/articles/meta-connect-turns-into-a-muse-takeover"
+          "title": "CEO of Mistral: AI is software. It can be controlled",
+          "summary": "Latest AI discussion on Hacker News: CEO of Mistral: AI is software. It can be controlled. Points: 61. (Source: Hacker News)",
+          "url": "https://www.lemonde.fr/en/economy/article/2026/09/24/arthur-mensch-ceo-of-french-start-up-mistral-ai-ai-is-software-it-can-be-controlled_6757890_19.html"
         },
         {
-          "title": "Federal judge orders Texas to air condition all prisons by the end of 2029",
-          "summary": "Latest AI discussion on Hacker News: Federal judge orders Texas to air condition all prisons by the end of 2029. Points: 111. (Source: Hacker News)",
-          "url": "https://www.texastribune.org/2026/09/22/texas-prison-air-conditioning-lawsuit-ruling/"
+          "title": "One Month Without AI",
+          "summary": "Latest AI discussion on Hacker News: One Month Without AI. Points: 110. (Source: Hacker News)",
+          "url": "https://blog.bustikiller.com/2026/09/25/one-month-without-ai.html"
         },
         {
-          "title": "Tutoring company tells parents to save their money and 'use AI instead'",
-          "summary": "Latest AI discussion on Hacker News: Tutoring company tells parents to save their money and 'use AI instead'. Points: 124. (Source: Hacker News)",
-          "url": "https://www.afr.com/policy/health-and-education/tutoring-company-tell-parents-to-save-their-money-and-use-ai-instead-20260923-p60z0r"
+          "title": "Too AI; Didn't Read",
+          "summary": "Latest AI discussion on Hacker News: Too AI; Didn't Read. Points: 109. (Source: Hacker News)",
+          "url": "https://www.tai-dr.com/"
         },
         {
-          "title": "AI safety is mostly a sex cult in Berkeley",
-          "summary": "Latest AI discussion on Hacker News: AI safety is mostly a sex cult in Berkeley. Points: 119. (Source: Hacker News)",
-          "url": "https://www.verysane.ai/p/ai-safety-is-mostly-a-sex-cult-in"
+          "title": "Classified estimates show the NSA is paying billions to test AI models",
+          "summary": "Latest AI discussion on Hacker News: Classified estimates show the NSA is paying billions to test AI models. Points: 171. (Source: Hacker News)",
+          "url": "https://www.washingtonsun.com/technology/classified-estimates-nsa-paying-billions-to-test-ai-models"
         },
         {
-          "title": "'That's so AI ' What gen Alpha's biggest insult tells us",
-          "summary": "Latest AI discussion on Hacker News: 'That's so AI ' What gen Alpha's biggest insult tells us. Points: 179. (Source: Hacker News)",
-          "url": "https://www.theguardian.com/society/2026/sep/24/thats-so-ai-what-gen-alphas-biggest-insult-tells-us"
+          "title": "Microsoft abandons personal AI chatbot race with Copilot reboot",
+          "summary": "Latest AI discussion on Hacker News: Microsoft abandons personal AI chatbot race with Copilot reboot. Points: 129. (Source: Hacker News)",
+          "url": "https://www.bloomberg.com/news/articles/2026-09-25/microsoft-abandons-personal-ai-chatbot-race-with-copilot-reboot"
         }
       ]
     },
@@ -329,29 +329,29 @@
       "category": "Enterprise & Agentic AI",
       "items": [
         {
-          "title": "AI has no intent and no motivation",
-          "summary": "Latest AI discussion on Hacker News: AI has no intent and no motivation. Points: 47. (Source: Hacker News)",
-          "url": "https://www.i-programmer.info/news/245-view-point/19164-ai-has-no-motivation.html"
+          "title": "An airport cooled by natural ventilation",
+          "summary": "Latest AI discussion on Hacker News: An airport cooled by natural ventilation. Points: 68. (Source: Hacker News)",
+          "url": "https://www.theguardian.com/environment/2026/sep/25/didnt-need-air-conditioning-airport-cooled-natural-ventilation-reunion"
         },
         {
-          "title": "Anthropic's AI biology lab makes its first find",
-          "summary": "PLUS: Your go-to guy lives in the browser...",
-          "url": "https://www.therundown.ai/articles/anthropic-ai-biology-lab-makes-its-first-find"
+          "title": "Meta's Connect turns into a Muse takeover",
+          "summary": "PLUS: Use Gemini Canvas to visualize Google Sheets...",
+          "url": "https://www.therundown.ai/articles/meta-connect-turns-into-a-muse-takeover"
         },
         {
-          "title": "Meta takes down a critical video about meta AI Glasses after filming at Meta",
-          "summary": "Latest AI discussion on Hacker News: Meta takes down a critical video about meta AI Glasses after filming at Meta. Points: 617. (Source: Hacker News)",
-          "url": "https://www.reddit.com/r/facebook/comments/1wotwrk/meta_takes_down_a_critical_video_about_meta_ai/"
+          "title": "How I changed teaching after AI managed to do all my homework assignments",
+          "summary": "Latest AI discussion on Hacker News: How I changed teaching after AI managed to do all my homework assignments. Points: 87. (Source: Hacker News)",
+          "url": "https://thelastsoftwareengineer.substack.com/p/how-i-changed-teaching-after-ai-managed"
         },
         {
-          "title": "Show HN: Air-gapped file encryption as self-decrypting HTML page",
-          "summary": "Latest AI discussion on Hacker News: Show HN: Air-gapped file encryption as self-decrypting HTML page. Points: 79. (Source: Hacker News)",
-          "url": "https://cms-sfx-demo.apeleg.com/"
+          "title": "Federal judge orders Texas to air condition all prisons by the end of 2029",
+          "summary": "Latest AI discussion on Hacker News: Federal judge orders Texas to air condition all prisons by the end of 2029. Points: 116. (Source: Hacker News)",
+          "url": "https://www.texastribune.org/2026/09/22/texas-prison-air-conditioning-lawsuit-ruling/"
         },
         {
-          "title": "Early rogue AI agent activity and attempts to hack found on urlquery.net",
-          "summary": "Latest AI discussion on Hacker News: Early rogue AI agent activity and attempts to hack found on urlquery.net. Points: 261. (Source: Hacker News)",
-          "url": "https://transluce.org/agent-activity"
+          "title": "Tutoring company tells parents to save their money and 'use AI instead'",
+          "summary": "Latest AI discussion on Hacker News: Tutoring company tells parents to save their money and 'use AI instead'. Points: 137. (Source: Hacker News)",
+          "url": "https://www.afr.com/policy/health-and-education/tutoring-company-tell-parents-to-save-their-money-and-use-ai-instead-20260923-p60z0r"
         }
       ]
     },
