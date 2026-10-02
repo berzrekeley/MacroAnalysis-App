@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "October 1, 2026",
+  "lastUpdated": "October 2, 2026",
   "executiveSummary": [
-    "As of October 1, 2026, the U.S. macroeconomic environment is navigating a complex period of high interest rates and shifting labor market dynamics. With the Fed Funds Rate holding at 3.63% and CPI inflation tracking at 3.35%, the central bank continues its \"higher-for-longer\" stance to anchor inflation expectations. Recent headlines such as \"This Little-Known AI Chip Stock Doubled. Its New Chips Now Double Optical Speed\" suggest that market participants remain hypersensitive to every data print, particularly around corporate earnings and consumer spending resilience.",
+    "As of October 2, 2026, the U.S. macroeconomic environment is navigating a complex period of high interest rates and shifting labor market dynamics. With the Fed Funds Rate holding at 3.75% and CPI inflation tracking at 3.35%, the central bank continues its \"higher-for-longer\" stance to anchor inflation expectations. Recent headlines such as \"This Little-Known AI Chip Stock Doubled. Its New Chips Now Double Optical Speed\" suggest that market participants remain hypersensitive to every data print, particularly around corporate earnings and consumer spending resilience.",
     "The labor market, a key pillar of support, shows 197,000 initial jobless claims, reflecting a relatively stable but cooling employment landscape. Geopolitically, events like \"Ennis (EBF) Grows Sales but Earns Less. Are Legal Items Hiding a Better Business?\" introduce exogenous risks that could disrupt global energy supplies and re-ignite inflationary impulses, keeping the Federal Reserve in a defensive posture as they balance growth against price stability. Analysts are closely watching for any signs of a \"hard landing\" as the effects of previous tightening cycles continue to filter through the real economy."
   ],
   "dailyHeadlines": [
@@ -33,25 +33,25 @@
     },
     {
       "title": "Fed Funds Rate",
-      "value": "3.63%",
+      "value": "3.75%",
       "status": "Neutral - 99% chance of no change",
       "type": "neutral"
     },
     {
       "title": "10Y - 2Y Spread",
-      "value": "0.41%",
+      "value": "0.46%",
       "status": "Steepening - slower growth",
       "type": "warning"
     },
     {
       "title": "10Y Treasury Rate",
-      "value": "5.26%",
+      "value": "5.29%",
       "status": "High - energy-driven inflation",
       "type": "warning"
     },
     {
       "title": "2Y Treasury Rate",
-      "value": "4.89%",
+      "value": "4.88%",
       "status": "Elevated - higher-for-longer stance",
       "type": "warning"
     },
@@ -299,29 +299,29 @@
       "category": "Frontier Model Race & Breakthroughs",
       "items": [
         {
-          "title": "An AI sovereign wealth fund isn't progressive – it's techno-imperialism",
-          "summary": "Latest AI discussion on Hacker News: An AI sovereign wealth fund isn't progressive – it's techno-imperialism. Points: 70. (Source: Hacker News)",
-          "url": "https://www.ft.com/content/bc178357-793b-45d8-ae3b-d5929159c243"
+          "title": "AI Makes Me Sad",
+          "summary": "Latest AI discussion on Hacker News: AI Makes Me Sad. Points: 96. (Source: Hacker News)",
+          "url": "https://mondobe.com/ai-makes-me-sad"
         },
         {
-          "title": "FTC is investigating OpenAI, Anthropic and other AI companies over product risks",
-          "summary": "Latest AI discussion on Hacker News: FTC is investigating OpenAI, Anthropic and other AI companies over product risks. Points: 133. (Source: Hacker News)",
-          "url": "https://www.cnbc.com/2026/09/30/ftc-ai-probe-openai-anthropic.html"
+          "title": "Tavus' AI looks, listens, and talks back live",
+          "summary": "PLUS: Is ChatGPT “Dots” worth upgrading to Pro for?...",
+          "url": "https://www.therundown.ai/articles/tavus-ai-looks-listens-and-talks-back-live"
         },
         {
-          "title": "Argon aims to return Google to the frontier",
-          "summary": "PLUS: How (and why) to set up Meta’s Muse Desktop...",
-          "url": "https://www.therundown.ai/articles/argon-aims-to-return-google-to-the-frontier"
+          "title": "Your Big Mac might cost more if McDonald's AI thinks people nearby can afford it",
+          "summary": "Latest AI discussion on Hacker News: Your Big Mac might cost more if McDonald's AI thinks people nearby can afford it. Points: 37. (Source: Hacker News)",
+          "url": "https://neow.in/NGxhb3d6"
         },
         {
-          "title": "CS240 AI Cheating Retrospective",
-          "summary": "Latest AI discussion on Hacker News: CS240 AI Cheating Retrospective. Points: 111. (Source: Hacker News)",
-          "url": "https://turkeyland.net/thoughts/ai.php"
+          "title": "Aweb – Communication for AI Agents",
+          "summary": "Latest AI discussion on Hacker News: Aweb – Communication for AI Agents. Points: 38. (Source: Hacker News)",
+          "url": "https://aweb.ai"
         },
         {
-          "title": "Reddit is killing RSS feeds and ending public API access because of AI bots",
-          "summary": "Latest AI discussion on Hacker News: Reddit is killing RSS feeds and ending public API access because of AI bots. Points: 35. (Source: Hacker News)",
-          "url": "https://techcrunch.com/2026/09/30/reddit-is-killing-rss-feeds-ending-public-api-access-because-of-ai-bots/"
+          "title": "Don't Be Fooled by this Summer of AI Hype",
+          "summary": "Latest AI discussion on Hacker News: Don't Be Fooled by this Summer of AI Hype. Points: 40. (Source: Hacker News)",
+          "url": "https://www.technologyreview.com/2026/09/22/1144867/dont-be-fooled-summer-ai-hype/"
         }
       ]
     },
@@ -329,29 +329,29 @@
       "category": "Enterprise & Agentic AI",
       "items": [
         {
-          "title": "FTC opens probe into AI giants including Anthropic and OpenAI",
-          "summary": "Latest AI discussion on Hacker News: FTC opens probe into AI giants including Anthropic and OpenAI. Points: 36. (Source: Hacker News)",
-          "url": "https://www.reuters.com/business/ftc-opens-probe-into-ai-giants-including-anthropic-openai-new-york-post-reports-2026-09-30/"
+          "title": "Vote on which of Hacker News' challenges for AI have been met",
+          "summary": "Latest AI discussion on Hacker News: Vote on which of Hacker News' challenges for AI have been met. Points: 185. (Source: Hacker News)",
+          "url": "https://stoppels.ch/goalposts/"
         },
         {
-          "title": "The AI Race Just Got Awkward",
-          "summary": "Latest AI discussion on Hacker News: The AI Race Just Got Awkward. Points: 396. (Source: Hacker News)",
-          "url": "https://insufferable.dev/posts/the-ai-race-just-got-awkward/"
+          "title": "Identity Management for Agentic AI [pdf] (2025)",
+          "summary": "Latest AI discussion on Hacker News: Identity Management for Agentic AI [pdf] (2025). Points: 75. (Source: Hacker News)",
+          "url": "https://openid.net/wp-content/uploads/2025/10/Identity-Management-for-Agentic-AI.pdf"
         },
         {
-          "title": "Show HN: Lathoa, a math app for kids where the AI is wrong on purpose",
-          "summary": "Latest AI discussion on Hacker News: Show HN: Lathoa, a math app for kids where the AI is wrong on purpose. Points: 52. (Source: Hacker News)",
-          "url": "https://lathoa.ai/en"
+          "title": "DoorDash puts its own drone on the menu",
+          "summary": "PLUS: Figure jumps into fiery inferno...",
+          "url": "https://www.therundown.ai/articles/doordash-puts-its-own-drone-on-the-menu"
         },
         {
-          "title": "OpenAI connects the dots on always-on agents",
-          "summary": "PLUS: Get started with ChatGPT dot, OpenAI's new agent...",
-          "url": "https://www.therundown.ai/articles/openai-connects-the-dots-on-always-on-agents"
+          "title": "An AI sovereign wealth fund isn't progressive – it's techno-imperialism",
+          "summary": "Latest AI discussion on Hacker News: An AI sovereign wealth fund isn't progressive – it's techno-imperialism. Points: 90. (Source: Hacker News)",
+          "url": "https://www.ft.com/content/bc178357-793b-45d8-ae3b-d5929159c243"
         },
         {
-          "title": "Responsible Release of AI-Generated Mathematics",
-          "summary": "Latest AI discussion on Hacker News: Responsible Release of AI-Generated Mathematics. Points: 109. (Source: Hacker News)",
-          "url": "https://agmai.org/general-sep29/"
+          "title": "FTC is investigating OpenAI, Anthropic and other AI companies over product risks",
+          "summary": "Latest AI discussion on Hacker News: FTC is investigating OpenAI, Anthropic and other AI companies over product risks. Points: 205. (Source: Hacker News)",
+          "url": "https://www.cnbc.com/2026/09/30/ftc-ai-probe-openai-anthropic.html"
         }
       ]
     },
