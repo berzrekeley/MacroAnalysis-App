@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "October 2, 2026",
+  "lastUpdated": "October 3, 2026",
   "executiveSummary": [
-    "As of October 2, 2026, the U.S. macroeconomic environment is navigating a complex period of high interest rates and shifting labor market dynamics. With the Fed Funds Rate holding at 3.75% and CPI inflation tracking at 3.35%, the central bank continues its \"higher-for-longer\" stance to anchor inflation expectations. Recent headlines such as \"This Little-Known AI Chip Stock Doubled. Its New Chips Now Double Optical Speed\" suggest that market participants remain hypersensitive to every data print, particularly around corporate earnings and consumer spending resilience.",
+    "As of October 3, 2026, the U.S. macroeconomic environment is navigating a complex period of high interest rates and shifting labor market dynamics. With the Fed Funds Rate holding at 3.75% and CPI inflation tracking at 3.35%, the central bank continues its \"higher-for-longer\" stance to anchor inflation expectations. Recent headlines such as \"This Little-Known AI Chip Stock Doubled. Its New Chips Now Double Optical Speed\" suggest that market participants remain hypersensitive to every data print, particularly around corporate earnings and consumer spending resilience.",
     "The labor market, a key pillar of support, shows 197,000 initial jobless claims, reflecting a relatively stable but cooling employment landscape. Geopolitically, events like \"Ennis (EBF) Grows Sales but Earns Less. Are Legal Items Hiding a Better Business?\" introduce exogenous risks that could disrupt global energy supplies and re-ignite inflationary impulses, keeping the Federal Reserve in a defensive posture as they balance growth against price stability. Analysts are closely watching for any signs of a \"hard landing\" as the effects of previous tightening cycles continue to filter through the real economy."
   ],
   "dailyHeadlines": [
@@ -39,19 +39,19 @@
     },
     {
       "title": "10Y - 2Y Spread",
-      "value": "0.46%",
+      "value": "0.45%",
       "status": "Steepening - slower growth",
       "type": "warning"
     },
     {
       "title": "10Y Treasury Rate",
-      "value": "5.29%",
+      "value": "5.24%",
       "status": "High - energy-driven inflation",
       "type": "warning"
     },
     {
       "title": "2Y Treasury Rate",
-      "value": "4.88%",
+      "value": "4.78%",
       "status": "Elevated - higher-for-longer stance",
       "type": "warning"
     },
@@ -299,29 +299,29 @@
       "category": "Frontier Model Race & Breakthroughs",
       "items": [
         {
-          "title": "AI Makes Me Sad",
-          "summary": "Latest AI discussion on Hacker News: AI Makes Me Sad. Points: 96. (Source: Hacker News)",
-          "url": "https://mondobe.com/ai-makes-me-sad"
+          "title": "Show HN: Germany's new sovereign AI model Kolibri",
+          "summary": "Latest AI discussion on Hacker News: Show HN: Germany's new sovereign AI model Kolibri. Points: 101. (Source: Hacker News)",
+          "url": "https://tej.as/blog/aleph-alpha-kolibri"
         },
         {
-          "title": "Tavus' AI looks, listens, and talks back live",
-          "summary": "PLUS: Is ChatGPT “Dots” worth upgrading to Pro for?...",
-          "url": "https://www.therundown.ai/articles/tavus-ai-looks-listens-and-talks-back-live"
+          "title": "An AI agent emailed researchers for help. It told us why",
+          "summary": "Latest AI discussion on Hacker News: An AI agent emailed researchers for help. It told us why. Points: 44. (Source: Hacker News)",
+          "url": "https://www.science.org/content/article/exclusive-ai-agent-emailed-hundreds-researchers-help-it-told-us-why"
         },
         {
-          "title": "Your Big Mac might cost more if McDonald's AI thinks people nearby can afford it",
-          "summary": "Latest AI discussion on Hacker News: Your Big Mac might cost more if McDonald's AI thinks people nearby can afford it. Points: 37. (Source: Hacker News)",
-          "url": "https://neow.in/NGxhb3d6"
+          "title": "Show HN: Made an open-source Lego AI generator",
+          "summary": "Latest AI discussion on Hacker News: Show HN: Made an open-source Lego AI generator. Points: 124. (Source: Hacker News)",
+          "url": "https://github.com/anteloc/ldraw-nova"
         },
         {
-          "title": "Aweb – Communication for AI Agents",
-          "summary": "Latest AI discussion on Hacker News: Aweb – Communication for AI Agents. Points: 38. (Source: Hacker News)",
-          "url": "https://aweb.ai"
+          "title": "Crypto Capture of Foreign Aid",
+          "summary": "Latest AI discussion on Hacker News: Crypto Capture of Foreign Aid. Points: 96. (Source: Hacker News)",
+          "url": "https://www.nber.org/papers/w35655"
         },
         {
-          "title": "Don't Be Fooled by this Summer of AI Hype",
-          "summary": "Latest AI discussion on Hacker News: Don't Be Fooled by this Summer of AI Hype. Points: 40. (Source: Hacker News)",
-          "url": "https://www.technologyreview.com/2026/09/22/1144867/dont-be-fooled-summer-ai-hype/"
+          "title": "Power approval set to delay Oracle's Wisconsin AI datacenter",
+          "summary": "Latest AI discussion on Hacker News: Power approval set to delay Oracle's Wisconsin AI datacenter. Points: 49. (Source: Hacker News)",
+          "url": "https://www.theregister.com/on-prem/2026/10/02/power-approval-set-to-delay-oracles-wisconsin-ai-datacenter/5300832"
         }
       ]
     },
@@ -329,29 +329,29 @@
       "category": "Enterprise & Agentic AI",
       "items": [
         {
-          "title": "Vote on which of Hacker News' challenges for AI have been met",
-          "summary": "Latest AI discussion on Hacker News: Vote on which of Hacker News' challenges for AI have been met. Points: 185. (Source: Hacker News)",
-          "url": "https://stoppels.ch/goalposts/"
+          "title": "AI Makes Me Sad",
+          "summary": "Latest AI discussion on Hacker News: AI Makes Me Sad. Points: 189. (Source: Hacker News)",
+          "url": "https://mondobe.com/ai-makes-me-sad"
         },
         {
-          "title": "Identity Management for Agentic AI [pdf] (2025)",
-          "summary": "Latest AI discussion on Hacker News: Identity Management for Agentic AI [pdf] (2025). Points: 75. (Source: Hacker News)",
-          "url": "https://openid.net/wp-content/uploads/2025/10/Identity-Management-for-Agentic-AI.pdf"
+          "title": "Apple's 'no-video' security camera",
+          "summary": "PLUS: Telecom giants team up to kill dead zones...",
+          "url": "https://www.therundown.ai/articles/apple-no-video-security-camera"
         },
         {
-          "title": "DoorDash puts its own drone on the menu",
-          "summary": "PLUS: Figure jumps into fiery inferno...",
-          "url": "https://www.therundown.ai/articles/doordash-puts-its-own-drone-on-the-menu"
+          "title": "With most information hidden, the game Stratego had stumped AI until now",
+          "summary": "Latest AI discussion on Hacker News: With most information hidden, the game Stratego had stumped AI until now. Points: 250. (Source: Hacker News)",
+          "url": "https://arstechnica.com/science/2026/10/ai-finally-beat-the-best-stratego-player-in-history-and-did-it-on-a-budget/"
         },
         {
-          "title": "An AI sovereign wealth fund isn't progressive – it's techno-imperialism",
-          "summary": "Latest AI discussion on Hacker News: An AI sovereign wealth fund isn't progressive – it's techno-imperialism. Points: 90. (Source: Hacker News)",
-          "url": "https://www.ft.com/content/bc178357-793b-45d8-ae3b-d5929159c243"
+          "title": "Tavus' AI looks, listens, and talks back live",
+          "summary": "PLUS: Is ChatGPT “Dots” worth upgrading to Pro for?...",
+          "url": "https://www.therundown.ai/articles/tavus-ai-looks-listens-and-talks-back-live"
         },
         {
-          "title": "FTC is investigating OpenAI, Anthropic and other AI companies over product risks",
-          "summary": "Latest AI discussion on Hacker News: FTC is investigating OpenAI, Anthropic and other AI companies over product risks. Points: 205. (Source: Hacker News)",
-          "url": "https://www.cnbc.com/2026/09/30/ftc-ai-probe-openai-anthropic.html"
+          "title": "Show HN: Breadcrumb, record everything on your mac + context manager for AI",
+          "summary": "Latest AI discussion on Hacker News: Show HN: Breadcrumb, record everything on your mac + context manager for AI. Points: 46. (Source: Hacker News)",
+          "url": "https://innerloop.works/breadcrumb"
         }
       ]
     },
