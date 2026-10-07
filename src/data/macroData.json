@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "October 6, 2026",
+  "lastUpdated": "October 7, 2026",
   "executiveSummary": [
-    "As of October 6, 2026, the U.S. macroeconomic environment is navigating a complex period of high interest rates and shifting labor market dynamics. With the Fed Funds Rate holding at 3.75% and CPI inflation tracking at 3.35%, the central bank continues its \"higher-for-longer\" stance to anchor inflation expectations. Recent headlines such as \"Retirement contribution limits will rise in 2019\" suggest that market participants remain hypersensitive to every data print, particularly around corporate earnings and consumer spending resilience.",
+    "As of October 7, 2026, the U.S. macroeconomic environment is navigating a complex period of high interest rates and shifting labor market dynamics. With the Fed Funds Rate holding at 3.75% and CPI inflation tracking at 3.35%, the central bank continues its \"higher-for-longer\" stance to anchor inflation expectations. Recent headlines such as \"Retirement contribution limits will rise in 2019\" suggest that market participants remain hypersensitive to every data print, particularly around corporate earnings and consumer spending resilience.",
     "The labor market, a key pillar of support, shows 197,000 initial jobless claims, reflecting a relatively stable but cooling employment landscape. Geopolitically, events like \"Geopolitical tensions remain in focus\" introduce exogenous risks that could disrupt global energy supplies and re-ignite inflationary impulses, keeping the Federal Reserve in a defensive posture as they balance growth against price stability. Analysts are closely watching for any signs of a \"hard landing\" as the effects of previous tightening cycles continue to filter through the real economy."
   ],
   "dailyHeadlines": [
@@ -27,19 +27,19 @@
     },
     {
       "title": "10Y - 2Y Spread",
-      "value": "0.47%",
+      "value": "0.48%",
       "status": "Steepening - slower growth",
       "type": "warning"
     },
     {
       "title": "10Y Treasury Rate",
-      "value": "5.28%",
+      "value": "5.31%",
       "status": "High - energy-driven inflation",
       "type": "warning"
     },
     {
       "title": "2Y Treasury Rate",
-      "value": "4.83%",
+      "value": "4.84%",
       "status": "Elevated - higher-for-longer stance",
       "type": "warning"
     },
@@ -287,29 +287,29 @@
       "category": "Frontier Model Race & Breakthroughs",
       "items": [
         {
-          "title": "The 'DeepSeek of the West' finally has a model",
-          "summary": "PLUS: Protect your files with this Claude Code mod...",
-          "url": "https://www.therundown.ai/articles/the-deepseek-of-the-west-finally-has-a-model"
+          "title": "OpenAI's math avalanche continues",
+          "summary": "PLUS: Let OpenAI’s GPT-6 Astra compare websites for you...",
+          "url": "https://www.therundown.ai/articles/openai-math-avalanche-continues"
         },
         {
-          "title": "The AI boom is making the cheapest smartphones disappear",
-          "summary": "Latest AI discussion on Hacker News: The AI boom is making the cheapest smartphones disappear. Points: 41. (Source: Hacker News)",
-          "url": "https://restofworld.org/2026/ai-data-center-memory-chip-shortage-cheap-smartphones-digital-divide/"
+          "title": "Forever Junior: The Skills AI Can't Develop for You",
+          "summary": "Latest AI discussion on Hacker News: Forever Junior: The Skills AI Can't Develop for You. Points: 57. (Source: Hacker News)",
+          "url": "https://tech.criteo.com/blog/human-skills-ai-cant-develop-junior-engineers/"
         },
         {
-          "title": "AI tutoring with Khanmigo in a two-year school experiment",
-          "summary": "Latest AI discussion on Hacker News: AI tutoring with Khanmigo in a two-year school experiment. Points: 67. (Source: Hacker News)",
-          "url": "https://edworkingpapers.com/ai26-1551"
+          "title": "Show HN: NanoMuse – An open-source AI agent for your phone and computer",
+          "summary": "Latest AI discussion on Hacker News: Show HN: NanoMuse – An open-source AI agent for your phone and computer. Points: 54. (Source: Hacker News)",
+          "url": "https://github.com/nano-muse/nanoMuse"
         },
         {
-          "title": "AI Companies Are Parasites",
-          "summary": "Latest AI discussion on Hacker News: AI Companies Are Parasites. Points: 70. (Source: Hacker News)",
-          "url": "https://www.coryd.dev/posts/2026/ai-companies-are-parasites"
+          "title": "South Korea says AI agents appear to have been used to hack the country's banks",
+          "summary": "Latest AI discussion on Hacker News: South Korea says AI agents appear to have been used to hack the country's banks. Points: 95. (Source: Hacker News)",
+          "url": "https://www.reuters.com/world/south-koreas-lee-says-ai-appears-have-been-used-bank-hacks-2026-10-06/"
         },
         {
-          "title": "Questions for believers in AI consciousness",
-          "summary": "Latest AI discussion on Hacker News: Questions for believers in AI consciousness. Points: 47. (Source: Hacker News)",
-          "url": "https://endsdontjustifythemeans.com/p/6-questions-for-believers-in-ai-consciousness"
+          "title": "Sharing AI progress in mathematics",
+          "summary": "Latest AI discussion on Hacker News: Sharing AI progress in mathematics. Points: 1150. (Source: Hacker News)",
+          "url": "https://openai.com/index/sharing-ai-progress-in-mathematics/"
         }
       ]
     },
@@ -317,29 +317,29 @@
       "category": "Enterprise & Agentic AI",
       "items": [
         {
-          "title": "Florida woman arrested for allegedly making threats in an AI chat",
-          "summary": "Latest AI discussion on Hacker News: Florida woman arrested for allegedly making threats in an AI chat. Points: 50. (Source: Hacker News)",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/1004747/florida-woman-arrested-for-allegedly-making-threats-in-an-ai-chat"
+          "title": "Penguin Mail – open-source Rust email client for Linux with AI",
+          "summary": "Latest AI discussion on Hacker News: Penguin Mail – open-source Rust email client for Linux with AI. Points: 228. (Source: Hacker News)",
+          "url": "https://penguin-mail.com/"
         },
         {
-          "title": "Altman: The world should accept some bad things happening for the benefits of AI",
-          "summary": "Latest AI discussion on Hacker News: Altman: The world should accept some bad things happening for the benefits of AI. Points: 41. (Source: Hacker News)",
-          "url": "https://www.politico.com/news/2026/10/04/sam-altman-decoded-interview-ai-01106217"
+          "title": "Utah to let AI examine patients and prescribe medication without human oversight",
+          "summary": "Latest AI discussion on Hacker News: Utah to let AI examine patients and prescribe medication without human oversight. Points: 134. (Source: Hacker News)",
+          "url": "https://www.techspot.com/news/114111-utah-become-first-state-ai-examine-patients-prescribe.html"
         },
         {
-          "title": "California crashes robot fight club",
-          "summary": "PLUS: Atlas gets a four-fingered upgrade...",
-          "url": "https://www.therundown.ai/articles/california-crashes-robot-fight-club"
+          "title": "OpenTPU – An open-source AI accelerator, developed by AI",
+          "summary": "Latest AI discussion on Hacker News: OpenTPU – An open-source AI accelerator, developed by AI. Points: 331. (Source: Hacker News)",
+          "url": "https://github.com/FeSens/openTPU"
         },
         {
-          "title": "Jonathan Haidt: AI Is the 'Neutron Bomb for Education' [video]",
-          "summary": "Latest AI discussion on Hacker News: Jonathan Haidt: AI Is the 'Neutron Bomb for Education' [video]. Points: 33. (Source: Hacker News)",
-          "url": "https://www.youtube.com/watch?v=RFTfANuLBF4"
+          "title": "A breakout moment for AI medicine",
+          "summary": "PLUS: This new headset measures burnout...",
+          "url": "https://www.therundown.ai/articles/a-breakout-moment-for-ai-medicine"
         },
         {
-          "title": "Spending on AI is becoming almost impossible for businesses to budget",
-          "summary": "Latest AI discussion on Hacker News: Spending on AI is becoming almost impossible for businesses to budget. Points: 59. (Source: Hacker News)",
-          "url": "https://www.wsj.com/tech/personal-tech/ai-token-spending-businesses-431ee94a"
+          "title": "Erdosproblems.com Succumbs to the AI Onslaught",
+          "summary": "Latest AI discussion on Hacker News: Erdosproblems.com Succumbs to the AI Onslaught. Points: 114. (Source: Hacker News)",
+          "url": "https://www.erdosproblems.com/forum/thread/blog:9"
         }
       ]
     },
