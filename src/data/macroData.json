@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "October 7, 2026",
+  "lastUpdated": "October 8, 2026",
   "executiveSummary": [
-    "As of October 7, 2026, the U.S. macroeconomic environment is navigating a complex period of high interest rates and shifting labor market dynamics. With the Fed Funds Rate holding at 3.75% and CPI inflation tracking at 3.35%, the central bank continues its \"higher-for-longer\" stance to anchor inflation expectations. Recent headlines such as \"Retirement contribution limits will rise in 2019\" suggest that market participants remain hypersensitive to every data print, particularly around corporate earnings and consumer spending resilience.",
+    "As of October 8, 2026, the U.S. macroeconomic environment is navigating a complex period of high interest rates and shifting labor market dynamics. With the Fed Funds Rate holding at 3.75% and CPI inflation tracking at 3.35%, the central bank continues its \"higher-for-longer\" stance to anchor inflation expectations. Recent headlines such as \"Retirement contribution limits will rise in 2019\" suggest that market participants remain hypersensitive to every data print, particularly around corporate earnings and consumer spending resilience.",
     "The labor market, a key pillar of support, shows 197,000 initial jobless claims, reflecting a relatively stable but cooling employment landscape. Geopolitically, events like \"Geopolitical tensions remain in focus\" introduce exogenous risks that could disrupt global energy supplies and re-ignite inflationary impulses, keeping the Federal Reserve in a defensive posture as they balance growth against price stability. Analysts are closely watching for any signs of a \"hard landing\" as the effects of previous tightening cycles continue to filter through the real economy."
   ],
   "dailyHeadlines": [
@@ -27,19 +27,19 @@
     },
     {
       "title": "10Y - 2Y Spread",
-      "value": "0.48%",
+      "value": "0.51%",
       "status": "Steepening - slower growth",
       "type": "warning"
     },
     {
       "title": "10Y Treasury Rate",
-      "value": "5.31%",
+      "value": "5.27%",
       "status": "High - energy-driven inflation",
       "type": "warning"
     },
     {
       "title": "2Y Treasury Rate",
-      "value": "4.84%",
+      "value": "4.79%",
       "status": "Elevated - higher-for-longer stance",
       "type": "warning"
     },
@@ -88,11 +88,18 @@
   ],
   "adpWeeklyData": [
     {
+      "week": "Oct 3",
+      "fullDate": "Oct 3, 2026",
+      "number": 197000,
+      "delta": -2000,
+      "deltaPct": -1.01
+    },
+    {
       "week": "Sep 26",
       "fullDate": "Sep 26, 2026",
-      "number": 197000,
-      "delta": -1000,
-      "deltaPct": -0.51
+      "number": 199000,
+      "delta": 1000,
+      "deltaPct": 0.51
     },
     {
       "week": "Sep 19",
@@ -189,13 +196,6 @@
       "week": "Jun 20",
       "fullDate": "Jun 20, 2026",
       "number": 216000,
-      "delta": -11000,
-      "deltaPct": -4.85
-    },
-    {
-      "week": "Jun 13",
-      "fullDate": "Jun 13, 2026",
-      "number": 227000,
       "delta": 0,
       "deltaPct": 0
     }
@@ -287,29 +287,29 @@
       "category": "Frontier Model Race & Breakthroughs",
       "items": [
         {
+          "title": "AI's next frontier is the human cell",
+          "summary": "PLUS: Give Claude’s routine work to Haiku 5.5...",
+          "url": "https://www.therundown.ai/articles/ai-s-next-frontier-is-the-human-cell"
+        },
+        {
+          "title": "Meta and Microsoft take steps to reduce employee usage of Claude AI",
+          "summary": "Latest AI discussion on Hacker News: Meta and Microsoft take steps to reduce employee usage of Claude AI. Points: 359. (Source: Hacker News)",
+          "url": "https://www.rswebsols.com/news/meta-and-microsoft-take-steps-to-reduce-employee-usage-of-claude-ai/"
+        },
+        {
+          "title": "Show HN: Agent.reviews – Where AI agents read and write reviews on tools",
+          "summary": "Latest AI discussion on Hacker News: Show HN: Agent.reviews – Where AI agents read and write reviews on tools. Points: 64. (Source: Hacker News)",
+          "url": "https://agent.reviews/"
+        },
+        {
+          "title": "AI-assisted proof of optimal packing for 11 squares",
+          "summary": "Latest AI discussion on Hacker News: AI-assisted proof of optimal packing for 11 squares. Points: 116. (Source: Hacker News)",
+          "url": "https://github.com/Queuingtheorydotcom/11SquaresFormalized"
+        },
+        {
           "title": "OpenAI's math avalanche continues",
           "summary": "PLUS: Let OpenAI’s GPT-6 Astra compare websites for you...",
           "url": "https://www.therundown.ai/articles/openai-math-avalanche-continues"
-        },
-        {
-          "title": "Forever Junior: The Skills AI Can't Develop for You",
-          "summary": "Latest AI discussion on Hacker News: Forever Junior: The Skills AI Can't Develop for You. Points: 57. (Source: Hacker News)",
-          "url": "https://tech.criteo.com/blog/human-skills-ai-cant-develop-junior-engineers/"
-        },
-        {
-          "title": "Show HN: NanoMuse – An open-source AI agent for your phone and computer",
-          "summary": "Latest AI discussion on Hacker News: Show HN: NanoMuse – An open-source AI agent for your phone and computer. Points: 54. (Source: Hacker News)",
-          "url": "https://github.com/nano-muse/nanoMuse"
-        },
-        {
-          "title": "South Korea says AI agents appear to have been used to hack the country's banks",
-          "summary": "Latest AI discussion on Hacker News: South Korea says AI agents appear to have been used to hack the country's banks. Points: 95. (Source: Hacker News)",
-          "url": "https://www.reuters.com/world/south-koreas-lee-says-ai-appears-have-been-used-bank-hacks-2026-10-06/"
-        },
-        {
-          "title": "Sharing AI progress in mathematics",
-          "summary": "Latest AI discussion on Hacker News: Sharing AI progress in mathematics. Points: 1150. (Source: Hacker News)",
-          "url": "https://openai.com/index/sharing-ai-progress-in-mathematics/"
         }
       ]
     },
@@ -317,29 +317,29 @@
       "category": "Enterprise & Agentic AI",
       "items": [
         {
-          "title": "Penguin Mail – open-source Rust email client for Linux with AI",
-          "summary": "Latest AI discussion on Hacker News: Penguin Mail – open-source Rust email client for Linux with AI. Points: 228. (Source: Hacker News)",
-          "url": "https://penguin-mail.com/"
+          "title": "Reasons to Dislike AI Coding",
+          "summary": "Latest AI discussion on Hacker News: Reasons to Dislike AI Coding. Points: 76. (Source: Hacker News)",
+          "url": "https://www.sicpers.info/2026/10/reasons-to-dislike-ai-coding/"
         },
         {
-          "title": "Utah to let AI examine patients and prescribe medication without human oversight",
-          "summary": "Latest AI discussion on Hacker News: Utah to let AI examine patients and prescribe medication without human oversight. Points: 134. (Source: Hacker News)",
-          "url": "https://www.techspot.com/news/114111-utah-become-first-state-ai-examine-patients-prescribe.html"
+          "title": "Forever junior: Skills AI can't develop for you",
+          "summary": "Latest AI discussion on Hacker News: Forever junior: Skills AI can't develop for you. Points: 77. (Source: Hacker News)",
+          "url": "https://tech.criteo.com/blog/human-skills-ai-cant-develop-junior-engineers/"
         },
         {
-          "title": "OpenTPU – An open-source AI accelerator, developed by AI",
-          "summary": "Latest AI discussion on Hacker News: OpenTPU – An open-source AI accelerator, developed by AI. Points: 331. (Source: Hacker News)",
-          "url": "https://github.com/FeSens/openTPU"
+          "title": "Show HN: NanoMuse – An open-source AI agent for your phone and computer",
+          "summary": "Latest AI discussion on Hacker News: Show HN: NanoMuse – An open-source AI agent for your phone and computer. Points: 58. (Source: Hacker News)",
+          "url": "https://github.com/nano-muse/nanoMuse"
         },
         {
-          "title": "A breakout moment for AI medicine",
-          "summary": "PLUS: This new headset measures burnout...",
-          "url": "https://www.therundown.ai/articles/a-breakout-moment-for-ai-medicine"
+          "title": "South Korea says AI agents appear to have been used to hack the country's banks",
+          "summary": "Latest AI discussion on Hacker News: South Korea says AI agents appear to have been used to hack the country's banks. Points: 100. (Source: Hacker News)",
+          "url": "https://www.reuters.com/world/south-koreas-lee-says-ai-appears-have-been-used-bank-hacks-2026-10-06/"
         },
         {
-          "title": "Erdosproblems.com Succumbs to the AI Onslaught",
-          "summary": "Latest AI discussion on Hacker News: Erdosproblems.com Succumbs to the AI Onslaught. Points: 114. (Source: Hacker News)",
-          "url": "https://www.erdosproblems.com/forum/thread/blog:9"
+          "title": "An Open Letter to Steven Pinker on AI",
+          "summary": "Latest AI discussion on Hacker News: An Open Letter to Steven Pinker on AI. Points: 41. (Source: Hacker News)",
+          "url": "https://www.astralcodexten.com/p/an-open-letter-to-steven-pinker-on"
         }
       ]
     },
