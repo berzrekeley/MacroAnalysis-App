@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "October 8, 2026",
+  "lastUpdated": "October 9, 2026",
   "executiveSummary": [
-    "As of October 8, 2026, the U.S. macroeconomic environment is navigating a complex period of high interest rates and shifting labor market dynamics. With the Fed Funds Rate holding at 3.75% and CPI inflation tracking at 3.35%, the central bank continues its \"higher-for-longer\" stance to anchor inflation expectations. Recent headlines such as \"Retirement contribution limits will rise in 2019\" suggest that market participants remain hypersensitive to every data print, particularly around corporate earnings and consumer spending resilience.",
+    "As of October 9, 2026, the U.S. macroeconomic environment is navigating a complex period of high interest rates and shifting labor market dynamics. With the Fed Funds Rate holding at 3.75% and CPI inflation tracking at 3.35%, the central bank continues its \"higher-for-longer\" stance to anchor inflation expectations. Recent headlines such as \"Retirement contribution limits will rise in 2019\" suggest that market participants remain hypersensitive to every data print, particularly around corporate earnings and consumer spending resilience.",
     "The labor market, a key pillar of support, shows 197,000 initial jobless claims, reflecting a relatively stable but cooling employment landscape. Geopolitically, events like \"Geopolitical tensions remain in focus\" introduce exogenous risks that could disrupt global energy supplies and re-ignite inflationary impulses, keeping the Federal Reserve in a defensive posture as they balance growth against price stability. Analysts are closely watching for any signs of a \"hard landing\" as the effects of previous tightening cycles continue to filter through the real economy."
   ],
   "dailyHeadlines": [
@@ -27,19 +27,19 @@
     },
     {
       "title": "10Y - 2Y Spread",
-      "value": "0.51%",
+      "value": "0.47%",
       "status": "Steepening - slower growth",
       "type": "warning"
     },
     {
       "title": "10Y Treasury Rate",
-      "value": "5.27%",
+      "value": "5.28%",
       "status": "High - energy-driven inflation",
       "type": "warning"
     },
     {
       "title": "2Y Treasury Rate",
-      "value": "4.79%",
+      "value": "4.77%",
       "status": "Elevated - higher-for-longer stance",
       "type": "warning"
     },
@@ -287,29 +287,29 @@
       "category": "Frontier Model Race & Breakthroughs",
       "items": [
         {
-          "title": "AI's next frontier is the human cell",
-          "summary": "PLUS: Give Claude’s routine work to Haiku 5.5...",
-          "url": "https://www.therundown.ai/articles/ai-s-next-frontier-is-the-human-cell"
+          "title": "Court throws out killer's sentence after judge said he loved AI video of victim",
+          "summary": "Latest AI discussion on Hacker News: Court throws out killer's sentence after judge said he loved AI video of victim. Points: 62. (Source: Hacker News)",
+          "url": "https://www.nbcnews.com/news/us-news/sentence-vacated-ai-video-dead-victim-rcna601457"
         },
         {
-          "title": "Meta and Microsoft take steps to reduce employee usage of Claude AI",
-          "summary": "Latest AI discussion on Hacker News: Meta and Microsoft take steps to reduce employee usage of Claude AI. Points: 359. (Source: Hacker News)",
-          "url": "https://www.rswebsols.com/news/meta-and-microsoft-take-steps-to-reduce-employee-usage-of-claude-ai/"
+          "title": "Let your AI agents paint big arrows, boxes and text on your screen",
+          "summary": "Latest AI discussion on Hacker News: Let your AI agents paint big arrows, boxes and text on your screen. Points: 265. (Source: Hacker News)",
+          "url": "https://github.com/franzenzenhofer/big-arrow-on-the-screen"
         },
         {
-          "title": "Show HN: Agent.reviews – Where AI agents read and write reviews on tools",
-          "summary": "Latest AI discussion on Hacker News: Show HN: Agent.reviews – Where AI agents read and write reviews on tools. Points: 64. (Source: Hacker News)",
-          "url": "https://agent.reviews/"
+          "title": "Fired OpenAI safety researchers hit back",
+          "summary": "PLUS: Clean up a messy Excel report with Claude...",
+          "url": "https://www.therundown.ai/articles/fired-openai-safety-researchers-hit-back"
         },
         {
-          "title": "AI-assisted proof of optimal packing for 11 squares",
-          "summary": "Latest AI discussion on Hacker News: AI-assisted proof of optimal packing for 11 squares. Points: 116. (Source: Hacker News)",
-          "url": "https://github.com/Queuingtheorydotcom/11SquaresFormalized"
+          "title": "Show HN: Edi Life OS – self-hosted life dashboard with an MCP server for AI",
+          "summary": "Latest AI discussion on Hacker News: Show HN: Edi Life OS – self-hosted life dashboard with an MCP server for AI. Points: 39. (Source: Hacker News)",
+          "url": "https://github.com/edrisranjbar/lifeos"
         },
         {
-          "title": "OpenAI's math avalanche continues",
-          "summary": "PLUS: Let OpenAI’s GPT-6 Astra compare websites for you...",
-          "url": "https://www.therundown.ai/articles/openai-math-avalanche-continues"
+          "title": "Show HN: Free open source Adobe Lightroom alternative, completely local with AI",
+          "summary": "Latest AI discussion on Hacker News: Show HN: Free open source Adobe Lightroom alternative, completely local with AI. Points: 47. (Source: Hacker News)",
+          "url": "https://github.com/thesnarkitecht/rembrandt"
         }
       ]
     },
@@ -317,29 +317,29 @@
       "category": "Enterprise & Agentic AI",
       "items": [
         {
-          "title": "Reasons to Dislike AI Coding",
-          "summary": "Latest AI discussion on Hacker News: Reasons to Dislike AI Coding. Points: 76. (Source: Hacker News)",
-          "url": "https://www.sicpers.info/2026/10/reasons-to-dislike-ai-coding/"
+          "title": "AI-ready biological data: $1.8B global commitment",
+          "summary": "Latest AI discussion on Hacker News: AI-ready biological data: $1.8B global commitment. Points: 140. (Source: Hacker News)",
+          "url": "https://biohub.org/news/virtual-biology-initiative-expansion/"
         },
         {
-          "title": "Forever junior: Skills AI can't develop for you",
-          "summary": "Latest AI discussion on Hacker News: Forever junior: Skills AI can't develop for you. Points: 77. (Source: Hacker News)",
-          "url": "https://tech.criteo.com/blog/human-skills-ai-cant-develop-junior-engineers/"
+          "title": "License update: AI derivation prohibited on all my art, lore, stories, comics",
+          "summary": "Latest AI discussion on Hacker News: License update: AI derivation prohibited on all my art, lore, stories, comics. Points: 39. (Source: Hacker News)",
+          "url": "https://www.davidrevoy.com/article1178/license-update-ai-derivation-prohibited-on-all-my-art-lore-stories-and-comics"
         },
         {
-          "title": "Show HN: NanoMuse – An open-source AI agent for your phone and computer",
-          "summary": "Latest AI discussion on Hacker News: Show HN: NanoMuse – An open-source AI agent for your phone and computer. Points: 58. (Source: Hacker News)",
-          "url": "https://github.com/nano-muse/nanoMuse"
+          "title": "Vitalik Buterin backs crypto ‘bunker mode’ amid rapid AI math advances",
+          "summary": "Latest AI discussion on Hacker News: Vitalik Buterin backs crypto ‘bunker mode’ amid rapid AI math advances. Points: 63. (Source: Hacker News)",
+          "url": "https://cointelegraph.com/news/justin-drake-urges-crypto-bunker-mode-as-ai-could-break-wallet-security-within-months"
         },
         {
-          "title": "South Korea says AI agents appear to have been used to hack the country's banks",
-          "summary": "Latest AI discussion on Hacker News: South Korea says AI agents appear to have been used to hack the country's banks. Points: 100. (Source: Hacker News)",
-          "url": "https://www.reuters.com/world/south-koreas-lee-says-ai-appears-have-been-used-bank-hacks-2026-10-06/"
+          "title": "Show HN: Jevman – AI decision models play Pac-Man",
+          "summary": "Latest AI discussion on Hacker News: Show HN: Jevman – AI decision models play Pac-Man. Points: 69. (Source: Hacker News)",
+          "url": "https://opper.ai/jevman-benchmark/"
         },
         {
-          "title": "An Open Letter to Steven Pinker on AI",
-          "summary": "Latest AI discussion on Hacker News: An Open Letter to Steven Pinker on AI. Points: 41. (Source: Hacker News)",
-          "url": "https://www.astralcodexten.com/p/an-open-letter-to-steven-pinker-on"
+          "title": "Meet Roger, the bomb-squad humanoid",
+          "summary": "PLUS: Agilink's robot hands are getting crafty...",
+          "url": "https://www.therundown.ai/articles/meet-roger-the-bomb-squad-humanoid"
         }
       ]
     },
