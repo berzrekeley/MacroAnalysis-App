@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "October 14, 2026",
+  "lastUpdated": "October 15, 2026",
   "executiveSummary": [
-    "As of October 14, 2026, the U.S. macroeconomic environment is navigating a complex period of high interest rates and shifting labor market dynamics. With the Fed Funds Rate holding at 3.75% and CPI inflation tracking at 3.72%, the central bank continues its \"higher-for-longer\" stance to anchor inflation expectations. Recent headlines such as \"Retirement contribution limits will rise in 2019\" suggest that market participants remain hypersensitive to every data print, particularly around corporate earnings and consumer spending resilience.",
-    "The labor market, a key pillar of support, shows 197,000 initial jobless claims, reflecting a relatively stable but cooling employment landscape. Geopolitically, events like \"Geopolitical tensions remain in focus\" introduce exogenous risks that could disrupt global energy supplies and re-ignite inflationary impulses, keeping the Federal Reserve in a defensive posture as they balance growth against price stability. Analysts are closely watching for any signs of a \"hard landing\" as the effects of previous tightening cycles continue to filter through the real economy."
+    "As of October 15, 2026, the U.S. macroeconomic environment is navigating a complex period of high interest rates and shifting labor market dynamics. With the Fed Funds Rate holding at 3.75% and CPI inflation tracking at 3.72%, the central bank continues its \"higher-for-longer\" stance to anchor inflation expectations. Recent headlines such as \"Retirement contribution limits will rise in 2019\" suggest that market participants remain hypersensitive to every data print, particularly around corporate earnings and consumer spending resilience.",
+    "The labor market, a key pillar of support, shows 199,000 initial jobless claims, reflecting a relatively stable but cooling employment landscape. Geopolitically, events like \"Geopolitical tensions remain in focus\" introduce exogenous risks that could disrupt global energy supplies and re-ignite inflationary impulses, keeping the Federal Reserve in a defensive posture as they balance growth against price stability. Analysts are closely watching for any signs of a \"hard landing\" as the effects of previous tightening cycles continue to filter through the real economy."
   ],
   "dailyHeadlines": [
     {
@@ -27,19 +27,19 @@
     },
     {
       "title": "10Y - 2Y Spread",
-      "value": "0.42%",
+      "value": "0.37%",
       "status": "Steepening - slower growth",
       "type": "warning"
     },
     {
       "title": "10Y Treasury Rate",
-      "value": "5.24%",
+      "value": "5.21%",
       "status": "High - energy-driven inflation",
       "type": "warning"
     },
     {
       "title": "2Y Treasury Rate",
-      "value": "4.80%",
+      "value": "4.79%",
       "status": "Elevated - higher-for-longer stance",
       "type": "warning"
     },
@@ -51,7 +51,7 @@
     },
     {
       "title": "Retail Sales (MoM)",
-      "value": "1.10%",
+      "value": "0.70%",
       "status": "Distorted - high gas prices",
       "type": "warning"
     },
@@ -69,7 +69,7 @@
     },
     {
       "title": "Initial Jobless Claims",
-      "value": "197,000",
+      "value": "199,000",
       "status": "Stable - primary pillar of support",
       "type": "neutral"
     },
@@ -88,11 +88,18 @@
   ],
   "adpWeeklyData": [
     {
+      "week": "Oct 10",
+      "fullDate": "Oct 10, 2026",
+      "number": 199000,
+      "delta": 1000,
+      "deltaPct": 0.51
+    },
+    {
       "week": "Oct 3",
       "fullDate": "Oct 3, 2026",
-      "number": 197000,
-      "delta": -2000,
-      "deltaPct": -1.01
+      "number": 198000,
+      "delta": -1000,
+      "deltaPct": -0.5
     },
     {
       "week": "Sep 26",
@@ -189,13 +196,6 @@
       "week": "Jun 27",
       "fullDate": "Jun 27, 2026",
       "number": 217000,
-      "delta": 1000,
-      "deltaPct": 0.46
-    },
-    {
-      "week": "Jun 20",
-      "fullDate": "Jun 20, 2026",
-      "number": 216000,
       "delta": 0,
       "deltaPct": 0
     }
@@ -287,29 +287,29 @@
       "category": "Frontier Model Race & Breakthroughs",
       "items": [
         {
-          "title": "OpenAI finds a bug in its boardroom",
-          "summary": "PLUS: How to give Grok Bot its own email inbox...",
-          "url": "https://www.therundown.ai/articles/openai-finds-a-bug-in-its-boardroom"
+          "title": "Rogue AI agents sit for their first interview",
+          "summary": "PLUS: Build a live sales dashboard in Claude...",
+          "url": "https://www.therundown.ai/articles/rogue-ai-agents-sit-for-their-first-interview"
         },
         {
-          "title": "I posted to HN, and then my website was flooded with AI bot traffic",
-          "summary": "Latest AI discussion on Hacker News: I posted to HN, and then my website was flooded with AI bot traffic. Points: 334. (Source: Hacker News)",
-          "url": "https://www.sammystraus.com/#i-posted-to-hn-and-then-my-website-was-flooded-with-ai-bot-traffic"
+          "title": "AI was great until it was not",
+          "summary": "Latest AI discussion on Hacker News: AI was great until it was not. Points: 104. (Source: Hacker News)",
+          "url": "https://thetheorygirlie.substack.com/p/ai-was-great-until-it-was-not"
         },
         {
-          "title": "Apple goes all-in on the home",
-          "summary": "PLUS: French grocers hit with massive cyberattack...",
-          "url": "https://www.therundown.ai/articles/apple-goes-all-in-on-the-home"
+          "title": "Banks are now trying to offload the AI data center debt they just underwrote",
+          "summary": "Latest AI discussion on Hacker News: Banks are now trying to offload the AI data center debt they just underwrote. Points: 373. (Source: Hacker News)",
+          "url": "https://startupfortune.com/banks-are-now-trying-to-offload-the-ai-data-center-debt-they-just-underwrote/"
         },
         {
-          "title": "How to engineer an AI harness for game development",
-          "summary": "Latest AI discussion on Hacker News: How to engineer an AI harness for game development. Points: 160. (Source: Hacker News)",
-          "url": "https://kylekukshtel.com/ai-harness-engineering-game-development-claude-code"
+          "title": "Containment and monitoring failures are to blame for AI hacking reports: experts",
+          "summary": "Latest AI discussion on Hacker News: Containment and monitoring failures are to blame for AI hacking reports: experts. Points: 926. (Source: Hacker News)",
+          "url": "https://www.csoonline.com/article/4234854/ai-agents-arent-going-rogue-frontier-labs-are-skipping-security-basics.html"
         },
         {
-          "title": "Meta's Watermelon ripens into a frontier model",
-          "summary": "PLUS: Put Meta’s new model to work...",
-          "url": "https://www.therundown.ai/articles/meta-watermelon-ripens-into-a-frontier-model"
+          "title": "Has AI tells",
+          "summary": "Latest AI discussion on Hacker News: Has AI tells. Points: 129. (Source: Hacker News)",
+          "url": "https://theconsensus.dev/blog/2026/10/14/has-ai-tells.html?focus=1"
         }
       ]
     },
@@ -317,29 +317,29 @@
       "category": "Enterprise & Agentic AI",
       "items": [
         {
-          "title": "Character.ai has initiated voluntary Chapter 11 bankruptcy",
-          "summary": "Latest AI discussion on Hacker News: Character.ai has initiated voluntary Chapter 11 bankruptcy. Points: 327. (Source: Hacker News)",
-          "url": "https://blog.character.ai/an-update-on-character-ai/"
+          "title": "AI is mass decompiling games. That's both awesome and scary",
+          "summary": "Latest AI discussion on Hacker News: AI is mass decompiling games. That's both awesome and scary. Points: 105. (Source: Hacker News)",
+          "url": "https://popcar.bearblog.dev/ai-is-mass-decompiling-games-thats-both-awesome-and-scary/"
         },
         {
-          "title": "AI models can provably hide arbitrary capabilities",
-          "summary": "Latest AI discussion on Hacker News: AI models can provably hide arbitrary capabilities. Points: 275. (Source: Hacker News)",
-          "url": "https://arxiv.org/abs/2610.13928"
+          "title": "ASML's strong orders ease fears AI spending boom is running out of steam",
+          "summary": "Latest AI discussion on Hacker News: ASML's strong orders ease fears AI spending boom is running out of steam. Points: 172. (Source: Hacker News)",
+          "url": "https://www.reuters.com/business/asml-forecasts-q4-sales-above-expectations-ai-chip-demand-2026-10-14/"
         },
         {
-          "title": "AI is a tool and using it well takes skill",
-          "summary": "Latest AI discussion on Hacker News: AI is a tool and using it well takes skill. Points: 744. (Source: Hacker News)",
-          "url": "https://yyhh.org/blog/2026/10/ai-is-a-tool/"
+          "title": "TV4 postpones show after AI agent erases edited material",
+          "summary": "Latest AI discussion on Hacker News: TV4 postpones show after AI agent erases edited material. Points: 151. (Source: Hacker News)",
+          "url": "https://swedenherald.com/article/tv4-postpones-the-challenge-until-2027-after-technical-failure-erases-edited-footage"
         },
         {
-          "title": "Intel D270 GPU AI Accelerator–Up to 480 GB LPDDR5X",
-          "summary": "Latest AI discussion on Hacker News: Intel D270 GPU AI Accelerator–Up to 480 GB LPDDR5X. Points: 306. (Source: Hacker News)",
-          "url": "https://www.intel.com/content/www/us/en/products/details/discrete-gpus/data-center-gpu/d-series.html"
+          "title": "OpenAI finds a bug in its boardroom",
+          "summary": "PLUS: How to give Grok Bot its own email inbox...",
+          "url": "https://www.therundown.ai/articles/openai-finds-a-bug-in-its-boardroom"
         },
         {
-          "title": "'AI' Is Not a Tool by Rich Hickey",
-          "summary": "Latest AI discussion on Hacker News: 'AI' Is Not a Tool by Rich Hickey. Points: 308. (Source: Hacker News)",
-          "url": "https://www.linkedin.com/pulse/ai-tool-rich-hickey-kjl8e"
+          "title": "Show HN: I built a tool to track what AI leaders say and how their views change",
+          "summary": "Latest AI discussion on Hacker News: Show HN: I built a tool to track what AI leaders say and how their views change. Points: 117. (Source: Hacker News)",
+          "url": "https://blumify.io/people"
         }
       ]
     },
