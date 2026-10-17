@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "October 16, 2026",
+  "lastUpdated": "October 17, 2026",
   "executiveSummary": [
-    "As of October 16, 2026, the U.S. macroeconomic environment is navigating a complex period of high interest rates and shifting labor market dynamics. With the Fed Funds Rate holding at 3.75% and CPI inflation tracking at 3.72%, the central bank continues its \"higher-for-longer\" stance to anchor inflation expectations. Recent headlines such as \"Retirement contribution limits will rise in 2019\" suggest that market participants remain hypersensitive to every data print, particularly around corporate earnings and consumer spending resilience.",
+    "As of October 17, 2026, the U.S. macroeconomic environment is navigating a complex period of high interest rates and shifting labor market dynamics. With the Fed Funds Rate holding at 3.75% and CPI inflation tracking at 3.72%, the central bank continues its \"higher-for-longer\" stance to anchor inflation expectations. Recent headlines such as \"Retirement contribution limits will rise in 2019\" suggest that market participants remain hypersensitive to every data print, particularly around corporate earnings and consumer spending resilience.",
     "The labor market, a key pillar of support, shows 199,000 initial jobless claims, reflecting a relatively stable but cooling employment landscape. Geopolitically, events like \"Geopolitical tensions remain in focus\" introduce exogenous risks that could disrupt global energy supplies and re-ignite inflationary impulses, keeping the Federal Reserve in a defensive posture as they balance growth against price stability. Analysts are closely watching for any signs of a \"hard landing\" as the effects of previous tightening cycles continue to filter through the real economy."
   ],
   "dailyHeadlines": [
@@ -27,19 +27,19 @@
     },
     {
       "title": "10Y - 2Y Spread",
-      "value": "0.33%",
+      "value": "0.35%",
       "status": "Steepening - slower growth",
       "type": "warning"
     },
     {
       "title": "10Y Treasury Rate",
-      "value": "5.19%",
+      "value": "5.10%",
       "status": "High - energy-driven inflation",
       "type": "warning"
     },
     {
       "title": "2Y Treasury Rate",
-      "value": "4.82%",
+      "value": "4.77%",
       "status": "Elevated - higher-for-longer stance",
       "type": "warning"
     },
@@ -287,29 +287,29 @@
       "category": "Frontier Model Race & Breakthroughs",
       "items": [
         {
+          "title": "90% of US working hours are spent on tasks not covered well by AI benchmarks",
+          "summary": "Latest AI discussion on Hacker News: 90% of US working hours are spent on tasks not covered well by AI benchmarks. Points: 539. (Source: Hacker News)",
+          "url": "https://www.mercor.com/research/labor-index/benchmark-map/"
+        },
+        {
+          "title": "Postgres 19 delayed after AI reviewers find more bugs than humans can fix",
+          "summary": "Latest AI discussion on Hacker News: Postgres 19 delayed after AI reviewers find more bugs than humans can fix. Points: 200. (Source: Hacker News)",
+          "url": "https://www.theregister.com/databases/2026/10/16/postgres-19-delayed-after-ai-reviewers-find-more-bugs-than-humans-can-fix/5303471"
+        },
+        {
+          "title": "Show HN: rStation – A shared research lab for your AI agents",
+          "summary": "Latest AI discussion on Hacker News: Show HN: rStation – A shared research lab for your AI agents. Points: 53. (Source: Hacker News)",
+          "url": "https://rstation.ai/"
+        },
+        {
+          "title": "Call Center Jobs Are Declining, but 14,000 Calls Show Humans Still Outperform AI",
+          "summary": "Latest AI discussion on Hacker News: Call Center Jobs Are Declining, but 14,000 Calls Show Humans Still Outperform AI. Points: 39. (Source: Hacker News)",
+          "url": "https://boldagents.co/blog/call-center-jobs-declining-14000-calls-humans-outperform-ai"
+        },
+        {
           "title": "Why We're Banning AI",
-          "summary": "Latest AI discussion on Hacker News: Why We're Banning AI. Points: 245. (Source: Hacker News)",
+          "summary": "Latest AI discussion on Hacker News: Why We're Banning AI. Points: 256. (Source: Hacker News)",
           "url": "https://www.currentaffairs.org/news/why-were-banning-ai"
-        },
-        {
-          "title": "Market selloff, rising rates test AI data centre deal boom",
-          "summary": "Latest AI discussion on Hacker News: Market selloff, rising rates test AI data centre deal boom. Points: 71. (Source: Hacker News)",
-          "url": "https://www.reuters.com/business/finance/market-selloff-rising-rates-test-ai-data-centre-deal-boom-2026-10-15/"
-        },
-        {
-          "title": "Simons Foundation launches $15M effort to help mathematicians navigate AI era",
-          "summary": "Latest AI discussion on Hacker News: Simons Foundation launches $15M effort to help mathematicians navigate AI era. Points: 243. (Source: Hacker News)",
-          "url": "https://www.simonsfoundation.org/news/simons-foundation-launches-15m-effort-to-help-mathematicians-navigate-ai-era/"
-        },
-        {
-          "title": "Using AI to reverse engineer hardware",
-          "summary": "Latest AI discussion on Hacker News: Using AI to reverse engineer hardware. Points: 227. (Source: Hacker News)",
-          "url": "https://blogs.gnome.org/uraeus/2026/10/15/aiandreverseengineerhardware/"
-        },
-        {
-          "title": "Rogue AI agents sit for their first interview",
-          "summary": "PLUS: Build a live sales dashboard in Claude...",
-          "url": "https://www.therundown.ai/articles/rogue-ai-agents-sit-for-their-first-interview"
         }
       ]
     },
@@ -317,29 +317,29 @@
       "category": "Enterprise & Agentic AI",
       "items": [
         {
-          "title": "AI was great until it was not",
-          "summary": "Latest AI discussion on Hacker News: AI was great until it was not. Points: 120. (Source: Hacker News)",
-          "url": "https://thetheorygirlie.substack.com/p/ai-was-great-until-it-was-not"
+          "title": "Danish Supreme Court Finds That AI CSAM Is CSAM",
+          "summary": "Latest AI discussion on Hacker News: Danish Supreme Court Finds That AI CSAM Is CSAM. Points: 38. (Source: Hacker News)",
+          "url": "https://domstol.fe1.tangora.com/Domsoversigt-(H%C3%B8jesteret).31478.aspx?recordid31478=2930"
         },
         {
-          "title": "Banks are now trying to offload the AI data center debt they just underwrote",
-          "summary": "Latest AI discussion on Hacker News: Banks are now trying to offload the AI data center debt they just underwrote. Points: 380. (Source: Hacker News)",
-          "url": "https://startupfortune.com/banks-are-now-trying-to-offload-the-ai-data-center-debt-they-just-underwrote/"
+          "title": "Market selloff, rising rates test AI data centre deal boom",
+          "summary": "Latest AI discussion on Hacker News: Market selloff, rising rates test AI data centre deal boom. Points: 74. (Source: Hacker News)",
+          "url": "https://www.reuters.com/business/finance/market-selloff-rising-rates-test-ai-data-centre-deal-boom-2026-10-15/"
         },
         {
-          "title": "Containment and monitoring failures are to blame for AI hacking reports: experts",
-          "summary": "Latest AI discussion on Hacker News: Containment and monitoring failures are to blame for AI hacking reports: experts. Points: 944. (Source: Hacker News)",
-          "url": "https://www.csoonline.com/article/4234854/ai-agents-arent-going-rogue-frontier-labs-are-skipping-security-basics.html"
+          "title": "Frontier Pre-Training at Microsoft AI",
+          "summary": "Latest AI discussion on Hacker News: Frontier Pre-Training at Microsoft AI. Points: 45. (Source: Hacker News)",
+          "url": "https://microsoft.ai/news/frontier-pre-training-at-microsoft-ai/"
         },
         {
-          "title": "Has AI tells",
-          "summary": "Latest AI discussion on Hacker News: Has AI tells. Points: 137. (Source: Hacker News)",
-          "url": "https://theconsensus.dev/blog/2026/10/14/has-ai-tells.html?focus=1"
+          "title": "Simons Foundation launches $15M effort to help mathematicians navigate AI era",
+          "summary": "Latest AI discussion on Hacker News: Simons Foundation launches $15M effort to help mathematicians navigate AI era. Points: 247. (Source: Hacker News)",
+          "url": "https://www.simonsfoundation.org/news/simons-foundation-launches-15m-effort-to-help-mathematicians-navigate-ai-era/"
         },
         {
-          "title": "AI is mass decompiling games. That's both awesome and scary",
-          "summary": "Latest AI discussion on Hacker News: AI is mass decompiling games. That's both awesome and scary. Points: 108. (Source: Hacker News)",
-          "url": "https://popcar.bearblog.dev/ai-is-mass-decompiling-games-thats-both-awesome-and-scary/"
+          "title": "Using AI to reverse engineer hardware",
+          "summary": "Latest AI discussion on Hacker News: Using AI to reverse engineer hardware. Points: 249. (Source: Hacker News)",
+          "url": "https://blogs.gnome.org/uraeus/2026/10/15/aiandreverseengineerhardware/"
         }
       ]
     },
