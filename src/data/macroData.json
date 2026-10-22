@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "October 21, 2026",
+  "lastUpdated": "October 22, 2026",
   "executiveSummary": [
-    "As of October 21, 2026, the U.S. macroeconomic environment is navigating a complex period of high interest rates and shifting labor market dynamics. With the Fed Funds Rate holding at 3.75% and CPI inflation tracking at 3.72%, the central bank continues its \"higher-for-longer\" stance to anchor inflation expectations. Recent headlines such as \"Retirement contribution limits will rise in 2019\" suggest that market participants remain hypersensitive to every data print, particularly around corporate earnings and consumer spending resilience.",
-    "The labor market, a key pillar of support, shows 199,000 initial jobless claims, reflecting a relatively stable but cooling employment landscape. Geopolitically, events like \"Geopolitical tensions remain in focus\" introduce exogenous risks that could disrupt global energy supplies and re-ignite inflationary impulses, keeping the Federal Reserve in a defensive posture as they balance growth against price stability. Analysts are closely watching for any signs of a \"hard landing\" as the effects of previous tightening cycles continue to filter through the real economy."
+    "As of October 22, 2026, the U.S. macroeconomic environment is navigating a complex period of high interest rates and shifting labor market dynamics. With the Fed Funds Rate holding at 3.75% and CPI inflation tracking at 3.72%, the central bank continues its \"higher-for-longer\" stance to anchor inflation expectations. Recent headlines such as \"Retirement contribution limits will rise in 2019\" suggest that market participants remain hypersensitive to every data print, particularly around corporate earnings and consumer spending resilience.",
+    "The labor market, a key pillar of support, shows 194,000 initial jobless claims, reflecting a relatively stable but cooling employment landscape. Geopolitically, events like \"Geopolitical tensions remain in focus\" introduce exogenous risks that could disrupt global energy supplies and re-ignite inflationary impulses, keeping the Federal Reserve in a defensive posture as they balance growth against price stability. Analysts are closely watching for any signs of a \"hard landing\" as the effects of previous tightening cycles continue to filter through the real economy."
   ],
   "dailyHeadlines": [
     {
@@ -27,19 +27,19 @@
     },
     {
       "title": "10Y - 2Y Spread",
-      "value": "0.33%",
+      "value": "0.32%",
       "status": "Steepening - slower growth",
       "type": "warning"
     },
     {
       "title": "10Y Treasury Rate",
-      "value": "5.15%",
+      "value": "5.12%",
       "status": "High - energy-driven inflation",
       "type": "warning"
     },
     {
       "title": "2Y Treasury Rate",
-      "value": "4.77%",
+      "value": "4.79%",
       "status": "Elevated - higher-for-longer stance",
       "type": "warning"
     },
@@ -69,7 +69,7 @@
     },
     {
       "title": "Initial Jobless Claims",
-      "value": "199,000",
+      "value": "194,000",
       "status": "Stable - primary pillar of support",
       "type": "neutral"
     },
@@ -88,11 +88,18 @@
   ],
   "adpWeeklyData": [
     {
+      "week": "Oct 17",
+      "fullDate": "Oct 17, 2026",
+      "number": 194000,
+      "delta": -6000,
+      "deltaPct": -3
+    },
+    {
       "week": "Oct 10",
       "fullDate": "Oct 10, 2026",
-      "number": 199000,
-      "delta": 1000,
-      "deltaPct": 0.51
+      "number": 200000,
+      "delta": 2000,
+      "deltaPct": 1.01
     },
     {
       "week": "Oct 3",
@@ -191,13 +198,6 @@
       "number": 217000,
       "delta": 0,
       "deltaPct": 0
-    },
-    {
-      "week": "Jun 27",
-      "fullDate": "Jun 27, 2026",
-      "number": 217000,
-      "delta": 0,
-      "deltaPct": 0
     }
   ],
   "sectorData": [
@@ -287,13 +287,48 @@
       "category": "Frontier Model Race & Breakthroughs",
       "items": [
         {
+          "title": "AI finds a security hole in 70% of the web",
+          "summary": "PLUS: Let Town prepare your next meeting brief...",
+          "url": "https://www.therundown.ai/articles/ai-finds-a-security-hole-in-70-of-the-web"
+        },
+        {
+          "title": "Airbnb bans making guests do dishes and take out the trash",
+          "summary": "Latest AI discussion on Hacker News: Airbnb bans making guests do dishes and take out the trash. Points: 208. (Source: Hacker News)",
+          "url": "https://www.theverge.com/tech/1015844/airbnb-chores-house-rules-update"
+        },
+        {
+          "title": "Google staff resign in backlash over its AI contracts with military",
+          "summary": "Latest AI discussion on Hacker News: Google staff resign in backlash over its AI contracts with military. Points: 124. (Source: Hacker News)",
+          "url": "https://www.bbc.com/news/articles/cmreyvepnv0po"
+        },
+        {
+          "title": "Texas data center boom could erase decades of progress on air quality",
+          "summary": "Latest AI discussion on Hacker News: Texas data center boom could erase decades of progress on air quality. Points: 53. (Source: Hacker News)",
+          "url": "https://www.texastribune.org/2026/10/20/data-centers-texas-air-quality-report-pollution-health-risks/"
+        },
+        {
+          "title": "Rust off Rails: The opinionated web stack for the AI era",
+          "summary": "Latest AI discussion on Hacker News: Rust off Rails: The opinionated web stack for the AI era. Points: 73. (Source: Hacker News)",
+          "url": "https://rustoffrails.org/"
+        }
+      ]
+    },
+    {
+      "category": "Enterprise & Agentic AI",
+      "items": [
+        {
           "title": "PHP2Shell: AI uncovers critical RCE in PHP",
-          "summary": "Latest AI discussion on Hacker News: PHP2Shell: AI uncovers critical RCE in PHP. Points: 140. (Source: Hacker News)",
+          "summary": "Latest AI discussion on Hacker News: PHP2Shell: AI uncovers critical RCE in PHP. Points: 443. (Source: Hacker News)",
           "url": "https://www.wiz.io/blog/php2shell-php-rce"
         },
         {
+          "title": "Using thousands of AI agents to uncover new leads in biological data",
+          "summary": "Latest AI discussion on Hacker News: Using thousands of AI agents to uncover new leads in biological data. Points: 151. (Source: Hacker News)",
+          "url": "https://openai.com/index/scaling-ai-research-for-complex-biological-data/"
+        },
+        {
           "title": "LayerFS: The filesystem for AI coding agents",
-          "summary": "Latest AI discussion on Hacker News: LayerFS: The filesystem for AI coding agents. Points: 37. (Source: Hacker News)",
+          "summary": "Latest AI discussion on Hacker News: LayerFS: The filesystem for AI coding agents. Points: 72. (Source: Hacker News)",
           "url": "https://layerfs.ai/"
         },
         {
@@ -303,43 +338,8 @@
         },
         {
           "title": "On AI writing",
-          "summary": "Latest AI discussion on Hacker News: On AI writing. Points: 91. (Source: Hacker News)",
+          "summary": "Latest AI discussion on Hacker News: On AI writing. Points: 92. (Source: Hacker News)",
           "url": "https://www.bolkunov.com/p/on-ai-writing"
-        },
-        {
-          "title": "Benchmarking Bot Detection Systems Against Modern AI Agents in 2026",
-          "summary": "Latest AI discussion on Hacker News: Benchmarking Bot Detection Systems Against Modern AI Agents in 2026. Points: 47. (Source: Hacker News)",
-          "url": "https://research.poh.org/bot-benchmarking-2026/"
-        }
-      ]
-    },
-    {
-      "category": "Enterprise & Agentic AI",
-      "items": [
-        {
-          "title": "Steam Users Beg for \"No AI\" Filter as Vibecoders Flood Next Fest",
-          "summary": "Latest AI discussion on Hacker News: Steam Users Beg for \"No AI\" Filter as Vibecoders Flood Next Fest. Points: 180. (Source: Hacker News)",
-          "url": "https://www.ign.com/articles/steam-fans-are-begging-for-a-no-ai-filter-as-steam-next-fest-is-filled-with-slop"
-        },
-        {
-          "title": "Launch HN: Respan (YC W24) – Open-source Rust AI gateway built around plugins",
-          "summary": "Latest AI discussion on Hacker News: Launch HN: Respan (YC W24) – Open-source Rust AI gateway built around plugins. Points: 52. (Source: Hacker News)",
-          "url": "https://news.ycombinator.com/item?id=50167583"
-        },
-        {
-          "title": "What AI sees in your selfie",
-          "summary": "PLUS: Japan heads to Martian moon...",
-          "url": "https://www.therundown.ai/articles/what-ai-sees-in-your-selfie"
-        },
-        {
-          "title": "Anthropic co-founder says the singularity is underway",
-          "summary": "PLUS: Try ChatGPT’s new voices with GPT-Live-1.1...",
-          "url": "https://www.therundown.ai/articles/anthropic-co-founder-says-the-singularity-is-underway"
-        },
-        {
-          "title": "People are using AI to make smart TVs, dumb TVs",
-          "summary": "Latest AI discussion on Hacker News: People are using AI to make smart TVs, dumb TVs. Points: 37. (Source: Hacker News)",
-          "url": "https://techcrunch.com/2026/10/19/people-are-using-ai-to-make-their-smart-tvs-dumb-again/"
         }
       ]
     },
