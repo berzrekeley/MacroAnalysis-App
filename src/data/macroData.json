@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "October 22, 2026",
+  "lastUpdated": "October 23, 2026",
   "executiveSummary": [
-    "As of October 22, 2026, the U.S. macroeconomic environment is navigating a complex period of high interest rates and shifting labor market dynamics. With the Fed Funds Rate holding at 3.75% and CPI inflation tracking at 3.72%, the central bank continues its \"higher-for-longer\" stance to anchor inflation expectations. Recent headlines such as \"Retirement contribution limits will rise in 2019\" suggest that market participants remain hypersensitive to every data print, particularly around corporate earnings and consumer spending resilience.",
+    "As of October 23, 2026, the U.S. macroeconomic environment is navigating a complex period of high interest rates and shifting labor market dynamics. With the Fed Funds Rate holding at 3.75% and CPI inflation tracking at 3.72%, the central bank continues its \"higher-for-longer\" stance to anchor inflation expectations. Recent headlines such as \"Retirement contribution limits will rise in 2019\" suggest that market participants remain hypersensitive to every data print, particularly around corporate earnings and consumer spending resilience.",
     "The labor market, a key pillar of support, shows 194,000 initial jobless claims, reflecting a relatively stable but cooling employment landscape. Geopolitically, events like \"Geopolitical tensions remain in focus\" introduce exogenous risks that could disrupt global energy supplies and re-ignite inflationary impulses, keeping the Federal Reserve in a defensive posture as they balance growth against price stability. Analysts are closely watching for any signs of a \"hard landing\" as the effects of previous tightening cycles continue to filter through the real economy."
   ],
   "dailyHeadlines": [
@@ -27,19 +27,19 @@
     },
     {
       "title": "10Y - 2Y Spread",
-      "value": "0.32%",
+      "value": "0.31%",
       "status": "Steepening - slower growth",
       "type": "warning"
     },
     {
       "title": "10Y Treasury Rate",
-      "value": "5.12%",
+      "value": "5.13%",
       "status": "High - energy-driven inflation",
       "type": "warning"
     },
     {
       "title": "2Y Treasury Rate",
-      "value": "4.79%",
+      "value": "4.81%",
       "status": "Elevated - higher-for-longer stance",
       "type": "warning"
     },
@@ -287,29 +287,29 @@
       "category": "Frontier Model Race & Breakthroughs",
       "items": [
         {
-          "title": "AI finds a security hole in 70% of the web",
-          "summary": "PLUS: Let Town prepare your next meeting brief...",
-          "url": "https://www.therundown.ai/articles/ai-finds-a-security-hole-in-70-of-the-web"
+          "title": "U.S. banks catch AI agents going off-script",
+          "summary": "PLUS: Put your open Chrome tabs to work...",
+          "url": "https://www.therundown.ai/articles/us-banks-catch-ai-agents-going-off-script"
         },
         {
-          "title": "Airbnb bans making guests do dishes and take out the trash",
-          "summary": "Latest AI discussion on Hacker News: Airbnb bans making guests do dishes and take out the trash. Points: 208. (Source: Hacker News)",
-          "url": "https://www.theverge.com/tech/1015844/airbnb-chores-house-rules-update"
+          "title": "The same AI request emits 8.5 times more CO2 in Texas than in Sweden",
+          "summary": "Latest AI discussion on Hacker News: The same AI request emits 8.5 times more CO2 in Texas than in Sweden. Points: 130. (Source: Hacker News)",
+          "url": "https://berget.ai/en/blog/per-request-co2-press-release"
         },
         {
-          "title": "Google staff resign in backlash over its AI contracts with military",
-          "summary": "Latest AI discussion on Hacker News: Google staff resign in backlash over its AI contracts with military. Points: 124. (Source: Hacker News)",
-          "url": "https://www.bbc.com/news/articles/cmreyvepnv0po"
+          "title": "Most Americans Say AI Is Bad for Society, Oppose More Data Centers",
+          "summary": "Latest AI discussion on Hacker News: Most Americans Say AI Is Bad for Society, Oppose More Data Centers. Points: 86. (Source: Hacker News)",
+          "url": "https://abcnews.com/Politics/americans-ai-bad-society-oppose-data-centers-abcpostipsos/story?id=137414085"
         },
         {
-          "title": "Texas data center boom could erase decades of progress on air quality",
-          "summary": "Latest AI discussion on Hacker News: Texas data center boom could erase decades of progress on air quality. Points: 53. (Source: Hacker News)",
-          "url": "https://www.texastribune.org/2026/10/20/data-centers-texas-air-quality-report-pollution-health-risks/"
+          "title": "Show HN: UI micro interactions prompts for AI",
+          "summary": "Latest AI discussion on Hacker News: Show HN: UI micro interactions prompts for AI. Points: 77. (Source: Hacker News)",
+          "url": "https://www.typeui.sh/micro-interactions"
         },
         {
-          "title": "Rust off Rails: The opinionated web stack for the AI era",
-          "summary": "Latest AI discussion on Hacker News: Rust off Rails: The opinionated web stack for the AI era. Points: 73. (Source: Hacker News)",
-          "url": "https://rustoffrails.org/"
+          "title": "AI and the Enclosure of the Scientific Commons",
+          "summary": "Latest AI discussion on Hacker News: AI and the Enclosure of the Scientific Commons. Points: 136. (Source: Hacker News)",
+          "url": "https://arxiv.org/abs/2610.27251"
         }
       ]
     },
@@ -317,29 +317,29 @@
       "category": "Enterprise & Agentic AI",
       "items": [
         {
-          "title": "PHP2Shell: AI uncovers critical RCE in PHP",
-          "summary": "Latest AI discussion on Hacker News: PHP2Shell: AI uncovers critical RCE in PHP. Points: 443. (Source: Hacker News)",
-          "url": "https://www.wiz.io/blog/php2shell-php-rce"
+          "title": "AI analysis of CT scans finds 42.9% of patients have coronary inflammation",
+          "summary": "Latest AI discussion on Hacker News: AI analysis of CT scans finds 42.9% of patients have coronary inflammation. Points: 87. (Source: Hacker News)",
+          "url": "https://www.biograph.com/newsroom/biograph-completes-first-u.s.-study-with-caristo-diagnostics%E2%80%99-ai-powered-coronary-inflammation-detection-finding-risk-in-over-42-of-asymptomatic-patients"
         },
         {
-          "title": "Using thousands of AI agents to uncover new leads in biological data",
-          "summary": "Latest AI discussion on Hacker News: Using thousands of AI agents to uncover new leads in biological data. Points: 151. (Source: Hacker News)",
-          "url": "https://openai.com/index/scaling-ai-research-for-complex-biological-data/"
+          "title": "OpenShell – A safe, private runtime for fleets of autonomous AI agents",
+          "summary": "Latest AI discussion on Hacker News: OpenShell – A safe, private runtime for fleets of autonomous AI agents. Points: 446. (Source: Hacker News)",
+          "url": "https://github.com/NVIDIA/OpenShell"
         },
         {
-          "title": "LayerFS: The filesystem for AI coding agents",
-          "summary": "Latest AI discussion on Hacker News: LayerFS: The filesystem for AI coding agents. Points: 72. (Source: Hacker News)",
-          "url": "https://layerfs.ai/"
+          "title": "Every AI model has the same \"controversial\" take on humans",
+          "summary": "Latest AI discussion on Hacker News: Every AI model has the same \"controversial\" take on humans. Points: 530. (Source: Hacker News)",
+          "url": "https://www.modelcompare.ai/blog/ai-models-controversial-take-on-humans"
         },
         {
-          "title": "Sam Altman’s three endings for the AI safety race",
-          "summary": "PLUS: Make Claude Code check its work after each edit...",
-          "url": "https://www.therundown.ai/articles/sam-altman-three-endings-for-the-ai-safety-race"
+          "title": "A robot butler with Pixar ambitions",
+          "summary": "PLUS: Unitree demos a kung fu bodyguard...",
+          "url": "https://www.therundown.ai/articles/a-robot-butler-with-pixar-ambitions"
         },
         {
-          "title": "On AI writing",
-          "summary": "Latest AI discussion on Hacker News: On AI writing. Points: 92. (Source: Hacker News)",
-          "url": "https://www.bolkunov.com/p/on-ai-writing"
+          "title": "AI finds a security hole in 70% of the web",
+          "summary": "PLUS: Let Town prepare your next meeting brief...",
+          "url": "https://www.therundown.ai/articles/ai-finds-a-security-hole-in-70-of-the-web"
         }
       ]
     },
