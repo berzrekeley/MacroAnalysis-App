@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "October 25, 2026",
+  "lastUpdated": "October 26, 2026",
   "executiveSummary": [
-    "As of October 25, 2026, the U.S. macroeconomic environment is navigating a complex period of high interest rates and shifting labor market dynamics. With the Fed Funds Rate holding at 3.75% and CPI inflation tracking at 3.72%, the central bank continues its \"higher-for-longer\" stance to anchor inflation expectations. Recent headlines such as \"Retirement contribution limits will rise in 2019\" suggest that market participants remain hypersensitive to every data print, particularly around corporate earnings and consumer spending resilience.",
+    "As of October 26, 2026, the U.S. macroeconomic environment is navigating a complex period of high interest rates and shifting labor market dynamics. With the Fed Funds Rate holding at 3.75% and CPI inflation tracking at 3.72%, the central bank continues its \"higher-for-longer\" stance to anchor inflation expectations. Recent headlines such as \"Retirement contribution limits will rise in 2019\" suggest that market participants remain hypersensitive to every data print, particularly around corporate earnings and consumer spending resilience.",
     "The labor market, a key pillar of support, shows 194,000 initial jobless claims, reflecting a relatively stable but cooling employment landscape. Geopolitically, events like \"Geopolitical tensions remain in focus\" introduce exogenous risks that could disrupt global energy supplies and re-ignite inflationary impulses, keeping the Federal Reserve in a defensive posture as they balance growth against price stability. Analysts are closely watching for any signs of a \"hard landing\" as the effects of previous tightening cycles continue to filter through the real economy."
   ],
   "dailyHeadlines": [
@@ -287,29 +287,29 @@
       "category": "Frontier Model Race & Breakthroughs",
       "items": [
         {
-          "title": "SAP's Philipp Herzig on AI built for business data",
-          "summary": "What the &quot;SaaS is dead&quot; debate misses, according to SAP's CTO...",
-          "url": "https://www.therundown.ai/articles/sap-s-philipp-herzig-on-ai-built-for-business-data"
+          "title": "Brown student maps the hidden global labor powering AI",
+          "summary": "Latest AI discussion on Hacker News: Brown student maps the hidden global labor powering AI. Points: 90. (Source: Hacker News)",
+          "url": "https://www.brown.edu/news/2026-10-26/ai-data-workers"
         },
         {
-          "title": "Nikon photography contest winner loses title after scientists spot signs of AI",
-          "summary": "Latest AI discussion on Hacker News: Nikon photography contest winner loses title after scientists spot signs of AI. Points: 51. (Source: Hacker News)",
-          "url": "https://www.techspot.com/news/114171-nikon-photography-contest-winner-loses-title-after-scientists.html"
+          "title": "Kimi continues to challenge the frontier with K3.1 Pro",
+          "summary": "PLUS: Let AI sign in without sharing your passwords...",
+          "url": "https://www.therundown.ai/articles/kimi-continues-to-challenge-the-frontier-with-k3-1-pro"
         },
         {
-          "title": "Cerebras Deploys Trillion-Parameter AI Models",
-          "summary": "Latest AI discussion on Hacker News: Cerebras Deploys Trillion-Parameter AI Models. Points: 235. (Source: Hacker News)",
-          "url": "https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras"
+          "title": "Cognitive Mercantilism: AI panic resembles fears of early capitalism",
+          "summary": "Latest AI discussion on Hacker News: Cognitive Mercantilism: AI panic resembles fears of early capitalism. Points: 74. (Source: Hacker News)",
+          "url": "https://contraptions.venkateshrao.com/p/cognitive-mercantilism"
         },
         {
-          "title": "America has lost 200k of jobs in media, film and the arts. How much is AI?",
-          "summary": "Latest AI discussion on Hacker News: America has lost 200k of jobs in media, film and the arts. How much is AI?. Points: 408. (Source: Hacker News)",
-          "url": "https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class"
+          "title": "AI didn't cause the tech jobs bust, but it explains why there's no recovery",
+          "summary": "Latest AI discussion on Hacker News: AI didn't cause the tech jobs bust, but it explains why there's no recovery. Points: 73. (Source: Hacker News)",
+          "url": "https://vithushansylvester.com/writing/the-real-impact-of-ai-on-tech-jobs"
         },
         {
-          "title": "Making My Blog Readable by AI Agents",
-          "summary": "Latest AI discussion on Hacker News: Making My Blog Readable by AI Agents. Points: 24. (Source: Hacker News)",
-          "url": "https://deallocatedobjects.com/posts/making-my-blog-readable-by-ai-agents"
+          "title": "AI use leads UC Berkeley math professor to see 'no point' in grading homework",
+          "summary": "Latest AI discussion on Hacker News: AI use leads UC Berkeley math professor to see 'no point' in grading homework. Points: 228. (Source: Hacker News)",
+          "url": "https://www.dailycal.org/news/campus/academics/ai-use-leads-uc-berkeley-math-professor-to-see-no-point-in-grading-homework/article_bdf1eae2-c08b-491f-b9f1-81a7cea177de.html"
         }
       ]
     },
@@ -317,29 +317,29 @@
       "category": "Enterprise & Agentic AI",
       "items": [
         {
-          "title": "No signs of AI payoff outside the tech sector",
-          "summary": "Latest AI discussion on Hacker News: No signs of AI payoff outside the tech sector. Points: 576. (Source: Hacker News)",
-          "url": "https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector"
+          "title": "Imagine an AI future where being banned means you are now economically useless",
+          "summary": "Latest AI discussion on Hacker News: Imagine an AI future where being banned means you are now economically useless. Points: 98. (Source: Hacker News)",
+          "url": "https://twitter.com/boneGPT/status/2114035719853265264"
         },
         {
-          "title": "Why is AI generated language so hard to understand?",
-          "summary": "Latest AI discussion on Hacker News: Why is AI generated language so hard to understand?. Points: 213. (Source: Hacker News)",
-          "url": "https://arxiv.org/abs/2610.29162"
+          "title": "SAP's Philipp Herzig on AI built for business data",
+          "summary": "What the &quot;SaaS is dead&quot; debate misses, according to SAP's CTO...",
+          "url": "https://www.therundown.ai/articles/sap-s-philipp-herzig-on-ai-built-for-business-data"
         },
         {
-          "title": "AI-Assisted Paper on Z-Library Cites a TorrentFreak Article That Doesn't Exist",
-          "summary": "Latest AI discussion on Hacker News: AI-Assisted Paper on Z-Library Cites a TorrentFreak Article That Doesn't Exist. Points: 96. (Source: Hacker News)",
-          "url": "https://torrentfreak.com/ai-assisted-paper-on-z-library-cites-a-torrentfreak-article-that-doesnt-exist/"
+          "title": "Nikon photography contest winner loses title after scientists spot signs of AI",
+          "summary": "Latest AI discussion on Hacker News: Nikon photography contest winner loses title after scientists spot signs of AI. Points: 144. (Source: Hacker News)",
+          "url": "https://www.techspot.com/news/114171-nikon-photography-contest-winner-loses-title-after-scientists.html"
         },
         {
-          "title": "New AI Is More Than Twice as Good at Diagnosing Diseases as Doctors",
-          "summary": "Latest AI discussion on Hacker News: New AI Is More Than Twice as Good at Diagnosing Diseases as Doctors. Points: 66. (Source: Hacker News)",
-          "url": "https://gizmodo.com/microsoft-says-its-new-ai-is-more-than-twice-as-good-at-diagnosing-diseases-as-doctors-2000829562"
+          "title": "Cerebras Deploys Trillion-Parameter AI Models",
+          "summary": "Latest AI discussion on Hacker News: Cerebras Deploys Trillion-Parameter AI Models. Points: 362. (Source: Hacker News)",
+          "url": "https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras"
         },
         {
-          "title": "Air Purifiers as White Noise Machines",
-          "summary": "Latest AI discussion on Hacker News: Air Purifiers as White Noise Machines. Points: 176. (Source: Hacker News)",
-          "url": "https://www.jefftk.com/p/air-purifiers-as-white-noise-machines"
+          "title": "America has lost 200k of jobs in media, film and the arts. How much is AI?",
+          "summary": "Latest AI discussion on Hacker News: America has lost 200k of jobs in media, film and the arts. How much is AI?. Points: 537. (Source: Hacker News)",
+          "url": "https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class"
         }
       ]
     },
