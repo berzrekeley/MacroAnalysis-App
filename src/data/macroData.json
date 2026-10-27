@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "October 26, 2026",
+  "lastUpdated": "October 27, 2026",
   "executiveSummary": [
-    "As of October 26, 2026, the U.S. macroeconomic environment is navigating a complex period of high interest rates and shifting labor market dynamics. With the Fed Funds Rate holding at 3.75% and CPI inflation tracking at 3.72%, the central bank continues its \"higher-for-longer\" stance to anchor inflation expectations. Recent headlines such as \"Retirement contribution limits will rise in 2019\" suggest that market participants remain hypersensitive to every data print, particularly around corporate earnings and consumer spending resilience.",
+    "As of October 27, 2026, the U.S. macroeconomic environment is navigating a complex period of high interest rates and shifting labor market dynamics. With the Fed Funds Rate holding at 3.75% and CPI inflation tracking at 3.72%, the central bank continues its \"higher-for-longer\" stance to anchor inflation expectations. Recent headlines such as \"Retirement contribution limits will rise in 2019\" suggest that market participants remain hypersensitive to every data print, particularly around corporate earnings and consumer spending resilience.",
     "The labor market, a key pillar of support, shows 194,000 initial jobless claims, reflecting a relatively stable but cooling employment landscape. Geopolitically, events like \"Geopolitical tensions remain in focus\" introduce exogenous risks that could disrupt global energy supplies and re-ignite inflationary impulses, keeping the Federal Reserve in a defensive posture as they balance growth against price stability. Analysts are closely watching for any signs of a \"hard landing\" as the effects of previous tightening cycles continue to filter through the real economy."
   ],
   "dailyHeadlines": [
@@ -27,19 +27,19 @@
     },
     {
       "title": "10Y - 2Y Spread",
-      "value": "0.31%",
+      "value": "0.32%",
       "status": "Steepening - slower growth",
       "type": "warning"
     },
     {
       "title": "10Y Treasury Rate",
-      "value": "4.96%",
+      "value": "5.00%",
       "status": "High - energy-driven inflation",
       "type": "warning"
     },
     {
       "title": "2Y Treasury Rate",
-      "value": "4.65%",
+      "value": "4.69%",
       "status": "Elevated - higher-for-longer stance",
       "type": "warning"
     },
@@ -63,7 +63,7 @@
     },
     {
       "title": "Building Permits",
-      "value": "1.400M",
+      "value": "1.398M",
       "status": "Soft - cooling residential activity",
       "type": "warning"
     },
@@ -287,8 +287,48 @@
       "category": "Frontier Model Race & Breakthroughs",
       "items": [
         {
+          "title": "Wikipedia's Cleanup of AI-Generated Content",
+          "summary": "Latest AI discussion on Hacker News: Wikipedia's Cleanup of AI-Generated Content. Points: 216. (Source: Hacker News)",
+          "url": "https://spectrum.ieee.org/wikipedia-wikiproject-ai-writing-cleanup"
+        },
+        {
+          "title": "AI promised less work. I've never worked more",
+          "summary": "Latest AI discussion on Hacker News: AI promised less work. I've never worked more. Points: 433. (Source: Hacker News)",
+          "url": "https://oioannou.com/blog/ai-promised-less-work/"
+        },
+        {
+          "title": "The AI bubble meets Anthropic’s real numbers",
+          "summary": "PLUS: Turn sales call notes into follow-up emails with AI...",
+          "url": "https://www.therundown.ai/articles/the-ai-bubble-meets-anthropic-real-numbers"
+        },
+        {
+          "title": "The Mythical Man-Month in the Age of AI",
+          "summary": "Latest AI discussion on Hacker News: The Mythical Man-Month in the Age of AI. Points: 333. (Source: Hacker News)",
+          "url": "https://j11g.com/the-mythical-man-month-in-the-age-of-ai"
+        },
+        {
+          "title": "Cross-request KV cache exposure in the GLM-5.3 Workers AI model (155 responses)",
+          "summary": "Latest AI discussion on Hacker News: Cross-request KV cache exposure in the GLM-5.3 Workers AI model (155 responses). Points: 170. (Source: Hacker News)",
+          "url": "https://blog.cloudflare.com/kv-cache-exposure-remediation/"
+        }
+      ]
+    },
+    {
+      "category": "Enterprise & Agentic AI",
+      "items": [
+        {
+          "title": "Concerning behavior from a popular open-weight AI model",
+          "summary": "Latest AI discussion on Hacker News: Concerning behavior from a popular open-weight AI model. Points: 314. (Source: Hacker News)",
+          "url": "https://cohere.com/blog/concerning-behaviour-popular-open-weight-ai-model"
+        },
+        {
+          "title": "When 110 humanoids hit the dance floor",
+          "summary": "PLUS: Figure locks in its 'iPhone 1 of humanoids'...",
+          "url": "https://www.therundown.ai/articles/when-110-humanoids-hit-the-dance-floor"
+        },
+        {
           "title": "Brown student maps the hidden global labor powering AI",
-          "summary": "Latest AI discussion on Hacker News: Brown student maps the hidden global labor powering AI. Points: 90. (Source: Hacker News)",
+          "summary": "Latest AI discussion on Hacker News: Brown student maps the hidden global labor powering AI. Points: 181. (Source: Hacker News)",
           "url": "https://www.brown.edu/news/2026-10-26/ai-data-workers"
         },
         {
@@ -298,48 +338,8 @@
         },
         {
           "title": "Cognitive Mercantilism: AI panic resembles fears of early capitalism",
-          "summary": "Latest AI discussion on Hacker News: Cognitive Mercantilism: AI panic resembles fears of early capitalism. Points: 74. (Source: Hacker News)",
+          "summary": "Latest AI discussion on Hacker News: Cognitive Mercantilism: AI panic resembles fears of early capitalism. Points: 80. (Source: Hacker News)",
           "url": "https://contraptions.venkateshrao.com/p/cognitive-mercantilism"
-        },
-        {
-          "title": "AI didn't cause the tech jobs bust, but it explains why there's no recovery",
-          "summary": "Latest AI discussion on Hacker News: AI didn't cause the tech jobs bust, but it explains why there's no recovery. Points: 73. (Source: Hacker News)",
-          "url": "https://vithushansylvester.com/writing/the-real-impact-of-ai-on-tech-jobs"
-        },
-        {
-          "title": "AI use leads UC Berkeley math professor to see 'no point' in grading homework",
-          "summary": "Latest AI discussion on Hacker News: AI use leads UC Berkeley math professor to see 'no point' in grading homework. Points: 228. (Source: Hacker News)",
-          "url": "https://www.dailycal.org/news/campus/academics/ai-use-leads-uc-berkeley-math-professor-to-see-no-point-in-grading-homework/article_bdf1eae2-c08b-491f-b9f1-81a7cea177de.html"
-        }
-      ]
-    },
-    {
-      "category": "Enterprise & Agentic AI",
-      "items": [
-        {
-          "title": "Imagine an AI future where being banned means you are now economically useless",
-          "summary": "Latest AI discussion on Hacker News: Imagine an AI future where being banned means you are now economically useless. Points: 98. (Source: Hacker News)",
-          "url": "https://twitter.com/boneGPT/status/2114035719853265264"
-        },
-        {
-          "title": "SAP's Philipp Herzig on AI built for business data",
-          "summary": "What the &quot;SaaS is dead&quot; debate misses, according to SAP's CTO...",
-          "url": "https://www.therundown.ai/articles/sap-s-philipp-herzig-on-ai-built-for-business-data"
-        },
-        {
-          "title": "Nikon photography contest winner loses title after scientists spot signs of AI",
-          "summary": "Latest AI discussion on Hacker News: Nikon photography contest winner loses title after scientists spot signs of AI. Points: 144. (Source: Hacker News)",
-          "url": "https://www.techspot.com/news/114171-nikon-photography-contest-winner-loses-title-after-scientists.html"
-        },
-        {
-          "title": "Cerebras Deploys Trillion-Parameter AI Models",
-          "summary": "Latest AI discussion on Hacker News: Cerebras Deploys Trillion-Parameter AI Models. Points: 362. (Source: Hacker News)",
-          "url": "https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras"
-        },
-        {
-          "title": "America has lost 200k of jobs in media, film and the arts. How much is AI?",
-          "summary": "Latest AI discussion on Hacker News: America has lost 200k of jobs in media, film and the arts. How much is AI?. Points: 537. (Source: Hacker News)",
-          "url": "https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class"
         }
       ]
     },
