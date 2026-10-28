@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "October 27, 2026",
+  "lastUpdated": "October 28, 2026",
   "executiveSummary": [
-    "As of October 27, 2026, the U.S. macroeconomic environment is navigating a complex period of high interest rates and shifting labor market dynamics. With the Fed Funds Rate holding at 3.75% and CPI inflation tracking at 3.72%, the central bank continues its \"higher-for-longer\" stance to anchor inflation expectations. Recent headlines such as \"Retirement contribution limits will rise in 2019\" suggest that market participants remain hypersensitive to every data print, particularly around corporate earnings and consumer spending resilience.",
+    "As of October 28, 2026, the U.S. macroeconomic environment is navigating a complex period of high interest rates and shifting labor market dynamics. With the Fed Funds Rate holding at 3.75% and CPI inflation tracking at 3.72%, the central bank continues its \"higher-for-longer\" stance to anchor inflation expectations. Recent headlines such as \"Retirement contribution limits will rise in 2019\" suggest that market participants remain hypersensitive to every data print, particularly around corporate earnings and consumer spending resilience.",
     "The labor market, a key pillar of support, shows 194,000 initial jobless claims, reflecting a relatively stable but cooling employment landscape. Geopolitically, events like \"Geopolitical tensions remain in focus\" introduce exogenous risks that could disrupt global energy supplies and re-ignite inflationary impulses, keeping the Federal Reserve in a defensive posture as they balance growth against price stability. Analysts are closely watching for any signs of a \"hard landing\" as the effects of previous tightening cycles continue to filter through the real economy."
   ],
   "dailyHeadlines": [
@@ -27,7 +27,7 @@
     },
     {
       "title": "10Y - 2Y Spread",
-      "value": "0.32%",
+      "value": "0.29%",
       "status": "Steepening - slower growth",
       "type": "warning"
     },
@@ -39,7 +39,7 @@
     },
     {
       "title": "2Y Treasury Rate",
-      "value": "4.69%",
+      "value": "4.68%",
       "status": "Elevated - higher-for-longer stance",
       "type": "warning"
     },
@@ -287,13 +287,48 @@
       "category": "Frontier Model Race & Breakthroughs",
       "items": [
         {
+          "title": "Kentucky man becomes the first humanist granted religious exemption from AI",
+          "summary": "Latest AI discussion on Hacker News: Kentucky man becomes the first humanist granted religious exemption from AI. Points: 202. (Source: Hacker News)",
+          "url": "https://religionnews.com/2026/10/26/in-a-first-a-humanist-granted-a-religious-exemption-from-using-ai/"
+        },
+        {
+          "title": "Google’s AI worlds can now talk back",
+          "summary": "PLUS: Make editable product mockups with GPT-6.1 Terra...",
+          "url": "https://www.therundown.ai/articles/google-ai-worlds-can-now-talk-back"
+        },
+        {
+          "title": "Survival LLM: AI assistant and emergency library that runs on your own computer",
+          "summary": "Latest AI discussion on Hacker News: Survival LLM: AI assistant and emergency library that runs on your own computer. Points: 466. (Source: Hacker News)",
+          "url": "https://www.brangus.io/survival-llm"
+        },
+        {
+          "title": "Police are using AI to pull over drivers for 'suspicious' behavior",
+          "summary": "Latest AI discussion on Hacker News: Police are using AI to pull over drivers for 'suspicious' behavior. Points: 384. (Source: Hacker News)",
+          "url": "https://gizmodo.com/police-are-using-ai-to-pull-over-drivers-for-suspicious-behavior-2000831220"
+        },
+        {
+          "title": "Amazon Is Gutting Its AI Division After Sustained Failure",
+          "summary": "Latest AI discussion on Hacker News: Amazon Is Gutting Its AI Division After Sustained Failure. Points: 349. (Source: Hacker News)",
+          "url": "https://futurism.com/artificial-intelligence/amazon-ai-division-failure-nova"
+        }
+      ]
+    },
+    {
+      "category": "Enterprise & Agentic AI",
+      "items": [
+        {
+          "title": "Apple's big week begins with iPad mini",
+          "summary": "PLUS: Microsoft puts buyouts on the table for 60K workers...",
+          "url": "https://www.therundown.ai/articles/apple-big-week-begins-with-ipad-mini"
+        },
+        {
           "title": "Wikipedia's Cleanup of AI-Generated Content",
-          "summary": "Latest AI discussion on Hacker News: Wikipedia's Cleanup of AI-Generated Content. Points: 216. (Source: Hacker News)",
+          "summary": "Latest AI discussion on Hacker News: Wikipedia's Cleanup of AI-Generated Content. Points: 490. (Source: Hacker News)",
           "url": "https://spectrum.ieee.org/wikipedia-wikiproject-ai-writing-cleanup"
         },
         {
           "title": "AI promised less work. I've never worked more",
-          "summary": "Latest AI discussion on Hacker News: AI promised less work. I've never worked more. Points: 433. (Source: Hacker News)",
+          "summary": "Latest AI discussion on Hacker News: AI promised less work. I've never worked more. Points: 653. (Source: Hacker News)",
           "url": "https://oioannou.com/blog/ai-promised-less-work/"
         },
         {
@@ -303,43 +338,8 @@
         },
         {
           "title": "The Mythical Man-Month in the Age of AI",
-          "summary": "Latest AI discussion on Hacker News: The Mythical Man-Month in the Age of AI. Points: 333. (Source: Hacker News)",
+          "summary": "Latest AI discussion on Hacker News: The Mythical Man-Month in the Age of AI. Points: 468. (Source: Hacker News)",
           "url": "https://j11g.com/the-mythical-man-month-in-the-age-of-ai"
-        },
-        {
-          "title": "Cross-request KV cache exposure in the GLM-5.3 Workers AI model (155 responses)",
-          "summary": "Latest AI discussion on Hacker News: Cross-request KV cache exposure in the GLM-5.3 Workers AI model (155 responses). Points: 170. (Source: Hacker News)",
-          "url": "https://blog.cloudflare.com/kv-cache-exposure-remediation/"
-        }
-      ]
-    },
-    {
-      "category": "Enterprise & Agentic AI",
-      "items": [
-        {
-          "title": "Concerning behavior from a popular open-weight AI model",
-          "summary": "Latest AI discussion on Hacker News: Concerning behavior from a popular open-weight AI model. Points: 314. (Source: Hacker News)",
-          "url": "https://cohere.com/blog/concerning-behaviour-popular-open-weight-ai-model"
-        },
-        {
-          "title": "When 110 humanoids hit the dance floor",
-          "summary": "PLUS: Figure locks in its 'iPhone 1 of humanoids'...",
-          "url": "https://www.therundown.ai/articles/when-110-humanoids-hit-the-dance-floor"
-        },
-        {
-          "title": "Brown student maps the hidden global labor powering AI",
-          "summary": "Latest AI discussion on Hacker News: Brown student maps the hidden global labor powering AI. Points: 181. (Source: Hacker News)",
-          "url": "https://www.brown.edu/news/2026-10-26/ai-data-workers"
-        },
-        {
-          "title": "Kimi continues to challenge the frontier with K3.1 Pro",
-          "summary": "PLUS: Let AI sign in without sharing your passwords...",
-          "url": "https://www.therundown.ai/articles/kimi-continues-to-challenge-the-frontier-with-k3-1-pro"
-        },
-        {
-          "title": "Cognitive Mercantilism: AI panic resembles fears of early capitalism",
-          "summary": "Latest AI discussion on Hacker News: Cognitive Mercantilism: AI panic resembles fears of early capitalism. Points: 80. (Source: Hacker News)",
-          "url": "https://contraptions.venkateshrao.com/p/cognitive-mercantilism"
         }
       ]
     },
