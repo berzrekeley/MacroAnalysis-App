@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "November 3, 2026",
+  "lastUpdated": "November 4, 2026",
   "executiveSummary": [
-    "As of November 3, 2026, the U.S. macroeconomic environment is navigating a complex period of high interest rates and shifting labor market dynamics. With the Fed Funds Rate holding at 3.88% and CPI inflation tracking at 3.72%, the central bank continues its \"higher-for-longer\" stance to anchor inflation expectations. Recent headlines such as \"Retirement contribution limits will rise in 2019\" suggest that market participants remain hypersensitive to every data print, particularly around corporate earnings and consumer spending resilience.",
+    "As of November 4, 2026, the U.S. macroeconomic environment is navigating a complex period of high interest rates and shifting labor market dynamics. With the Fed Funds Rate holding at 3.88% and CPI inflation tracking at 3.72%, the central bank continues its \"higher-for-longer\" stance to anchor inflation expectations. Recent headlines such as \"Retirement contribution limits will rise in 2019\" suggest that market participants remain hypersensitive to every data print, particularly around corporate earnings and consumer spending resilience.",
     "The labor market, a key pillar of support, shows 194,000 initial jobless claims, reflecting a relatively stable but cooling employment landscape. Geopolitically, events like \"Geopolitical tensions remain in focus\" introduce exogenous risks that could disrupt global energy supplies and re-ignite inflationary impulses, keeping the Federal Reserve in a defensive posture as they balance growth against price stability. Analysts are closely watching for any signs of a \"hard landing\" as the effects of previous tightening cycles continue to filter through the real economy."
   ],
   "dailyHeadlines": [
@@ -27,19 +27,19 @@
     },
     {
       "title": "10Y - 2Y Spread",
-      "value": "0.32%",
+      "value": "0.34%",
       "status": "Steepening - slower growth",
       "type": "warning"
     },
     {
       "title": "10Y Treasury Rate",
-      "value": "4.94%",
+      "value": "4.91%",
       "status": "High - energy-driven inflation",
       "type": "warning"
     },
     {
       "title": "2Y Treasury Rate",
-      "value": "4.56%",
+      "value": "4.59%",
       "status": "Elevated - higher-for-longer stance",
       "type": "warning"
     },
@@ -75,7 +75,7 @@
     },
     {
       "title": "Monthly ADP Employment",
-      "value": "+90,000",
+      "value": "+86,000",
       "status": "Stable - private sector resilience",
       "type": "neutral"
     },
@@ -287,29 +287,29 @@
       "category": "Frontier Model Race & Breakthroughs",
       "items": [
         {
-          "title": "Just a little AI resistance, as a treat",
-          "summary": "Latest AI discussion on Hacker News: Just a little AI resistance, as a treat. Points: 156. (Source: Hacker News)",
-          "url": "https://shkspr.mobi/blog/2026/11/just-a-little-ai-resistance-as-a-treat/"
+          "title": "AI is forcing us to pay off 40 years of technical debt",
+          "summary": "Latest AI discussion on Hacker News: AI is forcing us to pay off 40 years of technical debt. Points: 665. (Source: Hacker News)",
+          "url": "https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability"
         },
         {
-          "title": "MIT shows AI improving AI, no training required",
-          "summary": "PLUS: Turn one interview into two clips with Riverside...",
-          "url": "https://www.therundown.ai/articles/mit-shows-ai-improving-ai-no-training-required"
+          "title": "Apple cracks the door open to Siri AI",
+          "summary": "PLUS: Turn one product photo into three studio shots...",
+          "url": "https://www.therundown.ai/articles/apple-cracks-the-door-open-to-siri-ai"
         },
         {
-          "title": "Oracle files to sell $20B in new stock, bonds to finance AI buildout",
-          "summary": "Latest AI discussion on Hacker News: Oracle files to sell $20B in new stock, bonds to finance AI buildout. Points: 195. (Source: Hacker News)",
-          "url": "https://www.cnbc.com/2026/11/02/oracle-files-to-sell-20-billion-in-new-stock-bonds-to-finance-ai-buildout.html"
+          "title": "Geoffrey Hinton: it might turn out we were better off without AI",
+          "summary": "Latest AI discussion on Hacker News: Geoffrey Hinton: it might turn out we were better off without AI. Points: 268. (Source: Hacker News)",
+          "url": "https://www.theguardian.com/uk-news/2026/nov/03/ai-godfather-geoffrey-hinton-better-off-without-ai"
         },
         {
-          "title": "Egoless Mathematics in the AI Era",
-          "summary": "Latest AI discussion on Hacker News: Egoless Mathematics in the AI Era. Points: 179. (Source: Hacker News)",
-          "url": "https://terrytao.wordpress.com/2026/11/02/egoless-mathematics-in-the-ai-era/"
+          "title": "The Little Book of Generative AI Foundations: An Intuitive Mathematical Primer",
+          "summary": "Latest AI discussion on Hacker News: The Little Book of Generative AI Foundations: An Intuitive Mathematical Primer. Points: 371. (Source: Hacker News)",
+          "url": "https://arxiv.org/abs/2605.29713"
         },
         {
-          "title": "Anthropic's internal AI use, at retail prices, now exceeds its employee pay",
-          "summary": "Latest AI discussion on Hacker News: Anthropic's internal AI use, at retail prices, now exceeds its employee pay. Points: 343. (Source: Hacker News)",
-          "url": "https://www.businessinsider.com/anthropic-claude-internal-ai-use-exceeds-employee-pay-tokens-2026-11"
+          "title": "US tech giants' hidden AI debt swells 90% to $3.2T in 6 months",
+          "summary": "Latest AI discussion on Hacker News: US tech giants' hidden AI debt swells 90% to $3.2T in 6 months. Points: 395. (Source: Hacker News)",
+          "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/us-tech-giants-hidden-ai-debt-swells-90-to-3.2tn-in-6-months"
         }
       ]
     },
@@ -317,29 +317,29 @@
       "category": "Enterprise & Agentic AI",
       "items": [
         {
-          "title": "Meta builds its first humanoid robot",
-          "summary": "PLUS: Walmart goes full-Amazon on robots...",
-          "url": "https://www.therundown.ai/articles/meta-builds-its-first-humanoid-robot"
+          "title": "How I use AI (Oct 2026)",
+          "summary": "Latest AI discussion on Hacker News: How I use AI (Oct 2026). Points: 239. (Source: Hacker News)",
+          "url": "https://ben.stolovitz.com/posts/how-use-ai-oct-2026/"
         },
         {
-          "title": "Jobless tech workers are being left out of San Francisco's AI boom",
-          "summary": "Latest AI discussion on Hacker News: Jobless tech workers are being left out of San Francisco's AI boom. Points: 185. (Source: Hacker News)",
-          "url": "https://www.bloomberg.com/news/features/2026-09-17/san-francisco-s-ai-wealth-boom-skirts-engineers-as-openai-anthropic-ipos-near"
+          "title": "Postman silently auto-installs AI plugins and attempts to share all API data",
+          "summary": "Latest AI discussion on Hacker News: Postman silently auto-installs AI plugins and attempts to share all API data. Points: 1445. (Source: Hacker News)",
+          "url": "https://github.com/postmanlabs/postman-app-support/issues/14370"
         },
         {
-          "title": "Fujifilm to boost tape production 5x as AI fuels archiving demand",
-          "summary": "Latest AI discussion on Hacker News: Fujifilm to boost tape production 5x as AI fuels archiving demand. Points: 187. (Source: Hacker News)",
-          "url": "https://arstechnica.com/gadgets/2026/10/fujifilm-to-boost-tape-production-5x-as-ai-fuels-archiving-demand/"
+          "title": "Apple can't build enough iPhone Duos",
+          "summary": "PLUS: TikTok builds its super app...",
+          "url": "https://www.therundown.ai/articles/apple-cant-build-enough-iphone-duos"
         },
         {
-          "title": "Last night an AI agent performed brain surgery on a mouse",
-          "summary": "Latest AI discussion on Hacker News: Last night an AI agent performed brain surgery on a mouse. Points: 139. (Source: Hacker News)",
-          "url": "https://twitter.com/OcanaSantero/status/2115442964574908902"
+          "title": "Google will turn off search for schools that reject AI",
+          "summary": "Latest AI discussion on Hacker News: Google will turn off search for schools that reject AI. Points: 650. (Source: Hacker News)",
+          "url": "https://www.nytimes.com/2026/11/03/us/google-search-schools-restrict-ai.html"
         },
         {
-          "title": "AI backlash heads to the polls",
-          "summary": "PLUS: How to make AI artwork you can actually edit...",
-          "url": "https://www.therundown.ai/articles/ai-backlash-heads-to-the-polls"
+          "title": "Just a little AI resistance, as a treat",
+          "summary": "Latest AI discussion on Hacker News: Just a little AI resistance, as a treat. Points: 176. (Source: Hacker News)",
+          "url": "https://shkspr.mobi/blog/2026/11/just-a-little-ai-resistance-as-a-treat/"
         }
       ]
     },
