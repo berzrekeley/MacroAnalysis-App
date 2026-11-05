@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "November 4, 2026",
+  "lastUpdated": "November 5, 2026",
   "executiveSummary": [
-    "As of November 4, 2026, the U.S. macroeconomic environment is navigating a complex period of high interest rates and shifting labor market dynamics. With the Fed Funds Rate holding at 3.88% and CPI inflation tracking at 3.72%, the central bank continues its \"higher-for-longer\" stance to anchor inflation expectations. Recent headlines such as \"Retirement contribution limits will rise in 2019\" suggest that market participants remain hypersensitive to every data print, particularly around corporate earnings and consumer spending resilience.",
-    "The labor market, a key pillar of support, shows 194,000 initial jobless claims, reflecting a relatively stable but cooling employment landscape. Geopolitically, events like \"Geopolitical tensions remain in focus\" introduce exogenous risks that could disrupt global energy supplies and re-ignite inflationary impulses, keeping the Federal Reserve in a defensive posture as they balance growth against price stability. Analysts are closely watching for any signs of a \"hard landing\" as the effects of previous tightening cycles continue to filter through the real economy."
+    "As of November 5, 2026, the U.S. macroeconomic environment is navigating a complex period of high interest rates and shifting labor market dynamics. With the Fed Funds Rate holding at 3.88% and CPI inflation tracking at 3.72%, the central bank continues its \"higher-for-longer\" stance to anchor inflation expectations. Recent headlines such as \"Retirement contribution limits will rise in 2019\" suggest that market participants remain hypersensitive to every data print, particularly around corporate earnings and consumer spending resilience.",
+    "The labor market, a key pillar of support, shows 189,000 initial jobless claims, reflecting a relatively stable but cooling employment landscape. Geopolitically, events like \"Geopolitical tensions remain in focus\" introduce exogenous risks that could disrupt global energy supplies and re-ignite inflationary impulses, keeping the Federal Reserve in a defensive posture as they balance growth against price stability. Analysts are closely watching for any signs of a \"hard landing\" as the effects of previous tightening cycles continue to filter through the real economy."
   ],
   "dailyHeadlines": [
     {
@@ -27,19 +27,19 @@
     },
     {
       "title": "10Y - 2Y Spread",
-      "value": "0.34%",
+      "value": "0.32%",
       "status": "Steepening - slower growth",
       "type": "warning"
     },
     {
       "title": "10Y Treasury Rate",
-      "value": "4.91%",
+      "value": "4.95%",
       "status": "High - energy-driven inflation",
       "type": "warning"
     },
     {
       "title": "2Y Treasury Rate",
-      "value": "4.59%",
+      "value": "4.61%",
       "status": "Elevated - higher-for-longer stance",
       "type": "warning"
     },
@@ -69,7 +69,7 @@
     },
     {
       "title": "Initial Jobless Claims",
-      "value": "194,000",
+      "value": "189,000",
       "status": "Stable - primary pillar of support",
       "type": "neutral"
     },
@@ -88,11 +88,18 @@
   ],
   "adpWeeklyData": [
     {
+      "week": "Oct 31",
+      "fullDate": "Oct 31, 2026",
+      "number": 189000,
+      "delta": -6000,
+      "deltaPct": -3.08
+    },
+    {
       "week": "Oct 24",
       "fullDate": "Oct 24, 2026",
-      "number": 194000,
-      "delta": -1000,
-      "deltaPct": -0.51
+      "number": 195000,
+      "delta": 0,
+      "deltaPct": 0
     },
     {
       "week": "Oct 17",
@@ -189,13 +196,6 @@
       "week": "Jul 18",
       "fullDate": "Jul 18, 2026",
       "number": 189000,
-      "delta": -20000,
-      "deltaPct": -9.57
-    },
-    {
-      "week": "Jul 11",
-      "fullDate": "Jul 11, 2026",
-      "number": 209000,
       "delta": 0,
       "deltaPct": 0
     }
@@ -287,8 +287,43 @@
       "category": "Frontier Model Race & Breakthroughs",
       "items": [
         {
+          "title": "AI agents can now make your phone calls",
+          "summary": "PLUS: Which free AI tool should you actually use?...",
+          "url": "https://www.therundown.ai/articles/ai-agents-can-now-make-your-phone-calls"
+        },
+        {
+          "title": "Everything is an AI scam now",
+          "summary": "Latest AI discussion on Hacker News: Everything is an AI scam now. Points: 145. (Source: Hacker News)",
+          "url": "https://www.davidralphlewis.co.uk/posts/everything-is-an-ai-scam-now/"
+        },
+        {
+          "title": "Qualcomm Cloud AI 100 Ultra – 150W AI Accelerator Card with 128GB at 548GB/s",
+          "summary": "Latest AI discussion on Hacker News: Qualcomm Cloud AI 100 Ultra – 150W AI Accelerator Card with 128GB at 548GB/s. Points: 167. (Source: Hacker News)",
+          "url": "https://www.qualcomm.com/data-center/products/cloud-ai-100-ultra"
+        },
+        {
+          "title": "Launch HN: Kino AI (YC S23) – AI media manager and video editor",
+          "summary": "Latest AI discussion on Hacker News: Launch HN: Kino AI (YC S23) – AI media manager and video editor. Points: 95. (Source: Hacker News)",
+          "url": "https://news.ycombinator.com/item?id=50368804"
+        },
+        {
+          "title": "YC's Garry Tan uses AI agents so much, he spends up to $200K a year on tokens",
+          "summary": "Latest AI discussion on Hacker News: YC's Garry Tan uses AI agents so much, he spends up to $200K a year on tokens. Points: 100. (Source: Hacker News)",
+          "url": "https://techcrunch.com/2026/11/02/y-combinators-garry-tan-uses-ai-agents-so-much-he-spends-up-to-200k-a-year-on-tokens/"
+        }
+      ]
+    },
+    {
+      "category": "Enterprise & Agentic AI",
+      "items": [
+        {
+          "title": "Ask HN: What's your current AI agentic setup?",
+          "summary": "Latest AI discussion on Hacker News: Ask HN: What's your current AI agentic setup?. Points: 482. (Source: Hacker News)",
+          "url": "https://news.ycombinator.com/item?id=50366117"
+        },
+        {
           "title": "AI is forcing us to pay off 40 years of technical debt",
-          "summary": "Latest AI discussion on Hacker News: AI is forcing us to pay off 40 years of technical debt. Points: 665. (Source: Hacker News)",
+          "summary": "Latest AI discussion on Hacker News: AI is forcing us to pay off 40 years of technical debt. Points: 1239. (Source: Hacker News)",
           "url": "https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability"
         },
         {
@@ -298,48 +333,13 @@
         },
         {
           "title": "Geoffrey Hinton: it might turn out we were better off without AI",
-          "summary": "Latest AI discussion on Hacker News: Geoffrey Hinton: it might turn out we were better off without AI. Points: 268. (Source: Hacker News)",
+          "summary": "Latest AI discussion on Hacker News: Geoffrey Hinton: it might turn out we were better off without AI. Points: 316. (Source: Hacker News)",
           "url": "https://www.theguardian.com/uk-news/2026/nov/03/ai-godfather-geoffrey-hinton-better-off-without-ai"
         },
         {
           "title": "The Little Book of Generative AI Foundations: An Intuitive Mathematical Primer",
-          "summary": "Latest AI discussion on Hacker News: The Little Book of Generative AI Foundations: An Intuitive Mathematical Primer. Points: 371. (Source: Hacker News)",
+          "summary": "Latest AI discussion on Hacker News: The Little Book of Generative AI Foundations: An Intuitive Mathematical Primer. Points: 388. (Source: Hacker News)",
           "url": "https://arxiv.org/abs/2605.29713"
-        },
-        {
-          "title": "US tech giants' hidden AI debt swells 90% to $3.2T in 6 months",
-          "summary": "Latest AI discussion on Hacker News: US tech giants' hidden AI debt swells 90% to $3.2T in 6 months. Points: 395. (Source: Hacker News)",
-          "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/us-tech-giants-hidden-ai-debt-swells-90-to-3.2tn-in-6-months"
-        }
-      ]
-    },
-    {
-      "category": "Enterprise & Agentic AI",
-      "items": [
-        {
-          "title": "How I use AI (Oct 2026)",
-          "summary": "Latest AI discussion on Hacker News: How I use AI (Oct 2026). Points: 239. (Source: Hacker News)",
-          "url": "https://ben.stolovitz.com/posts/how-use-ai-oct-2026/"
-        },
-        {
-          "title": "Postman silently auto-installs AI plugins and attempts to share all API data",
-          "summary": "Latest AI discussion on Hacker News: Postman silently auto-installs AI plugins and attempts to share all API data. Points: 1445. (Source: Hacker News)",
-          "url": "https://github.com/postmanlabs/postman-app-support/issues/14370"
-        },
-        {
-          "title": "Apple can't build enough iPhone Duos",
-          "summary": "PLUS: TikTok builds its super app...",
-          "url": "https://www.therundown.ai/articles/apple-cant-build-enough-iphone-duos"
-        },
-        {
-          "title": "Google will turn off search for schools that reject AI",
-          "summary": "Latest AI discussion on Hacker News: Google will turn off search for schools that reject AI. Points: 650. (Source: Hacker News)",
-          "url": "https://www.nytimes.com/2026/11/03/us/google-search-schools-restrict-ai.html"
-        },
-        {
-          "title": "Just a little AI resistance, as a treat",
-          "summary": "Latest AI discussion on Hacker News: Just a little AI resistance, as a treat. Points: 176. (Source: Hacker News)",
-          "url": "https://shkspr.mobi/blog/2026/11/just-a-little-ai-resistance-as-a-treat/"
         }
       ]
     },
