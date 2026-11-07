@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "November 6, 2026",
+  "lastUpdated": "November 7, 2026",
   "executiveSummary": [
-    "As of November 6, 2026, the U.S. macroeconomic environment is navigating a complex period of high interest rates and shifting labor market dynamics. With the Fed Funds Rate holding at 3.88% and CPI inflation tracking at 3.72%, the central bank continues its \"higher-for-longer\" stance to anchor inflation expectations. Recent headlines such as \"Retirement contribution limits will rise in 2019\" suggest that market participants remain hypersensitive to every data print, particularly around corporate earnings and consumer spending resilience.",
+    "As of November 7, 2026, the U.S. macroeconomic environment is navigating a complex period of high interest rates and shifting labor market dynamics. With the Fed Funds Rate holding at 3.88% and CPI inflation tracking at 3.72%, the central bank continues its \"higher-for-longer\" stance to anchor inflation expectations. Recent headlines such as \"Retirement contribution limits will rise in 2019\" suggest that market participants remain hypersensitive to every data print, particularly around corporate earnings and consumer spending resilience.",
     "The labor market, a key pillar of support, shows 189,000 initial jobless claims, reflecting a relatively stable but cooling employment landscape. Geopolitically, events like \"Geopolitical tensions remain in focus\" introduce exogenous risks that could disrupt global energy supplies and re-ignite inflationary impulses, keeping the Federal Reserve in a defensive posture as they balance growth against price stability. Analysts are closely watching for any signs of a \"hard landing\" as the effects of previous tightening cycles continue to filter through the real economy."
   ],
   "dailyHeadlines": [
@@ -27,19 +27,19 @@
     },
     {
       "title": "10Y - 2Y Spread",
-      "value": "0.38%",
+      "value": "0.35%",
       "status": "Steepening - slower growth",
       "type": "warning"
     },
     {
       "title": "10Y Treasury Rate",
-      "value": "4.90%",
+      "value": "4.84%",
       "status": "High - energy-driven inflation",
       "type": "warning"
     },
     {
       "title": "2Y Treasury Rate",
-      "value": "4.58%",
+      "value": "4.46%",
       "status": "Elevated - higher-for-longer stance",
       "type": "warning"
     },
@@ -287,29 +287,29 @@
       "category": "Frontier Model Race & Breakthroughs",
       "items": [
         {
-          "title": "FAA Begins Retiring Decades Old Floppy Disks from Air Traffic Control",
-          "summary": "Latest AI discussion on Hacker News: FAA Begins Retiring Decades Old Floppy Disks from Air Traffic Control. Points: 68. (Source: Hacker News)",
+          "title": "AI is dramatically accelerating AI research",
+          "summary": "Latest AI discussion on Hacker News: AI is dramatically accelerating AI research. Points: 341. (Source: Hacker News)",
+          "url": "https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai"
+        },
+        {
+          "title": "Microsoft is winding down Oracle deal to rent AI cloud capacity",
+          "summary": "Latest AI discussion on Hacker News: Microsoft is winding down Oracle deal to rent AI cloud capacity. Points: 104. (Source: Hacker News)",
+          "url": "https://www.reuters.com/business/microsoft-is-winding-down-oracle-deal-rent-ai-cloud-capacity-bloomberg-news-2026-11-06/"
+        },
+        {
+          "title": "Big Tech sues to save the feed",
+          "summary": "PLUS: Cybertruck out, Cybercab in...",
+          "url": "https://www.therundown.ai/articles/big-tech-sues-to-save-the-feed"
+        },
+        {
+          "title": "FAA begins retiring decades old floppy disks from air traffic control",
+          "summary": "Latest AI discussion on Hacker News: FAA begins retiring decades old floppy disks from air traffic control. Points: 89. (Source: Hacker News)",
           "url": "https://www.faa.gov/newsroom/trumps-transportation-secretary-sean-p-duffy-begins-retiring-decades-old-floppy-disks-air"
         },
         {
           "title": "University libraries are being swarmed by AI bots, putting public access at risk",
-          "summary": "Latest AI discussion on Hacker News: University libraries are being swarmed by AI bots, putting public access at risk. Points: 79. (Source: Hacker News)",
+          "summary": "Latest AI discussion on Hacker News: University libraries are being swarmed by AI bots, putting public access at risk. Points: 131. (Source: Hacker News)",
           "url": "https://www.cbc.ca/news/world/university-libraries-ai-data-scraping-bots-9.7408287"
-        },
-        {
-          "title": "An inside look at Anthropic’s AI speedup",
-          "summary": "PLUS: Use AI to find a job and prepare to get hired...",
-          "url": "https://www.therundown.ai/articles/an-inside-look-at-anthropic-s-ai-speedup"
-        },
-        {
-          "title": "I struggle to believe that AI R&D is ingenious",
-          "summary": "Latest AI discussion on Hacker News: I struggle to believe that AI R&D is ingenious. Points: 159. (Source: Hacker News)",
-          "url": "https://www.lesswrong.com/posts/DALNiKBjMGMF8grme/arjun-panickssery-s-shortform?commentId=fJtaHHHfx45tD7BSL"
-        },
-        {
-          "title": "Closed AI models dominate the price-performance frontier",
-          "summary": "Latest AI discussion on Hacker News: Closed AI models dominate the price-performance frontier. Points: 76. (Source: Hacker News)",
-          "url": "https://village.dev/blog/closed-ai-models-now-dominate-the-price-performance-frontier/"
         }
       ]
     },
@@ -317,29 +317,29 @@
       "category": "Enterprise & Agentic AI",
       "items": [
         {
-          "title": "Cuban: Facebook knowingly runs AI deepfake scam ads; docs say $16B fraud revenue",
-          "summary": "Latest AI discussion on Hacker News: Cuban: Facebook knowingly runs AI deepfake scam ads; docs say $16B fraud revenue. Points: 469. (Source: Hacker News)",
-          "url": "https://finance.yahoo.com/technology/ai/articles/mark-cuban-says-facebook-knowingly-213000020.html"
+          "title": "An inside look at Anthropic’s AI speedup",
+          "summary": "PLUS: Use AI to find a job and prepare to get hired...",
+          "url": "https://www.therundown.ai/articles/an-inside-look-at-anthropic-s-ai-speedup"
         },
         {
-          "title": "Nasdaq Sinks 5% as Investors Retreat from AI Trade After Election",
-          "summary": "Latest AI discussion on Hacker News: Nasdaq Sinks 5% as Investors Retreat from AI Trade After Election. Points: 162. (Source: Hacker News)",
-          "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-05-2026"
+          "title": "AI for scientific discovery: How researchers use Claude",
+          "summary": "Latest AI discussion on Hacker News: AI for scientific discovery: How researchers use Claude. Points: 96. (Source: Hacker News)",
+          "url": "https://www.anthropic.com/research/how-researchers-use-claude"
         },
         {
-          "title": "Agility’s $2.5B humanoid hits Nasdaq",
-          "summary": "PLUS: Apple’s first robot faces another delay...",
-          "url": "https://www.therundown.ai/articles/agility-2-5b-humanoid-hits-nasdaq"
+          "title": "I struggle to believe that AI R&D is ingenious",
+          "summary": "Latest AI discussion on Hacker News: I struggle to believe that AI R&D is ingenious. Points: 208. (Source: Hacker News)",
+          "url": "https://www.lesswrong.com/posts/DALNiKBjMGMF8grme/arjun-panickssery-s-shortform?commentId=fJtaHHHfx45tD7BSL"
         },
         {
-          "title": "AI agents can now make your phone calls",
-          "summary": "PLUS: Which free AI tool should you actually use?...",
-          "url": "https://www.therundown.ai/articles/ai-agents-can-now-make-your-phone-calls"
+          "title": "US FAA says it will phase out floppy disks from air traffic control by 2028",
+          "summary": "Latest AI discussion on Hacker News: US FAA says it will phase out floppy disks from air traffic control by 2028. Points: 371. (Source: Hacker News)",
+          "url": "https://www.reuters.com/world/us/us-faa-says-it-will-phase-out-floppy-disks-air-traffic-control-by-2028-2026-11-05/"
         },
         {
-          "title": "American Voters Overwhelmingly Reject AI Data Centers",
-          "summary": "Latest AI discussion on Hacker News: American Voters Overwhelmingly Reject AI Data Centers. Points: 61. (Source: Hacker News)",
-          "url": "https://www.404media.co/american-voters-overwhelmingly-reject-ai-data-centers/"
+          "title": "Closed AI models dominate the price-performance frontier",
+          "summary": "Latest AI discussion on Hacker News: Closed AI models dominate the price-performance frontier. Points: 77. (Source: Hacker News)",
+          "url": "https://village.dev/blog/closed-ai-models-now-dominate-the-price-performance-frontier/"
         }
       ]
     },
