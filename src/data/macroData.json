@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "November 10, 2026",
+  "lastUpdated": "November 11, 2026",
   "executiveSummary": [
-    "As of November 10, 2026, the U.S. macroeconomic environment is navigating a complex period of high interest rates and shifting labor market dynamics. With the Fed Funds Rate holding at 3.88% and CPI inflation tracking at NaN%, the central bank continues its \"higher-for-longer\" stance to anchor inflation expectations. Recent headlines such as \"Retirement contribution limits will rise in 2019\" suggest that market participants remain hypersensitive to every data print, particularly around corporate earnings and consumer spending resilience.",
+    "As of November 11, 2026, the U.S. macroeconomic environment is navigating a complex period of high interest rates and shifting labor market dynamics. With the Fed Funds Rate holding at 3.88% and CPI inflation tracking at NaN%, the central bank continues its \"higher-for-longer\" stance to anchor inflation expectations. Recent headlines such as \"Retirement contribution limits will rise in 2019\" suggest that market participants remain hypersensitive to every data print, particularly around corporate earnings and consumer spending resilience.",
     "The labor market, a key pillar of support, shows 189,000 initial jobless claims, reflecting a relatively stable but cooling employment landscape. Geopolitically, events like \"Geopolitical tensions remain in focus\" introduce exogenous risks that could disrupt global energy supplies and re-ignite inflationary impulses, keeping the Federal Reserve in a defensive posture as they balance growth against price stability. Analysts are closely watching for any signs of a \"hard landing\" as the effects of previous tightening cycles continue to filter through the real economy."
   ],
   "dailyHeadlines": [
@@ -27,19 +27,19 @@
     },
     {
       "title": "10Y - 2Y Spread",
-      "value": "0.32%",
+      "value": "0.25%",
       "status": "Steepening - slower growth",
       "type": "warning"
     },
     {
       "title": "10Y Treasury Rate",
-      "value": "4.86%",
+      "value": "4.88%",
       "status": "High - energy-driven inflation",
       "type": "warning"
     },
     {
       "title": "2Y Treasury Rate",
-      "value": "4.51%",
+      "value": "4.56%",
       "status": "Elevated - higher-for-longer stance",
       "type": "warning"
     },
@@ -287,8 +287,48 @@
       "category": "Frontier Model Race & Breakthroughs",
       "items": [
         {
+          "title": "Google SWE points 48 AI agents at NASA Lidar, finds unmapped Maya pyramid in 72h",
+          "summary": "Latest AI discussion on Hacker News: Google SWE points 48 AI agents at NASA Lidar, finds unmapped Maya pyramid in 72h. Points: 730. (Source: Hacker News)",
+          "url": "https://pietromiotti.com/latest/maya-site/?maya"
+        },
+        {
+          "title": "OpenAI invites brands to set up shop in ChatGPT",
+          "summary": "PLUS: Put your open Chrome tabs to work with AI...",
+          "url": "https://www.therundown.ai/articles/openai-invites-brands-to-set-up-shop-in-chatgpt"
+        },
+        {
+          "title": "OSS projects banning AI-generated contributions",
+          "summary": "Latest AI discussion on Hacker News: OSS projects banning AI-generated contributions. Points: 58. (Source: Hacker News)",
+          "url": "https://osssaysno.com"
+        },
+        {
+          "title": "Apple has new Mac app coming to make running local AI models easy",
+          "summary": "Latest AI discussion on Hacker News: Apple has new Mac app coming to make running local AI models easy. Points: 459. (Source: Hacker News)",
+          "url": "https://9to5mac.com/2026/11/10/apple-has-new-mac-app-coming-to-make-running-local-ai-models-easy/"
+        },
+        {
+          "title": "Huang's bad week just got a lot worse",
+          "summary": "PLUS: Park your car with your Uber app...",
+          "url": "https://www.therundown.ai/articles/huang-s-bad-week-just-got-a-lot-worse"
+        }
+      ]
+    },
+    {
+      "category": "Enterprise & Agentic AI",
+      "items": [
+        {
+          "title": "AI Users have workdays up to 90 min longer than non-users",
+          "summary": "Latest AI discussion on Hacker News: AI Users have workdays up to 90 min longer than non-users. Points: 60. (Source: Hacker News)",
+          "url": "https://www.activtrak.com/news/productivity-lab-ai-users-longer-workdays/"
+        },
+        {
+          "title": "Meet the Sad Wives of AI",
+          "summary": "Latest AI discussion on Hacker News: Meet the Sad Wives of AI. Points: 78. (Source: Hacker News)",
+          "url": "https://www.wired.com/story/meet-the-sad-wives-of-ai/"
+        },
+        {
           "title": "AI usage generates a fragile codebase",
-          "summary": "Latest AI discussion on Hacker News: AI usage generates a fragile codebase. Points: 133. (Source: Hacker News)",
+          "summary": "Latest AI discussion on Hacker News: AI usage generates a fragile codebase. Points: 616. (Source: Hacker News)",
           "url": "https://evanxmerz.com/post/ai-usage-generates-a-fragile-codebase/"
         },
         {
@@ -298,48 +338,8 @@
         },
         {
           "title": "Fireworks AI security breach impacts Notion and their customers",
-          "summary": "Latest AI discussion on Hacker News: Fireworks AI security breach impacts Notion and their customers. Points: 143. (Source: Hacker News)",
+          "summary": "Latest AI discussion on Hacker News: Fireworks AI security breach impacts Notion and their customers. Points: 164. (Source: Hacker News)",
           "url": "https://www.notion.com/help/security-incident-involving-a-third-party-ai-vendor"
-        },
-        {
-          "title": "CoreWeave bond yield tops 16% as AI credit stress rises",
-          "summary": "Latest AI discussion on Hacker News: CoreWeave bond yield tops 16% as AI credit stress rises. Points: 188. (Source: Hacker News)",
-          "url": "https://www.cnbc.com/2026/11/06/coreweave-bond-yield-tops-16percent-as-ai-credit-stress-rises.html"
-        },
-        {
-          "title": "A year after the 100% AI mandate nobody understands our code",
-          "summary": "Latest AI discussion on Hacker News: A year after the 100% AI mandate nobody understands our code. Points: 144. (Source: Hacker News)",
-          "url": "https://www.reddit.com/r/ClaudeCode/comments/1xq2n3t/a_year_after_the_100_ai_mandate_nobody/"
-        }
-      ]
-    },
-    {
-      "category": "Enterprise & Agentic AI",
-      "items": [
-        {
-          "title": "Show HN: STE80 Humanizer – de-AI text by writing 80% of the way to ASD-STE100",
-          "summary": "Latest AI discussion on Hacker News: Show HN: STE80 Humanizer – de-AI text by writing 80% of the way to ASD-STE100. Points: 102. (Source: Hacker News)",
-          "url": "https://github.com/Dodaios/ste80-humanizer"
-        },
-        {
-          "title": "Amazon builds its home robot team",
-          "summary": "PLUS: Zipline nearly triples its valuation...",
-          "url": "https://www.therundown.ai/articles/amazon-builds-its-home-robot-team"
-        },
-        {
-          "title": "Foldable Flight: The Best Paper Airplanes",
-          "summary": "Latest AI discussion on Hacker News: Foldable Flight: The Best Paper Airplanes. Points: 1156. (Source: Hacker News)",
-          "url": "https://www.foldableflight.com"
-        },
-        {
-          "title": "Jensen Huang admits affair amid spy claims",
-          "summary": "PLUS: Turn your X bookmarks into a personal research desk...",
-          "url": "https://www.therundown.ai/articles/jensen-huang-admits-affair-amid-spy-claims"
-        },
-        {
-          "title": "Apple capped engineers at a $200 daily AI budget",
-          "summary": "Latest AI discussion on Hacker News: Apple capped engineers at a $200 daily AI budget. Points: 113. (Source: Hacker News)",
-          "url": "https://www.stork.ai/newsletter/2026-11-08-apple-capped-engineers-at-a-200-daily-ai-budget"
         }
       ]
     },
