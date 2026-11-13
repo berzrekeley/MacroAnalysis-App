@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "November 12, 2026",
+  "lastUpdated": "November 13, 2026",
   "executiveSummary": [
-    "As of November 12, 2026, the U.S. macroeconomic environment is navigating a complex period of high interest rates and shifting labor market dynamics. With the Fed Funds Rate holding at 3.88% and CPI inflation tracking at NaN%, the central bank continues its \"higher-for-longer\" stance to anchor inflation expectations. Recent headlines such as \"Retirement contribution limits will rise in 2019\" suggest that market participants remain hypersensitive to every data print, particularly around corporate earnings and consumer spending resilience.",
+    "As of November 13, 2026, the U.S. macroeconomic environment is navigating a complex period of high interest rates and shifting labor market dynamics. With the Fed Funds Rate holding at 3.88% and CPI inflation tracking at NaN%, the central bank continues its \"higher-for-longer\" stance to anchor inflation expectations. Recent headlines such as \"Retirement contribution limits will rise in 2019\" suggest that market participants remain hypersensitive to every data print, particularly around corporate earnings and consumer spending resilience.",
     "The labor market, a key pillar of support, shows 200,000 initial jobless claims, reflecting a relatively stable but cooling employment landscape. Geopolitically, events like \"Geopolitical tensions remain in focus\" introduce exogenous risks that could disrupt global energy supplies and re-ignite inflationary impulses, keeping the Federal Reserve in a defensive posture as they balance growth against price stability. Analysts are closely watching for any signs of a \"hard landing\" as the effects of previous tightening cycles continue to filter through the real economy."
   ],
   "dailyHeadlines": [
@@ -27,19 +27,19 @@
     },
     {
       "title": "10Y - 2Y Spread",
-      "value": "0.25%",
+      "value": "0.24%",
       "status": "Steepening - slower growth",
       "type": "warning"
     },
     {
       "title": "10Y Treasury Rate",
-      "value": "4.88%",
+      "value": "4.98%",
       "status": "High - energy-driven inflation",
       "type": "warning"
     },
     {
       "title": "2Y Treasury Rate",
-      "value": "4.56%",
+      "value": "4.73%",
       "status": "Elevated - higher-for-longer stance",
       "type": "warning"
     },
@@ -287,29 +287,29 @@
       "category": "Frontier Model Race & Breakthroughs",
       "items": [
         {
-          "title": "AI’s biggest CEO may be on his way out",
-          "summary": "PLUS: How to claim and set up your business on ChatGPT...",
-          "url": "https://www.therundown.ai/articles/ai-s-biggest-ceo-may-be-on-his-way-out"
+          "title": "Jonathan Blow – If AI Solved Coding, Why Is My Software Still the Same? [video]",
+          "summary": "Latest AI discussion on Hacker News: Jonathan Blow – If AI Solved Coding, Why Is My Software Still the Same? [video]. Points: 86. (Source: Hacker News)",
+          "url": "https://www.youtube.com/watch?v=IRK8h67ol7Q"
         },
         {
-          "title": "Why Every AI Model Will Ship as a Torrent",
-          "summary": "Latest AI discussion on Hacker News: Why Every AI Model Will Ship as a Torrent. Points: 33. (Source: Hacker News)",
-          "url": "https://pirateface.co/articles/every-ai-model-should-be-a-torrent"
+          "title": "AI Is Destroying the Trust Between Writers and Readers",
+          "summary": "Latest AI discussion on Hacker News: AI Is Destroying the Trust Between Writers and Readers. Points: 191. (Source: Hacker News)",
+          "url": "https://www.theatlantic.com/books/2026/11/ai-literary-scams-amazon/689391/"
         },
         {
-          "title": "United Airlines bans AI agents from booking flights on behalf of travelers",
-          "summary": "Latest AI discussion on Hacker News: United Airlines bans AI agents from booking flights on behalf of travelers. Points: 640. (Source: Hacker News)",
-          "url": "https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/"
+          "title": "Elevated errors on claude.ai, Claude Code, and platform.claude.com",
+          "summary": "Latest AI discussion on Hacker News: Elevated errors on claude.ai, Claude Code, and platform.claude.com. Points: 432. (Source: Hacker News)",
+          "url": "https://status.claude.com/incidents/nn11wk485zfn"
         },
         {
-          "title": "Retirement Savings Are Fueling the AI Bubble",
-          "summary": "Latest AI discussion on Hacker News: Retirement Savings Are Fueling the AI Bubble. Points: 164. (Source: Hacker News)",
-          "url": "https://lpeproject.org/blog/your-retirement-savings-are-fueling-the-ai-bubble/"
+          "title": "Nvidia enters life without Jensen Huang",
+          "summary": "PLUS: Build a shared tracker in Claude Sheets...",
+          "url": "https://www.therundown.ai/articles/nvidia-enters-life-without-jensen-huang"
         },
         {
-          "title": "Laser-armed AI submarine robots patrol Norwegian salmon farms, killing sea lice",
-          "summary": "Latest AI discussion on Hacker News: Laser-armed AI submarine robots patrol Norwegian salmon farms, killing sea lice. Points: 33. (Source: Hacker News)",
-          "url": "https://www.tomshardware.com/tech-industry/drones/3-500-ai-laser-robots-patrol-norwegian-salmon-farms-killing-sea-lice-parasites-get-zapped-by-high-tech-alternative-to-harsh-chemical-baths"
+          "title": "Why You Should Expect an AI Crash",
+          "summary": "Latest AI discussion on Hacker News: Why You Should Expect an AI Crash. Points: 98. (Source: Hacker News)",
+          "url": "https://www.economist.com/leaders/2026/11/12/why-you-should-expect-an-ai-crash"
         }
       ]
     },
@@ -317,29 +317,29 @@
       "category": "Enterprise & Agentic AI",
       "items": [
         {
-          "title": "AI, activity, and outcomes in software engineering",
-          "summary": "Latest AI discussion on Hacker News: AI, activity, and outcomes in software engineering. Points: 124. (Source: Hacker News)",
-          "url": "https://cabird.com/talks/shipping-faster/"
+          "title": "Edge0-145B: Frontier AI Capabilities on Your Own Computer",
+          "summary": "Latest AI discussion on Hacker News: Edge0-145B: Frontier AI Capabilities on Your Own Computer. Points: 315. (Source: Hacker News)",
+          "url": "https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer"
         },
         {
-          "title": "My AI agents found an unmapped Maya site?",
-          "summary": "Latest AI discussion on Hacker News: My AI agents found an unmapped Maya site?. Points: 1023. (Source: Hacker News)",
-          "url": "https://pietromiotti.com/latest/maya-site"
+          "title": "Reverse engineering my Coway air purifier to ditch the cloud",
+          "summary": "Latest AI discussion on Hacker News: Reverse engineering my Coway air purifier to ditch the cloud. Points: 354. (Source: Hacker News)",
+          "url": "https://scottjg.com/posts/2026-11-11-reverse-engineering-my-coway-air-purifier-to-ditch-the-cloud/"
         },
         {
-          "title": "OpenAI invites brands to set up shop in ChatGPT",
-          "summary": "PLUS: Put your open Chrome tabs to work with AI...",
-          "url": "https://www.therundown.ai/articles/openai-invites-brands-to-set-up-shop-in-chatgpt"
+          "title": "Chinese frontier AI models carry the fingerprint of export-controlled GPUs",
+          "summary": "Latest AI discussion on Hacker News: Chinese frontier AI models carry the fingerprint of export-controlled GPUs. Points: 337. (Source: Hacker News)",
+          "url": "https://unemploymentlabs.com/checkpoint-forensics"
         },
         {
-          "title": "OSS projects banning AI-generated contributions",
-          "summary": "Latest AI discussion on Hacker News: OSS projects banning AI-generated contributions. Points: 64. (Source: Hacker News)",
-          "url": "https://osssaysno.com"
+          "title": "AI is turning Apple's app review process into a nightmare for synth developers",
+          "summary": "Latest AI discussion on Hacker News: AI is turning Apple's app review process into a nightmare for synth developers. Points: 192. (Source: Hacker News)",
+          "url": "https://synthanatomy.com/2026/11/ai-is-turning-apples-app-review-process-into-a-nightmare-for-developers.html"
         },
         {
-          "title": "AI is becoming an information gateway. Audiences still don’t want it making news",
-          "summary": "Latest AI discussion on Hacker News: AI is becoming an information gateway. Audiences still don’t want it making news. Points: 58. (Source: Hacker News)",
-          "url": "https://www.niemanlab.org/2026/11/ai-is-becoming-an-information-gateway-audiences-still-dont-want-it-making-their-news/"
+          "title": "Amazon turns Ring cameras into robots",
+          "summary": "PLUS: SoftBank backs $8.5B German humanoid...",
+          "url": "https://www.therundown.ai/articles/amazon-turns-ring-cameras-into-robots"
         }
       ]
     },
