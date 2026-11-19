@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "November 18, 2026",
+  "lastUpdated": "November 19, 2026",
   "executiveSummary": [
-    "As of November 18, 2026, the U.S. macroeconomic environment is navigating a complex period of high interest rates and shifting labor market dynamics. With the Fed Funds Rate holding at 3.88% and CPI inflation tracking at NaN%, the central bank continues its \"higher-for-longer\" stance to anchor inflation expectations. Recent headlines such as \"Retirement contribution limits will rise in 2019\" suggest that market participants remain hypersensitive to every data print, particularly around corporate earnings and consumer spending resilience.",
-    "The labor market, a key pillar of support, shows 200,000 initial jobless claims, reflecting a relatively stable but cooling employment landscape. Geopolitically, events like \"Geopolitical tensions remain in focus\" introduce exogenous risks that could disrupt global energy supplies and re-ignite inflationary impulses, keeping the Federal Reserve in a defensive posture as they balance growth against price stability. Analysts are closely watching for any signs of a \"hard landing\" as the effects of previous tightening cycles continue to filter through the real economy."
+    "As of November 19, 2026, the U.S. macroeconomic environment is navigating a complex period of high interest rates and shifting labor market dynamics. With the Fed Funds Rate holding at 3.88% and CPI inflation tracking at NaN%, the central bank continues its \"higher-for-longer\" stance to anchor inflation expectations. Recent headlines such as \"Retirement contribution limits will rise in 2019\" suggest that market participants remain hypersensitive to every data print, particularly around corporate earnings and consumer spending resilience.",
+    "The labor market, a key pillar of support, shows 203,000 initial jobless claims, reflecting a relatively stable but cooling employment landscape. Geopolitically, events like \"Geopolitical tensions remain in focus\" introduce exogenous risks that could disrupt global energy supplies and re-ignite inflationary impulses, keeping the Federal Reserve in a defensive posture as they balance growth against price stability. Analysts are closely watching for any signs of a \"hard landing\" as the effects of previous tightening cycles continue to filter through the real economy."
   ],
   "dailyHeadlines": [
     {
@@ -27,19 +27,19 @@
     },
     {
       "title": "10Y - 2Y Spread",
-      "value": "0.30%",
+      "value": "0.27%",
       "status": "Steepening - slower growth",
       "type": "warning"
     },
     {
       "title": "10Y Treasury Rate",
-      "value": "5.12%",
+      "value": "5.10%",
       "status": "High - energy-driven inflation",
       "type": "warning"
     },
     {
       "title": "2Y Treasury Rate",
-      "value": "4.83%",
+      "value": "4.80%",
       "status": "Elevated - higher-for-longer stance",
       "type": "warning"
     },
@@ -69,7 +69,7 @@
     },
     {
       "title": "Initial Jobless Claims",
-      "value": "200,000",
+      "value": "203,000",
       "status": "Stable - primary pillar of support",
       "type": "neutral"
     },
@@ -88,11 +88,18 @@
   ],
   "adpWeeklyData": [
     {
+      "week": "Nov 14",
+      "fullDate": "Nov 14, 2026",
+      "number": 203000,
+      "delta": 1000,
+      "deltaPct": 0.5
+    },
+    {
       "week": "Nov 7",
       "fullDate": "Nov 7, 2026",
-      "number": 200000,
-      "delta": 9000,
-      "deltaPct": 4.71
+      "number": 202000,
+      "delta": 11000,
+      "deltaPct": 5.76
     },
     {
       "week": "Oct 31",
@@ -189,13 +196,6 @@
       "week": "Aug 1",
       "fullDate": "Aug 1, 2026",
       "number": 200000,
-      "delta": 2000,
-      "deltaPct": 1.01
-    },
-    {
-      "week": "Jul 25",
-      "fullDate": "Jul 25, 2026",
-      "number": 198000,
       "delta": 0,
       "deltaPct": 0
     }
@@ -287,29 +287,29 @@
       "category": "Frontier Model Race & Breakthroughs",
       "items": [
         {
-          "title": "\"Anthropic Is Not a Safe AI Company\" – Coalition Challenges Anthropic Safety",
-          "summary": "Latest AI discussion on Hacker News: \"Anthropic Is Not a Safe AI Company\" – Coalition Challenges Anthropic Safety. Points: 107. (Source: Hacker News)",
-          "url": "https://www.businesswire.com/news/home/20261118974464/en/Anthropic-is-Not-a-Safe-AI-Company---Broad-Coalition-of-Scientists-Legal-Scholars-and-Tech-Leaders-Challenge-Anthropics-Safety-Branding-Ahead-of-IPO"
+          "title": "Fuck Your AI Safeguards",
+          "summary": "Latest AI discussion on Hacker News: Fuck Your AI Safeguards. Points: 144. (Source: Hacker News)",
+          "url": "https://ounapuu.ee/posts/2026/11/19/unsafeguards/"
         },
         {
-          "title": "AI agents ask better questions than KPMG accountants in audit trial",
-          "summary": "Latest AI discussion on Hacker News: AI agents ask better questions than KPMG accountants in audit trial. Points: 93. (Source: Hacker News)",
-          "url": "https://europeanbusinessmagazine.com/ai-agents-better-questions-kpmg/"
+          "title": "Pete warden on local AI, open models, voice interfaces, the future of hardware",
+          "summary": "Latest AI discussion on Hacker News: Pete warden on local AI, open models, voice interfaces, the future of hardware. Points: 146. (Source: Hacker News)",
+          "url": "https://thedataexchange.media/pete-warden-moonshine/"
         },
         {
-          "title": "U.S. AirForce is looking for old storage Media (CF or PC cards)",
-          "summary": "Latest AI discussion on Hacker News: U.S. AirForce is looking for old storage Media (CF or PC cards). Points: 82. (Source: Hacker News)",
-          "url": "https://sam.gov/workspace/contract/opp/8948e8601e964c6aba9c801eee16b1be/view"
+          "title": "Google’s shipping spree continues with Neon",
+          "summary": "PLUS: Use AI to rework your LinkedIn profile...",
+          "url": "https://www.therundown.ai/articles/google-shipping-spree-continues-with-neon"
         },
         {
-          "title": "Can Peer Review Survive AI-Generated Text? [pdf]",
-          "summary": "Latest AI discussion on Hacker News: Can Peer Review Survive AI-Generated Text? [pdf]. Points: 60. (Source: Hacker News)",
-          "url": "https://www.sas.upenn.edu/~jesusfv/Peer_Review.pdf"
+          "title": "AI will not make you rich (2025)",
+          "summary": "Latest AI discussion on Hacker News: AI will not make you rich (2025). Points: 105. (Source: Hacker News)",
+          "url": "https://colossus.com/article/ai-will-not-make-you-rich/"
         },
         {
-          "title": "OpenAI’s newest release lands to rough reviews",
-          "summary": "PLUS: Turn a spreadsheet into a data story with AI...",
-          "url": "https://www.therundown.ai/articles/openai-newest-release-lands-to-rough-reviews"
+          "title": "Black high school students sue after AI mistakes Doritos bag for gun",
+          "summary": "Latest AI discussion on Hacker News: Black high school students sue after AI mistakes Doritos bag for gun. Points: 108. (Source: Hacker News)",
+          "url": "https://www.lawyerscommittee.org/lawyers-committee-files-lawsuit-on-behalf-of-black-students-detained-and-searched-due-to-ai-alert-falsely-identifying-a-bag-of-chips-as-a-firearm/"
         }
       ]
     },
@@ -317,29 +317,29 @@
       "category": "Enterprise & Agentic AI",
       "items": [
         {
+          "title": "\"Anthropic Is Not a Safe AI Company\" – Coalition Challenges Anthropic Safety",
+          "summary": "Latest AI discussion on Hacker News: \"Anthropic Is Not a Safe AI Company\" – Coalition Challenges Anthropic Safety. Points: 135. (Source: Hacker News)",
+          "url": "https://www.businesswire.com/news/home/20261118974464/en/Anthropic-is-Not-a-Safe-AI-Company---Broad-Coalition-of-Scientists-Legal-Scholars-and-Tech-Leaders-Challenge-Anthropics-Safety-Branding-Ahead-of-IPO"
+        },
+        {
+          "title": "AI agents ask better questions than KPMG accountants in audit trial",
+          "summary": "Latest AI discussion on Hacker News: AI agents ask better questions than KPMG accountants in audit trial. Points: 478. (Source: Hacker News)",
+          "url": "https://europeanbusinessmagazine.com/ai-agents-better-questions-kpmg/"
+        },
+        {
+          "title": "OpenAI’s newest release lands to rough reviews",
+          "summary": "PLUS: Turn a spreadsheet into a data story with AI...",
+          "url": "https://www.therundown.ai/articles/openai-newest-release-lands-to-rough-reviews"
+        },
+        {
           "title": "AI is killing All About Berlin",
-          "summary": "Latest AI discussion on Hacker News: AI is killing All About Berlin. Points: 705. (Source: Hacker News)",
+          "summary": "Latest AI discussion on Hacker News: AI is killing All About Berlin. Points: 800. (Source: Hacker News)",
           "url": "https://nicolasbouliane.com/blog/death-by-ai"
         },
         {
           "title": "Bank CEOs, NSA Tell Congress That AI-Driven Patches Are Behind Outages",
-          "summary": "Latest AI discussion on Hacker News: Bank CEOs, NSA Tell Congress That AI-Driven Patches Are Behind Outages. Points: 92. (Source: Hacker News)",
+          "summary": "Latest AI discussion on Hacker News: Bank CEOs, NSA Tell Congress That AI-Driven Patches Are Behind Outages. Points: 98. (Source: Hacker News)",
           "url": "https://www.washingtonsun.com/technology/bank-ceos-nsa-tell-congress-ai-driven-patches-behind-outages"
-        },
-        {
-          "title": "Google's AI answers reducing search traffic by 40%",
-          "summary": "Latest AI discussion on Hacker News: Google's AI answers reducing search traffic by 40%. Points: 659. (Source: Hacker News)",
-          "url": "https://revscope.co/blog/search-seo-geo-2026/"
-        },
-        {
-          "title": "Harvard researchers find AI coding agents shifted the bottleneck to code review",
-          "summary": "Latest AI discussion on Hacker News: Harvard researchers find AI coding agents shifted the bottleneck to code review. Points: 301. (Source: Hacker News)",
-          "url": "https://complexdiscovery.com/harvard-researchers-find-ai-coding-agents-shifted-the-bottleneck-to-code-review/"
-        },
-        {
-          "title": "The U.S. has an outage problem",
-          "summary": "PLUS: Instagram’s inbox gets its own app...",
-          "url": "https://www.therundown.ai/articles/the-us-has-an-outage-problem"
         }
       ]
     },
