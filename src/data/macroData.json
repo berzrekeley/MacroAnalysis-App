@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "November 20, 2026",
+  "lastUpdated": "November 21, 2026",
   "executiveSummary": [
-    "As of November 20, 2026, the U.S. macroeconomic environment is navigating a complex period of high interest rates and shifting labor market dynamics. With the Fed Funds Rate holding at 3.88% and CPI inflation tracking at NaN%, the central bank continues its \"higher-for-longer\" stance to anchor inflation expectations. Recent headlines such as \"Retirement contribution limits will rise in 2019\" suggest that market participants remain hypersensitive to every data print, particularly around corporate earnings and consumer spending resilience.",
+    "As of November 21, 2026, the U.S. macroeconomic environment is navigating a complex period of high interest rates and shifting labor market dynamics. With the Fed Funds Rate holding at 3.88% and CPI inflation tracking at NaN%, the central bank continues its \"higher-for-longer\" stance to anchor inflation expectations. Recent headlines such as \"Retirement contribution limits will rise in 2019\" suggest that market participants remain hypersensitive to every data print, particularly around corporate earnings and consumer spending resilience.",
     "The labor market, a key pillar of support, shows 203,000 initial jobless claims, reflecting a relatively stable but cooling employment landscape. Geopolitically, events like \"Geopolitical tensions remain in focus\" introduce exogenous risks that could disrupt global energy supplies and re-ignite inflationary impulses, keeping the Federal Reserve in a defensive posture as they balance growth against price stability. Analysts are closely watching for any signs of a \"hard landing\" as the effects of previous tightening cycles continue to filter through the real economy."
   ],
   "dailyHeadlines": [
@@ -27,19 +27,19 @@
     },
     {
       "title": "10Y - 2Y Spread",
-      "value": "0.28%",
+      "value": "0.29%",
       "status": "Steepening - slower growth",
       "type": "warning"
     },
     {
       "title": "10Y Treasury Rate",
-      "value": "5.07%",
+      "value": "5.04%",
       "status": "High - energy-driven inflation",
       "type": "warning"
     },
     {
       "title": "2Y Treasury Rate",
-      "value": "4.80%",
+      "value": "4.76%",
       "status": "Elevated - higher-for-longer stance",
       "type": "warning"
     },
@@ -287,13 +287,43 @@
       "category": "Frontier Model Race & Breakthroughs",
       "items": [
         {
-          "title": "Global stock markets slump as Anthropic's record IPO fails to stem AI sell-off",
-          "summary": "Latest AI discussion on Hacker News: Global stock markets slump as Anthropic's record IPO fails to stem AI sell-off. Points: 159. (Source: Hacker News)",
+          "title": "ClawDOS – An AI coding agent for DOS",
+          "summary": "Latest AI discussion on Hacker News: ClawDOS – An AI coding agent for DOS. Points: 129. (Source: Hacker News)",
+          "url": "http://ricapar.net/ClawDOS/"
+        },
+        {
+          "title": "Anthropic's IPO Bust Deepens $4T AI Wipeout on Wall Street",
+          "summary": "Latest AI discussion on Hacker News: Anthropic's IPO Bust Deepens $4T AI Wipeout on Wall Street. Points: 62. (Source: Hacker News)",
+          "url": "https://www.wsj.com/finance/stocks/anthropics-ipo-bust-punctuates-4-trillion-ai-wipeout-on-wall-street-f1f1ec90"
+        },
+        {
+          "title": "Google workers tell their employer not to punish schools that don't want AI",
+          "summary": "Latest AI discussion on Hacker News: Google workers tell their employer not to punish schools that don't want AI. Points: 277. (Source: Hacker News)",
+          "url": "https://www.motherjones.com/politics/2026/11/google-alphabet-union-school-ai-protest-gemini-workers-petition/"
+        },
+        {
+          "title": "AI is giving everyone the same advice",
+          "summary": "Latest AI discussion on Hacker News: AI is giving everyone the same advice. Points: 108. (Source: Hacker News)",
+          "url": "https://a90.com/experiments/same-advice/"
+        },
+        {
+          "title": "GTA 6 rakes in $2.4B overnight",
+          "summary": "PLUS: Google’s space data centers find a ride...",
+          "url": "https://www.therundown.ai/articles/gta-6-rakes-in-2-4b-overnight"
+        }
+      ]
+    },
+    {
+      "category": "Enterprise & Agentic AI",
+      "items": [
+        {
+          "title": "Nasdaq erases all 2026 gains as AI sell-off dampens Anthropic’s second day",
+          "summary": "Latest AI discussion on Hacker News: Nasdaq erases all 2026 gains as AI sell-off dampens Anthropic’s second day. Points: 429. (Source: Hacker News)",
           "url": "https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off"
         },
         {
           "title": "Frostbite: A new CPU architecture discovered, designed and verified by AI",
-          "summary": "Latest AI discussion on Hacker News: Frostbite: A new CPU architecture discovered, designed and verified by AI. Points: 489. (Source: Hacker News)",
+          "summary": "Latest AI discussion on Hacker News: Frostbite: A new CPU architecture discovered, designed and verified by AI. Points: 659. (Source: Hacker News)",
           "url": "https://architectlabs.com/blog/frostbite"
         },
         {
@@ -302,44 +332,14 @@
           "url": "https://www.therundown.ai/articles/anthropic-pulls-off-the-biggest-ipo-ever"
         },
         {
-          "title": "Should governments slow frontier AI? Jacob Coxon and Robin Hanson debate [video]",
-          "summary": "Latest AI discussion on Hacker News: Should governments slow frontier AI? Jacob Coxon and Robin Hanson debate [video]. Points: 110. (Source: Hacker News)",
-          "url": "https://www.youtube.com/watch?v=lwfewYL7X0o"
+          "title": "Restricting AI agents in mobile operating systems platforms from capturing data",
+          "summary": "Latest AI discussion on Hacker News: Restricting AI agents in mobile operating systems platforms from capturing data. Points: 560. (Source: Hacker News)",
+          "url": "https://signal.org/blog/protecting-your-privacy/"
         },
         {
-          "title": "Chrome AI features wasting much bandwidth",
-          "summary": "Latest AI discussion on Hacker News: Chrome AI features wasting much bandwidth. Points: 131. (Source: Hacker News)",
-          "url": "https://perishablepress.com/chrome-ai-wasting-much-bandwidth/"
-        }
-      ]
-    },
-    {
-      "category": "Enterprise & Agentic AI",
-      "items": [
-        {
-          "title": "AI isn't replacing your job. It's turning it into low-paid gig work",
-          "summary": "Latest AI discussion on Hacker News: AI isn't replacing your job. It's turning it into low-paid gig work. Points: 142. (Source: Hacker News)",
-          "url": "https://restofworld.org/2026/ai-jobs-skills-gig-work/"
-        },
-        {
-          "title": "Fuck Your AI Safeguards",
-          "summary": "Latest AI discussion on Hacker News: Fuck Your AI Safeguards. Points: 583. (Source: Hacker News)",
-          "url": "https://ounapuu.ee/posts/2026/11/19/unsafeguards/"
-        },
-        {
-          "title": "Pete Warden on local AI, open models, voice interfaces, the future of hardware",
-          "summary": "Latest AI discussion on Hacker News: Pete Warden on local AI, open models, voice interfaces, the future of hardware. Points: 265. (Source: Hacker News)",
-          "url": "https://thedataexchange.media/pete-warden-moonshine/"
-        },
-        {
-          "title": "Waymo shuts down freeway rides everywhere",
-          "summary": "PLUS: Atlas gets a new gig at a chip factory...",
-          "url": "https://www.therundown.ai/articles/waymo-shuts-down-freeway-rides-everywhere"
-        },
-        {
-          "title": "The AI Superintelligence Debate Has Serious Flaws",
-          "summary": "Latest AI discussion on Hacker News: The AI Superintelligence Debate Has Serious Flaws. Points: 104. (Source: Hacker News)",
-          "url": "https://spectrum.ieee.org/ai-superintelligence-debate"
+          "title": "Court: 4th Amendment Disallows Use Of AI-Generated 'Probable Cause'",
+          "summary": "Latest AI discussion on Hacker News: Court: 4th Amendment Disallows Use Of AI-Generated 'Probable Cause'. Points: 69. (Source: Hacker News)",
+          "url": "https://www.techdirt.com/2026/11/19/court-tells-cops-that-the-4th-amendment-doesnt-cover-ai-generated-probable-cause/"
         }
       ]
     },
