@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "November 22, 2026",
+  "lastUpdated": "November 23, 2026",
   "executiveSummary": [
-    "As of November 22, 2026, the U.S. macroeconomic environment is navigating a complex period of high interest rates and shifting labor market dynamics. With the Fed Funds Rate holding at 3.88% and CPI inflation tracking at NaN%, the central bank continues its \"higher-for-longer\" stance to anchor inflation expectations. Recent headlines such as \"Retirement contribution limits will rise in 2019\" suggest that market participants remain hypersensitive to every data print, particularly around corporate earnings and consumer spending resilience.",
+    "As of November 23, 2026, the U.S. macroeconomic environment is navigating a complex period of high interest rates and shifting labor market dynamics. With the Fed Funds Rate holding at 3.88% and CPI inflation tracking at NaN%, the central bank continues its \"higher-for-longer\" stance to anchor inflation expectations. Recent headlines such as \"Retirement contribution limits will rise in 2019\" suggest that market participants remain hypersensitive to every data print, particularly around corporate earnings and consumer spending resilience.",
     "The labor market, a key pillar of support, shows 203,000 initial jobless claims, reflecting a relatively stable but cooling employment landscape. Geopolitically, events like \"Geopolitical tensions remain in focus\" introduce exogenous risks that could disrupt global energy supplies and re-ignite inflationary impulses, keeping the Federal Reserve in a defensive posture as they balance growth against price stability. Analysts are closely watching for any signs of a \"hard landing\" as the effects of previous tightening cycles continue to filter through the real economy."
   ],
   "dailyHeadlines": [
@@ -33,13 +33,13 @@
     },
     {
       "title": "10Y Treasury Rate",
-      "value": "5.04%",
+      "value": "4.92%",
       "status": "High - energy-driven inflation",
       "type": "warning"
     },
     {
       "title": "2Y Treasury Rate",
-      "value": "4.76%",
+      "value": "4.63%",
       "status": "Elevated - higher-for-longer stance",
       "type": "warning"
     },
@@ -287,29 +287,29 @@
       "category": "Frontier Model Race & Breakthroughs",
       "items": [
         {
-          "title": "AI is becoming a disaster for the climate",
-          "summary": "Latest AI discussion on Hacker News: AI is becoming a disaster for the climate. Points: 51. (Source: Hacker News)",
-          "url": "https://www.bloodinthemachine.com/p/ai-is-becoming-a-disaster-for-the"
+          "title": "Amodei reportedly suggested games could pacify masses after AI took their jobs (2015)",
+          "summary": "Latest AI discussion on Hacker News: Amodei reportedly suggested games could pacify masses after AI took their jobs (2015). Points: 72. (Source: Hacker News)",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1039745/dario-amodei-video-games-ai-joblessness"
         },
         {
-          "title": "Muru – AI-assisted Rust server for Python apps by mod_WSGI's creator",
-          "summary": "Latest AI discussion on Hacker News: Muru – AI-assisted Rust server for Python apps by mod_WSGI's creator. Points: 48. (Source: Hacker News)",
-          "url": "https://simonwillison.net/2026/Nov/21/muru/"
+          "title": "Claude helps solve math's biggest open problem",
+          "summary": "PLUS: Test Gemini 4 Neon on finding billing errors...",
+          "url": "https://www.therundown.ai/articles/claude-helps-solve-math-s-biggest-open-problem"
         },
         {
-          "title": "AI Supply Chain Security: What Canary Tokens Found",
-          "summary": "Latest AI discussion on Hacker News: AI Supply Chain Security: What Canary Tokens Found. Points: 91. (Source: Hacker News)",
-          "url": "https://www.dragos.com/blog/ai-supply-chain-security-canary-tokens"
+          "title": "0rwx – A simple model of AI usage, inspired by Unix permissions",
+          "summary": "Latest AI discussion on Hacker News: 0rwx – A simple model of AI usage, inspired by Unix permissions. Points: 69. (Source: Hacker News)",
+          "url": "https://0rwx.com/"
         },
         {
-          "title": "Together.ai: Prompt Leakage for Requests",
-          "summary": "Latest AI discussion on Hacker News: Together.ai: Prompt Leakage for Requests. Points: 42. (Source: Hacker News)",
-          "url": "https://www.together.ai/blog/security-event-prompt-leakage-for-requests-in-june-and-july-of-2026"
+          "title": "A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth",
+          "summary": "Latest AI discussion on Hacker News: A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth. Points: 729. (Source: Hacker News)",
+          "url": "https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth"
         },
         {
-          "title": "Since last year, we asked: \"What if AI solved the Riemann Hypothesis?\"",
-          "summary": "Latest AI discussion on Hacker News: Since last year, we asked: \"What if AI solved the Riemann Hypothesis?\". Points: 44. (Source: Hacker News)",
-          "url": "https://www.youtube.com/watch?v=zqzk43bSdDI"
+          "title": "Harvard CS 2881R AI Safety",
+          "summary": "Latest AI discussion on Hacker News: Harvard CS 2881R AI Safety. Points: 78. (Source: Hacker News)",
+          "url": "https://boazbk.github.io/mltheoryseminar/"
         }
       ]
     },
@@ -317,29 +317,29 @@
       "category": "Enterprise & Agentic AI",
       "items": [
         {
-          "title": "The Mythology of Conscious AI",
-          "summary": "Latest AI discussion on Hacker News: The Mythology of Conscious AI. Points: 131. (Source: Hacker News)",
-          "url": "https://www.noemamag.com/the-mythology-of-conscious-ai/"
+          "title": "AI is becoming a disaster for the climate",
+          "summary": "Latest AI discussion on Hacker News: AI is becoming a disaster for the climate. Points: 134. (Source: Hacker News)",
+          "url": "https://www.bloodinthemachine.com/p/ai-is-becoming-a-disaster-for-the"
         },
         {
-          "title": "Pandex – Official European Law for AI Agents, over MCP",
-          "summary": "Latest AI discussion on Hacker News: Pandex – Official European Law for AI Agents, over MCP. Points: 130. (Source: Hacker News)",
-          "url": "https://www.pandex.io"
+          "title": "Muru – AI-assisted Rust server for Python apps by mod_WSGI's creator",
+          "summary": "Latest AI discussion on Hacker News: Muru – AI-assisted Rust server for Python apps by mod_WSGI's creator. Points: 78. (Source: Hacker News)",
+          "url": "https://simonwillison.net/2026/Nov/21/muru/"
         },
         {
-          "title": "ClawDOS – An AI coding agent for DOS",
-          "summary": "Latest AI discussion on Hacker News: ClawDOS – An AI coding agent for DOS. Points: 167. (Source: Hacker News)",
-          "url": "http://ricapar.net/ClawDOS/"
+          "title": "AI Supply Chain Security: What Canary Tokens Found",
+          "summary": "Latest AI discussion on Hacker News: AI Supply Chain Security: What Canary Tokens Found. Points: 104. (Source: Hacker News)",
+          "url": "https://www.dragos.com/blog/ai-supply-chain-security-canary-tokens"
         },
         {
-          "title": "Leaky AI supply chain is exposing secret user data at an alarming rate",
-          "summary": "Latest AI discussion on Hacker News: Leaky AI supply chain is exposing secret user data at an alarming rate. Points: 60. (Source: Hacker News)",
-          "url": "https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate/"
+          "title": "Together.ai: Prompt Leakage for Requests",
+          "summary": "Latest AI discussion on Hacker News: Together.ai: Prompt Leakage for Requests. Points: 49. (Source: Hacker News)",
+          "url": "https://www.together.ai/blog/security-event-prompt-leakage-for-requests-in-june-and-july-of-2026"
         },
         {
-          "title": "Anthropic's IPO Bust Deepens $4T AI Wipeout on Wall Street",
-          "summary": "Latest AI discussion on Hacker News: Anthropic's IPO Bust Deepens $4T AI Wipeout on Wall Street. Points: 66. (Source: Hacker News)",
-          "url": "https://www.wsj.com/finance/stocks/anthropics-ipo-bust-punctuates-4-trillion-ai-wipeout-on-wall-street-f1f1ec90"
+          "title": "Since last year, we asked: \"What if AI solved the Riemann Hypothesis?\"",
+          "summary": "Latest AI discussion on Hacker News: Since last year, we asked: \"What if AI solved the Riemann Hypothesis?\". Points: 49. (Source: Hacker News)",
+          "url": "https://www.youtube.com/watch?v=zqzk43bSdDI"
         }
       ]
     },
