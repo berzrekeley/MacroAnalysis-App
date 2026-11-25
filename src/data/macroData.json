@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "November 24, 2026",
+  "lastUpdated": "November 25, 2026",
   "executiveSummary": [
-    "As of November 24, 2026, the U.S. macroeconomic environment is navigating a complex period of high interest rates and shifting labor market dynamics. With the Fed Funds Rate holding at 3.88% and CPI inflation tracking at NaN%, the central bank continues its \"higher-for-longer\" stance to anchor inflation expectations. Recent headlines such as \"Retirement contribution limits will rise in 2019\" suggest that market participants remain hypersensitive to every data print, particularly around corporate earnings and consumer spending resilience.",
-    "The labor market, a key pillar of support, shows 203,000 initial jobless claims, reflecting a relatively stable but cooling employment landscape. Geopolitically, events like \"Geopolitical tensions remain in focus\" introduce exogenous risks that could disrupt global energy supplies and re-ignite inflationary impulses, keeping the Federal Reserve in a defensive posture as they balance growth against price stability. Analysts are closely watching for any signs of a \"hard landing\" as the effects of previous tightening cycles continue to filter through the real economy."
+    "As of November 25, 2026, the U.S. macroeconomic environment is navigating a complex period of high interest rates and shifting labor market dynamics. With the Fed Funds Rate holding at 3.88% and CPI inflation tracking at NaN%, the central bank continues its \"higher-for-longer\" stance to anchor inflation expectations. Recent headlines such as \"Retirement contribution limits will rise in 2019\" suggest that market participants remain hypersensitive to every data print, particularly around corporate earnings and consumer spending resilience.",
+    "The labor market, a key pillar of support, shows 189,000 initial jobless claims, reflecting a relatively stable but cooling employment landscape. Geopolitically, events like \"Geopolitical tensions remain in focus\" introduce exogenous risks that could disrupt global energy supplies and re-ignite inflationary impulses, keeping the Federal Reserve in a defensive posture as they balance growth against price stability. Analysts are closely watching for any signs of a \"hard landing\" as the effects of previous tightening cycles continue to filter through the real economy."
   ],
   "dailyHeadlines": [
     {
@@ -27,7 +27,7 @@
     },
     {
       "title": "10Y - 2Y Spread",
-      "value": "0.29%",
+      "value": "0.28%",
       "status": "Steepening - slower growth",
       "type": "warning"
     },
@@ -63,13 +63,13 @@
     },
     {
       "title": "Building Permits",
-      "value": "1.295M",
+      "value": "1.297M",
       "status": "Soft - cooling residential activity",
       "type": "warning"
     },
     {
       "title": "Initial Jobless Claims",
-      "value": "203,000",
+      "value": "189,000",
       "status": "Stable - primary pillar of support",
       "type": "neutral"
     },
@@ -88,11 +88,18 @@
   ],
   "adpWeeklyData": [
     {
+      "week": "Nov 21",
+      "fullDate": "Nov 21, 2026",
+      "number": 189000,
+      "delta": -13000,
+      "deltaPct": -6.44
+    },
+    {
       "week": "Nov 14",
       "fullDate": "Nov 14, 2026",
-      "number": 203000,
-      "delta": 1000,
-      "deltaPct": 0.5
+      "number": 202000,
+      "delta": 0,
+      "deltaPct": 0
     },
     {
       "week": "Nov 7",
@@ -189,13 +196,6 @@
       "week": "Aug 8",
       "fullDate": "Aug 8, 2026",
       "number": 212000,
-      "delta": 12000,
-      "deltaPct": 6
-    },
-    {
-      "week": "Aug 1",
-      "fullDate": "Aug 1, 2026",
-      "number": 200000,
       "delta": 0,
       "deltaPct": 0
     }
@@ -287,29 +287,29 @@
       "category": "Frontier Model Race & Breakthroughs",
       "items": [
         {
-          "title": "Tidal bans AI-generated music",
-          "summary": "Latest AI discussion on Hacker News: Tidal bans AI-generated music. Points: 299. (Source: Hacker News)",
-          "url": "https://variety.com/2026/music/news/tidal-bans-ai-generated-music-1236956924/"
+          "title": "Three xAI founders want AI to predict the future",
+          "summary": "PLUS: How to put Microsoft Copilot to work...",
+          "url": "https://www.therundown.ai/articles/three-xai-founders-want-ai-to-predict-the-future"
         },
         {
-          "title": "Quit Internet Videos Before AI Perfects Them",
-          "summary": "Latest AI discussion on Hacker News: Quit Internet Videos Before AI Perfects Them. Points: 20. (Source: Hacker News)",
-          "url": "https://nomagicpill.substack.com/p/quit-internet-videos-before-ai-perfects"
+          "title": "Marginalia Search, Money, C++, Rust, AI, Stuff",
+          "summary": "Latest AI discussion on Hacker News: Marginalia Search, Money, C++, Rust, AI, Stuff. Points: 208. (Source: Hacker News)",
+          "url": "https://www.marginalia.nu/log/a_141_marginalia_update/"
         },
         {
-          "title": "Jensen Huang returns to Nvidia",
-          "summary": "PLUS: Go beyond the browser with the Claude desktop app...",
-          "url": "https://www.therundown.ai/articles/jensen-huang-returns-to-nvidia"
+          "title": "New York Ban AI Toys for 5 Years",
+          "summary": "Latest AI discussion on Hacker News: New York Ban AI Toys for 5 Years. Points: 34. (Source: Hacker News)",
+          "url": "https://www.governor.ny.gov/news/consumers-begin-their-holiday-shopping-season-governor-hochul-signs-five-year-ban-ai-chatbot"
         },
         {
-          "title": "Jevons Paradox in AI: Cheaper Tokens Won't Pay for Capex",
-          "summary": "Latest AI discussion on Hacker News: Jevons Paradox in AI: Cheaper Tokens Won't Pay for Capex. Points: 77. (Source: Hacker News)",
-          "url": "https://philippdubach.com/posts/cheaper-ai-tokens-wont-pay-for-capex/"
+          "title": "Working with AI",
+          "summary": "Latest AI discussion on Hacker News: Working with AI. Points: 83. (Source: Hacker News)",
+          "url": "https://www.anthropic.com/research/working-with-ai"
         },
         {
-          "title": "Declare is a UI language for you and your AI",
-          "summary": "Latest AI discussion on Hacker News: Declare is a UI language for you and your AI. Points: 100. (Source: Hacker News)",
-          "url": "https://davidtemkin.github.io/declarelang/"
+          "title": "Ask HN: Am I the only one whose AI hype is cooling down a lot?",
+          "summary": "Latest AI discussion on Hacker News: Ask HN: Am I the only one whose AI hype is cooling down a lot?. Points: 32. (Source: Hacker News)",
+          "url": "https://news.ycombinator.com/item?id=50633601"
         }
       ]
     },
@@ -317,29 +317,29 @@
       "category": "Enterprise & Agentic AI",
       "items": [
         {
-          "title": "16-Year-Old Founded an AI Missile Startup. He's Targeting 'Cost per Kill'",
-          "summary": "Latest AI discussion on Hacker News: 16-Year-Old Founded an AI Missile Startup. He's Targeting 'Cost per Kill'. Points: 27. (Source: Hacker News)",
-          "url": "https://www.wired.com/story/henrijs-dandzbergs-polemos-missiles-ai-warfare/"
+          "title": "Compiling web applications into verified operations for AI agents",
+          "summary": "Latest AI discussion on Hacker News: Compiling web applications into verified operations for AI agents. Points: 34. (Source: Hacker News)",
+          "url": "https://protocolis.co/paper/"
         },
         {
-          "title": "Jensen Huang's Apology May Be the Only Correct Use of AI",
-          "summary": "Latest AI discussion on Hacker News: Jensen Huang's Apology May Be the Only Correct Use of AI. Points: 29. (Source: Hacker News)",
-          "url": "https://www.theatlantic.com/newsletters/2026/11/jensen-huang-ai-apology-nvidia/689366/"
+          "title": "Tidal bans AI-generated music",
+          "summary": "Latest AI discussion on Hacker News: Tidal bans AI-generated music. Points: 334. (Source: Hacker News)",
+          "url": "https://variety.com/2026/music/news/tidal-bans-ai-generated-music-1236956924/"
         },
         {
-          "title": "Buckle Up the AI Bubble Is Popping",
-          "summary": "Latest AI discussion on Hacker News: Buckle Up the AI Bubble Is Popping. Points: 33. (Source: Hacker News)",
-          "url": "https://mathbabe.org/2026/11/23/buckle-up-the-ai-bubble-is-popping/"
+          "title": "Cybersecurity gets a $44B merger",
+          "summary": "PLUS: Nothing to launch its AI mystery product...",
+          "url": "https://www.therundown.ai/articles/cybersecurity-gets-a-44b-merger"
         },
         {
-          "title": "Nvidia’s robot king returns",
-          "summary": "PLUS: China's newest humanoid hits $1.6B...",
-          "url": "https://www.therundown.ai/articles/nvidia-robot-king-returns"
+          "title": "Quit Internet Videos Before AI Perfects Them",
+          "summary": "Latest AI discussion on Hacker News: Quit Internet Videos Before AI Perfects Them. Points: 36. (Source: Hacker News)",
+          "url": "https://nomagicpill.substack.com/p/quit-internet-videos-before-ai-perfects"
         },
         {
-          "title": "Amodei reportedly suggested games could pacify masses after AI took their jobs (2015)",
-          "summary": "Latest AI discussion on Hacker News: Amodei reportedly suggested games could pacify masses after AI took their jobs (2015). Points: 77. (Source: Hacker News)",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/1039745/dario-amodei-video-games-ai-joblessness"
+          "title": "Jensen Huang returns to Nvidia",
+          "summary": "PLUS: Go beyond the browser with the Claude desktop app...",
+          "url": "https://www.therundown.ai/articles/jensen-huang-returns-to-nvidia"
         }
       ]
     },
